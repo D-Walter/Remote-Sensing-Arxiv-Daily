@@ -16,7 +16,7 @@ def load_config(config_file: str) -> dict:
         keywords = dict()
         excape_sig = '"'
         quota_sig = ""  # NO-USE
-        or_sig = "OR"
+        or_sig = " OR "
 
         def parse_filters(filters: list):
             ret = ""
