@@ -101,22 +101,18 @@ def get_daily_papers(topic, query="slam", max_results=2, interesting_keywords:di
 
         try:
             # source code link
-            repo_url = None
-            
-            content[paper_key] = "|**{}**|**[{}]{}{}**|{} et.al.|{}|\n".format(
+            content[paper_key] = "|**{}**|**[{}]{}**|{} et.al.|{}|\n".format(
                 update_time, 
                 f"[{paper_id}]({paper_url})",
-                "[code-na]" if repo_url is None else f"[**[code]({repo_url})**]",
                 paper_title, 
                 paper_first_author,
                 ", ".join(activated_keywords) if len(activated_keywords) > 0 else ""
                 )
-            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: {}{}".format(
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: {}".format(
                 update_time, 
                 paper_title, 
                 paper_first_author, 
-                f"[{paper_url}]({paper_url})", 
-                "" if repo_url is None else  f", Code: **[{repo_url}]({repo_url})**"
+                f"[{paper_url}]({paper_url})"
                 )
 
             # TODO: select useful comments
@@ -138,6 +134,7 @@ def update_paper_links(filename):
     """
     weekly update paper links in json file
     """
+    return
     with open(filename, "r") as f:
         content = f.read()
         if not content:
