@@ -246,10 +246,10 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
             f.write(
-                f"[![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)\n"
+                f"[![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)\n"
             )
             f.write(
-                f"[![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)\n"
+                f"[![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)\n"
             )
 
         if use_title == True:
@@ -303,14 +303,14 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
 
         if show_badge == True:
             # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/D-Walter/mot-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/D-Walter/mot-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/D-Walter/mot-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/D-Walter/mot-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/D-Walter/mot-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/D-Walter/mot-arxiv-daily/issues\n\n"))
+            f.write((f"[contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/issues\n\n"))
     logging.info(f"{task} finished")
 
 

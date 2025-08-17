@@ -3,8 +3,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-[![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
-[![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
+[![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
+[![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
 ## Updated on 2025.08.17
 
 <details>
@@ -31,12 +31,12 @@
 
 <p align=right>(<a href=#Updated-on-20250817>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/D-Walter/mot-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/D-Walter/mot-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/D-Walter/mot-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
+[forks-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
+[stars-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
+[issues-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/issues
 
