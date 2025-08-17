@@ -29,17 +29,6 @@ keywords:
         "Hyper-spectral",
       ]
     interesting_keywords:
-  "MOT":
-    filters:
-      [
-        "MOT",
-        "MTT",
-        "Multiple Object Tracking",
-        "Multiple Target Tracking",
-        "Multi-Object Tracking",
-        "Multi-Target Tracking",
-      ]
-    interesting_keywords:
       TBD: ["Track by detection", "Track-by-detection", "TBD"]
       JDE: ["JDE", "Joint Detection and Embedding"]
       End to end: ["End to end", "End-to-end"]
