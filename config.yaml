@@ -29,10 +29,14 @@ keywords:
         "Hyper-spectral",
       ]
     interesting_keywords:
+      Unmixing: ["Unmixing"]
       Classification: ["Classification"]
       Superresolution: ["Superresolution", "Super-resolution"]
       Denoising: ["Denoising"]
       Pansharpening: ["Pansharpening"]
+      VLM: ["Vision-Language Model", "Vision Language Model", "Vision-Language Models", "Vision Language Models", "VLM"]
+      Object Tracking: ["Object Tracking", "Target Tracking", "Target Detection and Tracking", "Object Detection and Tracking"]
+      Object Detection: ["Object Detection", "Target Detection", "Target Tracking and Detection", "Object Tracking and Detection"]
 
   "Multispectral":
     filters:
@@ -45,3 +49,7 @@ keywords:
       Superresolution: ["Superresolution", "Super-resolution"]
       Denoising: ["Denoising"]
       Pansharpening: ["Pansharpening"]
+      VLM: ["Vision-Language Model", "Vision Language Model", "Vision-Language Models", "Vision Language Models", "VLM"]
+      Object Tracking: ["Object Tracking", "Target Tracking", "Target Detection and Tracking", "Object Detection and Tracking"]
+      Object Detection: ["Object Detection", "Target Detection", "Target Tracking and Detection", "Object Tracking and Detection"]
+
