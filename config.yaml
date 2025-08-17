@@ -29,6 +29,19 @@ keywords:
         "Hyper-spectral",
       ]
     interesting_keywords:
-      TBD: ["Track by detection", "Track-by-detection", "TBD"]
-      JDE: ["JDE", "Joint Detection and Embedding"]
-      End to end: ["End to end", "End-to-end"]
+      Classification: ["Classification"]
+      Superresolution: ["Superresolution", "Super-resolution"]
+      Denoising: ["Denoising"]
+      Pansharpening: ["Pansharpening"]
+
+  "Multispectral":
+    filters:
+      [
+        "Multispectral",
+        "Multi-spectral",
+      ]
+    interesting_keywords:
+      Classification: ["Classification"]
+      Superresolution: ["Superresolution", "Super-resolution"]
+      Denoising: ["Denoising"]
+      Pansharpening: ["Pansharpening"]
