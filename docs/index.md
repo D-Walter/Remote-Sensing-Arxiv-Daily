@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+[![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
+[![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
+## Updated on 2025.08.17
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#Hyperspectral>Hyperspectral</a></li>
+  </ol>
+</details>
+
+## Hyperspectral
+
+| Publish Date | Title | Authors | Method Description |
+|:---------|:-----------------------|:---------|:------|
+|**2025-08-13**|**[[2508.09453v1](http://arxiv.org/abs/2508.09453v1)]HyperKD: Distilling Cross-Spectral Knowledge in Masked Autoencoders via Inverse Domain Shift with Spatial-Aware Masking and Specialized Loss**|Abdul Matin et.al.||
+|**2025-08-11**|**[[2508.08431v1](http://arxiv.org/abs/2508.08431v1)]Preprocessing Algorithm Leveraging Geometric Modeling for Scale Correction in Hyperspectral Images for Improved Unmixing Performance**|Praveen Sumanasekara et.al.||
+|**2025-08-09**|**[[2508.08317v1](http://arxiv.org/abs/2508.08317v1)]Evaluation of State-of-the-Art Deep Learning Techniques for Plant Disease and Pest Detection**|Saptarshi Banerjee et.al.||
+|**2025-08-13**|**[[2508.08291v2](http://arxiv.org/abs/2508.08291v2)]Probabilistic Emissivity Retrieval from Hyperspectral Data via Physics-Guided Variational Inference**|Joshua R. Tempelman et.al.||
+|**2025-08-11**|**[[2508.08183v1](http://arxiv.org/abs/2508.08183v1)]THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening**|Hongkun Jin et.al.||
+|**2025-08-11**|**[[2508.08107v1](http://arxiv.org/abs/2508.08107v1)]Hyperspectral Imaging**|Danfeng Hong et.al.||
+|**2025-08-10**|**[[2508.07250v1](http://arxiv.org/abs/2508.07250v1)]SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**|Fengchao Xiong et.al.||
+|**2025-08-09**|**[[2508.07020v1](http://arxiv.org/abs/2508.07020v1)]TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.||
+|**2025-08-07**|**[[2508.06569v1](http://arxiv.org/abs/2508.06569v1)]Operationalizing Serendipity: Multi-Agent AI Workflows for Enhanced Materials Characterization with Theory-in-the-Loop**|Lance Yao et.al.||
+|**2025-08-08**|**[[2508.05943v1](http://arxiv.org/abs/2508.05943v1)]Spatiotemporal shaping of broadband helical light pulses at relativistic intensities**|Andrew Longman et.al.||
+
+<p align=right>(<a href=#Updated-on-20250817>back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/D-Walter/mot-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/D-Walter/mot-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/D-Walter/mot-arxiv-daily/issues
+
