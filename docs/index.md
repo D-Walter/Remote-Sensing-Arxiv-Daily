@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-08-15**|**[[2508.11301v1](http://arxiv.org/abs/2508.11301v1)]Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.||
+|**2025-08-14**|**[[2508.10962v1](http://arxiv.org/abs/2508.10962v1)]CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.||
 |**2025-08-13**|**[[2508.09453v1](http://arxiv.org/abs/2508.09453v1)]HyperKD: Distilling Cross-Spectral Knowledge in Masked Autoencoders via Inverse Domain Shift with Spatial-Aware Masking and Specialized Loss**|Abdul Matin et.al.|Classification|
 |**2025-08-11**|**[[2508.08431v1](http://arxiv.org/abs/2508.08431v1)]Preprocessing Algorithm Leveraging Geometric Modeling for Scale Correction in Hyperspectral Images for Improved Unmixing Performance**|Praveen Sumanasekara et.al.|Unmixing|
 |**2025-08-09**|**[[2508.08317v1](http://arxiv.org/abs/2508.08317v1)]Evaluation of State-of-the-Art Deep Learning Techniques for Plant Disease and Pest Detection**|Saptarshi Banerjee et.al.||
