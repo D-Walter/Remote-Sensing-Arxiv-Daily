@@ -112,7 +112,7 @@ layout: default
 |**2025-06-05**|**[[2506.05041v1](http://arxiv.org/abs/2506.05041v1)]DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|Superresolution|
 |**2025-06-05**|**[[2506.04631v1](http://arxiv.org/abs/2506.04631v1)]Correlating Superconducting Qubit Performance Losses to Sidewall Near-Field Scattering via Terahertz Nanophotonics**|Richard H. J. Kim et.al.||
 |**2025-06-03**|**[[2506.03311v1](http://arxiv.org/abs/2506.03311v1)]Demystifying Tubal Tensor Algebra**|Haim Avron et.al.||
-|**2025-06-03**|**[[2506.02601v1](http://arxiv.org/abs/2506.02601v1)]Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|Unmixing|
+|**2025-08-18**|**[[2506.02601v2](http://arxiv.org/abs/2506.02601v2)]Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|Unmixing|
 |**2025-06-03**|**[[2506.02364v1](http://arxiv.org/abs/2506.02364v1)]A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|Denoising|
 |**2025-06-01**|**[[2506.01113v1](http://arxiv.org/abs/2506.01113v1)]Analysis of Local Methane Emissions Using Near-Simultaneous Multi-Satellite Observations: Insights from Landfills and Oil-Gas Facilities**|Alvise Ferrari et.al.||
 |**2025-05-30**|**[[2505.24605v1](http://arxiv.org/abs/2505.24605v1)]Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|Superresolution|
@@ -132,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-08-17**|**[[2508.12261v1](http://arxiv.org/abs/2508.12261v1)]Superpixel-informed Continuous Low-Rank Tensor Representation for Multi-Dimensional Data Recovery**|Zhizhou Wang et.al.||
 |**2025-08-14**|**[[2508.10894v1](http://arxiv.org/abs/2508.10894v1)]MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data**|Antoine Labatie et.al.||
 |**2025-08-09**|**[[2508.07020v1](http://arxiv.org/abs/2508.07020v1)]TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.|Classification|
 |**2025-08-09**|**[[2508.06939v1](http://arxiv.org/abs/2508.06939v1)]Intrinsic Explainability of Multimodal Learning for Crop Yield Prediction**|Hiba Najjar et.al.||
