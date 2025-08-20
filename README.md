@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.08.19
+## Updated on 2025.08.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -98,7 +98,7 @@
 |**2025-06-12**|**[[2506.11377v1](http://arxiv.org/abs/2506.11377v1)]Scalable Context-Preserving Model-Aware Deep Clustering for Hyperspectral Images**|Xianlu Li et.al.||
 |**2025-06-12**|**[[2506.11314v1](http://arxiv.org/abs/2506.11314v1)]HyBiomass: Global Hyperspectral Imagery Benchmark Dataset for Evaluating Geospatial Foundation Models in Forest Aboveground Biomass Estimation**|Aaron Banze et.al.|Classification|
 |**2025-06-12**|**[[2506.10489v1](http://arxiv.org/abs/2506.10489v1)]Class-Incremental Learning for Honey Botanical Origin Classification with Hyperspectral Images: A Study with Continual Backpropagation**|Guyang Zhang et.al.|Classification|
-|**2025-06-12**|**[[2506.10459v1](http://arxiv.org/abs/2506.10459v1)]Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance**|Chun Liu et.al.|Classification|
+|**2025-08-19**|**[[2506.10459v2](http://arxiv.org/abs/2506.10459v2)]Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Weighted Intermediate Feature Divergence**|Chun Liu et.al.|Classification|
 |**2025-06-11**|**[[2506.09920v1](http://arxiv.org/abs/2506.09920v1)]Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.||
 |**2025-06-11**|**[[2506.09460v1](http://arxiv.org/abs/2506.09460v1)]Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**|Amirreza Khoshbakht et.al.|Classification|
 |**2025-06-10**|**[[2506.08596v1](http://arxiv.org/abs/2506.08596v1)]Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems**|Guyang Zhang et.al.|Classification|
@@ -108,7 +108,7 @@
 |**2025-06-05**|**[[2506.05041v1](http://arxiv.org/abs/2506.05041v1)]DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|Superresolution|
 |**2025-06-05**|**[[2506.04631v1](http://arxiv.org/abs/2506.04631v1)]Correlating Superconducting Qubit Performance Losses to Sidewall Near-Field Scattering via Terahertz Nanophotonics**|Richard H. J. Kim et.al.||
 |**2025-06-03**|**[[2506.03311v1](http://arxiv.org/abs/2506.03311v1)]Demystifying Tubal Tensor Algebra**|Haim Avron et.al.||
-|**2025-08-18**|**[[2506.02601v2](http://arxiv.org/abs/2506.02601v2)]Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|Unmixing|
+|**2025-08-19**|**[[2506.02601v3](http://arxiv.org/abs/2506.02601v3)]Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|Unmixing|
 |**2025-06-03**|**[[2506.02364v1](http://arxiv.org/abs/2506.02364v1)]A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|Denoising|
 |**2025-06-01**|**[[2506.01113v1](http://arxiv.org/abs/2506.01113v1)]Analysis of Local Methane Emissions Using Near-Simultaneous Multi-Satellite Observations: Insights from Landfills and Oil-Gas Facilities**|Alvise Ferrari et.al.||
 |**2025-05-30**|**[[2505.24605v1](http://arxiv.org/abs/2505.24605v1)]Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|Superresolution|
@@ -122,7 +122,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
 ## Multispectral
 
@@ -147,7 +147,7 @@
 |**2025-07-18**|**[[2507.14013v1](http://arxiv.org/abs/2507.14013v1)]Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.||
 |**2025-07-17**|**[[2507.13339v1](http://arxiv.org/abs/2507.13339v1)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-07-15**|**[[2507.11702v1](http://arxiv.org/abs/2507.11702v1)]Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption**|Hein de Wilde et.al.|Classification|
-|**2025-08-11**|**[[2507.10461v2](http://arxiv.org/abs/2507.10461v2)]RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|Pansharpening|
+|**2025-08-19**|**[[2507.10461v3](http://arxiv.org/abs/2507.10461v3)]RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|Pansharpening|
 |**2025-07-14**|**[[2507.10403v1](http://arxiv.org/abs/2507.10403v1)]Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.||
 |**2025-07-08**|**[[2507.08025v1](http://arxiv.org/abs/2507.08025v1)]3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**|Narges Takhtkeshha et.al.||
 |**2025-07-10**|**[[2507.07585v1](http://arxiv.org/abs/2507.07585v1)]HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia et.al.||
@@ -230,7 +230,7 @@
 |**2025-07-31**|**[[2502.02171v3](http://arxiv.org/abs/2502.02171v3)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
