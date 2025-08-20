@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-08-19**|**[[2508.13907v1](http://arxiv.org/abs/2508.13907v1)]Learning to See Through Flare**|Xiaopeng Peng et.al.||
+|**2025-08-19**|**[[2508.13521v1](http://arxiv.org/abs/2508.13521v1)]AI-Augmented Photon-Trapping Spectrometer-on-a-Chip on Silicon Platform with Extended Near-Infrared Sensitivity**|Ahasan Ahamed et.al.||
 |**2025-08-15**|**[[2508.11301v1](http://arxiv.org/abs/2508.11301v1)]Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.||
 |**2025-08-14**|**[[2508.10962v1](http://arxiv.org/abs/2508.10962v1)]CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.||
 |**2025-08-13**|**[[2508.09453v1](http://arxiv.org/abs/2508.09453v1)]HyperKD: Distilling Cross-Spectral Knowledge in Masked Autoencoders via Inverse Domain Shift with Spatial-Aware Masking and Specialized Loss**|Abdul Matin et.al.|Classification|
