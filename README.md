@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-08-20**|**[[2508.14585v1](http://arxiv.org/abs/2508.14585v1)]Integrated Snapshot Near-infrared Hypersepctral Imaging Framework with Diffractive Optics**|Jingyue Ma et.al.||
+|**2025-08-20**|**[[2508.14573v1](http://arxiv.org/abs/2508.14573v1)]Broadband Near-Infrared Compressive Spectral Imaging System with Reflective Structure**|Yutong Li et.al.||
 |**2025-08-19**|**[[2508.13907v1](http://arxiv.org/abs/2508.13907v1)]Learning to See Through Flare**|Xiaopeng Peng et.al.||
 |**2025-08-19**|**[[2508.13521v1](http://arxiv.org/abs/2508.13521v1)]AI-Augmented Photon-Trapping Spectrometer-on-a-Chip on Silicon Platform with Extended Near-Infrared Sensitivity**|Ahasan Ahamed et.al.||
 |**2025-08-15**|**[[2508.11301v1](http://arxiv.org/abs/2508.11301v1)]Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.||
