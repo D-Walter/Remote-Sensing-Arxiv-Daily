@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.08.20
+## Updated on 2025.08.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -124,13 +124,13 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250821>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
-|**2025-08-17**|**[[2508.12261v1](http://arxiv.org/abs/2508.12261v1)]Superpixel-informed Continuous Low-Rank Tensor Representation for Multi-Dimensional Data Recovery**|Zhizhou Wang et.al.||
+|**2025-08-20**|**[[2508.12261v2](http://arxiv.org/abs/2508.12261v2)]Superpixel-informed Continuous Low-Rank Tensor Representation for Multi-Dimensional Data Recovery**|Zhizhou Wang et.al.||
 |**2025-08-14**|**[[2508.10894v1](http://arxiv.org/abs/2508.10894v1)]MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data**|Antoine Labatie et.al.||
 |**2025-08-09**|**[[2508.07020v1](http://arxiv.org/abs/2508.07020v1)]TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.|Classification|
 |**2025-08-09**|**[[2508.06939v1](http://arxiv.org/abs/2508.06939v1)]Intrinsic Explainability of Multimodal Learning for Crop Yield Prediction**|Hiba Najjar et.al.||
@@ -232,7 +232,7 @@
 |**2025-07-31**|**[[2502.02171v3](http://arxiv.org/abs/2502.02171v3)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
