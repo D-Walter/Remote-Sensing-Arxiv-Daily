@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-08-21**|**[[2508.15553v1](http://arxiv.org/abs/2508.15553v1)]Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising**|Jin Ye et.al.|Denoising|
+|**2025-08-20**|**[[2508.15053v1](http://arxiv.org/abs/2508.15053v1)]Demonstrating Onboard Inference for Earth Science Applications with Spectral Analysis Algorithms and Deep Learning**|Itai Zilberstein et.al.||
 |**2025-08-20**|**[[2508.14585v1](http://arxiv.org/abs/2508.14585v1)]Integrated Snapshot Near-infrared Hypersepctral Imaging Framework with Diffractive Optics**|Jingyue Ma et.al.||
 |**2025-08-20**|**[[2508.14573v1](http://arxiv.org/abs/2508.14573v1)]Broadband Near-Infrared Compressive Spectral Imaging System with Reflective Structure**|Yutong Li et.al.||
 |**2025-08-19**|**[[2508.13907v1](http://arxiv.org/abs/2508.13907v1)]Learning to See Through Flare**|Xiaopeng Peng et.al.||
