@@ -19,12 +19,16 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-08-25**|**[[2508.18219v1](http://arxiv.org/abs/2508.18219v1)]Three-dimensional hyperspectral imaging with optical microcombs**|Stephan Amann et.al.||
+|**2025-08-25**|**[[2508.18075v1](http://arxiv.org/abs/2508.18075v1)]Few-shot Unknown Class Discovery of Hyperspectral Images with Prototype Learning and Clustering**|Chun Liu et.al.|Classification|
+|**2025-08-24**|**[[2508.17316v1](http://arxiv.org/abs/2508.17316v1)]SpecGen: Neural Spectral BRDF Generation via Spectral-Spatial Tri-plane Aggregation**|Zhenyu Jin et.al.||
+|**2025-08-23**|**[[2508.16934v1](http://arxiv.org/abs/2508.16934v1)]Addressing Annotation Scarcity in Hyperspectral Brain Image Segmentation with Unsupervised Domain Adaptation**|Tim Mach et.al.||
 |**2025-08-21**|**[[2508.15553v1](http://arxiv.org/abs/2508.15553v1)]Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising**|Jin Ye et.al.|Denoising|
 |**2025-08-20**|**[[2508.15053v1](http://arxiv.org/abs/2508.15053v1)]Demonstrating Onboard Inference for Earth Science Applications with Spectral Analysis Algorithms and Deep Learning**|Itai Zilberstein et.al.||
 |**2025-08-20**|**[[2508.14585v1](http://arxiv.org/abs/2508.14585v1)]Integrated Snapshot Near-infrared Hypersepctral Imaging Framework with Diffractive Optics**|Jingyue Ma et.al.||
 |**2025-08-20**|**[[2508.14573v1](http://arxiv.org/abs/2508.14573v1)]Broadband Near-Infrared Compressive Spectral Imaging System with Reflective Structure**|Yutong Li et.al.||
 |**2025-08-19**|**[[2508.13907v1](http://arxiv.org/abs/2508.13907v1)]Learning to See Through Flare**|Xiaopeng Peng et.al.||
-|**2025-08-19**|**[[2508.13521v1](http://arxiv.org/abs/2508.13521v1)]AI-Augmented Photon-Trapping Spectrometer-on-a-Chip on Silicon Platform with Extended Near-Infrared Sensitivity**|Ahasan Ahamed et.al.||
+|**2025-08-24**|**[[2508.13521v2](http://arxiv.org/abs/2508.13521v2)]AI-Augmented Photon-Trapping Spectrometer-on-a-Chip on Silicon Platform with Extended Near-Infrared Sensitivity**|Ahasan Ahamed et.al.||
 |**2025-08-15**|**[[2508.11301v1](http://arxiv.org/abs/2508.11301v1)]Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.||
 |**2025-08-14**|**[[2508.10962v1](http://arxiv.org/abs/2508.10962v1)]CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.||
 |**2025-08-13**|**[[2508.09453v1](http://arxiv.org/abs/2508.09453v1)]HyperKD: Distilling Cross-Spectral Knowledge in Masked Autoencoders via Inverse Domain Shift with Spatial-Aware Masking and Specialized Loss**|Abdul Matin et.al.|Classification|
