@@ -23,6 +23,10 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-08-27**|**[[2508.19970v1](http://arxiv.org/abs/2508.19970v1)]Hyper-spectral Imaging with Up-Converted Mid-Infrared Single-Photons**|Yijian Meng et.al.||
+|**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
+|**2025-08-27**|**[[2508.19798v1](http://arxiv.org/abs/2508.19798v1)]FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization**|Muhammad Ali et.al.||
+|**2025-08-27**|**[[2508.19693v1](http://arxiv.org/abs/2508.19693v1)]Testing a Computed Tomography Imaging Spectrometer for Earth Observations on the HEIMDAL Stratospheric Balloon Mission**|Mads Juul Ahlebæk et.al.|Classification|
 |**2025-08-25**|**[[2508.18219v1](http://arxiv.org/abs/2508.18219v1)]Three-dimensional hyperspectral imaging with optical microcombs**|Stephan Amann et.al.||
 |**2025-08-25**|**[[2508.18075v1](http://arxiv.org/abs/2508.18075v1)]Few-shot Unknown Class Discovery of Hyperspectral Images with Prototype Learning and Clustering**|Chun Liu et.al.|Classification|
 |**2025-08-24**|**[[2508.17316v1](http://arxiv.org/abs/2508.17316v1)]SpecGen: Neural Spectral BRDF Generation via Spectral-Spatial Tri-plane Aggregation**|Zhenyu Jin et.al.||
@@ -142,6 +146,9 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
+|**2025-08-27**|**[[2508.19881v1](http://arxiv.org/abs/2508.19881v1)]Multispectral LiDAR data for extracting tree points in urban and suburban areas**|Narges Takhtkeshha et.al.||
+|**2025-08-27**|**[[2508.19798v1](http://arxiv.org/abs/2508.19798v1)]FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization**|Muhammad Ali et.al.||
 |**2025-08-20**|**[[2508.12261v2](http://arxiv.org/abs/2508.12261v2)]Superpixel-informed Continuous Low-Rank Tensor Representation for Multi-Dimensional Data Recovery**|Zhizhou Wang et.al.||
 |**2025-08-14**|**[[2508.10894v1](http://arxiv.org/abs/2508.10894v1)]MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data**|Antoine Labatie et.al.||
 |**2025-08-09**|**[[2508.07020v1](http://arxiv.org/abs/2508.07020v1)]TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.|Classification|
