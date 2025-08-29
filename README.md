@@ -142,6 +142,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-08-28**|**[[2508.20566v1](http://arxiv.org/abs/2508.20566v1)]Physics-informed neural network enhanced multispectral single-pixel imaging with a chip spectral sensor**|Muchen Zhu et.al.||
 |**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
 |**2025-08-27**|**[[2508.19881v1](http://arxiv.org/abs/2508.19881v1)]Multispectral LiDAR data for extracting tree points in urban and suburban areas**|Narges Takhtkeshha et.al.||
 |**2025-08-27**|**[[2508.19798v1](http://arxiv.org/abs/2508.19798v1)]FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization**|Muhammad Ali et.al.||
