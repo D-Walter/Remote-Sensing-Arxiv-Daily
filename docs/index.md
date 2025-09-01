@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-08-29**|**[[2508.21618v1](http://arxiv.org/abs/2508.21618v1)]Physics-Informed Spectral Modeling for Hyperspectral Imaging**|Zuzanna Gawrysiak et.al.|Classification|
 |**2025-08-27**|**[[2508.19970v1](http://arxiv.org/abs/2508.19970v1)]Hyper-spectral Imaging with Up-Converted Mid-Infrared Single-Photons**|Yijian Meng et.al.||
 |**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
 |**2025-08-27**|**[[2508.19798v1](http://arxiv.org/abs/2508.19798v1)]FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization**|Muhammad Ali et.al.||
