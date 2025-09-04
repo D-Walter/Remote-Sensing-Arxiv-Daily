@@ -19,6 +19,17 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-03**|**[[2509.03497v1](http://arxiv.org/abs/2509.03497v1)]Invariant Features for Global Crop Type Classification**|Xin-Yi Tong et.al.|Classification|
+|**2025-09-03**|**[[2509.03376v1](http://arxiv.org/abs/2509.03376v1)]Transformer-Guided Content-Adaptive Graph Learning for Hyperspectral Unmixing**|Hui Chen et.al.|Unmixing|
+|**2025-09-02**|**[[2509.02477v1](http://arxiv.org/abs/2509.02477v1)]HyDeFuse: Provably Convergent Denoiser-Driven Hyperspectral Fusion**|Sagar Kumar et.al.||
+|**2025-09-02**|**[[2509.02340v1](http://arxiv.org/abs/2509.02340v1)]Explainability-Driven Dimensionality Reduction for Hyperspectral Imaging**|Salma Haidar et.al.|Classification|
+|**2025-09-02**|**[[2509.02265v1](http://arxiv.org/abs/2509.02265v1)]Optical Spectroscopic Imaging for Early Detection of Salinity Stress in Plants: A Review**|Ramji Gupta et.al.||
+|**2025-09-02**|**[[2509.01990v1](http://arxiv.org/abs/2509.01990v1)]The radial variation of the silicate-to-carbon ratio in M31 probed by PRIMA**|Jérémy Chastenet et.al.||
+|**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
+|**2025-09-01**|**[[2509.01727v1](http://arxiv.org/abs/2509.01727v1)]PRIMA: PRIMAger, a far-infrared hyperspectral and polarimetric instrument**|Laure Ciesla et.al.||
+|**2025-09-01**|**[[2509.01146v1](http://arxiv.org/abs/2509.01146v1)]Plasmon-enhanced Hyperspectral Imaging**|Kristian Caracciolo et.al.||
+|**2025-08-30**|**[[2509.00626v1](http://arxiv.org/abs/2509.00626v1)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
+|**2025-08-30**|**[[2509.00356v1](http://arxiv.org/abs/2509.00356v1)]Iterative Low-rank Network for Hyperspectral Image Denoising**|Jin Ye et.al.|Denoising|
 |**2025-08-29**|**[[2508.21618v1](http://arxiv.org/abs/2508.21618v1)]Physics-Informed Spectral Modeling for Hyperspectral Imaging**|Zuzanna Gawrysiak et.al.|Classification|
 |**2025-08-27**|**[[2508.19970v1](http://arxiv.org/abs/2508.19970v1)]Hyper-spectral Imaging with Up-Converted Mid-Infrared Single-Photons**|Yijian Meng et.al.||
 |**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
@@ -143,6 +154,11 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-02**|**[[2509.02477v1](http://arxiv.org/abs/2509.02477v1)]HyDeFuse: Provably Convergent Denoiser-Driven Hyperspectral Fusion**|Sagar Kumar et.al.||
+|**2025-09-02**|**[[2509.02451v1](http://arxiv.org/abs/2509.02451v1)]RiverScope: High-Resolution River Masking Dataset**|Rangel Daroya et.al.||
+|**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
+|**2025-09-01**|**[[2509.01691v1](http://arxiv.org/abs/2509.01691v1)]Examination of PCA Utilisation for Multilabel Classifier of Multispectral Images**|Filip Karpowicz et.al.|Classification|
+|**2025-09-01**|**[[2509.01070v1](http://arxiv.org/abs/2509.01070v1)]BSNeRF: Broadband Spectral Neural Radiance Fields for Snapshot Multispectral Light-field Imaging**|Erqi Huang et.al.||
 |**2025-08-28**|**[[2508.20566v1](http://arxiv.org/abs/2508.20566v1)]Physics-informed neural network enhanced multispectral single-pixel imaging with a chip spectral sensor**|Muchen Zhu et.al.||
 |**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
 |**2025-08-27**|**[[2508.19881v1](http://arxiv.org/abs/2508.19881v1)]Multispectral LiDAR data for extracting tree points in urban and suburban areas**|Narges Takhtkeshha et.al.||
