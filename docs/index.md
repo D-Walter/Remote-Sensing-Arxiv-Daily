@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-03**|**[[2509.03561v1](http://arxiv.org/abs/2509.03561v1)]Quantum-Assisted Correlation Clustering**|Antonio Macaluso et.al.||
 |**2025-09-04**|**[[2509.03497v2](http://arxiv.org/abs/2509.03497v2)]Invariant Features for Global Crop Type Classification**|Xin-Yi Tong et.al.|Classification|
 |**2025-09-03**|**[[2509.03376v1](http://arxiv.org/abs/2509.03376v1)]Transformer-Guided Content-Adaptive Graph Learning for Hyperspectral Unmixing**|Hui Chen et.al.|Unmixing|
 |**2025-09-02**|**[[2509.02477v1](http://arxiv.org/abs/2509.02477v1)]HyDeFuse: Provably Convergent Denoiser-Driven Hyperspectral Fusion**|Sagar Kumar et.al.||
@@ -158,6 +159,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-04**|**[[2509.04156v1](http://arxiv.org/abs/2509.04156v1)]YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al.||
 |**2025-09-02**|**[[2509.02477v1](http://arxiv.org/abs/2509.02477v1)]HyDeFuse: Provably Convergent Denoiser-Driven Hyperspectral Fusion**|Sagar Kumar et.al.||
 |**2025-09-02**|**[[2509.02451v1](http://arxiv.org/abs/2509.02451v1)]RiverScope: High-Resolution River Masking Dataset**|Rangel Daroya et.al.||
 |**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
