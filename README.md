@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-05**|**[[2509.04775v1](http://arxiv.org/abs/2509.04775v1)]Comparative Evaluation of Traditional and Deep Learning Feature Matching Algorithms using Chandrayaan-2 Lunar Data**|R. Makharia et.al.||
+|**2025-09-04**|**[[2509.04678v1](http://arxiv.org/abs/2509.04678v1)]PRIMA survey of the Virgo cluster**|Jacopo Fritz et.al.||
 |**2025-09-03**|**[[2509.03561v1](http://arxiv.org/abs/2509.03561v1)]Quantum-Assisted Correlation Clustering**|Antonio Macaluso et.al.||
 |**2025-09-04**|**[[2509.03497v2](http://arxiv.org/abs/2509.03497v2)]Invariant Features for Global Crop Type Classification**|Xin-Yi Tong et.al.|Classification|
 |**2025-09-03**|**[[2509.03376v1](http://arxiv.org/abs/2509.03376v1)]Transformer-Guided Content-Adaptive Graph Learning for Hyperspectral Unmixing**|Hui Chen et.al.|Unmixing|
