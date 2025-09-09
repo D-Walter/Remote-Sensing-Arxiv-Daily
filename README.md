@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-08**|**[[2509.06577v1](http://arxiv.org/abs/2509.06577v1)]Approximating Condorcet Ordering for Vector-valued Mathematical Morphology**|Marcos Eduardo Valle et.al.||
+|**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
+|**2025-09-06**|**[[2509.05630v1](http://arxiv.org/abs/2509.05630v1)]Self-supervised Learning for Hyperspectral Images of Trees**|Moqsadur Rahman et.al.||
 |**2025-09-05**|**[[2509.04775v1](http://arxiv.org/abs/2509.04775v1)]Comparative Evaluation of Traditional and Deep Learning Feature Matching Algorithms using Chandrayaan-2 Lunar Data**|R. Makharia et.al.||
 |**2025-09-04**|**[[2509.04678v1](http://arxiv.org/abs/2509.04678v1)]PRIMA survey of the Virgo cluster**|Jacopo Fritz et.al.||
 |**2025-09-03**|**[[2509.03561v1](http://arxiv.org/abs/2509.03561v1)]Quantum-Assisted Correlation Clustering**|Antonio Macaluso et.al.||
@@ -157,6 +160,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
+|**2025-09-08**|**[[2509.06625v1](http://arxiv.org/abs/2509.06625v1)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
+|**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
+|**2025-09-06**|**[[2509.05630v1](http://arxiv.org/abs/2509.05630v1)]Self-supervised Learning for Hyperspectral Images of Trees**|Moqsadur Rahman et.al.||
 |**2025-09-04**|**[[2509.04156v1](http://arxiv.org/abs/2509.04156v1)]YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al.||
 |**2025-09-02**|**[[2509.02477v1](http://arxiv.org/abs/2509.02477v1)]HyDeFuse: Provably Convergent Denoiser-Driven Hyperspectral Fusion**|Sagar Kumar et.al.||
 |**2025-09-02**|**[[2509.02451v1](http://arxiv.org/abs/2509.02451v1)]RiverScope: High-Resolution River Masking Dataset**|Rangel Daroya et.al.||
@@ -223,7 +230,7 @@
 |**2025-05-12**|**[[2505.07444v1](http://arxiv.org/abs/2505.07444v1)]Lightweight Multispectral Crop-Weed Segmentation for Precision Agriculture**|Zeynep Galymzhankyzy et.al.||
 |**2025-05-16**|**[[2505.06576v2](http://arxiv.org/abs/2505.06576v2)]Two-Stage Random Alternation Framework for One-Shot Pansharpening**|Haorui Chen et.al.|Pansharpening|
 |**2025-05-02**|**[[2505.01558v1](http://arxiv.org/abs/2505.01558v1)]A Sensor Agnostic Domain Generalization Framework for Leveraging Geospatial Foundation Models: Enhancing Semantic Segmentation viaSynergistic Pseudo-Labeling and Generative Learning**|Anan Yaghmour et.al.||
-|**2025-05-02**|**[[2505.01388v1](http://arxiv.org/abs/2505.01388v1)]Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes**|Wallace Peaslee et.al.||
+|**2025-09-08**|**[[2505.01388v2](http://arxiv.org/abs/2505.01388v2)]Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes**|Wallace Peaslee et.al.||
 |**2025-06-18**|**[[2504.20853v2](http://arxiv.org/abs/2504.20853v2)]Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.||
 |**2025-06-04**|**[[2504.19223v2](http://arxiv.org/abs/2504.19223v2)]CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.||
 |**2025-04-23**|**[[2504.16851v1](http://arxiv.org/abs/2504.16851v1)]Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space**|Ruben Gonzalez Avilés et.al.||
