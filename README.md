@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-03**|**[[2509.06993v1](http://arxiv.org/abs/2509.06993v1)]Geospatial Foundational Embedder: Top-1 Winning Solution on EarthVision Embed2Scale Challenge (CVPR 2025)**|Zirui Xu et.al.|Classification|
 |**2025-09-08**|**[[2509.06577v1](http://arxiv.org/abs/2509.06577v1)]Approximating Condorcet Ordering for Vector-valued Mathematical Morphology**|Marcos Eduardo Valle et.al.||
 |**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
 |**2025-09-06**|**[[2509.05630v1](http://arxiv.org/abs/2509.05630v1)]Self-supervised Learning for Hyperspectral Images of Trees**|Moqsadur Rahman et.al.||
@@ -160,6 +161,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-09**|**[[2509.07327v1](http://arxiv.org/abs/2509.07327v1)]DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|Object Detection|
 |**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
 |**2025-09-08**|**[[2509.06625v1](http://arxiv.org/abs/2509.06625v1)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
 |**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
