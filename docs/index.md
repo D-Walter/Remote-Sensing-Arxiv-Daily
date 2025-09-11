@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-10**|**[[2509.08436v1](http://arxiv.org/abs/2509.08436v1)]Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|Classification|
+|**2025-09-10**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
 |**2025-09-03**|**[[2509.06993v1](http://arxiv.org/abs/2509.06993v1)]Geospatial Foundational Embedder: Top-1 Winning Solution on EarthVision Embed2Scale Challenge (CVPR 2025)**|Zirui Xu et.al.|Classification|
 |**2025-09-08**|**[[2509.06577v1](http://arxiv.org/abs/2509.06577v1)]Approximating Condorcet Ordering for Vector-valued Mathematical Morphology**|Marcos Eduardo Valle et.al.||
 |**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
@@ -165,6 +167,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
 |**2025-09-09**|**[[2509.07327v1](http://arxiv.org/abs/2509.07327v1)]DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|Object Detection|
 |**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
 |**2025-09-08**|**[[2509.06625v1](http://arxiv.org/abs/2509.06625v1)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
