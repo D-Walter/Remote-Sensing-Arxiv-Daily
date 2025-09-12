@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-11**|**[[2509.09163v1](http://arxiv.org/abs/2509.09163v1)]CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|Classification|
 |**2025-09-10**|**[[2509.08436v1](http://arxiv.org/abs/2509.08436v1)]Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|Classification|
 |**2025-09-10**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
 |**2025-09-03**|**[[2509.06993v1](http://arxiv.org/abs/2509.06993v1)]Geospatial Foundational Embedder: Top-1 Winning Solution on EarthVision Embed2Scale Challenge (CVPR 2025)**|Zirui Xu et.al.|Classification|
@@ -61,7 +62,7 @@ layout: default
 |**2025-08-15**|**[[2508.11301v1](http://arxiv.org/abs/2508.11301v1)]Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.||
 |**2025-08-14**|**[[2508.10962v1](http://arxiv.org/abs/2508.10962v1)]CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.||
 |**2025-08-13**|**[[2508.09453v1](http://arxiv.org/abs/2508.09453v1)]HyperKD: Distilling Cross-Spectral Knowledge in Masked Autoencoders via Inverse Domain Shift with Spatial-Aware Masking and Specialized Loss**|Abdul Matin et.al.|Classification|
-|**2025-08-11**|**[[2508.08431v1](http://arxiv.org/abs/2508.08431v1)]Preprocessing Algorithm Leveraging Geometric Modeling for Scale Correction in Hyperspectral Images for Improved Unmixing Performance**|Praveen Sumanasekara et.al.|Unmixing|
+|**2025-09-11**|**[[2508.08431v2](http://arxiv.org/abs/2508.08431v2)]Preprocessing Algorithm Leveraging Geometric Modeling for Scale Correction in Hyperspectral Images for Improved Unmixing Performance**|Praveen Sumanasekara et.al.|Unmixing|
 |**2025-08-09**|**[[2508.08317v1](http://arxiv.org/abs/2508.08317v1)]Evaluation of State-of-the-Art Deep Learning Techniques for Plant Disease and Pest Detection**|Saptarshi Banerjee et.al.||
 |**2025-08-13**|**[[2508.08291v2](http://arxiv.org/abs/2508.08291v2)]Probabilistic Emissivity Retrieval from Hyperspectral Data via Physics-Guided Variational Inference**|Joshua R. Tempelman et.al.||
 |**2025-08-11**|**[[2508.08183v1](http://arxiv.org/abs/2508.08183v1)]THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening**|Hongkun Jin et.al.|Pansharpening|
@@ -167,6 +168,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-11**|**[[2509.09085v1](http://arxiv.org/abs/2509.09085v1)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
 |**2025-09-09**|**[[2509.07327v1](http://arxiv.org/abs/2509.07327v1)]DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|Object Detection|
 |**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
