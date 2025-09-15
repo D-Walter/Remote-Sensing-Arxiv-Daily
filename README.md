@@ -164,6 +164,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
 |**2025-09-11**|**[[2509.09085v1](http://arxiv.org/abs/2509.09085v1)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
 |**2025-09-09**|**[[2509.07327v1](http://arxiv.org/abs/2509.07327v1)]DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|Object Detection|
