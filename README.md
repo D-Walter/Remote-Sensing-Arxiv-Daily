@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-15**|**[[2509.12082v1](http://arxiv.org/abs/2509.12082v1)]YOLO-CIANNA: Galaxy detection with deep learning in radio data: II. Winning the SKA SDC2 using a generalized 3D-YOLO network**|D. Cornu et.al.||
+|**2025-09-15**|**[[2509.12079v1](http://arxiv.org/abs/2509.12079v1)]Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.||
+|**2025-09-14**|**[[2509.11096v1](http://arxiv.org/abs/2509.11096v1)]A Copula-Guided Temporal Dependency Method for Multitemporal Hyperspectral Images Unmixing**|Ruiying Li et.al.|Unmixing|
+|**2025-09-14**|**[[2509.11093v1](http://arxiv.org/abs/2509.11093v1)]SMILE: A Super-resolution Guided Multi-task Learning Method for Hyperspectral Unmixing**|Ruiying Li et.al.|Unmixing, Superresolution|
+|**2025-09-12**|**[[2509.10651v1](http://arxiv.org/abs/2509.10651v1)]USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.||
 |**2025-09-11**|**[[2509.09163v1](http://arxiv.org/abs/2509.09163v1)]CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|Classification|
 |**2025-09-10**|**[[2509.08436v1](http://arxiv.org/abs/2509.08436v1)]Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|Classification|
 |**2025-09-10**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
@@ -164,12 +169,14 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-15**|**[[2509.11614v1](http://arxiv.org/abs/2509.11614v1)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
+|**2025-09-14**|**[[2509.11169v1](http://arxiv.org/abs/2509.11169v1)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
 |**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
-|**2025-09-11**|**[[2509.09085v1](http://arxiv.org/abs/2509.09085v1)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
+|**2025-09-15**|**[[2509.09085v2](http://arxiv.org/abs/2509.09085v2)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
 |**2025-09-09**|**[[2509.07327v1](http://arxiv.org/abs/2509.07327v1)]DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|Object Detection|
 |**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
-|**2025-09-08**|**[[2509.06625v1](http://arxiv.org/abs/2509.06625v1)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
+|**2025-09-14**|**[[2509.06625v2](http://arxiv.org/abs/2509.06625v2)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
 |**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
 |**2025-09-06**|**[[2509.05630v1](http://arxiv.org/abs/2509.05630v1)]Self-supervised Learning for Hyperspectral Images of Trees**|Moqsadur Rahman et.al.||
 |**2025-09-04**|**[[2509.04156v1](http://arxiv.org/abs/2509.04156v1)]YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al.||
