@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -167,13 +167,13 @@ layout: default
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250917>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
-|**2025-09-15**|**[[2509.11614v1](http://arxiv.org/abs/2509.11614v1)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
+|**2025-09-16**|**[[2509.11614v2](http://arxiv.org/abs/2509.11614v2)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
 |**2025-09-14**|**[[2509.11169v1](http://arxiv.org/abs/2509.11169v1)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
 |**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
 |**2025-09-15**|**[[2509.09085v2](http://arxiv.org/abs/2509.09085v2)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
@@ -225,7 +225,7 @@ layout: default
 |**2025-06-25**|**[[2506.20179v1](http://arxiv.org/abs/2506.20179v1)]Progressive Alignment Degradation Learning for Pansharpening**|Enzhe Zhao et.al.|Pansharpening|
 |**2025-06-24**|**[[2506.19591v1](http://arxiv.org/abs/2506.19591v1)]Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.||
 |**2025-06-18**|**[[2506.14696v2](http://arxiv.org/abs/2506.14696v2)]YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|Object Detection|
-|**2025-06-16**|**[[2506.13733v1](http://arxiv.org/abs/2506.13733v1)]Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.||
+|**2025-09-15**|**[[2506.13733v2](http://arxiv.org/abs/2506.13733v2)]Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.||
 |**2025-06-13**|**[[2506.11764v1](http://arxiv.org/abs/2506.11764v1)]DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|Superresolution, Pansharpening|
 |**2025-06-10**|**[[2506.08613v1](http://arxiv.org/abs/2506.08613v1)]SAMSelect: A Spectral Index Search for Marine Debris Visualization using Segment Anything**|Joost van Dalen et.al.|Classification|
 |**2025-07-16**|**[[2506.06852v2](http://arxiv.org/abs/2506.06852v2)]Position Prediction Self-Supervised Learning for Multimodal Satellite Imagery Semantic Segmentation**|John Waithaka et.al.||
@@ -295,7 +295,7 @@ layout: default
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
