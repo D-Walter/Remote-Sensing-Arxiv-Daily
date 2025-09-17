@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-16**|**[[2509.13229v1](http://arxiv.org/abs/2509.13229v1)]Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|Classification|
 |**2025-09-15**|**[[2509.12082v1](http://arxiv.org/abs/2509.12082v1)]YOLO-CIANNA: Galaxy detection with deep learning in radio data: II. Winning the SKA SDC2 using a generalized 3D-YOLO network**|D. Cornu et.al.||
 |**2025-09-15**|**[[2509.12079v1](http://arxiv.org/abs/2509.12079v1)]Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.||
 |**2025-09-14**|**[[2509.11096v1](http://arxiv.org/abs/2509.11096v1)]A Copula-Guided Temporal Dependency Method for Multitemporal Hyperspectral Images Unmixing**|Ruiying Li et.al.|Unmixing|
@@ -169,6 +170,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-11**|**[[2509.12247v1](http://arxiv.org/abs/2509.12247v1)]Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al.||
 |**2025-09-16**|**[[2509.11614v2](http://arxiv.org/abs/2509.11614v2)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
 |**2025-09-14**|**[[2509.11169v1](http://arxiv.org/abs/2509.11169v1)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
 |**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
