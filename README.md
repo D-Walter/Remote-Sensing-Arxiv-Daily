@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-17**|**[[2509.13809v1](http://arxiv.org/abs/2509.13809v1)]Data-Efficient Spectral Classification of Hyperspectral Data Using MiniROCKET and HDC-MiniROCKET**|Nick Theisen et.al.|Classification|
+|**2025-09-17**|**[[2509.13779v1](http://arxiv.org/abs/2509.13779v1)]Hyperspectral Polarimetric BRDFs of Real-world Materials**|Yunseong Moon et.al.||
 |**2025-09-16**|**[[2509.13229v1](http://arxiv.org/abs/2509.13229v1)]Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|Classification|
 |**2025-09-15**|**[[2509.12082v1](http://arxiv.org/abs/2509.12082v1)]YOLO-CIANNA: Galaxy detection with deep learning in radio data: II. Winning the SKA SDC2 using a generalized 3D-YOLO network**|D. Cornu et.al.||
 |**2025-09-15**|**[[2509.12079v1](http://arxiv.org/abs/2509.12079v1)]Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.||
