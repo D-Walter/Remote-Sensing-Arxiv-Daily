@@ -107,7 +107,7 @@ layout: default
 |**2025-07-17**|**[[2507.13339v1](http://arxiv.org/abs/2507.13339v1)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-07-17**|**[[2507.12967v1](http://arxiv.org/abs/2507.12967v1)]RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.||
 |**2025-07-15**|**[[2507.11232v1](http://arxiv.org/abs/2507.11232v1)]Temporally-multiplexed dual-frequency terahertz imaging at kilohertz frame rates**|Lucy A. Downes et.al.||
-|**2025-07-14**|**[[2507.09885v1](http://arxiv.org/abs/2507.09885v1)]MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.||
+|**2025-09-19**|**[[2507.09885v2](http://arxiv.org/abs/2507.09885v2)]MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.||
 |**2025-07-13**|**[[2507.09492v1](http://arxiv.org/abs/2507.09492v1)]SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification**|Fuyin Ye et.al.|Classification|
 |**2025-07-14**|**[[2507.08282v2](http://arxiv.org/abs/2507.08282v2)]MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.||
 |**2025-07-10**|**[[2507.08052v1](http://arxiv.org/abs/2507.08052v1)]Lightweight Cloud Masking Models for On-Board Inference in Hyperspectral Imaging**|Mazen Ali et.al.||
@@ -176,6 +176,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-19**|**[[2509.15979v1](http://arxiv.org/abs/2509.15979v1)]Simultaneous real-time multispectral fluorescence and reflectance imaging for enhanced intraoperative guidance**|Kyriakos Pentarakis et.al.||
+|**2025-09-19**|**[[2509.15753v1](http://arxiv.org/abs/2509.15753v1)]MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection**|Yang Li et.al.|Object Detection|
 |**2025-09-11**|**[[2509.12247v1](http://arxiv.org/abs/2509.12247v1)]Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al.||
 |**2025-09-16**|**[[2509.11614v2](http://arxiv.org/abs/2509.11614v2)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
 |**2025-09-14**|**[[2509.11169v1](http://arxiv.org/abs/2509.11169v1)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
