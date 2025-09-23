@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-22**|**[[2509.17646v1](http://arxiv.org/abs/2509.17646v1)]PRIMAger General Observer programs: a {\Large $π$ }-sr Infrared Survey and other General Observer wide-field programs**|Denis Burgarella et.al.||
+|**2025-09-21**|**[[2509.16988v1](http://arxiv.org/abs/2509.16988v1)]A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.||
+|**2025-09-20**|**[[2509.16690v1](http://arxiv.org/abs/2509.16690v1)]Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.||
 |**2025-09-17**|**[[2509.13809v1](http://arxiv.org/abs/2509.13809v1)]Data-Efficient Spectral Classification of Hyperspectral Data Using MiniROCKET and HDC-MiniROCKET**|Nick Theisen et.al.|Classification|
 |**2025-09-17**|**[[2509.13779v1](http://arxiv.org/abs/2509.13779v1)]Hyperspectral Polarimetric BRDFs of Real-world Materials**|Yunseong Moon et.al.||
 |**2025-09-16**|**[[2509.13229v1](http://arxiv.org/abs/2509.13229v1)]Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|Classification|
@@ -28,7 +31,7 @@
 |**2025-09-14**|**[[2509.11093v1](http://arxiv.org/abs/2509.11093v1)]SMILE: A Super-resolution Guided Multi-task Learning Method for Hyperspectral Unmixing**|Ruiying Li et.al.|Unmixing, Superresolution|
 |**2025-09-19**|**[[2509.10651v2](http://arxiv.org/abs/2509.10651v2)]USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.||
 |**2025-09-11**|**[[2509.09163v1](http://arxiv.org/abs/2509.09163v1)]CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|Classification|
-|**2025-09-10**|**[[2509.08436v1](http://arxiv.org/abs/2509.08436v1)]Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|Classification|
+|**2025-09-22**|**[[2509.08436v2](http://arxiv.org/abs/2509.08436v2)]HyperTTA: Test-Time Adaptation for Hyperspectral Image Classification under Distribution Shifts**|Xia Yue et.al.|Classification|
 |**2025-09-10**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
 |**2025-09-03**|**[[2509.06993v1](http://arxiv.org/abs/2509.06993v1)]Geospatial Foundational Embedder: Top-1 Winning Solution on EarthVision Embed2Scale Challenge (CVPR 2025)**|Zirui Xu et.al.|Classification|
 |**2025-09-08**|**[[2509.06577v1](http://arxiv.org/abs/2509.06577v1)]Approximating Condorcet Ordering for Vector-valued Mathematical Morphology**|Marcos Eduardo Valle et.al.||
@@ -172,6 +175,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-21**|**[[2509.16957v1](http://arxiv.org/abs/2509.16957v1)]MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al.|Object Detection|
 |**2025-09-19**|**[[2509.15979v1](http://arxiv.org/abs/2509.15979v1)]Simultaneous real-time multispectral fluorescence and reflectance imaging for enhanced intraoperative guidance**|Kyriakos Pentarakis et.al.||
 |**2025-09-19**|**[[2509.15753v1](http://arxiv.org/abs/2509.15753v1)]MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection**|Yang Li et.al.|Object Detection|
 |**2025-09-11**|**[[2509.12247v1](http://arxiv.org/abs/2509.12247v1)]Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al.||
