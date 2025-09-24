@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-23**|**[[2509.18653v1](http://arxiv.org/abs/2509.18653v1)]Subspace Clustering of Subspaces: Unifying Canonical Correlation Analysis and Subspace Clustering**|Paris A. Karakasis et.al.||
 |**2025-09-22**|**[[2509.17646v1](http://arxiv.org/abs/2509.17646v1)]PRIMAger General Observer programs: a {\Large $π$ }-sr Infrared Survey and other General Observer wide-field programs**|Denis Burgarella et.al.||
 |**2025-09-21**|**[[2509.16988v1](http://arxiv.org/abs/2509.16988v1)]A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.||
 |**2025-09-20**|**[[2509.16690v1](http://arxiv.org/abs/2509.16690v1)]Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.||
