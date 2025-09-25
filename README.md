@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-24**|**[[2509.20107v1](http://arxiv.org/abs/2509.20107v1)]Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|JuanaJuana Valeria Hurtado et.al.||
+|**2025-09-24**|**[[2509.19900v1](http://arxiv.org/abs/2509.19900v1)]Generalized Nonnegative Structured Kruskal Tensor Regression**|Xinjue Wang et.al.||
+|**2025-09-24**|**[[2509.19665v1](http://arxiv.org/abs/2509.19665v1)]Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy**|Manuel Perez-Carrasco et.al.||
+|**2025-09-23**|**[[2509.19541v1](http://arxiv.org/abs/2509.19541v1)]Autonomous Elemental Characterization Enabled by a Low Cost Robotic Platform Built Upon a Generalized Software Architecture**|Xuan Cao et.al.||
 |**2025-09-23**|**[[2509.18653v1](http://arxiv.org/abs/2509.18653v1)]Subspace Clustering of Subspaces: Unifying Canonical Correlation Analysis and Subspace Clustering**|Paris A. Karakasis et.al.||
 |**2025-09-22**|**[[2509.17646v1](http://arxiv.org/abs/2509.17646v1)]PRIMAger General Observer programs: a {\Large $π$ }-sr Infrared Survey and other General Observer wide-field programs**|Denis Burgarella et.al.||
 |**2025-09-21**|**[[2509.16988v1](http://arxiv.org/abs/2509.16988v1)]A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.||
@@ -170,7 +174,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250925>back to top</a>)</p>
 
 ## Multispectral
 
@@ -220,7 +224,7 @@
 |**2025-07-17**|**[[2507.13339v1](http://arxiv.org/abs/2507.13339v1)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-07-15**|**[[2507.11702v1](http://arxiv.org/abs/2507.11702v1)]Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption**|Hein de Wilde et.al.|Classification|
 |**2025-08-19**|**[[2507.10461v3](http://arxiv.org/abs/2507.10461v3)]RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|Pansharpening|
-|**2025-07-14**|**[[2507.10403v1](http://arxiv.org/abs/2507.10403v1)]Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.||
+|**2025-09-24**|**[[2507.10403v2](http://arxiv.org/abs/2507.10403v2)]CLOSP: A Unified Semantic Space for SAR, MSI, and Text in Remote Sensing**|Daniele Rege Cambrin et.al.||
 |**2025-07-08**|**[[2507.08025v1](http://arxiv.org/abs/2507.08025v1)]3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**|Narges Takhtkeshha et.al.||
 |**2025-07-10**|**[[2507.07585v1](http://arxiv.org/abs/2507.07585v1)]HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia et.al.||
 |**2025-07-10**|**[[2507.07527v1](http://arxiv.org/abs/2507.07527v1)]MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models**|Joelle Hanna et.al.||
@@ -302,7 +306,7 @@
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
