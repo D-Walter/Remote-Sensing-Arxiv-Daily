@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-24**|**[[2509.20417v1](http://arxiv.org/abs/2509.20417v1)]Optimal Transport Based Hyperspectral Unmixing for Highly Mixed Observations**|D. Doutsas et.al.|Unmixing|
 |**2025-09-25**|**[[2509.20107v2](http://arxiv.org/abs/2509.20107v2)]Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.||
 |**2025-09-24**|**[[2509.19900v1](http://arxiv.org/abs/2509.19900v1)]Generalized Nonnegative Structured Kruskal Tensor Regression**|Xinjue Wang et.al.||
 |**2025-09-24**|**[[2509.19665v1](http://arxiv.org/abs/2509.19665v1)]Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy**|Manuel Perez-Carrasco et.al.||
@@ -184,6 +185,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-25**|**[[2509.20991v1](http://arxiv.org/abs/2509.20991v1)]Fast-SEnSeI: Lightweight Sensor-Independent Cloud Masking for On-board Multispectral Sensors**|Jan Kněžík et.al.||
+|**2025-09-25**|**[[2509.20905v1](http://arxiv.org/abs/2509.20905v1)]FSMODNet: A Closer Look at Few-Shot Detection in Multispectral Data**|Manuel Nkegoum et.al.|Object Detection|
 |**2025-09-21**|**[[2509.16957v1](http://arxiv.org/abs/2509.16957v1)]MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al.|Object Detection|
 |**2025-09-19**|**[[2509.15979v1](http://arxiv.org/abs/2509.15979v1)]Simultaneous real-time multispectral fluorescence and reflectance imaging for enhanced intraoperative guidance**|Kyriakos Pentarakis et.al.||
 |**2025-09-19**|**[[2509.15753v1](http://arxiv.org/abs/2509.15753v1)]MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection**|Yang Li et.al.|Object Detection|
