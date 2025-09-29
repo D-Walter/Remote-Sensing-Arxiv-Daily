@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |**2025-09-24**|**[[2509.20417v1](http://arxiv.org/abs/2509.20417v1)]Optimal Transport Based Hyperspectral Unmixing for Highly Mixed Observations**|D. Doutsas et.al.|Unmixing|
 |**2025-09-25**|**[[2509.20107v2](http://arxiv.org/abs/2509.20107v2)]Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.||
 |**2025-09-24**|**[[2509.19900v1](http://arxiv.org/abs/2509.19900v1)]Generalized Nonnegative Structured Kruskal Tensor Regression**|Xinjue Wang et.al.||
-|**2025-09-24**|**[[2509.19665v1](http://arxiv.org/abs/2509.19665v1)]Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy**|Manuel Perez-Carrasco et.al.||
+|**2025-09-26**|**[[2509.19665v2](http://arxiv.org/abs/2509.19665v2)]Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy**|Manuel Perez-Carrasco et.al.||
 |**2025-09-23**|**[[2509.19541v1](http://arxiv.org/abs/2509.19541v1)]Autonomous Elemental Characterization Enabled by a Low Cost Robotic Platform Built Upon a Generalized Software Architecture**|Xuan Cao et.al.||
 |**2025-09-23**|**[[2509.18653v1](http://arxiv.org/abs/2509.18653v1)]Subspace Clustering of Subspaces: Unifying Canonical Correlation Analysis and Subspace Clustering**|Paris A. Karakasis et.al.||
 |**2025-09-22**|**[[2509.17646v1](http://arxiv.org/abs/2509.17646v1)]PRIMAger General Observer programs: a {\Large $π$ }-sr Infrared Survey and other General Observer wide-field programs**|Denis Burgarella et.al.||
@@ -175,7 +175,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
 
 ## Multispectral
 
@@ -265,7 +265,7 @@
 |**2025-05-02**|**[[2505.01558v1](http://arxiv.org/abs/2505.01558v1)]A Sensor Agnostic Domain Generalization Framework for Leveraging Geospatial Foundation Models: Enhancing Semantic Segmentation viaSynergistic Pseudo-Labeling and Generative Learning**|Anan Yaghmour et.al.||
 |**2025-09-08**|**[[2505.01388v2](http://arxiv.org/abs/2505.01388v2)]Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes**|Wallace Peaslee et.al.||
 |**2025-06-18**|**[[2504.20853v2](http://arxiv.org/abs/2504.20853v2)]Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.||
-|**2025-06-04**|**[[2504.19223v2](http://arxiv.org/abs/2504.19223v2)]CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.||
+|**2025-09-26**|**[[2504.19223v3](http://arxiv.org/abs/2504.19223v3)]CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.||
 |**2025-04-23**|**[[2504.16851v1](http://arxiv.org/abs/2504.16851v1)]Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space**|Ruben Gonzalez Avilés et.al.||
 |**2025-04-23**|**[[2504.16665v1](http://arxiv.org/abs/2504.16665v1)]A Diff-Attention Aware State Space Fusion Model for Remote Sensing Classification**|Wenping Ma et.al.|Classification|
 |**2025-04-19**|**[[2504.14337v1](http://arxiv.org/abs/2504.14337v1)]Multispectral airborne laser scanning for tree species classification: a benchmark of machine learning and deep learning algorithms**|Josef Taher et.al.|Classification|
@@ -309,7 +309,7 @@
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
