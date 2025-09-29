@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-09-26**|**[[2509.21973v1](http://arxiv.org/abs/2509.21973v1)]Multicollinearity-Aware Parameter-Free Strategy for Hyperspectral Band Selection: A Dependence Measures-Based Approach**|Dibyabha Deb et.al.|Classification|
 |**2025-09-24**|**[[2509.20417v1](http://arxiv.org/abs/2509.20417v1)]Optimal Transport Based Hyperspectral Unmixing for Highly Mixed Observations**|D. Doutsas et.al.|Unmixing|
 |**2025-09-25**|**[[2509.20107v2](http://arxiv.org/abs/2509.20107v2)]Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.||
 |**2025-09-24**|**[[2509.19900v1](http://arxiv.org/abs/2509.19900v1)]Generalized Nonnegative Structured Kruskal Tensor Regression**|Xinjue Wang et.al.||
