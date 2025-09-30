@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@
 |**2025-09-24**|**[[2509.19900v1](http://arxiv.org/abs/2509.19900v1)]Generalized Nonnegative Structured Kruskal Tensor Regression**|Xinjue Wang et.al.||
 |**2025-09-26**|**[[2509.19665v2](http://arxiv.org/abs/2509.19665v2)]Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy**|Manuel Perez-Carrasco et.al.||
 |**2025-09-23**|**[[2509.19541v1](http://arxiv.org/abs/2509.19541v1)]Autonomous Elemental Characterization Enabled by a Low Cost Robotic Platform Built Upon a Generalized Software Architecture**|Xuan Cao et.al.||
-|**2025-09-23**|**[[2509.18653v1](http://arxiv.org/abs/2509.18653v1)]Subspace Clustering of Subspaces: Unifying Canonical Correlation Analysis and Subspace Clustering**|Paris A. Karakasis et.al.||
+|**2025-09-26**|**[[2509.18653v2](http://arxiv.org/abs/2509.18653v2)]Subspace Clustering of Subspaces: Unifying Canonical Correlation Analysis and Subspace Clustering**|Paris A. Karakasis et.al.||
 |**2025-09-22**|**[[2509.17646v1](http://arxiv.org/abs/2509.17646v1)]PRIMAger General Observer programs: a {\Large $π$ }-sr Infrared Survey and other General Observer wide-field programs**|Denis Burgarella et.al.||
 |**2025-09-21**|**[[2509.16988v1](http://arxiv.org/abs/2509.16988v1)]A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.||
 |**2025-09-20**|**[[2509.16690v1](http://arxiv.org/abs/2509.16690v1)]Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.||
@@ -176,7 +176,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 
 ## Multispectral
 
@@ -310,7 +310,7 @@
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
