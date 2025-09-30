@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-29**|**[[2509.24140v1](http://arxiv.org/abs/2509.24140v1)]A signal separation view of classification**|H. N. Mhaskar et.al.|Classification|
+|**2025-09-28**|**[[2509.24027v1](http://arxiv.org/abs/2509.24027v1)]Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.||
+|**2025-09-28**|**[[2509.24017v1](http://arxiv.org/abs/2509.24017v1)]Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.||
+|**2025-09-20**|**[[2509.22697v1](http://arxiv.org/abs/2509.22697v1)]Learning Hyperspectral Images with Curated Text Prompts for Efficient Multimodal Alignment**|Abhiroop Chatterjee et.al.|VLM|
 |**2025-09-26**|**[[2509.21973v1](http://arxiv.org/abs/2509.21973v1)]Multicollinearity-Aware Parameter-Free Strategy for Hyperspectral Band Selection: A Dependence Measures-Based Approach**|Dibyabha Deb et.al.|Classification|
 |**2025-09-24**|**[[2509.20417v1](http://arxiv.org/abs/2509.20417v1)]Optimal Transport Based Hyperspectral Unmixing for Highly Mixed Observations**|D. Doutsas et.al.|Unmixing|
 |**2025-09-25**|**[[2509.20107v2](http://arxiv.org/abs/2509.20107v2)]Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.||
@@ -182,6 +186,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-27**|**[[2509.23035v1](http://arxiv.org/abs/2509.23035v1)]Sensor-Adaptive Flood Mapping with Pre-trained Multi-Modal Transformers across SAR and Multispectral Modalities**|Tomohiro Tanaka et.al.||
 |**2025-09-25**|**[[2509.20991v1](http://arxiv.org/abs/2509.20991v1)]Fast-SEnSeI: Lightweight Sensor-Independent Cloud Masking for On-board Multispectral Sensors**|Jan Kněžík et.al.||
 |**2025-09-25**|**[[2509.20905v1](http://arxiv.org/abs/2509.20905v1)]FSMODNet: A Closer Look at Few-Shot Detection in Multispectral Data**|Manuel Nkegoum et.al.|Object Detection|
 |**2025-09-21**|**[[2509.16957v1](http://arxiv.org/abs/2509.16957v1)]MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al.|Object Detection|
@@ -193,7 +198,7 @@
 |**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
 |**2025-09-15**|**[[2509.09085v2](http://arxiv.org/abs/2509.09085v2)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
-|**2025-09-09**|**[[2509.07327v1](http://arxiv.org/abs/2509.07327v1)]DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|Object Detection|
+|**2025-09-29**|**[[2509.07327v2](http://arxiv.org/abs/2509.07327v2)]DEPFusion: Dual-Domain Enhancement and Priority-Guided Mamba Fusion for UAV Multispectral Object Detection**|Shucong Li et.al.|Object Detection|
 |**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
 |**2025-09-14**|**[[2509.06625v2](http://arxiv.org/abs/2509.06625v2)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
 |**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
