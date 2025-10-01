@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-09-30**|**[[2509.25663v1](http://arxiv.org/abs/2509.25663v1)]Field Calibration of Hyperspectral Cameras for Terrain Inference**|Nathaniel Hanson et.al.||
 |**2025-09-29**|**[[2509.24140v1](http://arxiv.org/abs/2509.24140v1)]A signal separation view of classification**|H. N. Mhaskar et.al.|Classification|
 |**2025-09-28**|**[[2509.24027v1](http://arxiv.org/abs/2509.24027v1)]Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.||
 |**2025-09-28**|**[[2509.24017v1](http://arxiv.org/abs/2509.24017v1)]Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.||
