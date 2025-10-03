@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -61,7 +61,7 @@
 |**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
 |**2025-09-01**|**[[2509.01727v1](http://arxiv.org/abs/2509.01727v1)]PRIMA: PRIMAger, a far-infrared hyperspectral and polarimetric instrument**|Laure Ciesla et.al.||
 |**2025-09-01**|**[[2509.01146v1](http://arxiv.org/abs/2509.01146v1)]Plasmon-enhanced Hyperspectral Imaging**|Kristian Caracciolo et.al.||
-|**2025-08-30**|**[[2509.00626v1](http://arxiv.org/abs/2509.00626v1)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
+|**2025-10-02**|**[[2509.00626v2](http://arxiv.org/abs/2509.00626v2)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
 |**2025-08-30**|**[[2509.00356v1](http://arxiv.org/abs/2509.00356v1)]Iterative Low-rank Network for Hyperspectral Image Denoising**|Jin Ye et.al.|Denoising|
 |**2025-08-29**|**[[2508.21618v1](http://arxiv.org/abs/2508.21618v1)]Physics-Informed Spectral Modeling for Hyperspectral Imaging**|Zuzanna Gawrysiak et.al.|Classification|
 |**2025-08-27**|**[[2508.19970v1](http://arxiv.org/abs/2508.19970v1)]Hyper-spectral Imaging with Up-Converted Mid-Infrared Single-Photons**|Yijian Meng et.al.||
@@ -181,7 +181,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Multispectral
 
@@ -316,7 +316,7 @@
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
