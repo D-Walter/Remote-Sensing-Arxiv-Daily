@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-02**|**[[2510.01912v1](http://arxiv.org/abs/2510.01912v1)]Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.||
+|**2025-10-01**|**[[2510.01014v1](http://arxiv.org/abs/2510.01014v1)]Towards Adversarial Training under Hyperspectral Images**|Weihua Zhang et.al.|Classification|
+|**2025-10-01**|**[[2510.00562v1](http://arxiv.org/abs/2510.00562v1)]Geometric Spatio-Spectral Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|Denoising|
+|**2025-09-30**|**[[2510.00148v1](http://arxiv.org/abs/2510.00148v1)]Improved Hyperspectral Anomaly Detection via Unsupervised Subspace Modeling in the Signed Cumulative Distribution Transform Domain**|Abu Hasnat Mohammad Rubaiyat et.al.||
+|**2025-09-26**|**[[2510.00033v1](http://arxiv.org/abs/2510.00033v1)]Hybrid Deep Learning for Hyperspectral Single Image Super-Resolution**|Usman Muhammad et.al.|Unmixing, Superresolution|
 |**2025-09-30**|**[[2509.25663v1](http://arxiv.org/abs/2509.25663v1)]Field Calibration of Hyperspectral Cameras for Terrain Inference**|Nathaniel Hanson et.al.||
 |**2025-09-29**|**[[2509.24140v1](http://arxiv.org/abs/2509.24140v1)]A signal separation view of classification**|H. N. Mhaskar et.al.|Classification|
 |**2025-09-28**|**[[2509.24027v1](http://arxiv.org/abs/2509.24027v1)]Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.||
@@ -187,6 +192,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-01**|**[[2510.00654v1](http://arxiv.org/abs/2510.00654v1)]Weakly Supervised Cloud Detection Combining Spectral Features and Multi-Scale Deep Network**|Shaocong Zhu et.al.||
 |**2025-09-27**|**[[2509.23035v1](http://arxiv.org/abs/2509.23035v1)]Sensor-Adaptive Flood Mapping with Pre-trained Multi-Modal Transformers across SAR and Multispectral Modalities**|Tomohiro Tanaka et.al.||
 |**2025-09-25**|**[[2509.20991v1](http://arxiv.org/abs/2509.20991v1)]Fast-SEnSeI: Lightweight Sensor-Independent Cloud Masking for On-board Multispectral Sensors**|Jan Kněžík et.al.||
 |**2025-09-25**|**[[2509.20905v1](http://arxiv.org/abs/2509.20905v1)]FSMODNet: A Closer Look at Few-Shot Detection in Multispectral Data**|Manuel Nkegoum et.al.|Object Detection|
