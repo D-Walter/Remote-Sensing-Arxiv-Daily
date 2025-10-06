@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-03**|**[[2510.03052v1](http://arxiv.org/abs/2510.03052v1)]Ultrafast dynamics of coherent exciton-polaritons in van der Waals semiconductor metasurfaces**|Luca Sortino et.al.||
+|**2025-10-03**|**[[2510.02763v1](http://arxiv.org/abs/2510.02763v1)]Fusing Multi- and Hyperspectral Satellite Data for Harmful Algal Bloom Monitoring with Self-Supervised and Hierarchical Deep Learning**|Nicholas LaHaye et.al.||
+|**2025-10-03**|**[[2510.02700v1](http://arxiv.org/abs/2510.02700v1)]A UAV-Based VNIR Hyperspectral Benchmark Dataset for Landmine and UXO Detection**|Sagar Lekhak et.al.||
 |**2025-10-02**|**[[2510.01912v1](http://arxiv.org/abs/2510.01912v1)]Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.||
 |**2025-10-01**|**[[2510.01014v1](http://arxiv.org/abs/2510.01014v1)]Towards Adversarial Training under Hyperspectral Images**|Weihua Zhang et.al.|Classification|
 |**2025-10-01**|**[[2510.00562v1](http://arxiv.org/abs/2510.00562v1)]Geometric Spatio-Spectral Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|Denoising|
@@ -192,6 +195,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-03**|**[[2510.03133v1](http://arxiv.org/abs/2510.03133v1)]Exceptional Points, Lasing, and Coherent Perfect Absorption in Floquet Scattering Systems**|David Globosits et.al.||
+|**2025-10-02**|**[[2510.02421v1](http://arxiv.org/abs/2510.02421v1)]New Method for Injectable Quinine Quality Assurance Control Using a Multi-Spectral Microscope**|A. Sow et.al.||
 |**2025-10-01**|**[[2510.00654v1](http://arxiv.org/abs/2510.00654v1)]Weakly Supervised Cloud Detection Combining Spectral Features and Multi-Scale Deep Network**|Shaocong Zhu et.al.||
 |**2025-09-27**|**[[2509.23035v1](http://arxiv.org/abs/2509.23035v1)]Sensor-Adaptive Flood Mapping with Pre-trained Multi-Modal Transformers across SAR and Multispectral Modalities**|Tomohiro Tanaka et.al.||
 |**2025-09-25**|**[[2509.20991v1](http://arxiv.org/abs/2509.20991v1)]Fast-SEnSeI: Lightweight Sensor-Independent Cloud Masking for On-board Multispectral Sensors**|Jan Kněžík et.al.||
