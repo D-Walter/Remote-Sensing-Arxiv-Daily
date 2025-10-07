@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-06**|**[[2510.04864v1](http://arxiv.org/abs/2510.04864v1)]In-Field Mapping of Grape Yield and Quality with Illumination-Invariant Deep Learning**|Ciem Cornelissen et.al.||
 |**2025-10-03**|**[[2510.03052v1](http://arxiv.org/abs/2510.03052v1)]Ultrafast dynamics of coherent exciton-polaritons in van der Waals semiconductor metasurfaces**|Luca Sortino et.al.||
 |**2025-10-03**|**[[2510.02763v1](http://arxiv.org/abs/2510.02763v1)]Fusing Multi- and Hyperspectral Satellite Data for Harmful Algal Bloom Monitoring with Self-Supervised and Hierarchical Deep Learning**|Nicholas LaHaye et.al.||
 |**2025-10-03**|**[[2510.02700v1](http://arxiv.org/abs/2510.02700v1)]A UAV-Based VNIR Hyperspectral Benchmark Dataset for Landmine and UXO Detection**|Sagar Lekhak et.al.||
