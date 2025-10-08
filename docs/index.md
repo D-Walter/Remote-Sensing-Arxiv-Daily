@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -122,7 +122,7 @@ layout: default
 |**2025-07-28**|**[[2507.20765v1](http://arxiv.org/abs/2507.20765v1)]Onboard Hyperspectral Super-Resolution with Deep Pushbroom Neural Network**|Davide Piccinini et.al.|Superresolution|
 |**2025-07-27**|**[[2507.20099v1](http://arxiv.org/abs/2507.20099v1)]Hybrid-Domain Synergistic Transformer for Hyperspectral Image Denoising**|Haoyue Li et.al.|Denoising|
 |**2025-07-26**|**[[2507.19781v1](http://arxiv.org/abs/2507.19781v1)]SpecBPP: A Self-Supervised Learning Approach for Hyperspectral Representation and Soil Organic Carbon Estimation**|Daniel La'ah Ayuba et.al.||
-|**2025-07-23**|**[[2507.17869v1](http://arxiv.org/abs/2507.17869v1)]Integrating Feature Selection and Machine Learning for Nitrogen Assessment in Grapevine Leaves using In-Field Hyperspectral Imaging**|Atif Bilal Asad et.al.||
+|**2025-10-07**|**[[2507.17869v2](http://arxiv.org/abs/2507.17869v2)]Integrating Feature Selection and Machine Learning for Nitrogen Assessment in Grapevine Leaves using In-Field Hyperspectral Imaging**|Atif Bilal Asad et.al.||
 |**2025-07-22**|**[[2507.17068v1](http://arxiv.org/abs/2507.17068v1)]Fast 4D-STEM-based phase mapping for amorphous and mixed materials**|Andreas Werbrouck et.al.||
 |**2025-07-21**|**[[2507.15777v1](http://arxiv.org/abs/2507.15777v1)]Label tree semantic losses for rich multi-class medical image segmentation**|Junwen Wang et.al.||
 |**2025-07-20**|**[[2507.14787v1](http://arxiv.org/abs/2507.14787v1)]FOCUS: Fused Observation of Channels for Unveiling Spectra**|Xi Xiao et.al.||
@@ -194,7 +194,7 @@ layout: default
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 
 ## Multispectral
 
@@ -332,7 +332,7 @@ layout: default
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
