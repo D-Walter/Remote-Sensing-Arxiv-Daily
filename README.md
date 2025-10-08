@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
 |**2025-10-06**|**[[2510.04864v1](http://arxiv.org/abs/2510.04864v1)]In-Field Mapping of Grape Yield and Quality with Illumination-Invariant Deep Learning**|Ciem Cornelissen et.al.||
 |**2025-10-03**|**[[2510.03052v1](http://arxiv.org/abs/2510.03052v1)]Ultrafast dynamics of coherent exciton-polaritons in van der Waals semiconductor metasurfaces**|Luca Sortino et.al.||
 |**2025-10-03**|**[[2510.02763v1](http://arxiv.org/abs/2510.02763v1)]Fusing Multi- and Hyperspectral Satellite Data for Harmful Algal Bloom Monitoring with Self-Supervised and Hierarchical Deep Learning**|Nicholas LaHaye et.al.||
@@ -196,6 +197,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
+|**2025-10-07**|**[[2510.05617v1](http://arxiv.org/abs/2510.05617v1)]InstaGeo: Compute-Efficient Geospatial Machine Learning from Data to Deployment**|Ibrahim Salihu Yusuf et.al.||
 |**2025-10-03**|**[[2510.03133v1](http://arxiv.org/abs/2510.03133v1)]Exceptional Points, Lasing, and Coherent Perfect Absorption in Floquet Scattering Systems**|David Globosits et.al.||
 |**2025-10-02**|**[[2510.02421v1](http://arxiv.org/abs/2510.02421v1)]New Method for Injectable Quinine Quality Assurance Control Using a Multi-Spectral Microscope**|A. Sow et.al.||
 |**2025-10-01**|**[[2510.00654v1](http://arxiv.org/abs/2510.00654v1)]Weakly Supervised Cloud Detection Combining Spectral Features and Multi-Scale Deep Network**|Shaocong Zhu et.al.||
