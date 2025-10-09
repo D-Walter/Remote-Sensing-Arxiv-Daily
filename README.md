@@ -197,6 +197,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-08**|**[[2510.06619v1](http://arxiv.org/abs/2510.06619v1)]MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking**|Tao Feng et.al.|Object Tracking|
 |**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
 |**2025-10-07**|**[[2510.05617v1](http://arxiv.org/abs/2510.05617v1)]InstaGeo: Compute-Efficient Geospatial Machine Learning from Data to Deployment**|Ibrahim Salihu Yusuf et.al.||
 |**2025-10-03**|**[[2510.03133v1](http://arxiv.org/abs/2510.03133v1)]Exceptional Points, Lasing, and Coherent Perfect Absorption in Floquet Scattering Systems**|David Globosits et.al.||
