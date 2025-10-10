@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-09**|**[[2510.08363v1](http://arxiv.org/abs/2510.08363v1)]Hyperspectral data augmentation with transformer-based diffusion models**|Mattia Ferrari et.al.|Classification|
+|**2025-10-08**|**[[2510.07556v1](http://arxiv.org/abs/2510.07556v1)]Label Semantics for Robust Hyperspectral Image Classification**|Rafin Hassan et.al.|Classification|
 |**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
 |**2025-10-06**|**[[2510.04864v1](http://arxiv.org/abs/2510.04864v1)]In-Field Mapping of Grape Yield and Quality with Illumination-Invariant Deep Learning**|Ciem Cornelissen et.al.||
 |**2025-10-03**|**[[2510.03052v1](http://arxiv.org/abs/2510.03052v1)]Ultrafast dynamics of coherent exciton-polaritons in van der Waals semiconductor metasurfaces**|Luca Sortino et.al.||
@@ -71,7 +73,7 @@
 |**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
 |**2025-09-01**|**[[2509.01727v1](http://arxiv.org/abs/2509.01727v1)]PRIMA: PRIMAger, a far-infrared hyperspectral and polarimetric instrument**|Laure Ciesla et.al.||
 |**2025-09-01**|**[[2509.01146v1](http://arxiv.org/abs/2509.01146v1)]Plasmon-enhanced Hyperspectral Imaging**|Kristian Caracciolo et.al.||
-|**2025-10-02**|**[[2509.00626v2](http://arxiv.org/abs/2509.00626v2)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
+|**2025-10-09**|**[[2509.00626v3](http://arxiv.org/abs/2509.00626v3)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
 |**2025-08-30**|**[[2509.00356v1](http://arxiv.org/abs/2509.00356v1)]Iterative Low-rank Network for Hyperspectral Image Denoising**|Jin Ye et.al.|Denoising|
 |**2025-08-29**|**[[2508.21618v1](http://arxiv.org/abs/2508.21618v1)]Physics-Informed Spectral Modeling for Hyperspectral Imaging**|Zuzanna Gawrysiak et.al.|Classification|
 |**2025-08-27**|**[[2508.19970v1](http://arxiv.org/abs/2508.19970v1)]Hyper-spectral Imaging with Up-Converted Mid-Infrared Single-Photons**|Yijian Meng et.al.||
@@ -197,6 +199,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-09**|**[[2510.08060v1](http://arxiv.org/abs/2510.08060v1)]A class-driven hierarchical ResNet for classification of multispectral remote sensing images**|Giulio Weikmann et.al.|Classification|
 |**2025-10-08**|**[[2510.06619v1](http://arxiv.org/abs/2510.06619v1)]MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking**|Tao Feng et.al.|Object Tracking|
 |**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
 |**2025-10-07**|**[[2510.05617v1](http://arxiv.org/abs/2510.05617v1)]InstaGeo: Compute-Efficient Geospatial Machine Learning from Data to Deployment**|Ibrahim Salihu Yusuf et.al.||
@@ -231,7 +234,7 @@
 |**2025-08-27**|**[[2508.19881v1](http://arxiv.org/abs/2508.19881v1)]Multispectral LiDAR data for extracting tree points in urban and suburban areas**|Narges Takhtkeshha et.al.||
 |**2025-08-27**|**[[2508.19798v1](http://arxiv.org/abs/2508.19798v1)]FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization**|Muhammad Ali et.al.||
 |**2025-08-20**|**[[2508.12261v2](http://arxiv.org/abs/2508.12261v2)]Superpixel-informed Continuous Low-Rank Tensor Representation for Multi-Dimensional Data Recovery**|Zhizhou Wang et.al.||
-|**2025-08-14**|**[[2508.10894v1](http://arxiv.org/abs/2508.10894v1)]MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data**|Antoine Labatie et.al.||
+|**2025-10-09**|**[[2508.10894v2](http://arxiv.org/abs/2508.10894v2)]MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data**|Antoine Labatie et.al.||
 |**2025-08-09**|**[[2508.07020v1](http://arxiv.org/abs/2508.07020v1)]TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.|Classification|
 |**2025-08-09**|**[[2508.06939v1](http://arxiv.org/abs/2508.06939v1)]Intrinsic Explainability of Multimodal Learning for Crop Yield Prediction**|Hiba Najjar et.al.||
 |**2025-07-25**|**[[2508.05645v1](http://arxiv.org/abs/2508.05645v1)]Single-Shot Multispectral Encoding: Advancing Optical Lithography for Encryption and Spectroscopy**|Hyewon Shim et.al.||
