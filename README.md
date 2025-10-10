@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -191,7 +191,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251010>back to top</a>)</p>
 
 ## Multispectral
 
@@ -257,7 +257,7 @@
 |**2025-07-09**|**[[2507.07250v1](http://arxiv.org/abs/2507.07250v1)]Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al.||
 |**2025-07-01**|**[[2507.01123v1](http://arxiv.org/abs/2507.01123v1)]Landslide Detection and Mapping Using Deep Learning Across Multi-Source Satellite Data and Geographic Regions**|Rahul A. Burange et.al.||
 |**2025-06-30**|**[[2506.24014v1](http://arxiv.org/abs/2506.24014v1)]Simultaneous Super-Resolution of Spatial and Spectral Imaging with a Camera Array and Notch Filters**|Peng Lin et.al.|Superresolution|
-|**2025-06-25**|**[[2506.20450v1](http://arxiv.org/abs/2506.20450v1)]Papanicolaou Stain Unmixing for RGB Image Using Weighted Nucleus Sparsity and Total Variation Regularization**|Nanxin Gong et.al.||
+|**2025-10-09**|**[[2506.20450v2](http://arxiv.org/abs/2506.20450v2)]Papanicolaou Stain Unmixing for RGB Image Using Weighted Nucleus Sparsity and Total Variation Regularization**|Nanxin Gong et.al.||
 |**2025-06-25**|**[[2506.20293v1](http://arxiv.org/abs/2506.20293v1)]Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|Classification|
 |**2025-06-25**|**[[2506.20179v1](http://arxiv.org/abs/2506.20179v1)]Progressive Alignment Degradation Learning for Pansharpening**|Enzhe Zhao et.al.|Pansharpening|
 |**2025-06-24**|**[[2506.19591v1](http://arxiv.org/abs/2506.19591v1)]Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.||
@@ -332,7 +332,7 @@
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
