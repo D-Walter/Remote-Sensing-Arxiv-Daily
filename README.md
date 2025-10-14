@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-13**|**[[2510.11576v1](http://arxiv.org/abs/2510.11576v1)]Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|Classification|
+|**2025-10-13**|**[[2510.11422v1](http://arxiv.org/abs/2510.11422v1)]Raman Microspectroscopy for Real-Time Structure Indicator in Ultrafast Laser Writing**|Xingrui Cheng et.al.|Unmixing|
+|**2025-10-10**|**[[2510.09912v1](http://arxiv.org/abs/2510.09912v1)]SpectralCA: Bi-Directional Cross-Attention for Next-Generation UAV Hyperspectral Vision**|D. V. Brovko et.al.|Classification, Object Detection|
 |**2025-10-09**|**[[2510.08363v1](http://arxiv.org/abs/2510.08363v1)]Hyperspectral data augmentation with transformer-based diffusion models**|Mattia Ferrari et.al.|Classification|
 |**2025-10-08**|**[[2510.07556v1](http://arxiv.org/abs/2510.07556v1)]Label Semantics for Robust Hyperspectral Image Classification**|Rafin Hassan et.al.|Classification|
 |**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
@@ -199,6 +202,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-13**|**[[2510.11505v1](http://arxiv.org/abs/2510.11505v1)]Knowledge-Guided Machine Learning Models to Upscale Evapotranspiration in the U.S. Midwest**|Aleksei Rozanov et.al.||
+|**2025-10-12**|**[[2510.10802v1](http://arxiv.org/abs/2510.10802v1)]MSCloudCAM: Cross-Attention with Multi-Scale Context for Multispectral Cloud Segmentation**|Md Abdullah Al Mazid et.al.||
+|**2025-10-12**|**[[2510.10546v1](http://arxiv.org/abs/2510.10546v1)]GLOFNet -- A Multimodal Dataset for GLOF Monitoring and Prediction**|Zuha Fatima et.al.||
+|**2025-10-10**|**[[2510.09736v1](http://arxiv.org/abs/2510.09736v1)]Chlorophyll-a Mapping and Prediction in the Mar Menor Lagoon Using C2RCC-Processed Sentinel 2 Imagery**|Antonio Martínez-Ibarra et.al.||
 |**2025-10-09**|**[[2510.08060v1](http://arxiv.org/abs/2510.08060v1)]A class-driven hierarchical ResNet for classification of multispectral remote sensing images**|Giulio Weikmann et.al.|Classification|
 |**2025-10-08**|**[[2510.06619v1](http://arxiv.org/abs/2510.06619v1)]MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking**|Tao Feng et.al.|Object Tracking|
 |**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
