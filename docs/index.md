@@ -206,6 +206,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-14**|**[[2510.12670v1](http://arxiv.org/abs/2510.12670v1)]TerraCodec: Compressing Earth Observations**|Julen Costa-Watanabe et.al.||
+|**2025-10-14**|**[[2510.12565v1](http://arxiv.org/abs/2510.12565v1)]MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|Object Tracking|
 |**2025-10-13**|**[[2510.11505v1](http://arxiv.org/abs/2510.11505v1)]Knowledge-Guided Machine Learning Models to Upscale Evapotranspiration in the U.S. Midwest**|Aleksei Rozanov et.al.||
 |**2025-10-12**|**[[2510.10802v1](http://arxiv.org/abs/2510.10802v1)]MSCloudCAM: Cross-Attention with Multi-Scale Context for Multispectral Cloud Segmentation**|Md Abdullah Al Mazid et.al.||
 |**2025-10-12**|**[[2510.10546v1](http://arxiv.org/abs/2510.10546v1)]GLOFNet -- A Multimodal Dataset for GLOF Monitoring and Prediction**|Zuha Fatima et.al.||
