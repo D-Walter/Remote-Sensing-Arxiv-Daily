@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-15**|**[[2510.13452v1](http://arxiv.org/abs/2510.13452v1)]Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.||
 |**2025-10-14**|**[[2510.11576v2](http://arxiv.org/abs/2510.11576v2)]Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|Classification|
 |**2025-10-13**|**[[2510.11422v1](http://arxiv.org/abs/2510.11422v1)]Raman Microspectroscopy for Real-Time Structure Indicator in Ultrafast Laser Writing**|Xingrui Cheng et.al.|Unmixing|
 |**2025-10-10**|**[[2510.09912v1](http://arxiv.org/abs/2510.09912v1)]SpectralCA: Bi-Directional Cross-Attention for Next-Generation UAV Hyperspectral Vision**|D. V. Brovko et.al.|Classification, Object Detection|
@@ -76,7 +77,7 @@
 |**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
 |**2025-09-01**|**[[2509.01727v1](http://arxiv.org/abs/2509.01727v1)]PRIMA: PRIMAger, a far-infrared hyperspectral and polarimetric instrument**|Laure Ciesla et.al.||
 |**2025-09-01**|**[[2509.01146v1](http://arxiv.org/abs/2509.01146v1)]Plasmon-enhanced Hyperspectral Imaging**|Kristian Caracciolo et.al.||
-|**2025-10-09**|**[[2509.00626v3](http://arxiv.org/abs/2509.00626v3)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
+|**2025-10-15**|**[[2509.00626v4](http://arxiv.org/abs/2509.00626v4)]Towards Methane Detection Onboard Satellites**|Maggie Chen et.al.||
 |**2025-08-30**|**[[2509.00356v1](http://arxiv.org/abs/2509.00356v1)]Iterative Low-rank Network for Hyperspectral Image Denoising**|Jin Ye et.al.|Denoising|
 |**2025-08-29**|**[[2508.21618v1](http://arxiv.org/abs/2508.21618v1)]Physics-Informed Spectral Modeling for Hyperspectral Imaging**|Zuzanna Gawrysiak et.al.|Classification|
 |**2025-08-27**|**[[2508.19970v1](http://arxiv.org/abs/2508.19970v1)]Hyper-spectral Imaging with Up-Converted Mid-Infrared Single-Photons**|Yijian Meng et.al.||
