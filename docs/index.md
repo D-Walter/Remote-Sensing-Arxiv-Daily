@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-16**|**[[2510.14213v1](http://arxiv.org/abs/2510.14213v1)]Comparison of Electroluminescence and Photoluminescence Imaging of Mixed-Cation Mixed-Halide Perovskite Solar Cells at Low Temperatures**|Hurriyet Yuce-Cakir et.al.||
+|**2025-10-16**|**[[2510.14204v1](http://arxiv.org/abs/2510.14204v1)]Origin of the voltage gap and recombination losses in all-perovskite tandem solar cells**|Hurriyet Yuce-Cakir et.al.||
 |**2025-10-15**|**[[2510.13452v1](http://arxiv.org/abs/2510.13452v1)]Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.||
 |**2025-10-14**|**[[2510.11576v2](http://arxiv.org/abs/2510.11576v2)]Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|Classification|
 |**2025-10-13**|**[[2510.11422v1](http://arxiv.org/abs/2510.11422v1)]Raman Microspectroscopy for Real-Time Structure Indicator in Ultrafast Laser Writing**|Xingrui Cheng et.al.|Unmixing|
@@ -207,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-16**|**[[2510.14661v1](http://arxiv.org/abs/2510.14661v1)]EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015-2024)**|Weikang Yu et.al.||
 |**2025-10-14**|**[[2510.12670v1](http://arxiv.org/abs/2510.12670v1)]TerraCodec: Compressing Earth Observations**|Julen Costa-Watanabe et.al.||
 |**2025-10-14**|**[[2510.12565v1](http://arxiv.org/abs/2510.12565v1)]MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|Object Tracking|
 |**2025-10-13**|**[[2510.11505v1](http://arxiv.org/abs/2510.11505v1)]Knowledge-Guided Machine Learning Models to Upscale Evapotranspiration in the U.S. Midwest**|Aleksei Rozanov et.al.||
