@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-16**|**[[2510.15198v1](http://arxiv.org/abs/2510.15198v1)]HyperAIRI: a plug-and-play algorithm for precise hyperspectral image reconstruction in radio interferometry**|Chao Tang et.al.||
+|**2025-10-16**|**[[2510.15105v1](http://arxiv.org/abs/2510.15105v1)]Bayesian Additive Regression Trees (BART) in Food Authenticity: A Classification Approach to Food Fraud Detection**|Mengxiang Zhu et.al.|Classification|
 |**2025-10-16**|**[[2510.14213v1](http://arxiv.org/abs/2510.14213v1)]Comparison of Electroluminescence and Photoluminescence Imaging of Mixed-Cation Mixed-Halide Perovskite Solar Cells at Low Temperatures**|Hurriyet Yuce-Cakir et.al.||
 |**2025-10-16**|**[[2510.14204v1](http://arxiv.org/abs/2510.14204v1)]Origin of the voltage gap and recombination losses in all-perovskite tandem solar cells**|Hurriyet Yuce-Cakir et.al.||
 |**2025-10-15**|**[[2510.13452v1](http://arxiv.org/abs/2510.13452v1)]Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.||
