@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-18**|**[[2510.16664v1](http://arxiv.org/abs/2510.16664v1)]HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.||
 |**2025-10-16**|**[[2510.15198v1](http://arxiv.org/abs/2510.15198v1)]HyperAIRI: a plug-and-play algorithm for precise hyperspectral image reconstruction in radio interferometry**|Chao Tang et.al.||
 |**2025-10-16**|**[[2510.15105v1](http://arxiv.org/abs/2510.15105v1)]Bayesian Additive Regression Trees (BART) in Food Authenticity: A Classification Approach to Food Fraud Detection**|Mengxiang Zhu et.al.|Classification|
 |**2025-10-16**|**[[2510.14213v1](http://arxiv.org/abs/2510.14213v1)]Comparison of Electroluminescence and Photoluminescence Imaging of Mixed-Cation Mixed-Halide Perovskite Solar Cells at Low Temperatures**|Hurriyet Yuce-Cakir et.al.||
@@ -269,7 +270,7 @@ layout: default
 |**2025-07-20**|**[[2507.14829v1](http://arxiv.org/abs/2507.14829v1)]Partitioning of Eddy Covariance Footprint Evapotranspiration Using Field Data, UAS Observations and GeoAI in the U.S. Chihuahuan Desert**|Habibur R. Howlider et.al.|Classification|
 |**2025-07-19**|**[[2507.14643v1](http://arxiv.org/abs/2507.14643v1)]Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-07-18**|**[[2507.14013v1](http://arxiv.org/abs/2507.14013v1)]Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.||
-|**2025-07-17**|**[[2507.13339v1](http://arxiv.org/abs/2507.13339v1)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
+|**2025-10-20**|**[[2507.13339v2](http://arxiv.org/abs/2507.13339v2)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-07-15**|**[[2507.11702v1](http://arxiv.org/abs/2507.11702v1)]Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption**|Hein de Wilde et.al.|Classification|
 |**2025-08-19**|**[[2507.10461v3](http://arxiv.org/abs/2507.10461v3)]RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|Pansharpening|
 |**2025-09-24**|**[[2507.10403v2](http://arxiv.org/abs/2507.10403v2)]CLOSP: A Unified Semantic Space for SAR, MSI, and Text in Remote Sensing**|Daniele Rege Cambrin et.al.||
