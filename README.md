@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-21**|**[[2510.18781v1](http://arxiv.org/abs/2510.18781v1)]Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.||
+|**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
+|**2025-10-20**|**[[2510.18023v1](http://arxiv.org/abs/2510.18023v1)]Mechanically Reconfigurable Terahertz Bandpass Filter Based on Double-Layered Subwavelength Metallic Rods**|Sanaz Zarei et.al.||
 |**2025-10-18**|**[[2510.16664v1](http://arxiv.org/abs/2510.16664v1)]HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.||
 |**2025-10-16**|**[[2510.15198v1](http://arxiv.org/abs/2510.15198v1)]HyperAIRI: a plug-and-play algorithm for precise hyperspectral image reconstruction in radio interferometry**|Chao Tang et.al.||
 |**2025-10-16**|**[[2510.15105v1](http://arxiv.org/abs/2510.15105v1)]Bayesian Additive Regression Trees (BART) in Food Authenticity: A Classification Approach to Food Fraud Detection**|Mengxiang Zhu et.al.|Classification|
@@ -208,6 +211,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-21**|**[[2510.18648v1](http://arxiv.org/abs/2510.18648v1)]Informed Learning for Estimating Drought Stress at Fine-Scale Resolution Enables Accurate Yield Prediction**|Miro Miranda et.al.||
+|**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
+|**2025-10-19**|**[[2510.17914v1](http://arxiv.org/abs/2510.17914v1)]NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation**|Rikard Vinge et.al.||
 |**2025-10-16**|**[[2510.14661v1](http://arxiv.org/abs/2510.14661v1)]EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015-2024)**|Weikang Yu et.al.||
 |**2025-10-14**|**[[2510.12670v1](http://arxiv.org/abs/2510.12670v1)]TerraCodec: Compressing Earth Observations**|Julen Costa-Watanabe et.al.||
 |**2025-10-14**|**[[2510.12565v1](http://arxiv.org/abs/2510.12565v1)]MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|Object Tracking|
