@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
-|**2025-10-21**|**[[2510.18781v1](http://arxiv.org/abs/2510.18781v1)]Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.||
+|**2025-10-23**|**[[2510.18781v2](http://arxiv.org/abs/2510.18781v2)]Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.||
 |**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
 |**2025-10-20**|**[[2510.18023v1](http://arxiv.org/abs/2510.18023v1)]Mechanically Reconfigurable Terahertz Bandpass Filter Based on Double-Layered Subwavelength Metallic Rods**|Sanaz Zarei et.al.||
 |**2025-10-18**|**[[2510.16664v1](http://arxiv.org/abs/2510.16664v1)]HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.||
@@ -205,7 +205,7 @@
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
 |**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
 
-<p align=right>(<a href=#Updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251024>back to top</a>)</p>
 
 ## Multispectral
 
@@ -357,7 +357,7 @@
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
 
-<p align=right>(<a href=#Updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
