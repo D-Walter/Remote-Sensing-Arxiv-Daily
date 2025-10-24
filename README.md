@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-23**|**[[2510.20814v1](http://arxiv.org/abs/2510.20814v1)]SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|Unmixing, Superresolution|
 |**2025-10-23**|**[[2510.18781v2](http://arxiv.org/abs/2510.18781v2)]Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.||
 |**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
 |**2025-10-20**|**[[2510.18023v1](http://arxiv.org/abs/2510.18023v1)]Mechanically Reconfigurable Terahertz Bandpass Filter Based on Double-Layered Subwavelength Metallic Rods**|Sanaz Zarei et.al.||
@@ -211,6 +212,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-23**|**[[2510.20814v1](http://arxiv.org/abs/2510.20814v1)]SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-10-21**|**[[2510.18648v1](http://arxiv.org/abs/2510.18648v1)]Informed Learning for Estimating Drought Stress at Fine-Scale Resolution Enables Accurate Yield Prediction**|Miro Miranda et.al.||
 |**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
 |**2025-10-19**|**[[2510.17914v1](http://arxiv.org/abs/2510.17914v1)]NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation**|Rikard Vinge et.al.||
