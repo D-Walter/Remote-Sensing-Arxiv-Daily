@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-27**|**[[2510.23124v1](http://arxiv.org/abs/2510.23124v1)]DeepSalt: Bridging Laboratory and Satellite Spectra through Domain Adaptation and Knowledge Distillation for Large-Scale Soil Salinity Estimation**|Rupasree Dey et.al.||
+|**2025-10-26**|**[[2510.22607v1](http://arxiv.org/abs/2510.22607v1)]SWAN: Self-supervised Wavelet Neural Network for Hyperspectral Image Unmixing**|Yassh Ramchandani et.al.|Unmixing|
+|**2025-10-24**|**[[2510.21924v1](http://arxiv.org/abs/2510.21924v1)]Inverse Design of Metasurface for Spectral Imaging**|Rongzhou Chen et.al.||
 |**2025-10-23**|**[[2510.20814v1](http://arxiv.org/abs/2510.20814v1)]SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|Unmixing, Superresolution|
 |**2025-10-23**|**[[2510.18781v2](http://arxiv.org/abs/2510.18781v2)]Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.||
 |**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
@@ -216,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-26**|**[[2510.22697v1](http://arxiv.org/abs/2510.22697v1)]WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing**|Vittorio Bernuzzi et.al.|Classification|
 |**2025-10-23**|**[[2510.20814v1](http://arxiv.org/abs/2510.20814v1)]SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-10-21**|**[[2510.18648v1](http://arxiv.org/abs/2510.18648v1)]Informed Learning for Estimating Drought Stress at Fine-Scale Resolution Enables Accurate Yield Prediction**|Miro Miranda et.al.||
 |**2025-10-21**|**[[2510.18400v1](http://arxiv.org/abs/2510.18400v1)]Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion**|Linsong Shan et.al.||
@@ -282,6 +286,7 @@ layout: default
 |**2025-07-15**|**[[2507.11702v1](http://arxiv.org/abs/2507.11702v1)]Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption**|Hein de Wilde et.al.|Classification|
 |**2025-08-19**|**[[2507.10461v3](http://arxiv.org/abs/2507.10461v3)]RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|Pansharpening|
 |**2025-09-24**|**[[2507.10403v2](http://arxiv.org/abs/2507.10403v2)]CLOSP: A Unified Semantic Space for SAR, MSI, and Text in Remote Sensing**|Daniele Rege Cambrin et.al.||
+|**2025-10-27**|**[[2507.09732v2](http://arxiv.org/abs/2507.09732v2)]Continental-scale habitat distribution modelling with multimodal earth observation foundation models**|Sara Si-Moussi et.al.|Classification|
 |**2025-07-08**|**[[2507.08025v1](http://arxiv.org/abs/2507.08025v1)]3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**|Narges Takhtkeshha et.al.||
 |**2025-07-10**|**[[2507.07585v1](http://arxiv.org/abs/2507.07585v1)]HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia et.al.||
 |**2025-07-10**|**[[2507.07527v1](http://arxiv.org/abs/2507.07527v1)]MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models**|Joelle Hanna et.al.||
