@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-27**|**[[2510.23839v1](http://arxiv.org/abs/2510.23839v1)]Hyperspectral Reconstruction using Discrete LED-Structured Illumination**|John C. Howell et.al.||
 |**2025-10-27**|**[[2510.23124v1](http://arxiv.org/abs/2510.23124v1)]DeepSalt: Bridging Laboratory and Satellite Spectra through Domain Adaptation and Knowledge Distillation for Large-Scale Soil Salinity Estimation**|Rupasree Dey et.al.||
 |**2025-10-26**|**[[2510.22607v1](http://arxiv.org/abs/2510.22607v1)]SWAN: Self-supervised Wavelet Neural Network for Hyperspectral Image Unmixing**|Yassh Ramchandani et.al.|Unmixing|
 |**2025-10-24**|**[[2510.21924v1](http://arxiv.org/abs/2510.21924v1)]Inverse Design of Metasurface for Spectral Imaging**|Rongzhou Chen et.al.||
@@ -280,7 +281,7 @@ layout: default
 |**2025-07-24**|**[[2507.18099v1](http://arxiv.org/abs/2507.18099v1)]Comparison of Segmentation Methods in Remote Sensing for Land Use Land Cover**|Naman Srivastava et.al.||
 |**2025-07-28**|**[[2507.16318v2](http://arxiv.org/abs/2507.16318v2)]M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision**|Kailai Zhou et.al.||
 |**2025-07-20**|**[[2507.14829v1](http://arxiv.org/abs/2507.14829v1)]Partitioning of Eddy Covariance Footprint Evapotranspiration Using Field Data, UAS Observations and GeoAI in the U.S. Chihuahuan Desert**|Habibur R. Howlider et.al.|Classification|
-|**2025-07-19**|**[[2507.14643v1](http://arxiv.org/abs/2507.14643v1)]Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**|Jifeng Shen et.al.|Object Detection|
+|**2025-10-28**|**[[2507.14643v2](http://arxiv.org/abs/2507.14643v2)]Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-07-18**|**[[2507.14013v1](http://arxiv.org/abs/2507.14013v1)]Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.||
 |**2025-10-20**|**[[2507.13339v2](http://arxiv.org/abs/2507.13339v2)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-07-15**|**[[2507.11702v1](http://arxiv.org/abs/2507.11702v1)]Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption**|Hein de Wilde et.al.|Classification|
