@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-29**|**[[2510.25987v1](http://arxiv.org/abs/2510.25987v1)]HS-ANET: Star Spectral Type Enhanced Astrometric Calibration for Hyper Spectral Space Imaging**|Kevin Phan et.al.||
 |**2025-10-27**|**[[2510.23839v1](http://arxiv.org/abs/2510.23839v1)]Hyperspectral Reconstruction using Discrete LED-Structured Illumination**|John C. Howell et.al.||
 |**2025-10-27**|**[[2510.23124v1](http://arxiv.org/abs/2510.23124v1)]DeepSalt: Bridging Laboratory and Satellite Spectra through Domain Adaptation and Knowledge Distillation for Large-Scale Soil Salinity Estimation**|Rupasree Dey et.al.||
 |**2025-10-26**|**[[2510.22607v1](http://arxiv.org/abs/2510.22607v1)]SWAN: Self-supervised Wavelet Neural Network for Hyperspectral Image Unmixing**|Yassh Ramchandani et.al.|Unmixing|
