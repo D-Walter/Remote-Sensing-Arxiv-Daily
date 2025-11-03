@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-10-31**|**[[2510.27219v1](http://arxiv.org/abs/2510.27219v1)]SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|Classification|
 |**2025-10-29**|**[[2510.25987v1](http://arxiv.org/abs/2510.25987v1)]HS-ANET: Star Spectral Type Enhanced Astrometric Calibration for Hyper Spectral Space Imaging**|Kevin Phan et.al.||
 |**2025-10-27**|**[[2510.23839v1](http://arxiv.org/abs/2510.23839v1)]Hyperspectral Reconstruction using Discrete LED-Structured Illumination**|John C. Howell et.al.||
 |**2025-10-27**|**[[2510.23124v1](http://arxiv.org/abs/2510.23124v1)]DeepSalt: Bridging Laboratory and Satellite Spectra through Domain Adaptation and Knowledge Distillation for Large-Scale Soil Salinity Estimation**|Rupasree Dey et.al.||
