@@ -314,7 +314,7 @@
 |**2025-07-14**|**[[2505.15137v2](http://arxiv.org/abs/2505.15137v2)]Multispectral Detection Transformer with Infrared-Centric Feature Fusion**|Seongmin Hwang et.al.|Object Detection|
 |**2025-05-20**|**[[2505.14088v1](http://arxiv.org/abs/2505.14088v1)]Generalizable Multispectral Land Cover Classification via Frequency-Aware Mixture of Low-Rank Token Experts**|Xi Chen et.al.|Classification|
 |**2025-05-23**|**[[2505.14043v3](http://arxiv.org/abs/2505.14043v3)]Selective Structured State Space for Multispectral-fused Small Target Detection**|Qianqian Zhang et.al.|Object Detection|
-|**2025-07-18**|**[[2505.13916v2](http://arxiv.org/abs/2505.13916v2)]Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.||
+|**2025-11-03**|**[[2505.13916v3](http://arxiv.org/abs/2505.13916v3)]Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.||
 |**2025-05-17**|**[[2505.11800v1](http://arxiv.org/abs/2505.11800v1)]Self-Learning Hyperspectral and Multispectral Image Fusion via Adaptive Residual Guided Subspace Diffusion Model**|Jian Zhu et.al.||
 |**2025-06-23**|**[[2505.10492v2](http://arxiv.org/abs/2505.10492v2)]Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.||
 |**2025-05-06**|**[[2505.07840v1](http://arxiv.org/abs/2505.07840v1)]Evaluation of UAV-Based RGB and Multispectral Vegetation Indices for Precision Agriculture in Palm Tree Cultivation**|Alavikunhu Panthakkan et.al.|Classification|
