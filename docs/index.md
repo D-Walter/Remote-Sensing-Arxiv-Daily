@@ -77,7 +77,7 @@ layout: default
 |**2025-09-14**|**[[2509.11096v1](http://arxiv.org/abs/2509.11096v1)]A Copula-Guided Temporal Dependency Method for Multitemporal Hyperspectral Images Unmixing**|Ruiying Li et.al.|Unmixing|
 |**2025-09-14**|**[[2509.11093v1](http://arxiv.org/abs/2509.11093v1)]SMILE: A Super-resolution Guided Multi-task Learning Method for Hyperspectral Unmixing**|Ruiying Li et.al.|Unmixing, Superresolution|
 |**2025-09-19**|**[[2509.10651v2](http://arxiv.org/abs/2509.10651v2)]USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.||
-|**2025-09-11**|**[[2509.09163v1](http://arxiv.org/abs/2509.09163v1)]CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|Classification|
+|**2025-11-04**|**[[2509.09163v2](http://arxiv.org/abs/2509.09163v2)]CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|Classification|
 |**2025-09-22**|**[[2509.08436v2](http://arxiv.org/abs/2509.08436v2)]HyperTTA: Test-Time Adaptation for Hyperspectral Image Classification under Distribution Shifts**|Xia Yue et.al.|Classification|
 |**2025-09-10**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
 |**2025-09-03**|**[[2509.06993v1](http://arxiv.org/abs/2509.06993v1)]Geospatial Foundational Embedder: Top-1 Winning Solution on EarthVision Embed2Scale Challenge (CVPR 2025)**|Zirui Xu et.al.|Classification|
@@ -222,6 +222,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-01**|**[[2511.00653v1](http://arxiv.org/abs/2511.00653v1)]Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset**|Lassi Ruoppa et.al.||
 |**2025-10-26**|**[[2510.22697v1](http://arxiv.org/abs/2510.22697v1)]WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing**|Vittorio Bernuzzi et.al.|Classification|
 |**2025-10-23**|**[[2510.20814v1](http://arxiv.org/abs/2510.20814v1)]SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-10-21**|**[[2510.18648v1](http://arxiv.org/abs/2510.18648v1)]Informed Learning for Estimating Drought Stress at Fine-Scale Resolution Enables Accurate Yield Prediction**|Miro Miranda et.al.||
