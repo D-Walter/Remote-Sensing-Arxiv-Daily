@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-06**|**[[2511.04349v1](http://arxiv.org/abs/2511.04349v1)]A MATLAB tutorial on deep feature extraction combined with chemometrics for analytical applications**|Puneet Mishra et.al.||
+|**2025-11-06**|**[[2511.04291v1](http://arxiv.org/abs/2511.04291v1)]Robustness of Minimum-Volume Nonnegative Matrix Factorization under an Expanded Sufficiently Scattered Condition**|Giovanni Barbarino et.al.||
 |**2025-10-31**|**[[2510.27219v1](http://arxiv.org/abs/2510.27219v1)]SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|Classification|
 |**2025-10-29**|**[[2510.25987v1](http://arxiv.org/abs/2510.25987v1)]HS-ANET: Star Spectral Type Enhanced Astrometric Calibration for Hyper Spectral Space Imaging**|Kevin Phan et.al.||
 |**2025-10-27**|**[[2510.23839v1](http://arxiv.org/abs/2510.23839v1)]Hyperspectral Reconstruction using Discrete LED-Structured Illumination**|John C. Howell et.al.||
