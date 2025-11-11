@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-11-10**|**[[2511.07109v1](http://arxiv.org/abs/2511.07109v1)]A Provably-Correct and Robust Convex Model for Smooth Separable NMF**|Junjun Pan et.al.|Unmixing|
+|**2025-11-10**|**[[2511.07103v1](http://arxiv.org/abs/2511.07103v1)]GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|Superresolution|
+|**2025-11-10**|**[[2511.06751v1](http://arxiv.org/abs/2511.06751v1)]Hierarchical Spatial-Frequency Aggregation for Spectral Deconvolution Imaging**|Tao Lv et.al.||
 |**2025-11-06**|**[[2511.04349v1](http://arxiv.org/abs/2511.04349v1)]A MATLAB tutorial on deep feature extraction combined with chemometrics for analytical applications**|Puneet Mishra et.al.||
 |**2025-11-06**|**[[2511.04291v1](http://arxiv.org/abs/2511.04291v1)]Robustness of Minimum-Volume Nonnegative Matrix Factorization under an Expanded Sufficiently Scattered Condition**|Giovanni Barbarino et.al.||
 |**2025-10-31**|**[[2510.27219v1](http://arxiv.org/abs/2510.27219v1)]SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|Classification|
@@ -38,7 +41,7 @@
 |**2025-10-16**|**[[2510.14204v1](http://arxiv.org/abs/2510.14204v1)]Origin of the voltage gap and recombination losses in all-perovskite tandem solar cells**|Hurriyet Yuce-Cakir et.al.||
 |**2025-10-15**|**[[2510.13452v1](http://arxiv.org/abs/2510.13452v1)]Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.||
 |**2025-10-14**|**[[2510.11576v2](http://arxiv.org/abs/2510.11576v2)]Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|Classification|
-|**2025-10-13**|**[[2510.11422v1](http://arxiv.org/abs/2510.11422v1)]Raman Microspectroscopy for Real-Time Structure Indicator in Ultrafast Laser Writing**|Xingrui Cheng et.al.|Unmixing|
+|**2025-11-08**|**[[2510.11422v2](http://arxiv.org/abs/2510.11422v2)]Raman Microspectroscopy for Real-Time Structure Indicator in Ultrafast Laser Writing**|Xingrui Cheng et.al.|Unmixing|
 |**2025-10-10**|**[[2510.09912v1](http://arxiv.org/abs/2510.09912v1)]SpectralCA: Bi-Directional Cross-Attention for Next-Generation UAV Hyperspectral Vision**|D. V. Brovko et.al.|Classification, Object Detection|
 |**2025-10-09**|**[[2510.08363v1](http://arxiv.org/abs/2510.08363v1)]Hyperspectral data augmentation with transformer-based diffusion models**|Mattia Ferrari et.al.|Classification|
 |**2025-10-08**|**[[2510.07556v1](http://arxiv.org/abs/2510.07556v1)]Label Semantics for Robust Hyperspectral Image Classification**|Rafin Hassan et.al.|Classification|
@@ -220,6 +223,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-11-10**|**[[2511.07362v1](http://arxiv.org/abs/2511.07362v1)]Inference-Time Scaling of Diffusion Models for Infrared Data Generation**|Kai A. Horstmann et.al.||
+|**2025-11-09**|**[[2511.06298v1](http://arxiv.org/abs/2511.06298v1)]SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection**|Xin Zuo et.al.|Object Detection|
+|**2025-11-08**|**[[2511.05877v1](http://arxiv.org/abs/2511.05877v1)]HAPS Communication Networks: A Tutorial-cum-Survey on Integration with Optical Atmospheric Sensing**|Ali Elkhazraji et.al.||
 |**2025-11-01**|**[[2511.00653v1](http://arxiv.org/abs/2511.00653v1)]Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset**|Lassi Ruoppa et.al.||
 |**2025-10-26**|**[[2510.22697v1](http://arxiv.org/abs/2510.22697v1)]WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing**|Vittorio Bernuzzi et.al.|Classification|
 |**2025-10-23**|**[[2510.20814v1](http://arxiv.org/abs/2510.20814v1)]SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|Superresolution|
@@ -248,7 +254,7 @@
 |**2025-09-19**|**[[2509.15753v1](http://arxiv.org/abs/2509.15753v1)]MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection**|Yang Li et.al.|Object Detection|
 |**2025-09-11**|**[[2509.12247v1](http://arxiv.org/abs/2509.12247v1)]Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al.||
 |**2025-09-16**|**[[2509.11614v2](http://arxiv.org/abs/2509.11614v2)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
-|**2025-09-14**|**[[2509.11169v1](http://arxiv.org/abs/2509.11169v1)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
+|**2025-11-10**|**[[2509.11169v2](http://arxiv.org/abs/2509.11169v2)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
 |**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
 |**2025-09-15**|**[[2509.09085v2](http://arxiv.org/abs/2509.09085v2)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
