@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.11.11
+## Updated on 2025.11.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,12 +19,13 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
 |**2025-11-10**|**[[2511.07109v1](http://arxiv.org/abs/2511.07109v1)]A Provably-Correct and Robust Convex Model for Smooth Separable NMF**|Junjun Pan et.al.|Unmixing|
 |**2025-11-10**|**[[2511.07103v1](http://arxiv.org/abs/2511.07103v1)]GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|Superresolution|
 |**2025-11-10**|**[[2511.06751v1](http://arxiv.org/abs/2511.06751v1)]Hierarchical Spatial-Frequency Aggregation for Spectral Deconvolution Imaging**|Tao Lv et.al.||
 |**2025-11-06**|**[[2511.04349v1](http://arxiv.org/abs/2511.04349v1)]A MATLAB tutorial on deep feature extraction combined with chemometrics for analytical applications**|Puneet Mishra et.al.||
 |**2025-11-06**|**[[2511.04291v1](http://arxiv.org/abs/2511.04291v1)]Robustness of Minimum-Volume Nonnegative Matrix Factorization under an Expanded Sufficiently Scattered Condition**|Giovanni Barbarino et.al.||
-|**2025-10-31**|**[[2510.27219v1](http://arxiv.org/abs/2510.27219v1)]SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|Classification|
+|**2025-11-03**|**[[2510.27219v1](http://arxiv.org/abs/2510.27219v1)]SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|Classification|
 |**2025-10-29**|**[[2510.25987v1](http://arxiv.org/abs/2510.25987v1)]HS-ANET: Star Spectral Type Enhanced Astrometric Calibration for Hyper Spectral Space Imaging**|Kevin Phan et.al.||
 |**2025-10-27**|**[[2510.23839v1](http://arxiv.org/abs/2510.23839v1)]Hyperspectral Reconstruction using Discrete LED-Structured Illumination**|John C. Howell et.al.||
 |**2025-10-27**|**[[2510.23124v1](http://arxiv.org/abs/2510.23124v1)]DeepSalt: Bridging Laboratory and Satellite Spectra through Domain Adaptation and Knowledge Distillation for Large-Scale Soil Salinity Estimation**|Rupasree Dey et.al.||
@@ -40,7 +41,8 @@
 |**2025-10-16**|**[[2510.14213v1](http://arxiv.org/abs/2510.14213v1)]Comparison of Electroluminescence and Photoluminescence Imaging of Mixed-Cation Mixed-Halide Perovskite Solar Cells at Low Temperatures**|Hurriyet Yuce-Cakir et.al.||
 |**2025-10-16**|**[[2510.14204v1](http://arxiv.org/abs/2510.14204v1)]Origin of the voltage gap and recombination losses in all-perovskite tandem solar cells**|Hurriyet Yuce-Cakir et.al.||
 |**2025-10-15**|**[[2510.13452v1](http://arxiv.org/abs/2510.13452v1)]Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.||
-|**2025-10-14**|**[[2510.11576v2](http://arxiv.org/abs/2510.11576v2)]Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|Classification|
+|**2025-10-15**|**[[2510.12104v1](http://arxiv.org/abs/2510.12104v1)]Recursive Inverse Design Enables Hyper-spectral Photonic Integrated Circuits**|Hao He et.al.||
+|**2025-10-15**|**[[2510.11576v2](http://arxiv.org/abs/2510.11576v2)]Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|Classification|
 |**2025-11-08**|**[[2510.11422v2](http://arxiv.org/abs/2510.11422v2)]Raman Microspectroscopy for Real-Time Structure Indicator in Ultrafast Laser Writing**|Xingrui Cheng et.al.|Unmixing|
 |**2025-10-10**|**[[2510.09912v1](http://arxiv.org/abs/2510.09912v1)]SpectralCA: Bi-Directional Cross-Attention for Next-Generation UAV Hyperspectral Vision**|D. V. Brovko et.al.|Classification, Object Detection|
 |**2025-10-09**|**[[2510.08363v1](http://arxiv.org/abs/2510.08363v1)]Hyperspectral data augmentation with transformer-based diffusion models**|Mattia Ferrari et.al.|Classification|
@@ -60,8 +62,9 @@
 |**2025-09-28**|**[[2509.24027v1](http://arxiv.org/abs/2509.24027v1)]Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.||
 |**2025-09-28**|**[[2509.24017v1](http://arxiv.org/abs/2509.24017v1)]Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.||
 |**2025-09-20**|**[[2509.22697v1](http://arxiv.org/abs/2509.22697v1)]Learning Hyperspectral Images with Curated Text Prompts for Efficient Multimodal Alignment**|Abhiroop Chatterjee et.al.|VLM|
+|**2025-09-29**|**[[2509.22453v1](http://arxiv.org/abs/2509.22453v1)]Hyper-py: HYbrid Photometry and Extraction Routine in PYthon**|Alessio Traficante et.al.||
 |**2025-09-26**|**[[2509.21973v1](http://arxiv.org/abs/2509.21973v1)]Multicollinearity-Aware Parameter-Free Strategy for Hyperspectral Band Selection: A Dependence Measures-Based Approach**|Dibyabha Deb et.al.|Classification|
-|**2025-09-24**|**[[2509.20417v1](http://arxiv.org/abs/2509.20417v1)]Optimal Transport Based Hyperspectral Unmixing for Highly Mixed Observations**|D. Doutsas et.al.|Unmixing|
+|**2025-09-26**|**[[2509.20417v1](http://arxiv.org/abs/2509.20417v1)]Optimal Transport Based Hyperspectral Unmixing for Highly Mixed Observations**|D. Doutsas et.al.|Unmixing|
 |**2025-09-25**|**[[2509.20107v2](http://arxiv.org/abs/2509.20107v2)]Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.||
 |**2025-09-24**|**[[2509.19900v1](http://arxiv.org/abs/2509.19900v1)]Generalized Nonnegative Structured Kruskal Tensor Regression**|Xinjue Wang et.al.||
 |**2025-09-26**|**[[2509.19665v2](http://arxiv.org/abs/2509.19665v2)]Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy**|Manuel Perez-Carrasco et.al.||
@@ -80,7 +83,7 @@
 |**2025-09-19**|**[[2509.10651v2](http://arxiv.org/abs/2509.10651v2)]USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.||
 |**2025-11-04**|**[[2509.09163v2](http://arxiv.org/abs/2509.09163v2)]CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|Classification|
 |**2025-09-22**|**[[2509.08436v2](http://arxiv.org/abs/2509.08436v2)]HyperTTA: Test-Time Adaptation for Hyperspectral Image Classification under Distribution Shifts**|Xia Yue et.al.|Classification|
-|**2025-09-10**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
+|**2025-09-11**|**[[2509.08265v1](http://arxiv.org/abs/2509.08265v1)]Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|Object Tracking|
 |**2025-09-03**|**[[2509.06993v1](http://arxiv.org/abs/2509.06993v1)]Geospatial Foundational Embedder: Top-1 Winning Solution on EarthVision Embed2Scale Challenge (CVPR 2025)**|Zirui Xu et.al.|Classification|
 |**2025-09-08**|**[[2509.06577v1](http://arxiv.org/abs/2509.06577v1)]Approximating Condorcet Ordering for Vector-valued Mathematical Morphology**|Marcos Eduardo Valle et.al.||
 |**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
@@ -149,6 +152,7 @@
 |**2025-07-22**|**[[2507.17068v1](http://arxiv.org/abs/2507.17068v1)]Fast 4D-STEM-based phase mapping for amorphous and mixed materials**|Andreas Werbrouck et.al.||
 |**2025-07-21**|**[[2507.15777v1](http://arxiv.org/abs/2507.15777v1)]Label tree semantic losses for rich multi-class medical image segmentation**|Junwen Wang et.al.||
 |**2025-07-20**|**[[2507.14787v1](http://arxiv.org/abs/2507.14787v1)]FOCUS: Fused Observation of Channels for Unveiling Spectra**|Xi Xiao et.al.||
+|**2025-07-22**|**[[2507.14260v1](http://arxiv.org/abs/2507.14260v1)]Hyper-spectral Unmixing algorithms for remote compositional surface mapping: a review of the state of the art**|Alfredo Gimenez Zapiola et.al.|Unmixing|
 |**2025-07-18**|**[[2507.13769v1](http://arxiv.org/abs/2507.13769v1)]Learning Spectral Diffusion Prior for Hyperspectral Image Reconstruction**|Mingyang Yu et.al.||
 |**2025-07-06**|**[[2507.13364v1](http://arxiv.org/abs/2507.13364v1)]OmniVec2 -- A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning**|Siddharth Srivastava et.al.||
 |**2025-07-17**|**[[2507.13339v1](http://arxiv.org/abs/2507.13339v1)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
@@ -209,15 +213,105 @@
 |**2025-05-30**|**[[2505.24605v1](http://arxiv.org/abs/2505.24605v1)]Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|Superresolution|
 |**2025-05-29**|**[[2505.24062v1](http://arxiv.org/abs/2505.24062v1)]Exploring Domain Wall Pinning in Ferroelectrics via Automated High Throughput AFM**|Kamyar Barakati et.al.||
 |**2025-05-28**|**[[2505.22187v1](http://arxiv.org/abs/2505.22187v1)]MONSTR: Model-Oriented Neutron Strain Tomographic Reconstruction**|Mohammad Samin Nur Chowdhury et.al.||
-|**2025-05-28**|**[[2505.21890v1](http://arxiv.org/abs/2505.21890v1)]Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|Denoising|
+|**2025-11-10**|**[[2505.21890v2](http://arxiv.org/abs/2505.21890v2)]Diffusion Denoised Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.||
 |**2025-05-27**|**[[2505.21746v1](http://arxiv.org/abs/2505.21746v1)]Learning to See More: UAS-Guided Super-Resolution of Satellite Imagery for Precision Agriculture**|Arif Masrur et.al.|Superresolution|
 |**2025-05-27**|**[[2505.20902v1](http://arxiv.org/abs/2505.20902v1)]Multitemporal Latent Dynamical Framework for Hyperspectral Images Unmixing**|Ruiying Li et.al.|Unmixing|
 |**2025-06-05**|**[[2505.20507v2](http://arxiv.org/abs/2505.20507v2)]Electrolyzers-HSI: Close-Range Multi-Scene Hyperspectral Imaging Benchmark Dataset**|Elias Arbash et.al.|Classification|
 |**2025-05-26**|**[[2505.19500v1](http://arxiv.org/abs/2505.19500v1)]Objective, Absolute and Hue-aware Metrics for Intrinsic Image Decomposition on Real-World Scenes: A Proof of Concept**|Shogo Sato et.al.||
 |**2025-05-25**|**[[2505.19224v1](http://arxiv.org/abs/2505.19224v1)]Nano-Raman Spectroscopy Analysis of Nanoprotuberances in MoSe2**|Jane Elisa Guimarães et.al.||
-|**2025-05-24**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
+|**2025-05-27**|**[[2505.18587v1](http://arxiv.org/abs/2505.18587v1)]HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.||
+|**2025-03-31**|**[[2503.22199v1](http://arxiv.org/abs/2503.22199v1)]Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**|Long Gao et.al.|Object Tracking|
+|**2025-03-19**|**[[2503.13906v1](http://arxiv.org/abs/2503.13906v1)]HSOD-BIT-V2: A New Challenging Benchmarkfor Hyperspectral Salient Object Detection**|Yuhao Qiu et.al.|Object Detection|
+|**2025-03-18**|**[[2503.12973v1](http://arxiv.org/abs/2503.12973v1)]Prospects for Mitigating Spectral Variability in Tropical Species Classification Using Self-Supervised Learning**|Colin Prieur et.al.|Classification|
+|**2025-02-27**|**[[2502.18748v1](http://arxiv.org/abs/2502.18748v1)]Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking**|Shaheer Mohamed et.al.|Object Tracking|
+|**2024-11-19**|**[[2411.11324v1](http://arxiv.org/abs/2411.11324v1)]Cuvis.Ai: An Open-Source, Low-Code Software Ecosystem for Hyperspectral Processing and Classification**|Nathaniel Hanson et.al.|Classification|
+|**2024-11-04**|**[[2411.00281v1](http://arxiv.org/abs/2411.00281v1)]Detection and tracking of gas plumes in LWIR hyperspectral video sequence data**|Torin Gerhart et.al.||
+|**2025-05-27**|**[[2410.22500v2](http://arxiv.org/abs/2410.22500v2)]Fast Hyperspectral Neutron Tomography**|Mohammad Samin Nur Chowdhury et.al.||
+|**2025-05-27**|**[[2410.22101v2](http://arxiv.org/abs/2410.22101v2)]Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.||
+|**2024-10-01**|**[[2409.19701v1](http://arxiv.org/abs/2409.19701v1)]Hyperspectral Unmixing of Agricultural Images taken from UAV Using Adapted U-Net Architecture**|Vytautas Paura et.al.|Unmixing|
+|**2025-03-04**|**[[2408.08700v2](http://arxiv.org/abs/2408.08700v2)]HyCoT: A Transformer-Based Autoencoder for Hyperspectral Image Compression**|Martin Hermann Paul Fuchs et.al.||
+|**2024-07-22**|**[[2407.13879v1](http://arxiv.org/abs/2407.13879v1)]Correlation Hyperspectral Imaging**|Gianlorenzo Massaro et.al.||
+|**2024-07-16**|**[[2407.10427v1](http://arxiv.org/abs/2407.10427v1)]Transformer for Multitemporal Hyperspectral Image Unmixing**|Hang Li et.al.|Unmixing|
+|**2024-11-08**|**[[2407.09038v2](http://arxiv.org/abs/2407.09038v2)]High-Resolution Hyperspectral Video Imaging Using A Hexagonal Camera Array**|Frank Sippel et.al.|Classification|
+|**2024-07-01**|**[[2406.19560v1](http://arxiv.org/abs/2406.19560v1)]Cost-efficient Active Illumination Camera For Hyper-spectral Reconstruction**|Yuxuan Zhang et.al.||
+|**2024-07-02**|**[[2406.14220v2](http://arxiv.org/abs/2406.14220v2)]Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|Classification|
+|**2024-06-07**|**[[2406.04287v1](http://arxiv.org/abs/2406.04287v1)]SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.||
+|**2025-05-27**|**[[2405.10148v3](http://arxiv.org/abs/2405.10148v3)]SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|Classification, Object Detection|
+|**2024-04-23**|**[[2404.13159v1](http://arxiv.org/abs/2404.13159v1)]Equivariant Imaging for Self-supervised Hyperspectral Image Inpainting**|Shuo Li et.al.||
+|**2024-04-11**|**[[2404.06526v1](http://arxiv.org/abs/2404.06526v1)]Onboard Processing of Hyperspectral Imagery: Deep Learning Advancements, Methodologies, Challenges, and Emerging Trends**|Nafiseh Ghasemi et.al.||
+|**2025-07-08**|**[[2404.03313v4](http://arxiv.org/abs/2404.03313v4)]Spatio-Spectral Structure Tensor Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|Denoising|
+|**2024-03-27**|**[[2403.17014v1](http://arxiv.org/abs/2403.17014v1)]Contrastive Learning for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
+|**2024-03-25**|**[[2403.14839v1](http://arxiv.org/abs/2403.14839v1)]Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|Superresolution|
+|**2024-03-14**|**[[2403.08695v1](http://arxiv.org/abs/2403.08695v1)]Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|Classification|
+|**2024-01-29**|**[[2401.14786v1](http://arxiv.org/abs/2401.14786v1)]Study of the gOMP Algorithm for Recovery of Compressed Sensed Hyperspectral Images**|Jon Alvarez Justo et.al.||
+|**2024-01-29**|**[[2401.14762v1](http://arxiv.org/abs/2401.14762v1)]A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction**|Jon Alvarez Justo et.al.||
+|**2023-12-13**|**[[2312.07016v1](http://arxiv.org/abs/2312.07016v1)]Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|Superresolution, Denoising|
+|**2023-11-28**|**[[2311.15459v1](http://arxiv.org/abs/2311.15459v1)]HyperKon: A Self-Supervised Contrastive Network for Hyperspectral Image Analysis**|Daniel L Ayuba et.al.|Classification|
+|**2023-11-28**|**[[2311.14899v1](http://arxiv.org/abs/2311.14899v1)]HyperDID: Hyperspectral Intrinsic Image Decomposition with Deep Feature Embedding**|Zhiqiang Gong et.al.|Classification|
+|**2023-10-30**|**[[2310.17911v1](http://arxiv.org/abs/2310.17911v1)]Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.||
+|**2024-10-28**|**[[2310.16210v4](http://arxiv.org/abs/2310.16210v4)]Semantic Segmentation in Satellite Hyperspectral Imagery by Deep Learning**|Jon Alvarez Justo et.al.||
+|**2023-09-06**|**[[2309.01561v1](http://arxiv.org/abs/2309.01561v1)]Locality-Aware Hyperspectral Classification**|Fangqin Zhou et.al.|Classification|
+|**2023-09-06**|**[[2308.13679v2](http://arxiv.org/abs/2308.13679v2)]An Open Hyperspectral Dataset with Sea-Land-Cloud Ground-Truth from the HYPSO-1 Satellite**|Jon A. Justo et.al.||
+|**2023-08-31**|**[[2308.07016v2](http://arxiv.org/abs/2308.07016v2)]HHTrack: Hyperspectral Object Tracking Using Hybrid Attention**|Yuedong Tan et.al.|Object Tracking|
+|**2024-12-17**|**[[2306.00385v2](http://arxiv.org/abs/2306.00385v2)]HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods**|Martin Hermann Paul Fuchs et.al.||
+|**2025-03-04**|**[[2305.08514v4](http://arxiv.org/abs/2305.08514v4)]Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Martin Hermann Paul Fuchs et.al.||
+|**2023-04-06**|**[[2303.16205v2](http://arxiv.org/abs/2303.16205v2)]mHealth hyperspectral learning for instantaneous spatiospectral imaging of hemodynamics**|Yuhyun Ji et.al.||
+|**2023-03-20**|**[[2303.09773v1](http://arxiv.org/abs/2303.09773v1)]Progressive Content-aware Coded Hyperspectral Compressive Imaging**|Xuanyu Zhang et.al.||
+|**2023-02-16**|**[[2302.07568v1](http://arxiv.org/abs/2302.07568v1)]Hyper-spectral imaging through a multi-mode fiber**|Alim Yolalmaz et.al.|Classification|
+|**2023-02-13**|**[[2302.04936v1](http://arxiv.org/abs/2302.04936v1)]Unsupervised ore/waste classification on open-cut mine faces using close-range hyperspectral data**|Lloyd Windrim et.al.|Classification|
+|**2023-02-21**|**[[2301.07551v3](http://arxiv.org/abs/2301.07551v3)]Synthetic Hyperspectral Array Video Database with Applications to Cross-Spectral Reconstruction and Hyperspectral Video Coding**|Frank Sippel et.al.||
+|**2023-08-29**|**[[2211.04814v3](http://arxiv.org/abs/2211.04814v3)]A millimetre-wave superconducting hyper-spectral device**|Usasi Chowdhury et.al.||
+|**2022-10-18**|**[[2209.03136v2](http://arxiv.org/abs/2209.03136v2)]Wavelength-aware 2D Convolutions for Hyperspectral Imaging**|Leon Amadeus Varga et.al.|Classification|
+|**2022-06-14**|**[[2206.05539v1](http://arxiv.org/abs/2206.05539v1)]A Simplified Un-Supervised Learning Based Approach for Ink Mismatch Detection in Handwritten Hyper-Spectral Document Images**|Muhammad Farhan Humayun et.al.||
+|**2022-03-24**|**[[2203.12350v1](http://arxiv.org/abs/2203.12350v1)]Hyper-Spectral Imaging for Overlapping Plastic Flakes Segmentation**|Guillem Martinez et.al.||
+|**2022-03-23**|**[[2203.11209v1](http://arxiv.org/abs/2203.11209v1)]On the Effect of Pre-Processing and Model Complexity for Plastic Analysis Using Short-Wave-Infrared Hyper-Spectral Imaging**|Klaas Dijkstra et.al.||
+|**2022-03-11**|**[[2203.05199v1](http://arxiv.org/abs/2203.05199v1)]Hyperspectral Imaging for cherry tomato**|Yun Xiang et.al.||
+|**2021-10-14**|**[[2110.06571v1](http://arxiv.org/abs/2110.06571v1)]Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera et.al.||
+|**2021-04-13**|**[[2104.04884v1](http://arxiv.org/abs/2104.04884v1)]Hyperspectral Pigment Analysis of Cultural Heritage Artifacts Using the Opaque Form of Kubelka-Munk Theory**|Abu Md Niamul Taufique et.al.|Unmixing, Classification|
+|**2021-04-01**|**[[2008.10254v2](http://arxiv.org/abs/2008.10254v2)]A Dataset for Evaluating Blood Detection in Hyperspectral Images**|Michał Romaszewski et.al.|Object Detection|
+|**2020-08-07**|**[[2008.02797v1](http://arxiv.org/abs/2008.02797v1)]A Novel Spatial-Spectral Framework for the Classification of Hyperspectral Satellite Imagery**|Shriya TP Gupta et.al.|Classification|
+|**2020-07-20**|**[[2007.08592v1](http://arxiv.org/abs/2007.08592v1)]Advances in Deep Learning for Hyperspectral Image Analysis--Addressing Challenges Arising in Practical Imaging Scenarios**|Xiong Zhou et.al.|Classification, Object Detection|
+|**2020-06-24**|**[[2006.12556v1](http://arxiv.org/abs/2006.12556v1)]Frost filtered scale-invariant feature extraction and multilayer perceptron for hyperspectral image classification**|G. Kalaiarasi et.al.|Classification|
+|**2020-05-26**|**[[2005.08752v2](http://arxiv.org/abs/2005.08752v2)]Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery**|Junjun Jiang et.al.|Superresolution|
+|**2021-05-06**|**[[2005.05160v2](http://arxiv.org/abs/2005.05160v2)]Hyperspectral Nanomotion Microscopy**|Tongjun Liu et.al.||
+|**2021-05-06**|**[[2001.11198v3](http://arxiv.org/abs/2001.11198v3)]A CNN With Multi-scale Convolution for Hyperspectral Image Classification using Target-Pixel-Orientation scheme**|Jayasree Saha et.al.|Classification|
+|**2020-12-02**|**[[1912.08178v3](http://arxiv.org/abs/1912.08178v3)]AeroRIT: A New Scene for Hyperspectral Image Analysis**|Aneesh Rangnekar et.al.||
+|**2020-07-15**|**[[1906.09631v1](http://arxiv.org/abs/1906.09631v1)]Transfer Learning for Segmenting Dimensionally-Reduced Hyperspectral Images**|Jakub Nalepa et.al.||
+|**2021-10-07**|**[[1904.13017v2](http://arxiv.org/abs/1904.13017v2)]Hyperspectral Unmixing via Deep Autoencoder Networks for a Generalized Linear-Mixture/Nonlinear-Fluctuation Model**|Min Zhao et.al.|Unmixing|
+|**2020-03-06**|**[[1904.09030v3](http://arxiv.org/abs/1904.09030v3)]Automatic Target Detection for Sparse Hyperspectral Images**|Ahmad W. Bitar et.al.|Object Detection|
+|**2019-03-14**|**[[1903.05580v1](http://arxiv.org/abs/1903.05580v1)]Hyperspectral Data Augmentation**|Jakub Nalepa et.al.|Classification|
+|**2019-03-01**|**[[1902.11111v1](http://arxiv.org/abs/1902.11111v1)]Target-based Hyperspectral Demixing via Generalized Robust PCA**|Sirisha Rambhatla et.al.|Classification, Object Detection|
+|**2020-04-22**|**[[1902.10238v1](http://arxiv.org/abs/1902.10238v1)]A Dictionary-Based Generalization of Robust PCA Part II: Applications to Hyperspectral Demixing**|Sirisha Rambhatla et.al.|Classification, Object Detection|
+|**2018-12-31**|**[[1812.10788v1](http://arxiv.org/abs/1812.10788v1)]Hyperspectral Unmixing Based on Clustered Multitask Networks**|Sara Khoshsokhan et.al.|Unmixing|
+|**2019-02-19**|**[[1811.03707v1](http://arxiv.org/abs/1811.03707v1)]Validating Hyperspectral Image Segmentation**|Jakub Nalepa et.al.||
+|**2018-07-03**|**[[1806.11314v2](http://arxiv.org/abs/1806.11314v2)]Hyperspectral Image Dataset for Benchmarking on Salient Object Detection**|Nevrez Imamoglu et.al.|Object Detection|
+|**2018-06-08**|**[[1806.02583v1](http://arxiv.org/abs/1806.02583v1)]Generative Adversarial Networks for Realistic Synthesis of Hyperspectral Samples**|Nicolas Audebert et.al.||
+|**2019-05-28**|**[[1805.05090v1](http://arxiv.org/abs/1805.05090v1)]Hyperspectral Data Analysis in R: the hsdar Package**|Lukas W. Lehnert et.al.||
+|**2018-05-29**|**[[1801.09472v2](http://arxiv.org/abs/1801.09472v2)]Hyper-Hue and EMAP on Hyperspectral Images for Supervised Layer Decomposition of Old Master Drawings**|AmirAbbas Davari et.al.||
+|**2021-01-01**|**[[1801.09343v4](http://arxiv.org/abs/1801.09343v4)]KRISM --- Krylov Subspace-based Optical Computing of Hyperspectral Images**|Vishwanath Saragadam et.al.||
+|**2017-07-13**|**[[1707.03553v1](http://arxiv.org/abs/1707.03553v1)]Aerial Vehicle Tracking by Adaptive Fusion of Hyperspectral Likelihood Maps**|Burak Uzkent et.al.|Object Tracking, Object Detection|
+|**2017-06-21**|**[[1706.05249v1](http://arxiv.org/abs/1706.05249v1)]Multispectral and Hyperspectral Image Fusion Using a 3-D-Convolutional Neural Network**|Frosti Palsson et.al.||
+|**2017-06-06**|**[[1706.01302v1](http://arxiv.org/abs/1706.01302v1)]Orientational Mapping Augmented Sub-Wavelength Hyper-Spectral Imaging of Silk**|Meguya Ryu et.al.||
+|**2019-07-16**|**[[1610.06985v1](http://arxiv.org/abs/1610.06985v1)]Spectral Angle Based Unary Energy Functions for Spatial-Spectral Hyperspectral Classification using Markov Random Fields**|Utsav B. Gewali et.al.|Classification|
+|**2016-07-18**|**[[1607.04609v1](http://arxiv.org/abs/1607.04609v1)]Person Re-identification with Hyperspectral Multi-Camera Systems --- A Pilot Study**|Saurabh Prasad et.al.||
+|**2016-06-17**|**[[1606.04985v1](http://arxiv.org/abs/1606.04985v1)]Combining multiscale features for classification of hyperspectral images: a sequence based kernel approach**|Yanwei Cui et.al.|Classification|
+|**2016-11-17**|**[[1606.00219v1](http://arxiv.org/abs/1606.00219v1)]Hyperspectral Subspace Identification Using SURE**|Behnood Rasti et.al.||
+|**2016-08-24**|**[[1510.05893v3](http://arxiv.org/abs/1510.05893v3)]Online Unmixing of Multitemporal Hyperspectral Images accounting for Spectral Variability**|Pierre-Antoine Thouvenin et.al.|Unmixing|
+|**2016-09-21**|**[[1506.04870v1](http://arxiv.org/abs/1506.04870v1)]Robust Collaborative Nonnegative Matrix Factorization For Hyperspectral Unmixing (R-CoNMF)**|Jun Li et.al.|Unmixing|
+|**2015-06-09**|**[[1506.02585v1](http://arxiv.org/abs/1506.02585v1)]Optimal Sparse Kernel Learning for Hyperspectral Anomaly Detection**|Zhimin Peng et.al.||
+|**2015-04-30**|**[[1504.07918v1](http://arxiv.org/abs/1504.07918v1)]Robust hyperspectral image classification with rejection fields**|Filipe Condessa et.al.|Classification|
+|**2015-04-28**|**[[1504.07028v1](http://arxiv.org/abs/1504.07028v1)]SegSALSA-STR: A convex formulation to supervised hyperspectral image segmentation using hidden fields and structure tensor regularization**|Filipe Condessa et.al.||
+|**2015-04-20**|**[[1504.04531v1](http://arxiv.org/abs/1504.04531v1)]Hyperspectral pansharpening: a review**|Laetitia Loncan et.al.|Pansharpening|
+|**2015-02-09**|**[[1502.01853v1](http://arxiv.org/abs/1502.01853v1)]Generalized Inpainting Method for Hyperspectral Image Acquisition**|K. Degraux et.al.|Superresolution|
+|**2015-12-31**|**[[1409.8500v2](http://arxiv.org/abs/1409.8500v2)]Hyper-Spectral Image Analysis with Partially-Latent Regression and Spatial Markov Dependencies**|Antoine Deleforge et.al.||
+|**2014-07-30**|**[[1407.7686v1](http://arxiv.org/abs/1407.7686v1)]Hyperspectral Imaging and Analysis for Sparse Reconstruction and Recognition**|Zohaib Khan et.al.||
+|**2013-10-23**|**[[1310.5965v1](http://arxiv.org/abs/1310.5965v1)]Fusion of Hyperspectral and Panchromatic Images using Spectral Uumixing Results**|Roozbeh Rajabi et.al.|Unmixing|
+|**2012-12-19**|**[[1211.0613v2](http://arxiv.org/abs/1211.0613v2)]Application of Symmetric Uncertainty and Mutual Information to Dimensionality Reduction and Classification of Hyperspectral Images**|ELkebir Sarhrouni et.al.|Classification|
+|**2015-05-28**|**[[1107.4049v1](http://arxiv.org/abs/1107.4049v1)]3-D deconvolution of hyper-spectral astronomical data**|S. Bongard et.al.||
+|**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
+|**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251112>back to top</a>)</p>
 
 ## Multispectral
 
@@ -234,13 +328,13 @@
 |**2025-10-19**|**[[2510.17914v1](http://arxiv.org/abs/2510.17914v1)]NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation**|Rikard Vinge et.al.||
 |**2025-10-16**|**[[2510.14661v1](http://arxiv.org/abs/2510.14661v1)]EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015-2024)**|Weikang Yu et.al.||
 |**2025-10-14**|**[[2510.12670v1](http://arxiv.org/abs/2510.12670v1)]TerraCodec: Compressing Earth Observations**|Julen Costa-Watanabe et.al.||
-|**2025-10-14**|**[[2510.12565v1](http://arxiv.org/abs/2510.12565v1)]MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|Object Tracking|
+|**2025-10-15**|**[[2510.12565v1](http://arxiv.org/abs/2510.12565v1)]MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|Object Tracking|
 |**2025-10-13**|**[[2510.11505v1](http://arxiv.org/abs/2510.11505v1)]Knowledge-Guided Machine Learning Models to Upscale Evapotranspiration in the U.S. Midwest**|Aleksei Rozanov et.al.||
-|**2025-10-16**|**[[2510.10802v2](http://arxiv.org/abs/2510.10802v2)]MSCloudCAM: Cross-Attention with Multi-Scale Context for Multispectral Cloud Segmentation**|Md Abdullah Al Mazid et.al.||
+|**2025-10-20**|**[[2510.10802v2](http://arxiv.org/abs/2510.10802v2)]MSCloudCAM: Cross-Attention with Multi-Scale Context for Multispectral Cloud Segmentation**|Md Abdullah Al Mazid et.al.||
 |**2025-10-12**|**[[2510.10546v1](http://arxiv.org/abs/2510.10546v1)]GLOFNet -- A Multimodal Dataset for GLOF Monitoring and Prediction**|Zuha Fatima et.al.||
 |**2025-10-10**|**[[2510.09736v1](http://arxiv.org/abs/2510.09736v1)]Chlorophyll-a Mapping and Prediction in the Mar Menor Lagoon Using C2RCC-Processed Sentinel 2 Imagery**|Antonio Martínez-Ibarra et.al.||
 |**2025-10-09**|**[[2510.08060v1](http://arxiv.org/abs/2510.08060v1)]A class-driven hierarchical ResNet for classification of multispectral remote sensing images**|Giulio Weikmann et.al.|Classification|
-|**2025-10-08**|**[[2510.06619v1](http://arxiv.org/abs/2510.06619v1)]MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking**|Tao Feng et.al.|Object Tracking|
+|**2025-10-09**|**[[2510.06619v1](http://arxiv.org/abs/2510.06619v1)]MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking**|Tao Feng et.al.|Object Tracking|
 |**2025-10-07**|**[[2510.06098v1](http://arxiv.org/abs/2510.06098v1)]Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution**|Yinjian Wang et.al.|Superresolution|
 |**2025-10-07**|**[[2510.05617v1](http://arxiv.org/abs/2510.05617v1)]InstaGeo: Compute-Efficient Geospatial Machine Learning from Data to Deployment**|Ibrahim Salihu Yusuf et.al.||
 |**2025-10-03**|**[[2510.03133v1](http://arxiv.org/abs/2510.03133v1)]Exceptional Points, Lasing, and Coherent Perfect Absorption in Floquet Scattering Systems**|David Globosits et.al.||
@@ -251,24 +345,25 @@
 |**2025-09-25**|**[[2509.20905v1](http://arxiv.org/abs/2509.20905v1)]FSMODNet: A Closer Look at Few-Shot Detection in Multispectral Data**|Manuel Nkegoum et.al.|Object Detection|
 |**2025-09-21**|**[[2509.16957v1](http://arxiv.org/abs/2509.16957v1)]MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al.|Object Detection|
 |**2025-09-19**|**[[2509.15979v1](http://arxiv.org/abs/2509.15979v1)]Simultaneous real-time multispectral fluorescence and reflectance imaging for enhanced intraoperative guidance**|Kyriakos Pentarakis et.al.||
-|**2025-09-19**|**[[2509.15753v1](http://arxiv.org/abs/2509.15753v1)]MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection**|Yang Li et.al.|Object Detection|
+|**2025-09-22**|**[[2509.15753v1](http://arxiv.org/abs/2509.15753v1)]MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection**|Yang Li et.al.|Object Detection|
 |**2025-09-11**|**[[2509.12247v1](http://arxiv.org/abs/2509.12247v1)]Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al.||
 |**2025-09-16**|**[[2509.11614v2](http://arxiv.org/abs/2509.11614v2)]Vessel Detection and Localization Using Distributed Acoustic Sensing in Submarine Optical Fiber Cables**|Erick Eduardo Ramirez-Torres et.al.||
-|**2025-11-10**|**[[2509.11169v2](http://arxiv.org/abs/2509.11169v2)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
+|**2025-11-11**|**[[2509.11169v2](http://arxiv.org/abs/2509.11169v2)]Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.||
 |**2025-09-12**|**[[2509.09972v1](http://arxiv.org/abs/2509.09972v1)]Drone-Based Multispectral Imaging and Deep Learning for Timely Detection of Branched Broomrape in Tomato Farms**|Mohammadreza Narimani et.al.||
 |**2025-09-15**|**[[2509.09085v2](http://arxiv.org/abs/2509.09085v2)]IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|Object Detection|
 |**2025-09-10**|**[[2509.08528v1](http://arxiv.org/abs/2509.08528v1)]Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|Denoising|
-|**2025-09-29**|**[[2509.07327v2](http://arxiv.org/abs/2509.07327v2)]DEPFusion: Dual-Domain Enhancement and Priority-Guided Mamba Fusion for UAV Multispectral Object Detection**|Shucong Li et.al.|Object Detection|
+|**2025-09-30**|**[[2509.07327v2](http://arxiv.org/abs/2509.07327v2)]DEPFusion: Dual-Domain Enhancement and Priority-Guided Mamba Fusion for UAV Multispectral Object Detection**|Shucong Li et.al.|Object Detection|
 |**2025-09-08**|**[[2509.06741v1](http://arxiv.org/abs/2509.06741v1)]Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.||
 |**2025-09-14**|**[[2509.06625v2](http://arxiv.org/abs/2509.06625v2)]Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework**|Aswini Kumar Patra et.al.|Classification|
-|**2025-09-07**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
+|**2025-09-09**|**[[2509.06122v1](http://arxiv.org/abs/2509.06122v1)]SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks**|Tang Sui et.al.|Classification|
 |**2025-09-06**|**[[2509.05630v1](http://arxiv.org/abs/2509.05630v1)]Self-supervised Learning for Hyperspectral Images of Trees**|Moqsadur Rahman et.al.||
 |**2025-09-04**|**[[2509.04156v1](http://arxiv.org/abs/2509.04156v1)]YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al.||
 |**2025-09-02**|**[[2509.02477v1](http://arxiv.org/abs/2509.02477v1)]HyDeFuse: Provably Convergent Denoiser-Driven Hyperspectral Fusion**|Sagar Kumar et.al.||
 |**2025-09-02**|**[[2509.02451v1](http://arxiv.org/abs/2509.02451v1)]RiverScope: High-Resolution River Masking Dataset**|Rangel Daroya et.al.||
 |**2025-09-03**|**[[2509.01882v2](http://arxiv.org/abs/2509.01882v2)]HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision**|Shubham Laxmikant Deshmukh et.al.|Classification|
-|**2025-09-01**|**[[2509.01691v1](http://arxiv.org/abs/2509.01691v1)]Examination of PCA Utilisation for Multilabel Classifier of Multispectral Images**|Filip Karpowicz et.al.|Classification|
+|**2025-09-03**|**[[2509.01691v1](http://arxiv.org/abs/2509.01691v1)]Examination of PCA Utilisation for Multilabel Classifier of Multispectral Images**|Filip Karpowicz et.al.|Classification|
 |**2025-09-01**|**[[2509.01070v1](http://arxiv.org/abs/2509.01070v1)]BSNeRF: Broadband Spectral Neural Radiance Fields for Snapshot Multispectral Light-field Imaging**|Erqi Huang et.al.||
+|**2025-09-03**|**[[2509.00989v1](http://arxiv.org/abs/2509.00989v1)]Towards Integrating Multi-Spectral Imaging with Gaussian Splatting**|Josef Grün et.al.||
 |**2025-08-28**|**[[2508.20566v1](http://arxiv.org/abs/2508.20566v1)]Physics-informed neural network enhanced multispectral single-pixel imaging with a chip spectral sensor**|Muchen Zhu et.al.||
 |**2025-08-27**|**[[2508.19905v1](http://arxiv.org/abs/2508.19905v1)]Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|Classification|
 |**2025-08-27**|**[[2508.19881v1](http://arxiv.org/abs/2508.19881v1)]Multispectral LiDAR data for extracting tree points in urban and suburban areas**|Narges Takhtkeshha et.al.||
@@ -286,10 +381,10 @@
 |**2025-07-27**|**[[2507.20311v1](http://arxiv.org/abs/2507.20311v1)]SWIFT: A General Sensitive Weight Identification Framework for Fast Sensor-Transfer Pansharpening**|Zeyu Xia et.al.|Pansharpening|
 |**2025-07-24**|**[[2507.18740v1](http://arxiv.org/abs/2507.18740v1)]Learned Single-Pixel Fluorescence Microscopy**|Serban C. Tudosie et.al.||
 |**2025-07-24**|**[[2507.18099v1](http://arxiv.org/abs/2507.18099v1)]Comparison of Segmentation Methods in Remote Sensing for Land Use Land Cover**|Naman Srivastava et.al.||
-|**2025-07-28**|**[[2507.16318v2](http://arxiv.org/abs/2507.16318v2)]M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision**|Kailai Zhou et.al.||
+|**2025-07-29**|**[[2507.16318v2](http://arxiv.org/abs/2507.16318v2)]M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision**|Kailai Zhou et.al.||
 |**2025-07-20**|**[[2507.14829v1](http://arxiv.org/abs/2507.14829v1)]Partitioning of Eddy Covariance Footprint Evapotranspiration Using Field Data, UAS Observations and GeoAI in the U.S. Chihuahuan Desert**|Habibur R. Howlider et.al.|Classification|
-|**2025-10-28**|**[[2507.14643v2](http://arxiv.org/abs/2507.14643v2)]Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**|Jifeng Shen et.al.|Object Detection|
-|**2025-07-18**|**[[2507.14013v1](http://arxiv.org/abs/2507.14013v1)]Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.||
+|**2025-10-29**|**[[2507.14643v2](http://arxiv.org/abs/2507.14643v2)]Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**|Jifeng Shen et.al.|Object Detection|
+|**2025-07-21**|**[[2507.14013v1](http://arxiv.org/abs/2507.14013v1)]Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.||
 |**2025-10-20**|**[[2507.13339v2](http://arxiv.org/abs/2507.13339v2)]SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|Superresolution|
 |**2025-07-15**|**[[2507.11702v1](http://arxiv.org/abs/2507.11702v1)]Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption**|Hein de Wilde et.al.|Classification|
 |**2025-08-19**|**[[2507.10461v3](http://arxiv.org/abs/2507.10461v3)]RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|Pansharpening|
@@ -305,7 +400,7 @@
 |**2025-06-25**|**[[2506.20293v1](http://arxiv.org/abs/2506.20293v1)]Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|Classification|
 |**2025-06-25**|**[[2506.20179v1](http://arxiv.org/abs/2506.20179v1)]Progressive Alignment Degradation Learning for Pansharpening**|Enzhe Zhao et.al.|Pansharpening|
 |**2025-06-24**|**[[2506.19591v1](http://arxiv.org/abs/2506.19591v1)]Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.||
-|**2025-06-18**|**[[2506.14696v2](http://arxiv.org/abs/2506.14696v2)]YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|Object Detection|
+|**2025-06-19**|**[[2506.14696v2](http://arxiv.org/abs/2506.14696v2)]YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|Object Detection|
 |**2025-09-15**|**[[2506.13733v2](http://arxiv.org/abs/2506.13733v2)]Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.||
 |**2025-06-13**|**[[2506.11764v1](http://arxiv.org/abs/2506.11764v1)]DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|Superresolution, Pansharpening|
 |**2025-06-10**|**[[2506.08613v1](http://arxiv.org/abs/2506.08613v1)]SAMSelect: A Spectral Index Search for Marine Debris Visualization using Segment Anything**|Joost van Dalen et.al.|Classification|
@@ -326,7 +421,7 @@
 |**2025-11-03**|**[[2505.13916v3](http://arxiv.org/abs/2505.13916v3)]Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.||
 |**2025-05-17**|**[[2505.11800v1](http://arxiv.org/abs/2505.11800v1)]Self-Learning Hyperspectral and Multispectral Image Fusion via Adaptive Residual Guided Subspace Diffusion Model**|Jian Zhu et.al.||
 |**2025-06-23**|**[[2505.10492v2](http://arxiv.org/abs/2505.10492v2)]Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.||
-|**2025-05-06**|**[[2505.07840v1](http://arxiv.org/abs/2505.07840v1)]Evaluation of UAV-Based RGB and Multispectral Vegetation Indices for Precision Agriculture in Palm Tree Cultivation**|Alavikunhu Panthakkan et.al.|Classification|
+|**2025-05-14**|**[[2505.07840v1](http://arxiv.org/abs/2505.07840v1)]Evaluation of UAV-Based RGB and Multispectral Vegetation Indices for Precision Agriculture in Palm Tree Cultivation**|Alavikunhu Panthakkan et.al.|Classification|
 |**2025-05-12**|**[[2505.07444v1](http://arxiv.org/abs/2505.07444v1)]Lightweight Multispectral Crop-Weed Segmentation for Precision Agriculture**|Zeynep Galymzhankyzy et.al.||
 |**2025-05-16**|**[[2505.06576v2](http://arxiv.org/abs/2505.06576v2)]Two-Stage Random Alternation Framework for One-Shot Pansharpening**|Haorui Chen et.al.|Pansharpening|
 |**2025-05-02**|**[[2505.01558v1](http://arxiv.org/abs/2505.01558v1)]A Sensor Agnostic Domain Generalization Framework for Leveraging Geospatial Foundation Models: Enhancing Semantic Segmentation viaSynergistic Pseudo-Labeling and Generative Learning**|Anan Yaghmour et.al.||
@@ -348,8 +443,8 @@
 |**2025-07-25**|**[[2503.22026v3](http://arxiv.org/abs/2503.22026v3)]Multispectral Demosaicing via Dual Cameras**|SaiKiran Tedla et.al.||
 |**2025-03-27**|**[[2503.21841v1](http://arxiv.org/abs/2503.21841v1)]HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|Jingtao Li et.al.||
 |**2025-03-25**|**[[2503.19673v1](http://arxiv.org/abs/2503.19673v1)]MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.||
-|**2025-03-22**|**[[2503.17699v1](http://arxiv.org/abs/2503.17699v1)]MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**|Haolin Qin et.al.|Object Tracking|
-|**2025-08-04**|**[[2503.15969v3](http://arxiv.org/abs/2503.15969v3)]Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**|Clive Tinashe Marimo et.al.|Classification, VLM|
+|**2025-03-25**|**[[2503.17699v1](http://arxiv.org/abs/2503.17699v1)]MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**|Haolin Qin et.al.|Object Tracking|
+|**2025-08-05**|**[[2503.15969v3](http://arxiv.org/abs/2503.15969v3)]Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**|Clive Tinashe Marimo et.al.|Classification, VLM|
 |**2025-03-20**|**[[2503.15797v1](http://arxiv.org/abs/2503.15797v1)]Multispectral radiation temperature inversion based on Transformer-LSTM-SVM**|Ying Cui et.al.||
 |**2025-03-19**|**[[2503.14975v1](http://arxiv.org/abs/2503.14975v1)]Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|Pansharpening|
 |**2025-03-19**|**[[2503.14892v1](http://arxiv.org/abs/2503.14892v1)]Degradation Alchemy: Self-Supervised Unknown-to-Known Transformation for Blind Hyperspectral Image Fusion**|He Huang et.al.||
@@ -359,8 +454,8 @@
 |**2025-03-03**|**[[2503.01628v1](http://arxiv.org/abs/2503.01628v1)]A General Purpose Spectral Foundational Model for Both Proximal and Remote Sensing Spectral Imaging**|William Michael Laprade et.al.||
 |**2025-02-28**|**[[2503.00122v1](http://arxiv.org/abs/2503.00122v1)]Unmanned Aerial Vehicle (UAV)-Based Mapping of Iris Pseudacorus L. Invasion in Laguna del Sauce (Uruguay) Coast**|Alejo Silvarrey et.al.|Classification|
 |**2025-07-30**|**[[2502.20668v2](http://arxiv.org/abs/2502.20668v2)]OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing**|Xiang Xiang et.al.||
-|**2025-02-26**|**[[2502.19451v1](http://arxiv.org/abs/2502.19451v1)]Multispectral to Hyperspectral using Pretrained Foundational model**|Ruben Gonzalez et.al.||
-|**2025-02-26**|**[[2502.18739v1](http://arxiv.org/abs/2502.18739v1)]Singleshot Multispectral Imaging via a Chromatic Metalens Array**|Romil Audhkhasi et.al.||
+|**2025-02-28**|**[[2502.19451v1](http://arxiv.org/abs/2502.19451v1)]Multispectral to Hyperspectral using Pretrained Foundational model**|Ruben Gonzalez et.al.||
+|**2025-02-27**|**[[2502.18739v1](http://arxiv.org/abs/2502.18739v1)]Singleshot Multispectral Imaging via a Chromatic Metalens Array**|Romil Audhkhasi et.al.||
 |**2025-02-25**|**[[2502.17997v1](http://arxiv.org/abs/2502.17997v1)]Shedding Light on the Polymer's Identity: Microplastic Detection and Identification Through Nile Red Staining and Multispectral Imaging (FIMAP)**|Derek Ho et.al.|Classification|
 |**2025-02-25**|**[[2502.17886v1](http://arxiv.org/abs/2502.17886v1)]A graph neural network-based multispectral-view learning model for diabetic macular ischemia detection from color fundus photographs**|Qinghua He et.al.||
 |**2025-02-21**|**[[2502.14063v2](http://arxiv.org/abs/2502.14063v2)]PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**|Rui Zhao et.al.||
@@ -375,8 +470,90 @@
 |**2025-02-06**|**[[2502.04529v1](http://arxiv.org/abs/2502.04529v1)]Agricultural Field Boundary Detection through Integration of "Simple Non-Iterative Clustering (SNIC) Super Pixels" and "Canny Edge Detection Method"**|Artughrul Gayibov et.al.||
 |**2025-08-27**|**[[2502.02171v4](http://arxiv.org/abs/2502.02171v4)]DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.||
 |**2025-02-01**|**[[2502.00435v1](http://arxiv.org/abs/2502.00435v1)]SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.||
+|**2025-01-28**|**[[2501.15937v1](http://arxiv.org/abs/2501.15937v1)]Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|Superresolution|
+|**2025-01-16**|**[[2501.02640v3](http://arxiv.org/abs/2501.02640v3)]Multispectral Pedestrian Detection with Sparsely Annotated Label**|Chan Lee et.al.|Object Detection|
+|**2025-07-24**|**[[2412.11407v1](http://arxiv.org/abs/2412.11407v1)]An Enhanced Classification Method Based on Adaptive Multi-Scale Fusion for Long-tailed Multispectral Point Clouds**|TianZhu Liu et.al.|Classification|
+|**2024-11-28**|**[[2411.18288v1](http://arxiv.org/abs/2411.18288v1)]Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|Object Detection|
+|**2024-10-22**|**[[2410.16019v1](http://arxiv.org/abs/2410.16019v1)]Multispectral Texture Synthesis using RGB Convolutional Neural Networks**|Sélim Ollivier et.al.|Classification|
+|**2025-11-06**|**[[2409.15132v3](http://arxiv.org/abs/2409.15132v3)]FusionRF: High-Fidelity Satellite Neural Radiance Fields from Multispectral and Panchromatic Acquisitions**|Michael Sprintson et.al.|Pansharpening|
+|**2024-09-23**|**[[2409.12977v1](http://arxiv.org/abs/2409.12977v1)]Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges**|James E. Gallagher et.al.|Classification, Object Detection|
+|**2024-11-08**|**[[2408.14050v2](http://arxiv.org/abs/2408.14050v2)]Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.||
+|**2024-08-14**|**[[2408.06727v1](http://arxiv.org/abs/2408.06727v1)]Machine Learning Interventions for Weed Detection using Multispectral Imagery and Unmanned Aerial Vehicles -- A Systematic Review**|Drishti Goel et.al.||
+|**2025-02-04**|**[[2407.15358v2](http://arxiv.org/abs/2407.15358v2)]PRIME: Blind Multispectral Unmixing Using Virtual Quantum Prism and Convex Geometry**|Chia-Hsiang Lin et.al.||
+|**2024-07-02**|**[[2406.14220v2](http://arxiv.org/abs/2406.14220v2)]Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|Classification|
+|**2024-10-17**|**[[2406.05312v2](http://arxiv.org/abs/2406.05312v2)]Deep convolutional demosaicking network for multispectral polarization filter array**|Tomoharu Ishiuchi et.al.||
+|**2024-05-22**|**[[2405.12944v1](http://arxiv.org/abs/2405.12944v1)]AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**|Zizhao Chen et.al.||
+|**2024-04-11**|**[[2404.06695v1](http://arxiv.org/abs/2404.06695v1)]Spiral Scanning and Self-Supervised Image Reconstruction Enable Ultra-Sparse Sampling Multispectral Photoacoustic Tomography**|Yutian Zhong et.al.||
+|**2025-01-09**|**[[2403.15209v3](http://arxiv.org/abs/2403.15209v3)]MSCoTDet: Language-driven Multi-modal Fusion for Improved Multispectral Pedestrian Detection**|Taeheon Kim et.al.||
+|**2024-03-20**|**[[2403.12770v1](http://arxiv.org/abs/2403.12770v1)]Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.||
+|**2024-04-08**|**[[2403.01300v2](http://arxiv.org/abs/2403.01300v2)]Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection**|Taeheon Kim et.al.||
+|**2024-02-20**|**[[2402.11413v1](http://arxiv.org/abs/2402.11413v1)]A Multispectral Automated Transfer Technique (MATT) for machine-driven image labeling utilizing the Segment Anything Model (SAM)**|James E. Gallagher et.al.|Object Detection|
+|**2024-11-26**|**[[2311.11827v2](http://arxiv.org/abs/2311.11827v2)]Few-shot Multispectral Segmentation with Representations Generated by Reinforcement Learning**|Dilith Jayakody et.al.||
+|**2023-11-21**|**[[2311.11566v1](http://arxiv.org/abs/2311.11566v1)]Does complimentary information from multispectral imaging improve face presentation attack detection?**|Narayan Vetrekar et.al.||
+|**2023-11-14**|**[[2311.06276v1](http://arxiv.org/abs/2311.06276v1)]Enhancing the machine vision performance with multi-spectral light sources**|Feng Zhang et.al.||
+|**2023-10-25**|**[[2310.15437v1](http://arxiv.org/abs/2310.15437v1)]Ultrabroadband, high color purity multispectral color filter arrays**|Jiewei Xiang et.al.||
+|**2023-10-23**|**[[2310.12987v1](http://arxiv.org/abs/2310.12987v1)]Spec-NeRF: Multi-spectral Neural Radiance Fields**|Jiabao Li et.al.||
+|**2023-10-06**|**[[2310.03625v1](http://arxiv.org/abs/2310.03625v1)]Multispectral Imaging with Fresnel Lens**|Khen Cohen et.al.||
+|**2025-02-11**|**[[2309.01751v2](http://arxiv.org/abs/2309.01751v2)]Multispectral Indices for Wildfire Management**|Afonso Oliveira et.al.||
+|**2023-08-23**|**[[2308.11003v1](http://arxiv.org/abs/2308.11003v1)]Autonomous Detection of Methane Emissions in Multispectral Satellite Data Using Deep Learning**|Bertrand Rouet-Leduc et.al.||
+|**2023-08-29**|**[[2308.02952v1](http://arxiv.org/abs/2308.02952v1)]Multispectral Quantitative Phase Imaging Using a Diffractive Optical Network**|Che-Yung Shen et.al.||
+|**2023-10-26**|**[[2304.03510v3](http://arxiv.org/abs/2304.03510v3)]Multispectral Imaging for Differential Face Morphing Attack Detection: A Preliminary Study**|Raghavendra Ramachandra et.al.||
+|**2023-03-06**|**[[2303.01661v1](http://arxiv.org/abs/2303.01661v1)]Longwave infrared multispectral image sensor system using aluminum-germanium plasmonic filter arrays**|Noor E Karishma Shaik et.al.||
+|**2023-04-07**|**[[2212.05217v1](http://arxiv.org/abs/2212.05217v1)]Snapshot Multispectral Imaging Using a Diffractive Optical Network**|Deniz Mengu et.al.||
+|**2022-11-29**|**[[2211.15311v1](http://arxiv.org/abs/2211.15311v1)]NeuralMPS: Non-Lambertian Multispectral Photometric Stereo via Spectral Reflectance Decomposition**|Jipeng Lv et.al.||
+|**2022-09-19**|**[[2209.07891v1](http://arxiv.org/abs/2209.07891v1)]Hyperspectral Image Reconstruction from Multispectral Images Using Non-Local Filtering**|Frank Sippel et.al.|Classification|
+|**2022-07-07**|**[[2207.02211v1](http://arxiv.org/abs/2207.02211v1)]Multispectral large-area X-ray imaging enabled by stacked multilayer scintillators**|Peng Ran et.al.||
+|**2022-04-19**|**[[2204.07908v1](http://arxiv.org/abs/2204.07908v1)]MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction**|Yuanhao Cai et.al.||
+|**2023-05-09**|**[[2112.11329v3](http://arxiv.org/abs/2112.11329v3)]Multispectral image fusion based on super pixel segmentation**|Nati Ofir et.al.|Object Detection|
+|**2021-11-24**|**[[2111.11893v1](http://arxiv.org/abs/2111.11893v1)]Extending the Unmixing methods to Multispectral Images**|Jizhen Cai et.al.||
+|**2022-10-05**|**[[2111.00273v4](http://arxiv.org/abs/2111.00273v4)]Cross-Modality Fusion Transformer for Multispectral Object Detection**|Fang Qingyun et.al.|Object Detection|
+|**2021-09-03**|**[[2109.00780v1](http://arxiv.org/abs/2109.00780v1)]Non-Photorealistic Rendering of Layered Materials: A Multispectral Approach**|Corey Toler-Franklin et.al.||
+|**2022-10-11**|**[[2106.05124v3](http://arxiv.org/abs/2106.05124v3)]PCNet: A Structure Similarity Enhancement Method for Multispectral and Multimodal Image Registration**|Si-Yuan Cao et.al.||
+|**2023-10-30**|**[[2105.13901v1](http://arxiv.org/abs/2105.13901v1)]Video-rate multispectral imaging in laparoscopic surgery: First-in-human application**|Leonardo Ayala et.al.||
+|**2022-04-19**|**[[2105.09624v3](http://arxiv.org/abs/2105.09624v3)]Semantic segmentation of multispectral photoacoustic images using deep learning**|Melanie Schellenberg et.al.||
+|**2021-02-09**|**[[2102.03908v1](http://arxiv.org/abs/2102.03908v1)]A Generative Model Method for Unsupervised Multispectral Image Fusion in Remote Sensing**|Arian Azarang et.al.||
+|**2021-02-09**|**[[2102.03830v1](http://arxiv.org/abs/2102.03830v1)]Deep Learning-Based Detail Map Estimation for MultiSpectral Image Fusion in Remote Sensing**|Arian Azarang et.al.||
+|**2020-12-04**|**[[2012.01531v1](http://arxiv.org/abs/2012.01531v1)]Hybrid colour filters for multispectral imaging**|Xin He et.al.||
+|**2020-09-29**|**[[2009.12664v1](http://arxiv.org/abs/2009.12664v1)]Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks**|Heng Zhang et.al.|Object Detection|
+|**2020-08-21**|**[[2008.08418v2](http://arxiv.org/abs/2008.08418v2)]Anchor-free Small-scale Multispectral Pedestrian Detection**|Alexander Wolpert et.al.|Classification|
+|**2020-08-18**|**[[2008.03043v2](http://arxiv.org/abs/2008.03043v2)]Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems**|Kailai Zhou et.al.||
+|**2020-07-21**|**[[2007.10060v1](http://arxiv.org/abs/2007.10060v1)]Multispectral Pan-sharpening via Dual-Channel Convolutional Network with Convolutional LSTM Based Hierarchical Spatial-Spectral Feature Fusion**|Dong Wang et.al.||
+|**2019-12-03**|**[[1912.00882v1](http://arxiv.org/abs/1912.00882v1)]Coherent satellites in multi-spectral regenerative frequency microcombs**|Jinghui Yang et.al.||
+|**2020-01-08**|**[[1906.04749v1](http://arxiv.org/abs/1906.04749v1)]Joint 3D Localization and Classification of Space Debris using a Multispectral Rotating Point Spread Function**|Chao Wang et.al.|Classification|
+|**2019-05-28**|**[[1905.10920v1](http://arxiv.org/abs/1905.10920v1)]Semi-supervised GAN for Classification of Multispectral Imagery Acquired by UAVs**|Hamideh Kerdegari et.al.|Classification|
+|**2019-05-21**|**[[1905.02758v1](http://arxiv.org/abs/1905.02758v1)]Generalization ability of region proposal networks for multispectral person detection**|Kevin Fritz et.al.|Object Detection|
+|**2019-04-30**|**[[1904.12603v1](http://arxiv.org/abs/1904.12603v1)]Converting a Common Document Scanner to a Multispectral Scanner**|Zohaib Khan et.al.||
+|**2019-04-09**|**[[1904.03692v1](http://arxiv.org/abs/1904.03692v1)]Unsupervised Domain Adaptation for Multispectral Pedestrian Detection**|Dayan Guan et.al.||
+|**2019-09-20**|**[[1904.02583v2](http://arxiv.org/abs/1904.02583v2)]Bayesian 3D Reconstruction of Subsampled Multispectral Single-photon Lidar Signals**|Julián Tachella et.al.||
+|**2020-06-05**|**[[1901.10949v1](http://arxiv.org/abs/1901.10949v1)]Grayscale-to-color: Single-step fabrication of bespoke multispectral filter arrays**|Calum Williams et.al.||
+|**2019-07-09**|**[[1812.11501v2](http://arxiv.org/abs/1812.11501v2)]CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences**|Danfeng Hong et.al.|Classification|
+|**2019-04-24**|**[[1812.06573v2](http://arxiv.org/abs/1812.06573v2)]Innovative full-field chromatic confocal microscopy using multispectral sensors**|Liang-Chia Chen et.al.||
+|**2018-10-22**|**[[1810.08468v1](http://arxiv.org/abs/1810.08468v1)]Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks**|Rodrigo Caye Daudt et.al.||
+|**2018-12-27**|**[[1809.02851v2](http://arxiv.org/abs/1809.02851v2)]Online Mutual Foreground Segmentation for Multispectral Stereo Videos**|Pierre-Luc St-Charles et.al.||
+|**2018-08-29**|**[[1808.09106v1](http://arxiv.org/abs/1808.09106v1)]Snapshot multispectral imaging using a filter array**|Kazuma Shinoda et.al.||
+|**2018-10-23**|**[[1808.08021v3](http://arxiv.org/abs/1808.08021v3)]Deep demosaicking for multispectral filter arrays**|Kazuma Shinoda et.al.||
+|**2018-08-15**|**[[1808.04818v1](http://arxiv.org/abs/1808.04818v1)]Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation**|Chengyang Li et.al.|Classification|
+|**2018-07-05**|**[[1807.01385v1](http://arxiv.org/abs/1807.01385v1)]Joint optimization of multispectral filter arrays and demosaicking for pathological images**|Kazuma Shinoda et.al.||
+|**2018-02-28**|**[[1802.09972v1](http://arxiv.org/abs/1802.09972v1)]Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection**|Dayan Guan et.al.|Object Detection|
+|**2018-02-27**|**[[1802.08805v1](http://arxiv.org/abs/1802.08805v1)]Multispectral Focal Stack Acquisition Using A Chromatic Aberration Enlarged Camera**|Qian Huang et.al.||
+|**2018-02-27**|**[[1802.08793v1](http://arxiv.org/abs/1802.08793v1)]Multispectral Image Intrinsic Decomposition via Low Rank Constraint**|Qian Huang et.al.||
+|**2018-01-12**|**[[1801.03577v1](http://arxiv.org/abs/1801.03577v1)]Mosaicked multispectral image compression based on inter- and intra-band correlation**|Kazuma Shinoda et.al.||
+|**2021-09-17**|**[[1707.09453v1](http://arxiv.org/abs/1707.09453v1)]Single-shot multispectral imaging with a monochromatic camera**|Sujit Kumar Sahoo et.al.||
+|**2018-02-14**|**[[1705.09321v2](http://arxiv.org/abs/1705.09321v2)]Computational multi-spectral video imaging**|Peng Wang et.al.||
+|**2017-05-17**|**[[1705.05745v1](http://arxiv.org/abs/1705.05745v1)]Volumetric Super-Resolution of Multispectral Data**|Vildan Atalay Aydin et.al.|Superresolution, Pansharpening|
+|**2018-02-14**|**[[1702.04562v1](http://arxiv.org/abs/1702.04562v1)]Normalized Total Gradient: A New Measure for Multispectral Image Registration**|Shu-Jie Chen et.al.||
+|**2017-08-02**|**[[1702.03408v1](http://arxiv.org/abs/1702.03408v1)]Multispectral computational ghost imaging with multiplexed illumination**|Jian Huang et.al.||
+|**2016-04-25**|**[[1511.00780v1](http://arxiv.org/abs/1511.00780v1)]Multispectral imaging using a single bucket detector**|Liheng Bian et.al.||
+|**2015-08-27**|**[[1502.01199v6](http://arxiv.org/abs/1502.01199v6)]A Multiple-Expert Binarization Framework for Multispectral Images**|Reza Farrahi Moghaddam et.al.||
+|**2019-11-12**|**[[1501.05854v1](http://arxiv.org/abs/1501.05854v1)]Unsupervised Segmentation of Multispectral Images with Cellular Automata**|Wuilian Torres et.al.|Classification|
+|**2015-10-28**|**[[1501.01150v2](http://arxiv.org/abs/1501.01150v2)]Spectral unmixing of Multispectral Lidar signals**|Yoann Altmann et.al.||
+|**2015-02-13**|**[[1408.6615v3](http://arxiv.org/abs/1408.6615v3)]Multispectral Palmprint Recognition Using Textural Features**|Shervin Minaee et.al.||
+|**2015-06-19**|**[[1403.6958v1](http://arxiv.org/abs/1403.6958v1)]Compressive Pattern Matching on Multispectral Data**|S. Rousseau et.al.||
+|**2014-02-13**|**[[1402.2941v1](http://arxiv.org/abs/1402.2941v1)]Multispectral Palmprint Encoding and Recognition**|Zohaib Khan et.al.||
+|**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
+|**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
