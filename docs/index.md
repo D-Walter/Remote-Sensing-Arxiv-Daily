@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.11.12
+## Updated on 2025.11.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -315,7 +315,7 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20251112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251113>back to top</a>)</p>
 
 ## Multispectral
 
@@ -503,6 +503,7 @@ layout: default
 |**2023-08-29**|**[[2308.02952v1](http://arxiv.org/abs/2308.02952v1)]Multispectral Quantitative Phase Imaging Using a Diffractive Optical Network**|Che-Yung Shen et.al.||
 |**2023-10-26**|**[[2304.03510v3](http://arxiv.org/abs/2304.03510v3)]Multispectral Imaging for Differential Face Morphing Attack Detection: A Preliminary Study**|Raghavendra Ramachandra et.al.||
 |**2023-03-06**|**[[2303.01661v1](http://arxiv.org/abs/2303.01661v1)]Longwave infrared multispectral image sensor system using aluminum-germanium plasmonic filter arrays**|Noor E Karishma Shaik et.al.||
+|**2023-11-06**|**[[2301.11154v1](http://arxiv.org/abs/2301.11154v1)]Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**|Tomasz Tarasiewicz et.al.|Superresolution|
 |**2023-04-07**|**[[2212.05217v1](http://arxiv.org/abs/2212.05217v1)]Snapshot Multispectral Imaging Using a Diffractive Optical Network**|Deniz Mengu et.al.||
 |**2022-11-29**|**[[2211.15311v1](http://arxiv.org/abs/2211.15311v1)]NeuralMPS: Non-Lambertian Multispectral Photometric Stereo via Spectral Reflectance Decomposition**|Jipeng Lv et.al.||
 |**2022-09-19**|**[[2209.07891v1](http://arxiv.org/abs/2209.07891v1)]Hyperspectral Image Reconstruction from Multispectral Images Using Non-Local Filtering**|Frank Sippel et.al.|Classification|
@@ -557,7 +558,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20251112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
