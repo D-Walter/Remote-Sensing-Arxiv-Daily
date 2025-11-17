@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-11-14**|**[[2511.11096v1](http://arxiv.org/abs/2511.11096v1)]Detection of Bark Beetle Attacks using Hyperspectral PRISMA Data and Few-Shot Learning**|Mattia Ferrari et.al.||
 |**2025-11-13**|**[[2511.10600v1](http://arxiv.org/abs/2511.10600v1)]Excitonic Landscapes in Monolayer Lateral Heterostructures Revealed by Unsupervised Machine Learning**|Maninder Kaur et.al.||
 |**2025-11-13**|**[[2511.10068v1](http://arxiv.org/abs/2511.10068v1)]Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|Classification|
 |**2025-11-12**|**[[2511.09574v1](http://arxiv.org/abs/2511.09574v1)]HAMscope: a snapshot Hyperspectral Autofluorescence Miniscope for real-time molecular imaging**|Alexander Ingold et.al.|Unmixing|
@@ -338,6 +339,11 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-14**|**[[2511.11198v1](http://arxiv.org/abs/2511.11198v1)]Geospatial Chain of Thought Reasoning for Enhanced Visual Question Answering on Satellite Imagery**|Shambhavi Shanker et.al.|Classification|
+|**2025-11-14**|**[[2511.10896v1](http://arxiv.org/abs/2511.10896v1)]CLIPPan: Adapting CLIP as A Supervisor for Unsupervised Pansharpening**|Lihua Jian et.al.|Pansharpening|
+|**2025-11-13**|**[[2511.10805v1](http://arxiv.org/abs/2511.10805v1)]Mock Observations for the CSST Mission: Main Surveys -- the Mock Catalogue**|Cheng-Liang Wei et.al.||
+|**2025-11-13**|**[[2511.10744v1](http://arxiv.org/abs/2511.10744v1)]XSNAP: An X-ray Supernova Analysis Pipeline with Application to the Type II Supernova 2024ggi**|Ferdinand et.al.||
+|**2025-11-13**|**[[2511.10741v1](http://arxiv.org/abs/2511.10741v1)]REBELS-IFU: Steeply rising star formation histories and the importance of dust obscuration in massive $z \simeq7$ galaxies revealed by multi-wavelength observations**|R. Fisher et.al.||
 |**2025-11-13**|**[[2511.10537v1](http://arxiv.org/abs/2511.10537v1)]Constraining the nature of the most extreme Galactic particle accelerator. H.E.S.S. observations of the microquasar V4641 Sgr**|A. Acharyya et.al.||
 |**2025-11-13**|**[[2511.10461v1](http://arxiv.org/abs/2511.10461v1)]OpenSR-SRGAN: A Flexible Super-Resolution Framework for Multispectral Earth Observation Data**|Simon Donike et.al.|Superresolution|
 |**2025-11-13**|**[[2511.10329v1](http://arxiv.org/abs/2511.10329v1)]Curious Case of CGRaBS J0211+1051: Observational Evidence of Lepto-Hadronic Origin of High-Energy Emission?**|Sunil Chandra et.al.||
@@ -361,7 +367,7 @@ layout: default
 |**2025-11-10**|**[[2511.07103v1](http://arxiv.org/abs/2511.07103v1)]GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|Superresolution|
 |**2025-11-10**|**[[2511.06928v1](http://arxiv.org/abs/2511.06928v1)]Mock Observations for the CSST Mission: Multi-Channel Imager--The Cluster Field**|Yushan Xie et.al.||
 |**2025-11-12**|**[[2511.06298v2](http://arxiv.org/abs/2511.06298v2)]SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection**|Xin Zuo et.al.|Object Detection|
-|**2025-11-11**|**[[2511.06285v2](http://arxiv.org/abs/2511.06285v2)]Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation**|Peng He et.al.||
+|**2025-11-14**|**[[2511.06285v3](http://arxiv.org/abs/2511.06285v3)]Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation**|Peng He et.al.||
 |**2025-11-08**|**[[2511.05972v1](http://arxiv.org/abs/2511.05972v1)]DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets**|Guangyuan Liu et.al.||
 |**2025-11-08**|**[[2511.05877v1](http://arxiv.org/abs/2511.05877v1)]HAPS Communication Networks: A Tutorial-cum-Survey on Integration with Optical Atmospheric Sensing**|Ali Elkhazraji et.al.||
 |**2025-11-08**|**[[2511.05804v1](http://arxiv.org/abs/2511.05804v1)]Catching Contamination Before Generation: Spectral Kill Switches for Agents**|Valentin Noël et.al.||
@@ -384,7 +390,7 @@ layout: default
 |**2025-10-22**|**[[2511.01875v1](http://arxiv.org/abs/2511.01875v1)]Bayesian computation for high-dimensional Gaussian Graphical Models with spike-and-slab priors**|Deborah Sulem et.al.||
 |**2025-11-03**|**[[2511.01773v1](http://arxiv.org/abs/2511.01773v1)]ADNAC: Audio Denoiser using Neural Audio Codec**|Daniel Jimon et.al.|Denoising|
 |**2025-11-03**|**[[2511.01494v1](http://arxiv.org/abs/2511.01494v1)]Velocity field of an Active Region filament from GRIS IR He I and IRIS UV observations**|M. Murabito et.al.||
-|**2025-11-03**|**[[2511.01366v1](http://arxiv.org/abs/2511.01366v1)]Symmetry-Resolved Entanglement Entropy from Heat Kernels**|Yuan-Chun Jing et.al.||
+|**2025-11-14**|**[[2511.01366v2](http://arxiv.org/abs/2511.01366v2)]Symmetry-Resolved Entanglement Entropy from Heat Kernels**|Yuan-Chun Jing et.al.||
 |**2025-11-01**|**[[2511.00653v1](http://arxiv.org/abs/2511.00653v1)]Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset**|Lassi Ruoppa et.al.||
 |**2025-11-01**|**[[2511.00418v1](http://arxiv.org/abs/2511.00418v1)]Structure-Preserving Physics-Informed Neural Network for the Korteweg--de Vries (KdV) Equation**|Victory Obieke et.al.||
 |**2025-11-01**|**[[2511.00388v1](http://arxiv.org/abs/2511.00388v1)]Neutrino and Cascade Gamma-Ray Emission from Magnetized Turbulent Coronae in Seyfert Galaxies**|Xing-Jian Wang et.al.||
