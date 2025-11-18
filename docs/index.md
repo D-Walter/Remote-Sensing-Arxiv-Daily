@@ -24,6 +24,11 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-11-17**|**[[2511.13020v1](http://arxiv.org/abs/2511.13020v1)]SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.||
+|**2025-11-15**|**[[2511.12346v1](http://arxiv.org/abs/2511.12346v1)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
+|**2025-11-15**|**[[2511.12268v1](http://arxiv.org/abs/2511.12268v1)]Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|Classification|
+|**2025-11-15**|**[[2511.12038v1](http://arxiv.org/abs/2511.12038v1)]Temperature bandgaps and thermal dopants arising from photothermal nonlinearities in high-Q silicon metasurfaces**|Punnag Padhy et.al.||
+|**2025-11-13**|**[[2511.11732v1](http://arxiv.org/abs/2511.11732v1)]Exposing DeepFakes via Hyperspectral Domain Mapping**|Aditya Mehta et.al.||
 |**2025-11-14**|**[[2511.11096v1](http://arxiv.org/abs/2511.11096v1)]Detection of Bark Beetle Attacks using Hyperspectral PRISMA Data and Few-Shot Learning**|Mattia Ferrari et.al.||
 |**2025-11-13**|**[[2511.10600v1](http://arxiv.org/abs/2511.10600v1)]Excitonic Landscapes in Monolayer Lateral Heterostructures Revealed by Unsupervised Machine Learning**|Maninder Kaur et.al.||
 |**2025-11-13**|**[[2511.10068v1](http://arxiv.org/abs/2511.10068v1)]Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|Classification|
@@ -339,6 +344,17 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-17**|**[[2511.13692v1](http://arxiv.org/abs/2511.13692v1)]The physical properties of post-mass-transfer binaries**|Rhys Seeburger et.al.||
+|**2025-11-17**|**[[2511.13674v1](http://arxiv.org/abs/2511.13674v1)]HilbMult: A Banach-Enriched Multicategory for Operator Algebras**|Shih-Yu Chang et.al.||
+|**2025-11-17**|**[[2511.13633v1](http://arxiv.org/abs/2511.13633v1)]Multi Messenger Study of GRB 221009A with VHE Gamma-ray and Neutrino Afterglow from a Gaussian Structured Jet**|T. Mondal et.al.||
+|**2025-11-17**|**[[2511.13314v1](http://arxiv.org/abs/2511.13314v1)]Unveiling the nature of the Einstein Probe transient EP 241021a**|J. Quirola-Vásquez et.al.||
+|**2025-11-17**|**[[2511.13030v1](http://arxiv.org/abs/2511.13030v1)]Thermal infrared characterization of spatially unresolved resident space objects: Prospects from analytical two-component modeling**|Stephen Catsamas et.al.||
+|**2025-11-16**|**[[2511.12507v1](http://arxiv.org/abs/2511.12507v1)]Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning**|Jingtian Ma et.al.||
+|**2025-11-16**|**[[2511.12492v1](http://arxiv.org/abs/2511.12492v1)]Density-Driven Multi-Agent Coordination for Efficient Farm Coverage and Management in Smart Agriculture**|Sungjun Seo et.al.||
+|**2025-11-16**|**[[2511.12483v1](http://arxiv.org/abs/2511.12483v1)]Mock Observations for the CSST Mission: Integral Field Spectrograph--Instrument Simulation**|Zhao-Jun Yan et.al.||
+|**2025-11-16**|**[[2511.12394v1](http://arxiv.org/abs/2511.12394v1)]Multi-Domain EEG Representation Learning with Orthogonal Mapping and Attention-based Fusion for Cognitive Load Classification**|Prithila Angkan et.al.|Classification|
+|**2025-11-15**|**[[2511.12346v1](http://arxiv.org/abs/2511.12346v1)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
+|**2025-11-15**|**[[2511.12167v1](http://arxiv.org/abs/2511.12167v1)]Rapid Machine Learning-Driven Detection of Pesticides and Dyes Using Raman Spectroscopy**|Quach Thi Thai Binh et.al.||
 |**2025-11-14**|**[[2511.11198v1](http://arxiv.org/abs/2511.11198v1)]Geospatial Chain of Thought Reasoning for Enhanced Visual Question Answering on Satellite Imagery**|Shambhavi Shanker et.al.|Classification|
 |**2025-11-14**|**[[2511.10896v1](http://arxiv.org/abs/2511.10896v1)]CLIPPan: Adapting CLIP as A Supervisor for Unsupervised Pansharpening**|Lihua Jian et.al.|Pansharpening|
 |**2025-11-13**|**[[2511.10805v1](http://arxiv.org/abs/2511.10805v1)]Mock Observations for the CSST Mission: Main Surveys -- the Mock Catalogue**|Cheng-Liang Wei et.al.||
@@ -366,7 +382,7 @@ layout: default
 |**2025-11-10**|**[[2511.07254v1](http://arxiv.org/abs/2511.07254v1)]Robust interpolation of sequences with periodically stationary multiplicative seasonal increments**|Maksym Luz et.al.||
 |**2025-11-10**|**[[2511.07103v1](http://arxiv.org/abs/2511.07103v1)]GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|Superresolution|
 |**2025-11-10**|**[[2511.06928v1](http://arxiv.org/abs/2511.06928v1)]Mock Observations for the CSST Mission: Multi-Channel Imager--The Cluster Field**|Yushan Xie et.al.||
-|**2025-11-12**|**[[2511.06298v2](http://arxiv.org/abs/2511.06298v2)]SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection**|Xin Zuo et.al.|Object Detection|
+|**2025-11-17**|**[[2511.06298v3](http://arxiv.org/abs/2511.06298v3)]SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection**|Xin Zuo et.al.|Object Detection|
 |**2025-11-14**|**[[2511.06285v3](http://arxiv.org/abs/2511.06285v3)]Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation**|Peng He et.al.||
 |**2025-11-08**|**[[2511.05972v1](http://arxiv.org/abs/2511.05972v1)]DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets**|Guangyuan Liu et.al.||
 |**2025-11-08**|**[[2511.05877v1](http://arxiv.org/abs/2511.05877v1)]HAPS Communication Networks: A Tutorial-cum-Survey on Integration with Optical Atmospheric Sensing**|Ali Elkhazraji et.al.||
@@ -382,7 +398,7 @@ layout: default
 |**2025-11-06**|**[[2511.04546v1](http://arxiv.org/abs/2511.04546v1)]Parameterizing Noise Covariance in Maximum-Likelihood Component Separation**|Goureesankar Sathyanathan et.al.||
 |**2025-11-06**|**[[2511.04504v1](http://arxiv.org/abs/2511.04504v1)]The ALMA-ATOMS-QUARKS survey: Resolving a chemically rich massive protostellar outflow**|Jia-Hang Zou et.al.||
 |**2025-11-06**|**[[2511.04337v1](http://arxiv.org/abs/2511.04337v1)]Massive stars exploding in a He-rich circumstellar medium XII. SN 2024acyl: A fast, linearly declining Type Ibn supernova with early flash-ionisation features**|Y. -Z. Cai et.al.||
-|**2025-11-09**|**[[2511.03746v2](http://arxiv.org/abs/2511.03746v2)]A Dynamic Recurrent Adjacency Memory Network for Mixed-Generation Power System Stability Forecasting**|Guang An Ooi et.al.||
+|**2025-11-17**|**[[2511.03746v3](http://arxiv.org/abs/2511.03746v3)]A Dynamic Recurrent Adjacency Memory Network for Mixed-Generation Power System Stability Forecasting**|Guang An Ooi et.al.||
 |**2025-11-05**|**[[2511.03632v1](http://arxiv.org/abs/2511.03632v1)]Neural Beamforming with Doppler-Aware Sparse Attention for High Mobility Environments**|Cemil Vahapoglu et.al.||
 |**2025-11-05**|**[[2511.03264v1](http://arxiv.org/abs/2511.03264v1)]Meshless data-driven decompositions with RBF-based inner products**|Manuel Ratz et.al.||
 |**2025-11-05**|**[[2511.03140v1](http://arxiv.org/abs/2511.03140v1)]Quasi-Periodic Polarized Emissions from Kink Structure in Magnetized Relativistic Jets**|Xu-Fan Hu et.al.||
