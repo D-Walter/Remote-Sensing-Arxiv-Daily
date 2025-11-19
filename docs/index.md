@@ -344,6 +344,16 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-18**|**[[2511.14698v1](http://arxiv.org/abs/2511.14698v1)]HyMAD: A Hybrid Multi-Activity Detection Approach for Border Surveillance and Monitoring**|Sriram Srinivasan et.al.|Classification|
+|**2025-11-18**|**[[2511.14554v1](http://arxiv.org/abs/2511.14554v1)]ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection**|Mohammad Romani et.al.||
+|**2025-11-18**|**[[2511.14481v1](http://arxiv.org/abs/2511.14481v1)]Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|Superresolution|
+|**2025-11-18**|**[[2511.14429v1](http://arxiv.org/abs/2511.14429v1)]Probing accretion dynamics and spin evolution in the X-ray pulsar RX J0520.5-6932 during its 2024 Outburst**|Rahul Sharma et.al.||
+|**2025-11-18**|**[[2511.14078v1](http://arxiv.org/abs/2511.14078v1)]A Phase-Field Model for Vesicle Membranes Incorporating Area-Difference Elasticity**|Yihong Liang et.al.||
+|**2025-11-18**|**[[2511.14068v1](http://arxiv.org/abs/2511.14068v1)]Universal regimes of strong turbulence in the multi-component Gross-Pitaevskii model**|Vladimir Rosenhaus et.al.||
+|**2025-11-18**|**[[2511.14044v1](http://arxiv.org/abs/2511.14044v1)]The CHASM-SWPC Dataset for Coronal Hole Detection & Analysis**|Cutter Beck et.al.||
+|**2025-11-17**|**[[2511.13933v1](http://arxiv.org/abs/2511.13933v1)]Stacked Intelligent Metasurfaces for Multicarrier Cognitive Radio ISAC**|Alireza Fadakar et.al.||
+|**2025-11-17**|**[[2511.13905v1](http://arxiv.org/abs/2511.13905v1)]PGD-TO: A Scalable Alternative to MMA Using Projected Gradient Descent for Multi-Constraint Topology Optimization**|Amin Heyrani Nobari et.al.||
+|**2025-11-17**|**[[2511.13831v1](http://arxiv.org/abs/2511.13831v1)]Quantum Metamorphosis: Programmable Emergence and the Breakdown of Bulk-Edge Dichotomy in Multiscale Systems**|Mahmoud Jalali Mehrabad et.al.||
 |**2025-11-17**|**[[2511.13692v1](http://arxiv.org/abs/2511.13692v1)]The physical properties of post-mass-transfer binaries**|Rhys Seeburger et.al.||
 |**2025-11-17**|**[[2511.13674v1](http://arxiv.org/abs/2511.13674v1)]HilbMult: A Banach-Enriched Multicategory for Operator Algebras**|Shih-Yu Chang et.al.||
 |**2025-11-17**|**[[2511.13633v1](http://arxiv.org/abs/2511.13633v1)]Multi Messenger Study of GRB 221009A with VHE Gamma-ray and Neutrino Afterglow from a Gaussian Structured Jet**|T. Mondal et.al.||
