@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-11-19**|**[[2511.15692v1](http://arxiv.org/abs/2511.15692v1)]Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|Classification|
+|**2025-11-19**|**[[2511.15509v1](http://arxiv.org/abs/2511.15509v1)]Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|Classification|
+|**2025-11-19**|**[[2511.15052v1](http://arxiv.org/abs/2511.15052v1)]Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|Superresolution|
 |**2025-11-17**|**[[2511.13020v1](http://arxiv.org/abs/2511.13020v1)]SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.||
 |**2025-11-15**|**[[2511.12346v1](http://arxiv.org/abs/2511.12346v1)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
 |**2025-11-15**|**[[2511.12268v1](http://arxiv.org/abs/2511.12268v1)]Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|Classification|
@@ -344,6 +347,12 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-19**|**[[2511.15658v1](http://arxiv.org/abs/2511.15658v1)]GEO-Bench-2: From Performance to Capability, Rethinking Evaluation in Geospatial AI**|Naomi Simumba et.al.|Classification, Object Detection|
+|**2025-11-19**|**[[2511.15636v1](http://arxiv.org/abs/2511.15636v1)]The Cherenkov Camera for the PBR mission**|Valentina Scotti et.al.||
+|**2025-11-19**|**[[2511.15120v1](http://arxiv.org/abs/2511.15120v1)]Neural Networks Learn Generic Multi-Index Models Near Information-Theoretic Limit**|Bohan Zhang et.al.||
+|**2025-11-19**|**[[2511.15052v1](http://arxiv.org/abs/2511.15052v1)]Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|Superresolution|
+|**2025-11-19**|**[[2511.15039v1](http://arxiv.org/abs/2511.15039v1)]The existence and instability of blowing-up steady states for the Shigesada-Kawasaki-Teramoto competition model with cross-diffusion**|Kousuke Kuto et.al.||
+|**2025-11-18**|**[[2511.14844v1](http://arxiv.org/abs/2511.14844v1)]J-HERTz: J-PLUS Heritage Exploration of Radio Targets at z $<$ 5**|D. Fernández Gil et.al.|Classification|
 |**2025-11-18**|**[[2511.14698v1](http://arxiv.org/abs/2511.14698v1)]HyMAD: A Hybrid Multi-Activity Detection Approach for Border Surveillance and Monitoring**|Sriram Srinivasan et.al.|Classification|
 |**2025-11-18**|**[[2511.14554v1](http://arxiv.org/abs/2511.14554v1)]ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection**|Mohammad Romani et.al.||
 |**2025-11-18**|**[[2511.14481v1](http://arxiv.org/abs/2511.14481v1)]Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|Superresolution|
