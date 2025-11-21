@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-11-20**|**[[2511.16084v1](http://arxiv.org/abs/2511.16084v1)]SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|Classification|
 |**2025-11-19**|**[[2511.15692v1](http://arxiv.org/abs/2511.15692v1)]Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|Classification|
 |**2025-11-19**|**[[2511.15509v1](http://arxiv.org/abs/2511.15509v1)]Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|Classification|
 |**2025-11-19**|**[[2511.15052v1](http://arxiv.org/abs/2511.15052v1)]Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|Superresolution|
@@ -32,7 +33,7 @@
 |**2025-11-13**|**[[2511.10600v1](http://arxiv.org/abs/2511.10600v1)]Excitonic Landscapes in Monolayer Lateral Heterostructures Revealed by Unsupervised Machine Learning**|Maninder Kaur et.al.||
 |**2025-11-13**|**[[2511.10068v1](http://arxiv.org/abs/2511.10068v1)]Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|Classification|
 |**2025-11-12**|**[[2511.09574v1](http://arxiv.org/abs/2511.09574v1)]HAMscope: a snapshot Hyperspectral Autofluorescence Miniscope for real-time molecular imaging**|Alexander Ingold et.al.|Unmixing|
-|**2025-11-12**|**[[2511.09473v1](http://arxiv.org/abs/2511.09473v1)]TIME Commissioning Observations: I. Mapping Dust and Molecular Gas in the Sgr A Molecular Cloud Complex at the Galactic Center**|Selina F. Yang et.al.||
+|**2025-11-19**|**[[2511.09473v2](http://arxiv.org/abs/2511.09473v2)]TIME Commissioning Observations: I. Mapping Dust and Molecular Gas in the Sgr A Molecular Cloud Complex at the Galactic Center**|Selina F. Yang et.al.||
 |**2025-11-11**|**[[2511.08047v1](http://arxiv.org/abs/2511.08047v1)]HyperScout-H: the hyperspectral imager for the ESA Hera mission**|Marcel M. Popescu et.al.|Classification|
 |**2025-11-10**|**[[2511.07109v1](http://arxiv.org/abs/2511.07109v1)]A Provably-Correct and Robust Convex Model for Smooth Separable NMF**|Junjun Pan et.al.|Unmixing|
 |**2025-11-10**|**[[2511.07103v1](http://arxiv.org/abs/2511.07103v1)]GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|Superresolution|
@@ -343,6 +344,14 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-11-20**|**[[2511.16437v1](http://arxiv.org/abs/2511.16437v1)]Aql X-1 from dawn 'til dusk: the early rise, fast state transition and decay of its 2024 outburst**|A. Marino et.al.||
+|**2025-11-20**|**[[2511.16426v1](http://arxiv.org/abs/2511.16426v1)]FreqFlow: Long-term forecasting using lightweight flow matching**|Seyed Mohamad Moghadas et.al.|Denoising|
+|**2025-11-20**|**[[2511.16322v1](http://arxiv.org/abs/2511.16322v1)]ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery**|Ching-Heng Cheng et.al.||
+|**2025-11-20**|**[[2511.16262v1](http://arxiv.org/abs/2511.16262v1)]How Robot Dogs See the Unseeable**|Oliver Bimber et.al.||
+|**2025-11-20**|**[[2511.16215v1](http://arxiv.org/abs/2511.16215v1)]Mixed-State Berry Curvature in quantum multiparameter estimations**|Xiaoguang Wang et.al.||
+|**2025-11-20**|**[[2511.16031v1](http://arxiv.org/abs/2511.16031v1)]Crossmodal learning for Crop Canopy Trait Estimation**|Timilehin T. Ayanlade et.al.||
+|**2025-11-20**|**[[2511.15965v1](http://arxiv.org/abs/2511.15965v1)]Self-supervised and Multi-fidelity Learning for Extended Predictive Soil Spectroscopy**|Luning Sun et.al.||
+|**2025-11-20**|**[[2511.15954v1](http://arxiv.org/abs/2511.15954v1)]A Graph-Theoretic Approach to Quantum Measurement Incompatibility**|Daniel McNulty et.al.||
 |**2025-11-19**|**[[2511.15658v1](http://arxiv.org/abs/2511.15658v1)]GEO-Bench-2: From Performance to Capability, Rethinking Evaluation in Geospatial AI**|Naomi Simumba et.al.|Classification, Object Detection|
 |**2025-11-19**|**[[2511.15636v1](http://arxiv.org/abs/2511.15636v1)]The Cherenkov Camera for the PBR mission**|Valentina Scotti et.al.||
 |**2025-11-19**|**[[2511.15120v1](http://arxiv.org/abs/2511.15120v1)]Neural Networks Learn Generic Multi-Index Models Near Information-Theoretic Limit**|Bohan Zhang et.al.||
@@ -435,7 +444,7 @@
 |**2025-10-30**|**[[2510.26716v1](http://arxiv.org/abs/2510.26716v1)]Active Dwarf Galaxy Database II: Connections between Host Galaxy Properties and Black Hole Accretion Signatures**|Erik J. Wasleske et.al.||
 |**2025-10-30**|**[[2510.26399v1](http://arxiv.org/abs/2510.26399v1)]Engineered Kerr Nonlinearities for Precise Quantum Control of Fock States**|Gabriella G. Damas et.al.||
 |**2025-10-30**|**[[2510.26209v1](http://arxiv.org/abs/2510.26209v1)]Multi-Faceted Emission Properties of PSR J2129+4119 Observed with FAST**|Habtamu Menberu Tedila et.al.||
-|**2025-10-29**|**[[2510.25672v1](http://arxiv.org/abs/2510.25672v1)]Morphological Zoo of Inflationary Gravitational Wave Spectra imprinted by a Sequence of Post-Inflationary Epochs**|Swagat S. Mishra et.al.||
+|**2025-11-20**|**[[2510.25672v2](http://arxiv.org/abs/2510.25672v2)]Morphology of Inflationary Gravitational Wave Spectra imprinted by a Sequence of Post-Inflationary Epochs $via$ ${\rm GWInSpect}$**|Swagat S. Mishra et.al.||
 |**2025-10-29**|**[[2510.25393v1](http://arxiv.org/abs/2510.25393v1)]Model-Free Robust Beamforming in Satellite Downlink using Reinforcement Learning**|Alea Schröder et.al.||
 |**2025-10-29**|**[[2510.25198v1](http://arxiv.org/abs/2510.25198v1)]Tracing Gas Kinematics and Interactions between H II Regions and Molecular Clouds using VLA Observations of Recombination Lines and Hydroxyl**|E. Cappellazzo et.al.||
 |**2025-10-29**|**[[2510.25192v1](http://arxiv.org/abs/2510.25192v1)]Spectral and Energy Efficiency Tradeoff for Pinching-Antenna Systems**|Zihao Zhou et.al.||
