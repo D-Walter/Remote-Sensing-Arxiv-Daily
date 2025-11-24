@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-11-21**|**[[2511.17442v1](http://arxiv.org/abs/2511.17442v1)]REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|Classification|
+|**2025-11-21**|**[[2511.17196v1](http://arxiv.org/abs/2511.17196v1)]Real Noise Decoupling for Hyperspectral Image Denoising**|Yingkai Zhang et.al.|Denoising|
 |**2025-11-20**|**[[2511.16084v1](http://arxiv.org/abs/2511.16084v1)]SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|Classification|
 |**2025-11-19**|**[[2511.15692v1](http://arxiv.org/abs/2511.15692v1)]Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|Classification|
 |**2025-11-19**|**[[2511.15509v1](http://arxiv.org/abs/2511.15509v1)]Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|Classification|
@@ -344,6 +346,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-11-21**|**[[2511.17446v1](http://arxiv.org/abs/2511.17446v1)]Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry**|Kyle M. Regan et.al.||
+|**2025-11-21**|**[[2511.17442v1](http://arxiv.org/abs/2511.17442v1)]REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|Classification|
+|**2025-11-21**|**[[2511.17198v1](http://arxiv.org/abs/2511.17198v1)]Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism**|Kaiyu Li et.al.||
+|**2025-11-21**|**[[2511.16909v1](http://arxiv.org/abs/2511.16909v1)]A deep ALMA Band 3 survey of HDFS/MUSE3D: Survey description and initial results**|Hugo Messias et.al.||
 |**2025-11-20**|**[[2511.16437v1](http://arxiv.org/abs/2511.16437v1)]Aql X-1 from dawn 'til dusk: the early rise, fast state transition and decay of its 2024 outburst**|A. Marino et.al.||
 |**2025-11-20**|**[[2511.16426v1](http://arxiv.org/abs/2511.16426v1)]FreqFlow: Long-term forecasting using lightweight flow matching**|Seyed Mohamad Moghadas et.al.|Denoising|
 |**2025-11-20**|**[[2511.16322v1](http://arxiv.org/abs/2511.16322v1)]ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery**|Ching-Heng Cheng et.al.||
