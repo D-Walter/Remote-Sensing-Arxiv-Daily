@@ -20,6 +20,10 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-11-23**|**[[2511.18521v1](http://arxiv.org/abs/2511.18521v1)]Hyperspectral Variational Autoencoders for Joint Data Compression and Component Extraction**|Core Francisco Park et.al.||
+|**2025-11-23**|**[[2511.18473v1](http://arxiv.org/abs/2511.18473v1)]Uncertainty Quantification in HSI Reconstruction using Physics-Aware Diffusion Priors and Optics-Encoded Measurements**|Juan Romero et.al.||
+|**2025-11-22**|**[[2511.17895v1](http://arxiv.org/abs/2511.17895v1)]Spectral Super-Resolution Neural Operator with Atmospheric Radiative Transfer Prior**|Ziye Zhang et.al.|Superresolution|
+|**2025-11-21**|**[[2511.17757v1](http://arxiv.org/abs/2511.17757v1)]Latent Dirichlet Transformer VAE for Hyperspectral Unmixing with Bundled Endmembers**|Giancarlo Giannetti et.al.|Unmixing|
 |**2025-11-21**|**[[2511.17442v1](http://arxiv.org/abs/2511.17442v1)]REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|Classification|
 |**2025-11-21**|**[[2511.17196v1](http://arxiv.org/abs/2511.17196v1)]Real Noise Decoupling for Hyperspectral Image Denoising**|Yingkai Zhang et.al.|Denoising|
 |**2025-11-20**|**[[2511.16084v1](http://arxiv.org/abs/2511.16084v1)]SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|Classification|
@@ -42,7 +46,7 @@
 |**2025-11-10**|**[[2511.06751v1](http://arxiv.org/abs/2511.06751v1)]Hierarchical Spatial-Frequency Aggregation for Spectral Deconvolution Imaging**|Tao Lv et.al.||
 |**2025-11-06**|**[[2511.04349v1](http://arxiv.org/abs/2511.04349v1)]A MATLAB tutorial on deep feature extraction combined with chemometrics for analytical applications**|Puneet Mishra et.al.||
 |**2025-11-06**|**[[2511.04291v1](http://arxiv.org/abs/2511.04291v1)]Robustness of Minimum-Volume Nonnegative Matrix Factorization under an Expanded Sufficiently Scattered Condition**|Giovanni Barbarino et.al.||
-|**2025-11-04**|**[[2511.02926v1](http://arxiv.org/abs/2511.02926v1)]Euclid Quick Data Release (Q1): Hunting for luminous z > 6 galaxies in the Euclid Deep Fields -- forecasts and first bright detections**|Euclid Collaboration et.al.||
+|**2025-11-23**|**[[2511.02926v2](http://arxiv.org/abs/2511.02926v2)]Euclid Quick Data Release (Q1): Hunting for luminous z > 6 galaxies in the Euclid Deep Fields -- forecasts and first bright detections**|Euclid Collaboration et.al.||
 |**2025-10-31**|**[[2510.27219v1](http://arxiv.org/abs/2510.27219v1)]SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|Classification|
 |**2025-10-29**|**[[2510.25987v1](http://arxiv.org/abs/2510.25987v1)]HS-ANET: Star Spectral Type Enhanced Astrometric Calibration for Hyper Spectral Space Imaging**|Kevin Phan et.al.||
 |**2025-10-27**|**[[2510.23839v1](http://arxiv.org/abs/2510.23839v1)]Hyperspectral Reconstruction using Discrete LED-Structured Illumination**|John C. Howell et.al.||
@@ -346,6 +350,13 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-11-24**|**[[2511.18888v1](http://arxiv.org/abs/2511.18888v1)]MFmamba: A Multi-function Network for Panchromatic Image Resolution Restoration Based on State-Space Model**|Qian Jiang et.al.|Superresolution, Pansharpening|
+|**2025-11-24**|**[[2511.18846v1](http://arxiv.org/abs/2511.18846v1)]WaveTuner: Comprehensive Wavelet Subband Tuning for Time Series Forecasting**|Yubo Wang et.al.||
+|**2025-11-23**|**[[2511.18624v1](http://arxiv.org/abs/2511.18624v1)]Insights into jet-NLR energetics in PMN J0948+0022**|B. Dalla Barba et.al.||
+|**2025-11-23**|**[[2511.18456v1](http://arxiv.org/abs/2511.18456v1)]Aerial Semantic Relay-Enabled SAGIN: Joint UAV Deployment and Resource Allocation**|Yanbo Yin et.al.||
+|**2025-11-22**|**[[2511.17895v1](http://arxiv.org/abs/2511.17895v1)]Spectral Super-Resolution Neural Operator with Atmospheric Radiative Transfer Prior**|Ziye Zhang et.al.|Superresolution|
+|**2025-11-21**|**[[2511.17766v1](http://arxiv.org/abs/2511.17766v1)]Deepfake Geography: Detecting AI-Generated Satellite Images**|Mansur Yerzhanuly et.al.||
+|**2025-11-21**|**[[2511.17712v1](http://arxiv.org/abs/2511.17712v1)]PROJECT-J: the shocking H2 outflow from HH46**|Maria Gabriela Navarro et.al.||
 |**2025-11-21**|**[[2511.17446v1](http://arxiv.org/abs/2511.17446v1)]Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry**|Kyle M. Regan et.al.||
 |**2025-11-21**|**[[2511.17442v1](http://arxiv.org/abs/2511.17442v1)]REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|Classification|
 |**2025-11-21**|**[[2511.17198v1](http://arxiv.org/abs/2511.17198v1)]Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism**|Kaiyu Li et.al.||
