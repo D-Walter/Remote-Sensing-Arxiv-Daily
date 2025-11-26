@@ -28,7 +28,7 @@
 |**2025-11-21**|**[[2511.17196v1](http://arxiv.org/abs/2511.17196v1)]Real Noise Decoupling for Hyperspectral Image Denoising**|Yingkai Zhang et.al.|Denoising|
 |**2025-11-20**|**[[2511.16084v1](http://arxiv.org/abs/2511.16084v1)]SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|Classification|
 |**2025-11-19**|**[[2511.15692v1](http://arxiv.org/abs/2511.15692v1)]Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|Classification|
-|**2025-11-19**|**[[2511.15509v1](http://arxiv.org/abs/2511.15509v1)]Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|Classification|
+|**2025-11-24**|**[[2511.15509v2](http://arxiv.org/abs/2511.15509v2)]Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|Classification|
 |**2025-11-19**|**[[2511.15052v1](http://arxiv.org/abs/2511.15052v1)]Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|Superresolution|
 |**2025-11-17**|**[[2511.13020v1](http://arxiv.org/abs/2511.13020v1)]SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.||
 |**2025-11-15**|**[[2511.12346v1](http://arxiv.org/abs/2511.12346v1)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
@@ -350,6 +350,11 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-11-25**|**[[2511.20447v1](http://arxiv.org/abs/2511.20447v1)]Single-hole spectral functions in 1D quantum magnets with different ground states**|Sibin Yang et.al.||
+|**2025-11-25**|**[[2511.20336v1](http://arxiv.org/abs/2511.20336v1)]Impact of Spectral Coverage on Parameter recovery in Blazar Modeling**|N. Sahakyan et.al.||
+|**2025-11-25**|**[[2511.20127v1](http://arxiv.org/abs/2511.20127v1)]General Multi-User Distributed Computing**|Ali Khalesi et.al.||
+|**2025-11-25**|**[[2511.19976v1](http://arxiv.org/abs/2511.19976v1)]Rethinking Semi-Supervised Node Classification with Self-Supervised Graph Clustering**|Songbo Wang et.al.|Classification|
+|**2025-11-25**|**[[2511.19868v1](http://arxiv.org/abs/2511.19868v1)]Field Test of 5G New Radio (NR) UL-MIMO and UL-256QAM for HD Live-Streaming**|Kasidis Arunruangsirilert et.al.||
 |**2025-11-24**|**[[2511.18888v1](http://arxiv.org/abs/2511.18888v1)]MFmamba: A Multi-function Network for Panchromatic Image Resolution Restoration Based on State-Space Model**|Qian Jiang et.al.|Superresolution, Pansharpening|
 |**2025-11-24**|**[[2511.18846v1](http://arxiv.org/abs/2511.18846v1)]WaveTuner: Comprehensive Wavelet Subband Tuning for Time Series Forecasting**|Yubo Wang et.al.||
 |**2025-11-23**|**[[2511.18624v1](http://arxiv.org/abs/2511.18624v1)]Insights into jet-NLR energetics in PMN J0948+0022**|B. Dalla Barba et.al.||
