@@ -354,6 +354,9 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-26**|**[[2511.21532v1](http://arxiv.org/abs/2511.21532v1)]Simulations of high-energy neutrino emissions from blazars with the LeHa-Paris code**|Francesco Carenini et.al.||
+|**2025-11-26**|**[[2511.21182v1](http://arxiv.org/abs/2511.21182v1)]Broad-band temporal and spectral study of TeV blazar TXS 0518+211**|Avik Kumar Das et.al.||
+|**2025-11-25**|**[[2511.20793v1](http://arxiv.org/abs/2511.20793v1)]Adversarial Multi-Task Learning for Liver Tumor Segmentation, Dynamic Enhancement Regression, and Classification**|Xiaojiao Xiao et.al.|Classification|
 |**2025-11-25**|**[[2511.20447v1](http://arxiv.org/abs/2511.20447v1)]Single-hole spectral functions in 1D quantum magnets with different ground states**|Sibin Yang et.al.||
 |**2025-11-25**|**[[2511.20336v1](http://arxiv.org/abs/2511.20336v1)]Impact of Spectral Coverage on Parameter recovery in Blazar Modeling**|N. Sahakyan et.al.||
 |**2025-11-25**|**[[2511.20127v1](http://arxiv.org/abs/2511.20127v1)]General Multi-User Distributed Computing**|Ali Khalesi et.al.||
