@@ -354,8 +354,19 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-28**|**[[2511.23331v1](http://arxiv.org/abs/2511.23331v1)]Optimization and application of ultra-high field preclinical high-resolution and 3D 1H-MRSI using compressed sensing**|Brayan Alves et.al.||
+|**2025-11-28**|**[[2511.23258v1](http://arxiv.org/abs/2511.23258v1)]Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition**|Yunpeng Qu et.al.||
+|**2025-11-28**|**[[2511.23134v1](http://arxiv.org/abs/2511.23134v1)]Blazar classification from multi-wavelength data using Deep Learning**|Saqlain Afroz et.al.|Classification|
+|**2025-11-28**|**[[2511.23128v1](http://arxiv.org/abs/2511.23128v1)]Joint Optimization of Pilot Length, Pilot Assignment, and Power Allocation for Cell-free MIMO Systems with Graph Neural Networks**|Yao Peng et.al.||
+|**2025-11-28**|**[[2511.23102v1](http://arxiv.org/abs/2511.23102v1)]Discontinuity-aware physics-informed neural networks for phase-field method in three-phase flows**|Guoqiang Lei et.al.||
+|**2025-11-28**|**[[2511.22855v1](http://arxiv.org/abs/2511.22855v1)]Two-Stage Distributionally Robust Optimization Framework for Secure Communications in Aerial-RIS Systems**|Zhongming Feng et.al.||
+|**2025-11-28**|**[[2511.22840v1](http://arxiv.org/abs/2511.22840v1)]Tunable Single-Photon Transport in a Multi-mode Waveguide via a $Λ$ -Type Emitter**|Yan Liu et.al.||
+|**2025-11-27**|**[[2511.22641v1](http://arxiv.org/abs/2511.22641v1)]Non-Gaussianity in SMICA**|M. Citran et.al.||
+|**2025-11-27**|**[[2511.22178v1](http://arxiv.org/abs/2511.22178v1)]Enhanced Graph Convolutional Network with Chebyshev Spectral Graph and Graph Attention for Autism Spectrum Disorder Classification**|Adnan Ferdous Ashrafi et.al.|Classification|
+|**2025-11-26**|**[[2511.21861v1](http://arxiv.org/abs/2511.21861v1)]Towards a Foundation Model for Partial Differential Equations Across Physics Domains**|Eduardo Soares et.al.||
+|**2025-11-26**|**[[2511.21777v1](http://arxiv.org/abs/2511.21777v1)]Artificial intelligence for methane detection: from continuous monitoring to verified mitigation**|Anna Allen et.al.||
 |**2025-11-26**|**[[2511.21532v1](http://arxiv.org/abs/2511.21532v1)]Simulations of high-energy neutrino emissions from blazars with the LeHa-Paris code**|Francesco Carenini et.al.||
-|**2025-11-26**|**[[2511.21182v1](http://arxiv.org/abs/2511.21182v1)]Broad-band temporal and spectral study of TeV blazar TXS 0518+211**|Avik Kumar Das et.al.||
+|**2025-11-27**|**[[2511.21182v2](http://arxiv.org/abs/2511.21182v2)]Broad-band temporal and spectral study of TeV blazar TXS 0518+211**|Avik Kumar Das et.al.||
 |**2025-11-25**|**[[2511.20793v1](http://arxiv.org/abs/2511.20793v1)]Adversarial Multi-Task Learning for Liver Tumor Segmentation, Dynamic Enhancement Regression, and Classification**|Xiaojiao Xiao et.al.|Classification|
 |**2025-11-25**|**[[2511.20447v1](http://arxiv.org/abs/2511.20447v1)]Single-hole spectral functions in 1D quantum magnets with different ground states**|Sibin Yang et.al.||
 |**2025-11-25**|**[[2511.20336v1](http://arxiv.org/abs/2511.20336v1)]Impact of Spectral Coverage on Parameter recovery in Blazar Modeling**|N. Sahakyan et.al.||
