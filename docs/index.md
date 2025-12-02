@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-01**|**[[2512.01372v1](http://arxiv.org/abs/2512.01372v1)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
+|**2025-11-29**|**[[2512.00261v1](http://arxiv.org/abs/2512.00261v1)]UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations**|Yuzhen Hu et.al.|Classification|
 |**2025-11-23**|**[[2511.18521v1](http://arxiv.org/abs/2511.18521v1)]Hyperspectral Variational Autoencoders for Joint Data Compression and Component Extraction**|Core Francisco Park et.al.||
 |**2025-11-23**|**[[2511.18473v1](http://arxiv.org/abs/2511.18473v1)]Uncertainty Quantification in HSI Reconstruction using Physics-Aware Diffusion Priors and Optics-Encoded Measurements**|Juan Romero et.al.||
 |**2025-11-22**|**[[2511.17895v1](http://arxiv.org/abs/2511.17895v1)]Spectral Super-Resolution Neural Operator with Atmospheric Radiative Transfer Prior**|Ziye Zhang et.al.|Superresolution|
@@ -105,7 +107,7 @@ layout: default
 |**2025-09-23**|**[[2509.19541v1](http://arxiv.org/abs/2509.19541v1)]Autonomous Elemental Characterization Enabled by a Low Cost Robotic Platform Built Upon a Generalized Software Architecture**|Xuan Cao et.al.||
 |**2025-09-26**|**[[2509.18653v2](http://arxiv.org/abs/2509.18653v2)]Subspace Clustering of Subspaces: Unifying Canonical Correlation Analysis and Subspace Clustering**|Paris A. Karakasis et.al.||
 |**2025-09-22**|**[[2509.17646v1](http://arxiv.org/abs/2509.17646v1)]PRIMAger General Observer programs: a {\Large $π$ }-sr Infrared Survey and other General Observer wide-field programs**|Denis Burgarella et.al.||
-|**2025-09-21**|**[[2509.16988v1](http://arxiv.org/abs/2509.16988v1)]A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.||
+|**2025-11-30**|**[[2509.16988v2](http://arxiv.org/abs/2509.16988v2)]A Cross-Hierarchical Difference Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.||
 |**2025-09-20**|**[[2509.16690v1](http://arxiv.org/abs/2509.16690v1)]Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.||
 |**2025-09-17**|**[[2509.13809v1](http://arxiv.org/abs/2509.13809v1)]Data-Efficient Spectral Classification of Hyperspectral Data Using MiniROCKET and HDC-MiniROCKET**|Nick Theisen et.al.|Classification|
 |**2025-09-17**|**[[2509.13779v1](http://arxiv.org/abs/2509.13779v1)]Hyperspectral Polarimetric BRDFs of Real-world Materials**|Yunseong Moon et.al.||
@@ -354,6 +356,19 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-01**|**[[2512.01904v1](http://arxiv.org/abs/2512.01904v1)]A Hands-On Molecular Communication Testbed for Undergraduate Education**|Arne Gaedeken et.al.||
+|**2025-12-01**|**[[2512.01776v1](http://arxiv.org/abs/2512.01776v1)]Search for Peak Structures in the Stochastic Gravitational-Wave Background in LIGO-Virgo-KAGRA O1-O4a Datasets**|Catalina-Ana Miritescu et.al.||
+|**2025-11-27**|**[[2512.01685v1](http://arxiv.org/abs/2512.01685v1)]Multi-pole solitons and breathers with spatially periodic modulation induced by the helicoidal spin-orbit coupling**|Cui-Cui Ding et.al.||
+|**2025-12-01**|**[[2512.01612v1](http://arxiv.org/abs/2512.01612v1)]Neural network-based deconvolution for GeV-Scale Gamma-Ray Spectroscopy**|Zhuofan Zhang et.al.|Denoising|
+|**2025-12-01**|**[[2512.01542v1](http://arxiv.org/abs/2512.01542v1)]Spectral-Energy Efficiency Tradeoff of Nearly-Passive RIS in MIMO URLLC Downlink: Diagonal vs. Beyond Diagonal**|Mohammad Soleymani et.al.||
+|**2025-12-01**|**[[2512.01303v1](http://arxiv.org/abs/2512.01303v1)]Programmable Switching of Molecular Transitions via Plasmonic Toroidal Nanoantennae**|Arda Gulucu et.al.||
+|**2025-12-01**|**[[2512.01275v1](http://arxiv.org/abs/2512.01275v1)]Retroreflective Optical ISAC for 6G: Technologies, Applications and Future Directions**|Tiantian Chu et.al.||
+|**2025-11-30**|**[[2512.00937v1](http://arxiv.org/abs/2512.00937v1)]Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis**|Lars Nippert et.al.||
+|**2025-11-30**|**[[2512.00828v1](http://arxiv.org/abs/2512.00828v1)]Spectral form factor and power spectrum for trapped rotating interacting bosons: An exact diagonalization study**|Mohd Talib et.al.||
+|**2025-11-30**|**[[2512.00793v1](http://arxiv.org/abs/2512.00793v1)]Green Bean galaxies and the fading echoes of AGN activity**|A. Arshinova et.al.||
+|**2025-11-30**|**[[2512.00750v1](http://arxiv.org/abs/2512.00750v1)]Broadband Spectral Analysis of 1ES2344+514: A Multi-epoch study**|Kishor Chaudhury et.al.||
+|**2025-11-28**|**[[2512.00155v1](http://arxiv.org/abs/2512.00155v1)]Magnetized Shocks Mediated by Radiation from Leptonic and Hadronic Processes**|Shunke Ai et.al.||
+|**2025-11-27**|**[[2512.00117v1](http://arxiv.org/abs/2512.00117v1)]TinyViT: Field Deployable Transformer Pipeline for Solar Panel Surface Fault and Severity Screening**|Ishwaryah Pandiarajan et.al.|Classification|
 |**2025-11-28**|**[[2511.23331v1](http://arxiv.org/abs/2511.23331v1)]Optimization and application of ultra-high field preclinical high-resolution and 3D 1H-MRSI using compressed sensing**|Brayan Alves et.al.||
 |**2025-11-28**|**[[2511.23258v1](http://arxiv.org/abs/2511.23258v1)]Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition**|Yunpeng Qu et.al.||
 |**2025-11-28**|**[[2511.23134v1](http://arxiv.org/abs/2511.23134v1)]Blazar classification from multi-wavelength data using Deep Learning**|Saqlain Afroz et.al.|Classification|
