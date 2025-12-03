@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-01**|**[[2512.02184v1](http://arxiv.org/abs/2512.02184v1)]Visible to Longwave-infrared imaging via an inverse-designed monolithic lens**|Syed N. Qadri et.al.|Superresolution|
 |**2025-12-01**|**[[2512.01372v1](http://arxiv.org/abs/2512.01372v1)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
 |**2025-11-29**|**[[2512.00261v1](http://arxiv.org/abs/2512.00261v1)]UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations**|Yuzhen Hu et.al.|Classification|
 |**2025-11-23**|**[[2511.18521v1](http://arxiv.org/abs/2511.18521v1)]Hyperspectral Variational Autoencoders for Joint Data Compression and Component Extraction**|Core Francisco Park et.al.||
@@ -356,7 +357,15 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
-|**2025-12-01**|**[[2512.01904v1](http://arxiv.org/abs/2512.01904v1)]A Hands-On Molecular Communication Testbed for Undergraduate Education**|Arne Gaedeken et.al.||
+|**2025-12-02**|**[[2512.02868v1](http://arxiv.org/abs/2512.02868v1)]Assessing the performance of correlation-based multi-fidelity neural emulators**|Cristian J. Villatoro et.al.||
+|**2025-12-02**|**[[2512.02866v1](http://arxiv.org/abs/2512.02866v1)]HeteroJIVE: Joint Subspace Estimation for Heterogeneous Multi-View Data**|Jingyang Li et.al.||
+|**2025-12-02**|**[[2512.02602v1](http://arxiv.org/abs/2512.02602v1)]Thermoelectric coefficients of two-flavor quark matter from the Kubo formalism**|Harutyun Gabuzyan et.al.||
+|**2025-12-02**|**[[2512.02594v1](http://arxiv.org/abs/2512.02594v1)]Radio, X-ray, and EUV signatures of internal and external reconnection of an erupting flux rope**|Jana Kašparová et.al.||
+|**2025-12-02**|**[[2512.02574v1](http://arxiv.org/abs/2512.02574v1)]Modeling Particle Acceleration and MWL Emission of a PeVatron Microquasar V4641 Sgr**|Anton Dmytriiev et.al.||
+|**2025-12-02**|**[[2512.02563v1](http://arxiv.org/abs/2512.02563v1)]Predictive Beamforming in Low-Altitude Wireless Networks: A Cross-Attention Approach**|Xiaotong Zhao et.al.||
+|**2025-12-01**|**[[2512.02184v1](http://arxiv.org/abs/2512.02184v1)]Visible to Longwave-infrared imaging via an inverse-designed monolithic lens**|Syed N. Qadri et.al.|Superresolution|
+|**2025-11-30**|**[[2512.02070v1](http://arxiv.org/abs/2512.02070v1)]DPWMixer: Dual-Path Wavelet Mixer for Long-Term Time Series Forecasting**|Li Qianyang et.al.||
+|**2025-12-02**|**[[2512.01904v2](http://arxiv.org/abs/2512.01904v2)]A Hands-On Molecular Communication Testbed for Undergraduate Education**|Arne Gaedeken et.al.||
 |**2025-12-01**|**[[2512.01776v1](http://arxiv.org/abs/2512.01776v1)]Search for Peak Structures in the Stochastic Gravitational-Wave Background in LIGO-Virgo-KAGRA O1-O4a Datasets**|Catalina-Ana Miritescu et.al.||
 |**2025-11-27**|**[[2512.01685v1](http://arxiv.org/abs/2512.01685v1)]Multi-pole solitons and breathers with spatially periodic modulation induced by the helicoidal spin-orbit coupling**|Cui-Cui Ding et.al.||
 |**2025-12-01**|**[[2512.01612v1](http://arxiv.org/abs/2512.01612v1)]Neural network-based deconvolution for GeV-Scale Gamma-Ray Spectroscopy**|Zhuofan Zhang et.al.|Denoising|
