@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-03**|**[[2512.03430v1](http://arxiv.org/abs/2512.03430v1)]Label-Efficient Hyperspectral Image Classification via Spectral FiLM Modulation of Low-Level Pretrained Diffusion Features**|Yuzhen Hu et.al.|Classification, Denoising|
+|**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
+|**2025-12-02**|**[[2512.03143v1](http://arxiv.org/abs/2512.03143v1)]Infrared emission from $z \sim 6.5$ quasar host galaxies: a direct estimate of dust physical properties**|M. Costa et.al.||
 |**2025-12-01**|**[[2512.02184v1](http://arxiv.org/abs/2512.02184v1)]Visible to Longwave-infrared imaging via an inverse-designed monolithic lens**|Syed N. Qadri et.al.|Superresolution|
 |**2025-12-01**|**[[2512.01372v1](http://arxiv.org/abs/2512.01372v1)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
 |**2025-11-29**|**[[2512.00261v1](http://arxiv.org/abs/2512.00261v1)]UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations**|Yuzhen Hu et.al.|Classification|
@@ -357,6 +360,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-03**|**[[2512.03830v1](http://arxiv.org/abs/2512.03830v1)]Magnetic activity on the young Sun: a case study of EK Draconis**|A. Görgei et.al.||
+|**2025-12-03**|**[[2512.03767v1](http://arxiv.org/abs/2512.03767v1)]CaFTRA: Frequency-Domain Correlation-Aware Feedback-Free MIMO Transmission and Resource Allocation for 6G and Beyond**|Bo Qian et.al.||
+|**2025-12-03**|**[[2512.03591v1](http://arxiv.org/abs/2512.03591v1)]Statistical and Temporal Analysis of Multi-component Burst-clusters from the Repeating FRB 20190520B**|Jia-heng Zhang et.al.||
+|**2025-12-02**|**[[2512.03290v1](http://arxiv.org/abs/2512.03290v1)]ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics**|Julian Evan Chrisnanto et.al.||
+|**2025-12-02**|**[[2512.03260v1](http://arxiv.org/abs/2512.03260v1)]Spectral Characterization of a 90 GHz CLASS Pixel**|Gregory Jaehnig et.al.||
+|**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
+|**2025-12-02**|**[[2512.03209v1](http://arxiv.org/abs/2512.03209v1)]Interferometric Detection and Orbit Modeling of the Subcomponent in the Hot-dust System $κ$ Tuc A: A Low-mass Star on an Eccentric Orbit in a Hierarchical-quintuple System**|T. A. Stuber et.al.||
+|**2025-12-02**|**[[2512.03129v1](http://arxiv.org/abs/2512.03129v1)]Taming the Tarantula: How Stellar Wind Feedback Shapes Gas and Dust in 30 Doradus**|Jennifer A. Rodriguez et.al.||
 |**2025-12-02**|**[[2512.02868v1](http://arxiv.org/abs/2512.02868v1)]Assessing the performance of correlation-based multi-fidelity neural emulators**|Cristian J. Villatoro et.al.||
 |**2025-12-02**|**[[2512.02866v1](http://arxiv.org/abs/2512.02866v1)]HeteroJIVE: Joint Subspace Estimation for Heterogeneous Multi-View Data**|Jingyang Li et.al.||
 |**2025-12-02**|**[[2512.02602v1](http://arxiv.org/abs/2512.02602v1)]Thermoelectric coefficients of two-flavor quark matter from the Kubo formalism**|Harutyun Gabuzyan et.al.||
