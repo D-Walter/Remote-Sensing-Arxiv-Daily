@@ -20,6 +20,10 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-04**|**[[2512.04901v1](http://arxiv.org/abs/2512.04901v1)]Adaptive Optics-Enhanced Michelson Interferometer for Spectroscopy of Narrow-Band Light Sources**|Jesneil Lauren Lewis et.al.||
+|**2025-12-04**|**[[2512.04816v1](http://arxiv.org/abs/2512.04816v1)]Spaceflight KID Readout Electronics for PRIMA**|Thomas Essinger-Hileman et.al.||
+|**2025-12-04**|**[[2512.04644v1](http://arxiv.org/abs/2512.04644v1)]Contract-Governed Training for Earth Observation: Observed Service Agreement Graphs and Coverage-Accuracy Trade-offs**|Wenzhang Du et.al.||
+|**2025-12-03**|**[[2512.04314v1](http://arxiv.org/abs/2512.04314v1)]DisentangleFormer: Spatial-Channel Decoupling for Multi-Channel Vision**|Jiashu Liao et.al.||
 |**2025-12-03**|**[[2512.03430v1](http://arxiv.org/abs/2512.03430v1)]Label-Efficient Hyperspectral Image Classification via Spectral FiLM Modulation of Low-Level Pretrained Diffusion Features**|Yuzhen Hu et.al.|Classification, Denoising|
 |**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
 |**2025-12-02**|**[[2512.03143v1](http://arxiv.org/abs/2512.03143v1)]Infrared emission from $z \sim 6.5$ quasar host galaxies: a direct estimate of dust physical properties**|M. Costa et.al.||
@@ -356,9 +360,21 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-04**|**[[2512.05117v1](http://arxiv.org/abs/2512.05117v1)]The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.||
+|**2025-12-04**|**[[2512.05049v1](http://arxiv.org/abs/2512.05049v1)]QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.||
+|**2025-12-04**|**[[2512.05025v1](http://arxiv.org/abs/2512.05025v1)]RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation**|Nicolas Houdré et.al.||
+|**2025-12-04**|**[[2512.04901v1](http://arxiv.org/abs/2512.04901v1)]Adaptive Optics-Enhanced Michelson Interferometer for Spectroscopy of Narrow-Band Light Sources**|Jesneil Lauren Lewis et.al.||
+|**2025-12-04**|**[[2512.04866v1](http://arxiv.org/abs/2512.04866v1)]Degrees of universality in wave turbulence**|Jiasheng Liu et.al.||
+|**2025-12-04**|**[[2512.04863v1](http://arxiv.org/abs/2512.04863v1)]PENCO: A Physics-Energy-Numerical-Consistent Operator for 3D Phase Field Modeling**|Mostafa Bamdad et.al.||
+|**2025-12-04**|**[[2512.04787v1](http://arxiv.org/abs/2512.04787v1)]2bNIRS: a portable, multi-distance, broadband oximeter and cytochrome-c-oxidase monitoring system for in vivo applications**|Luca Giannoni et.al.||
+|**2025-12-04**|**[[2512.04783v1](http://arxiv.org/abs/2512.04783v1)]Terahertz Fourier Ptychographic Imaging**|Pitambar Mukherjee et.al.||
+|**2025-12-04**|**[[2512.04644v1](http://arxiv.org/abs/2512.04644v1)]Contract-Governed Training for Earth Observation: Observed Service Agreement Graphs and Coverage-Accuracy Trade-offs**|Wenzhang Du et.al.||
+|**2025-12-04**|**[[2512.04372v1](http://arxiv.org/abs/2512.04372v1)]Design and dynamics experiment of filter wheel mechanism of space coronagraph**|Wei Guo et.al.||
+|**2025-12-03**|**[[2512.04314v1](http://arxiv.org/abs/2512.04314v1)]DisentangleFormer: Spatial-Channel Decoupling for Multi-Channel Vision**|Jiashu Liao et.al.||
+|**2025-12-03**|**[[2512.04265v1](http://arxiv.org/abs/2512.04265v1)]Separating flare and secondary atmospheric signals with RADYN modeling of near-infrared JWST transmission spectroscopy observations of TRAPPIST-1**|Ward S. Howard et.al.||
 |**2025-12-03**|**[[2512.03830v1](http://arxiv.org/abs/2512.03830v1)]Magnetic activity on the young Sun: a case study of EK Draconis**|A. Görgei et.al.||
-|**2025-12-03**|**[[2512.03767v1](http://arxiv.org/abs/2512.03767v1)]CaFTRA: Frequency-Domain Correlation-Aware Feedback-Free MIMO Transmission and Resource Allocation for 6G and Beyond**|Bo Qian et.al.||
-|**2025-12-03**|**[[2512.03591v1](http://arxiv.org/abs/2512.03591v1)]Statistical and Temporal Analysis of Multi-component Burst-clusters from the Repeating FRB 20190520B**|Jia-heng Zhang et.al.||
+|**2025-12-04**|**[[2512.03767v2](http://arxiv.org/abs/2512.03767v2)]CaFTRA: Frequency-Domain Correlation-Aware Feedback-Free MIMO Transmission and Resource Allocation for 6G and Beyond**|Bo Qian et.al.||
+|**2025-12-04**|**[[2512.03591v2](http://arxiv.org/abs/2512.03591v2)]Statistical and Temporal Analysis of Multi-component Burst-clusters from the Repeating FRB 20190520B**|Jia-heng Zhang et.al.||
 |**2025-12-02**|**[[2512.03290v1](http://arxiv.org/abs/2512.03290v1)]ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics**|Julian Evan Chrisnanto et.al.||
 |**2025-12-02**|**[[2512.03260v1](http://arxiv.org/abs/2512.03260v1)]Spectral Characterization of a 90 GHz CLASS Pixel**|Gregory Jaehnig et.al.||
 |**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
