@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-05**|**[[2512.05674v1](http://arxiv.org/abs/2512.05674v1)]Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|Unmixing|
+|**2025-12-05**|**[[2512.05578v1](http://arxiv.org/abs/2512.05578v1)]A Hyperspectral Imaging Guided Robotic Grasping System**|Zheng Sun et.al.||
 |**2025-12-04**|**[[2512.04901v1](http://arxiv.org/abs/2512.04901v1)]Adaptive Optics-Enhanced Michelson Interferometer for Spectroscopy of Narrow-Band Light Sources**|Jesneil Lauren Lewis et.al.||
 |**2025-12-04**|**[[2512.04816v1](http://arxiv.org/abs/2512.04816v1)]Spaceflight KID Readout Electronics for PRIMA**|Thomas Essinger-Hileman et.al.||
 |**2025-12-04**|**[[2512.04644v1](http://arxiv.org/abs/2512.04644v1)]Contract-Governed Training for Earth Observation: Observed Service Agreement Graphs and Coverage-Accuracy Trade-offs**|Wenzhang Du et.al.||
@@ -360,6 +362,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-05**|**[[2512.05610v1](http://arxiv.org/abs/2512.05610v1)]NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|Classification|
+|**2025-12-05**|**[[2512.05544v1](http://arxiv.org/abs/2512.05544v1)]Evolution of the Inner Accretion Flow in Swift J1727.8 $-$ 1613 across Intermediate States: Insights from Broadband Spectral and Timing Analysis**|Swadesh Chand et.al.||
+|**2025-12-05**|**[[2512.05388v1](http://arxiv.org/abs/2512.05388v1)]Spectrally-selective dynamic radiative thermoregulation via phase engineering**|Qizhang Li et.al.||
+|**2025-11-28**|**[[2512.05132v1](http://arxiv.org/abs/2512.05132v1)]Breaking Scale Anchoring: Frequency Representation Learning for Accurate High-Resolution Inference from Low-Resolution Training**|Wenshuo Wang et.al.|Superresolution|
 |**2025-12-04**|**[[2512.05117v1](http://arxiv.org/abs/2512.05117v1)]The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.||
 |**2025-12-04**|**[[2512.05049v1](http://arxiv.org/abs/2512.05049v1)]QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.||
 |**2025-12-04**|**[[2512.05025v1](http://arxiv.org/abs/2512.05025v1)]RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation**|Nicolas Houdré et.al.||
