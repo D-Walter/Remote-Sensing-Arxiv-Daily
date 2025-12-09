@@ -366,11 +366,24 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-08**|**[[2512.07557v1](http://arxiv.org/abs/2512.07557v1)]On Conditional Independence Graph Learning From Multi-Attribute Gaussian Dependent Time Series**|Jitendra K. Tugnait et.al.||
+|**2025-12-08**|**[[2512.07276v1](http://arxiv.org/abs/2512.07276v1)]Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|VLM|
+|**2025-12-07**|**[[2512.06730v1](http://arxiv.org/abs/2512.06730v1)]Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data**|Lin Yang et.al.||
+|**2025-12-06**|**[[2512.06400v1](http://arxiv.org/abs/2512.06400v1)]Perceptual Region-Driven Infrared-Visible Co-Fusion for Extreme Scene Enhancement**|Jing Tao et.al.||
+|**2025-12-06**|**[[2512.06330v1](http://arxiv.org/abs/2512.06330v1)]S2WMamba: A Spectral-Spatial Wavelet Mamba for Pansharpening**|Haoyu Zhang et.al.|Pansharpening|
+|**2025-12-06**|**[[2512.06289v1](http://arxiv.org/abs/2512.06289v1)]Frequency modulated enhancement of microwave resonator sensing**|Pranaya Kishore Rath et.al.||
+|**2025-12-05**|**[[2512.06103v1](http://arxiv.org/abs/2512.06103v1)]SpectraIrisPAD: Leveraging Vision Foundation Models for Spectrally Conditioned Multispectral Iris Presentation Attack Detection**|Raghavendra Ramachandra et.al.||
+|**2025-12-05**|**[[2512.06089v1](http://arxiv.org/abs/2512.06089v1)]SHORES II: Multi-frequency Characterisation of the Sub-mJy Radio Population in FIR-selected Fields**|Meriem Behiri et.al.||
+|**2025-12-05**|**[[2512.06067v1](http://arxiv.org/abs/2512.06067v1)]SN 2024afav: A Superluminous Supernova with Multiple Light Curve Bumps and Spectroscopic Signatures of Circumstellar Interaction**|Harsh Kumar et.al.||
+|**2025-12-04**|**[[2512.06031v1](http://arxiv.org/abs/2512.06031v1)]Multi-resolution Physics-Aware Recurrent Convolutional Neural Network for Complex Flows**|Xinlun Cheng et.al.||
+|**2025-12-04**|**[[2512.06024v1](http://arxiv.org/abs/2512.06024v1)]Neural reconstruction of 3D ocean wave hydrodynamics from camera sensing**|Jiabin Liu et.al.||
+|**2025-11-28**|**[[2512.05986v1](http://arxiv.org/abs/2512.05986v1)]Detuning-insensitive wide-field imaging of vector microwave fields with diamond sensors**|Xiu-Qi Chen et.al.||
+|**2025-11-27**|**[[2512.05984v1](http://arxiv.org/abs/2512.05984v1)]Dual-moon forced dynamics and nonlinear aggregation in Saturn's F ring: From quasi-periodicity to modulated oscillations**|Omar El Deeb et.al.||
 |**2025-12-05**|**[[2512.05610v1](http://arxiv.org/abs/2512.05610v1)]NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|Classification|
 |**2025-12-05**|**[[2512.05544v1](http://arxiv.org/abs/2512.05544v1)]Evolution of the Inner Accretion Flow in Swift J1727.8 $-$ 1613 across Intermediate States: Insights from Broadband Spectral and Timing Analysis**|Swadesh Chand et.al.||
 |**2025-12-05**|**[[2512.05388v1](http://arxiv.org/abs/2512.05388v1)]Spectrally-selective dynamic radiative thermoregulation via phase engineering**|Qizhang Li et.al.||
 |**2025-11-28**|**[[2512.05132v1](http://arxiv.org/abs/2512.05132v1)]Breaking Scale Anchoring: Frequency Representation Learning for Accurate High-Resolution Inference from Low-Resolution Training**|Wenshuo Wang et.al.|Superresolution|
-|**2025-12-04**|**[[2512.05117v1](http://arxiv.org/abs/2512.05117v1)]The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.||
+|**2025-12-06**|**[[2512.05117v2](http://arxiv.org/abs/2512.05117v2)]The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.||
 |**2025-12-04**|**[[2512.05049v1](http://arxiv.org/abs/2512.05049v1)]QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.||
 |**2025-12-04**|**[[2512.05025v1](http://arxiv.org/abs/2512.05025v1)]RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation**|Nicolas Houdré et.al.||
 |**2025-12-04**|**[[2512.04901v1](http://arxiv.org/abs/2512.04901v1)]Adaptive Optics-Enhanced Michelson Interferometer for Spectroscopy of Narrow-Band Light Sources**|Jesneil Lauren Lewis et.al.||
