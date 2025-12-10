@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-08**|**[[2512.08014v1](http://arxiv.org/abs/2512.08014v1)]Robust External-Beam Calibration of Plastic Scintillation Detectors for In-Vivo Dosimetry in HDR Brachytherapy**|Chahrazed Ghannoudi et.al.||
 |**2025-12-05**|**[[2512.05674v1](http://arxiv.org/abs/2512.05674v1)]Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|Unmixing|
 |**2025-12-05**|**[[2512.05578v1](http://arxiv.org/abs/2512.05578v1)]A Hyperspectral Imaging Guided Robotic Grasping System**|Zheng Sun et.al.||
 |**2025-12-04**|**[[2512.04901v1](http://arxiv.org/abs/2512.04901v1)]Adaptive Optics-Enhanced Michelson Interferometer for Spectroscopy of Narrow-Band Light Sources**|Jesneil Lauren Lewis et.al.||
@@ -366,6 +367,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-09**|**[[2512.08796v1](http://arxiv.org/abs/2512.08796v1)]Injection dynamics in spin-wave active ring oscillator (SWARO)**|Anirban Mukhopadhyay et.al.||
+|**2025-12-09**|**[[2512.08778v1](http://arxiv.org/abs/2512.08778v1)]Backwards Gamma-Ray Bursts: Searching for Exploding Primordial Black Holes in Short-Duration GRB Catalogs**|Stefano Profumo et.al.||
+|**2025-12-09**|**[[2512.08624v1](http://arxiv.org/abs/2512.08624v1)]Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers**|Jonas B. Rigo et.al.||
+|**2025-12-09**|**[[2512.08441v1](http://arxiv.org/abs/2512.08441v1)]Leveraging Multispectral Sensors for Color Correction in Mobile Cameras**|Luca Cogo et.al.||
+|**2025-12-09**|**[[2512.08389v1](http://arxiv.org/abs/2512.08389v1)]Development & first Performance evaluation of multielement monolithic HPGe detector for spectroscopy applications**|N. Goyal et.al.||
+|**2025-12-09**|**[[2512.08331v1](http://arxiv.org/abs/2512.08331v1)]Bi^2MAC: Bimodal Bi-Adaptive Mask-Aware Convolution for Remote Sensing Pansharpening**|Xianghong Xiao et.al.|Pansharpening|
+|**2025-12-09**|**[[2512.08319v1](http://arxiv.org/abs/2512.08319v1)]BUT Systems for Environmental Sound Deepfake Detection in the ESDD 2026 Challenge**|Junyi Peng et.al.||
+|**2025-12-09**|**[[2512.08181v1](http://arxiv.org/abs/2512.08181v1)]NEOWISE data and Thermophysical Modeling of 98943 Torifune (2001 CC21)**|Edward L. et.al.||
 |**2025-12-08**|**[[2512.07557v1](http://arxiv.org/abs/2512.07557v1)]On Conditional Independence Graph Learning From Multi-Attribute Gaussian Dependent Time Series**|Jitendra K. Tugnait et.al.||
 |**2025-12-08**|**[[2512.07276v1](http://arxiv.org/abs/2512.07276v1)]Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|VLM|
 |**2025-12-07**|**[[2512.06730v1](http://arxiv.org/abs/2512.06730v1)]Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data**|Lin Yang et.al.||
