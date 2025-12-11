@@ -20,6 +20,11 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-10**|**[[2512.09871v1](http://arxiv.org/abs/2512.09871v1)]Diffusion Posterior Sampler for Hyperspectral Unmixing with Spectral Variability Modeling**|Yimin Zhu et.al.|Unmixing|
+|**2025-12-10**|**[[2512.09546v1](http://arxiv.org/abs/2512.09546v1)]A Dual-Domain Convolutional Network for Hyperspectral Single-Image Super-Resolution**|Murat Karayaka et.al.|Superresolution|
+|**2025-12-10**|**[[2512.09456v1](http://arxiv.org/abs/2512.09456v1)]Two-Photon Bandwidth of Hyper-Entangled Photons in Complex Media**|Ronen Shekel et.al.||
+|**2025-12-08**|**[[2512.08990v1](http://arxiv.org/abs/2512.08990v1)]Agreement Disagreement Guided Knowledge Transfer for Cross-Scene Hyperspectral Imaging**|Lu Huo et.al.||
+|**2025-12-08**|**[[2512.08989v1](http://arxiv.org/abs/2512.08989v1)]Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|Classification|
 |**2025-12-08**|**[[2512.08014v1](http://arxiv.org/abs/2512.08014v1)]Robust External-Beam Calibration of Plastic Scintillation Detectors for In-Vivo Dosimetry in HDR Brachytherapy**|Chahrazed Ghannoudi et.al.||
 |**2025-12-05**|**[[2512.05674v1](http://arxiv.org/abs/2512.05674v1)]Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|Unmixing|
 |**2025-12-05**|**[[2512.05578v1](http://arxiv.org/abs/2512.05578v1)]A Hyperspectral Imaging Guided Robotic Grasping System**|Zheng Sun et.al.||
@@ -363,6 +368,12 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-10**|**[[2512.09625v1](http://arxiv.org/abs/2512.09625v1)]RIS-Assisted Coordinated Multi-Point ISAC for Low-Altitude Sensing Coverage**|Ying Zhang et.al.||
+|**2025-12-10**|**[[2512.09489v1](http://arxiv.org/abs/2512.09489v1)]MODA: The First Challenging Benchmark for Multispectral Object Detection in Aerial Images**|Shuaihao Han et.al.|Object Detection|
+|**2025-12-10**|**[[2512.09471v1](http://arxiv.org/abs/2512.09471v1)]Temporal-Spatial Tubelet Embedding for Cloud-Robust MSI Reconstruction using MSI-SAR Fusion: A Multi-Head Self-Attention Video Vision Transformer Approach**|Yiqun Wang et.al.||
+|**2025-12-10**|**[[2512.09459v1](http://arxiv.org/abs/2512.09459v1)]The Complex-Step Integral Transform**|Rafael Abreu et.al.||
+|**2025-12-10**|**[[2512.09339v1](http://arxiv.org/abs/2512.09339v1)]Discovery of the redback millisecond pulsar PSR J1728-4608 with ASKAP**|F. Petrou et.al.||
+|**2025-12-10**|**[[2512.09234v1](http://arxiv.org/abs/2512.09234v1)]Tracing a Multi-Temperature Quiescent Prominence's Thermodynamic Evolution from Sun to Earth**|Callie A. García et.al.||
 |**2025-12-09**|**[[2512.08796v1](http://arxiv.org/abs/2512.08796v1)]Injection dynamics in spin-wave active ring oscillator (SWARO)**|Anirban Mukhopadhyay et.al.||
 |**2025-12-09**|**[[2512.08778v1](http://arxiv.org/abs/2512.08778v1)]Backwards Gamma-Ray Bursts: Searching for Exploding Primordial Black Holes in Short-Duration GRB Catalogs**|Stefano Profumo et.al.||
 |**2025-12-09**|**[[2512.08624v1](http://arxiv.org/abs/2512.08624v1)]Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers**|Jonas B. Rigo et.al.||
