@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-11**|**[[2512.10506v1](http://arxiv.org/abs/2512.10506v1)]Hyperspectral Image Data Reduction for Endmember Extraction**|Tomohiko Mizutani et.al.||
+|**2025-12-11**|**[[2512.10213v1](http://arxiv.org/abs/2512.10213v1)]Active Optics for Hyperspectral Imaging of Reflective Agricultural Leaf Sensors**|Dexter Burns et.al.||
 |**2025-12-10**|**[[2512.09871v1](http://arxiv.org/abs/2512.09871v1)]Diffusion Posterior Sampler for Hyperspectral Unmixing with Spectral Variability Modeling**|Yimin Zhu et.al.|Unmixing|
 |**2025-12-10**|**[[2512.09546v1](http://arxiv.org/abs/2512.09546v1)]A Dual-Domain Convolutional Network for Hyperspectral Single-Image Super-Resolution**|Murat Karayaka et.al.|Superresolution|
 |**2025-12-10**|**[[2512.09456v1](http://arxiv.org/abs/2512.09456v1)]Two-Photon Bandwidth of Hyper-Entangled Photons in Complex Media**|Ronen Shekel et.al.||
@@ -368,13 +370,21 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-11**|**[[2512.10843v1](http://arxiv.org/abs/2512.10843v1)]Analyticity and positivity of Green's functions without Lorentz**|Paolo Creminelli et.al.||
+|**2025-12-11**|**[[2512.10798v1](http://arxiv.org/abs/2512.10798v1)]Ultrahigh-Q chiral resonances empowered by multi-head attention deep learning**|Cong Zhang et.al.||
+|**2025-12-11**|**[[2512.10723v1](http://arxiv.org/abs/2512.10723v1)]Generalized Spherical Neural Operators: Green's Function Formulation**|Hao Tang et.al.||
+|**2025-12-11**|**[[2512.10615v1](http://arxiv.org/abs/2512.10615v1)]nDspec: a new Python library for modelling multi-dimensional datasets in X-ray astronomy**|Matteo Lucchini et.al.||
+|**2025-12-11**|**[[2512.10479v1](http://arxiv.org/abs/2512.10479v1)]Multi-wavelength emission in resistive pulsar magnetospheres**|Jérôme Pétri et.al.||
+|**2025-12-10**|**[[2512.10167v1](http://arxiv.org/abs/2512.10167v1)]Spectrally Resolved Gas Kinematics in Cygnus A: XRISM Detects AGN Jet-induced Velocity Dispersion in Multi-temperature Gas**|Anwesh Majumder et.al.||
+|**2025-12-10**|**[[2512.09990v1](http://arxiv.org/abs/2512.09990v1)]The mysterious Globular Cluster population of MATLAS-2019**|Sergio Guerra Arencibia et.al.||
+|**2025-12-10**|**[[2512.09984v1](http://arxiv.org/abs/2512.09984v1)]Clues from $\mathcal{Q}$ --A null test designed for line intensity mapping cross-correlation studies**|Debanjan Sarkar et.al.||
 |**2025-12-10**|**[[2512.09625v1](http://arxiv.org/abs/2512.09625v1)]RIS-Assisted Coordinated Multi-Point ISAC for Low-Altitude Sensing Coverage**|Ying Zhang et.al.||
 |**2025-12-10**|**[[2512.09489v1](http://arxiv.org/abs/2512.09489v1)]MODA: The First Challenging Benchmark for Multispectral Object Detection in Aerial Images**|Shuaihao Han et.al.|Object Detection|
 |**2025-12-10**|**[[2512.09471v1](http://arxiv.org/abs/2512.09471v1)]Temporal-Spatial Tubelet Embedding for Cloud-Robust MSI Reconstruction using MSI-SAR Fusion: A Multi-Head Self-Attention Video Vision Transformer Approach**|Yiqun Wang et.al.||
 |**2025-12-10**|**[[2512.09459v1](http://arxiv.org/abs/2512.09459v1)]The Complex-Step Integral Transform**|Rafael Abreu et.al.||
 |**2025-12-10**|**[[2512.09339v1](http://arxiv.org/abs/2512.09339v1)]Discovery of the redback millisecond pulsar PSR J1728-4608 with ASKAP**|F. Petrou et.al.||
 |**2025-12-10**|**[[2512.09234v1](http://arxiv.org/abs/2512.09234v1)]Tracing a Multi-Temperature Quiescent Prominence's Thermodynamic Evolution from Sun to Earth**|Callie A. García et.al.||
-|**2025-12-09**|**[[2512.08796v1](http://arxiv.org/abs/2512.08796v1)]Injection dynamics in spin-wave active ring oscillator (SWARO)**|Anirban Mukhopadhyay et.al.||
+|**2025-12-11**|**[[2512.08796v2](http://arxiv.org/abs/2512.08796v2)]Injection dynamics in spin-wave active ring oscillator (SWARO)**|Anirban Mukhopadhyay et.al.||
 |**2025-12-09**|**[[2512.08778v1](http://arxiv.org/abs/2512.08778v1)]Backwards Gamma-Ray Bursts: Searching for Exploding Primordial Black Holes in Short-Duration GRB Catalogs**|Stefano Profumo et.al.||
 |**2025-12-09**|**[[2512.08624v1](http://arxiv.org/abs/2512.08624v1)]Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers**|Jonas B. Rigo et.al.||
 |**2025-12-09**|**[[2512.08441v1](http://arxiv.org/abs/2512.08441v1)]Leveraging Multispectral Sensors for Color Correction in Mobile Cameras**|Luca Cogo et.al.||
