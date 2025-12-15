@@ -374,6 +374,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-12**|**[[2512.11738v1](http://arxiv.org/abs/2512.11738v1)]Multiscale Causal Geometric Deep Learning for Modeling Brain Structure**|Chengzhi Xia et.al.||
+|**2025-12-12**|**[[2512.11559v1](http://arxiv.org/abs/2512.11559v1)]Supersymmetric Spectral Form Factor of ABJM Theory**|Wenni Zheng et.al.||
+|**2025-12-12**|**[[2512.11334v1](http://arxiv.org/abs/2512.11334v1)]Spectral entropy prior-guided deep feature fusion architecture for magnetic core loss**|Cong Yao et.al.||
+|**2025-12-12**|**[[2512.11267v1](http://arxiv.org/abs/2512.11267v1)]Evaluating the Efficacy of Sentinel-2 versus Aerial Imagery in Serrated Tussock Classification**|Rezwana Sultana et.al.|Classification|
+|**2025-12-11**|**[[2512.11165v1](http://arxiv.org/abs/2512.11165v1)]Mitigation of multi-path propagation artefacts in acoustic targets with cepstral adaptive filtering**|Lucas C. F. Domingos et.al.|Classification|
+|**2025-12-11**|**[[2512.11062v1](http://arxiv.org/abs/2512.11062v1)]Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties**|Charvi Goyal et.al.||
+|**2025-12-11**|**[[2512.11028v1](http://arxiv.org/abs/2512.11028v1)]Chemical composition and enrichment of the Centaurus cluster core seen by XRISM/Resolve**|F. Mernier et.al.||
+|**2025-12-11**|**[[2512.11009v1](http://arxiv.org/abs/2512.11009v1)]The TCG CREST -- RKMVERI Submission for the NCIIPC Startup India AI Grand Challenge**|Nikhil Raghav et.al.||
 |**2025-12-11**|**[[2512.10843v1](http://arxiv.org/abs/2512.10843v1)]Analyticity and positivity of Green's functions without Lorentz**|Paolo Creminelli et.al.||
 |**2025-12-11**|**[[2512.10798v1](http://arxiv.org/abs/2512.10798v1)]Ultrahigh-Q chiral resonances empowered by multi-head attention deep learning**|Cong Zhang et.al.||
 |**2025-12-11**|**[[2512.10723v1](http://arxiv.org/abs/2512.10723v1)]Generalized Spherical Neural Operators: Green's Function Formulation**|Hao Tang et.al.||
@@ -428,7 +436,7 @@ layout: default
 |**2025-12-03**|**[[2512.03830v1](http://arxiv.org/abs/2512.03830v1)]Magnetic activity on the young Sun: a case study of EK Draconis**|A. Görgei et.al.||
 |**2025-12-04**|**[[2512.03767v2](http://arxiv.org/abs/2512.03767v2)]CaFTRA: Frequency-Domain Correlation-Aware Feedback-Free MIMO Transmission and Resource Allocation for 6G and Beyond**|Bo Qian et.al.||
 |**2025-12-04**|**[[2512.03591v2](http://arxiv.org/abs/2512.03591v2)]Statistical and Temporal Analysis of Multi-component Burst-clusters from the Repeating FRB 20190520B**|Jia-heng Zhang et.al.||
-|**2025-12-02**|**[[2512.03290v1](http://arxiv.org/abs/2512.03290v1)]ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics**|Julian Evan Chrisnanto et.al.||
+|**2025-12-12**|**[[2512.03290v2](http://arxiv.org/abs/2512.03290v2)]ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics**|Julian Evan Chrisnanto et.al.||
 |**2025-12-02**|**[[2512.03260v1](http://arxiv.org/abs/2512.03260v1)]Spectral Characterization of a 90 GHz CLASS Pixel**|Gregory Jaehnig et.al.||
 |**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
 |**2025-12-02**|**[[2512.03209v1](http://arxiv.org/abs/2512.03209v1)]Interferometric Detection and Orbit Modeling of the Subcomponent in the Hot-dust System $κ$ Tuc A: A Low-mass Star on an Eccentric Orbit in a Hierarchical-quintuple System**|T. A. Stuber et.al.||
