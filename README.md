@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-15**|**[[2512.13682v1](http://arxiv.org/abs/2512.13682v1)]XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**|J. M. S. Donnellan et.al.||
 |**2025-12-11**|**[[2512.10506v1](http://arxiv.org/abs/2512.10506v1)]Hyperspectral Image Data Reduction for Endmember Extraction**|Tomohiko Mizutani et.al.||
 |**2025-12-11**|**[[2512.10213v1](http://arxiv.org/abs/2512.10213v1)]Active Optics for Hyperspectral Imaging of Reflective Agricultural Leaf Sensors**|Dexter Burns et.al.||
 |**2025-12-10**|**[[2512.09871v1](http://arxiv.org/abs/2512.09871v1)]Diffusion Posterior Sampler for Hyperspectral Unmixing with Spectral Variability Modeling**|Yimin Zhu et.al.|Unmixing|
@@ -370,6 +371,17 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-15**|**[[2512.13631v1](http://arxiv.org/abs/2512.13631v1)]Torus Time-Spectral Method for Quasi-Periodic Problems**|Sicheng He et.al.||
+|**2025-12-15**|**[[2512.13079v1](http://arxiv.org/abs/2512.13079v1)]Unraveling real-time chemical shifts in the ultrafast regime**|Daniel E. Rivas et.al.||
+|**2025-12-15**|**[[2512.12985v1](http://arxiv.org/abs/2512.12985v1)]X-ray Variability and Photosphere Evolution during Accretion Disk Formation in Tidal Disruption Events**|Xiaoshan Huang et.al.||
+|**2025-12-14**|**[[2512.12741v1](http://arxiv.org/abs/2512.12741v1)]Intracavity-birefringence-enabled soliton states and wavelength control in the (C + L)-band fiber lasers**|Chuangkai Li et.al.||
+|**2025-12-14**|**[[2512.12683v1](http://arxiv.org/abs/2512.12683v1)]Quantum Implicit Neural Representations for 3D Scene Reconstruction and Novel View Synthesis**|Yeray Cordero et.al.||
+|**2025-12-13**|**[[2512.12470v1](http://arxiv.org/abs/2512.12470v1)]Exploiting light coherence in astrophysics**|Vitalii Sliusar et.al.||
+|**2025-12-13**|**[[2512.12368v1](http://arxiv.org/abs/2512.12368v1)]XR Capacity Enhancement through Multi-Connected XR Tethering Groups**|Muhammad Ahsen et.al.||
+|**2025-12-13**|**[[2512.12180v1](http://arxiv.org/abs/2512.12180v1)]A Sensing Dataset Protocol for Benchmarking and Multi-Task Wireless Sensing**|Jiawei Huang et.al.||
+|**2025-12-13**|**[[2512.12102v1](http://arxiv.org/abs/2512.12102v1)]Binarity at LOw Metallicity (BLOeM): Projected rotational velocities**|D. J. Lennon et.al.||
+|**2025-12-12**|**[[2512.12001v1](http://arxiv.org/abs/2512.12001v1)]HWF-PIKAN: A Multi-Resolution Hybrid Wavelet-Fourier Physics-Informed Kolmogorov-Arnold Network for solving Collisionless Boltzmann Equation**|Mohammad E. Heravifard et.al.||
+|**2025-12-04**|**[[2512.11845v1](http://arxiv.org/abs/2512.11845v1)]Airport Passenger Flow Forecasting via Deformable Temporal-Spectral Transformer Approach**|Wenbo Du et.al.||
 |**2025-12-12**|**[[2512.11738v1](http://arxiv.org/abs/2512.11738v1)]Multiscale Causal Geometric Deep Learning for Modeling Brain Structure**|Chengzhi Xia et.al.||
 |**2025-12-12**|**[[2512.11559v1](http://arxiv.org/abs/2512.11559v1)]Supersymmetric Spectral Form Factor of ABJM Theory**|Wenni Zheng et.al.||
 |**2025-12-12**|**[[2512.11334v1](http://arxiv.org/abs/2512.11334v1)]Spectral entropy prior-guided deep feature fusion architecture for magnetic core loss**|Cong Yao et.al.||
