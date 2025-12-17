@@ -371,6 +371,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-16**|**[[2512.14372v1](http://arxiv.org/abs/2512.14372v1)]Surveying Galaxy Clusters (in formation) in the Distant Universe**|J. M. Pérez-Martínez et.al.||
 |**2025-12-15**|**[[2512.13631v1](http://arxiv.org/abs/2512.13631v1)]Torus Time-Spectral Method for Quasi-Periodic Problems**|Sicheng He et.al.||
 |**2025-12-15**|**[[2512.13079v1](http://arxiv.org/abs/2512.13079v1)]Unraveling real-time chemical shifts in the ultrafast regime**|Daniel E. Rivas et.al.||
 |**2025-12-15**|**[[2512.12985v1](http://arxiv.org/abs/2512.12985v1)]X-ray Variability and Photosphere Evolution during Accretion Disk Formation in Tidal Disruption Events**|Xiaoshan Huang et.al.||
@@ -412,6 +413,7 @@
 |**2025-12-09**|**[[2512.08331v1](http://arxiv.org/abs/2512.08331v1)]Bi^2MAC: Bimodal Bi-Adaptive Mask-Aware Convolution for Remote Sensing Pansharpening**|Xianghong Xiao et.al.|Pansharpening|
 |**2025-12-09**|**[[2512.08319v1](http://arxiv.org/abs/2512.08319v1)]BUT Systems for Environmental Sound Deepfake Detection in the ESDD 2026 Challenge**|Junyi Peng et.al.||
 |**2025-12-09**|**[[2512.08181v1](http://arxiv.org/abs/2512.08181v1)]NEOWISE data and Thermophysical Modeling of 98943 Torifune (2001 CC21)**|Edward L. et.al.||
+|**2025-12-15**|**[[2512.07901v2](http://arxiv.org/abs/2512.07901v2)]The Theory of Strategic Evolution: Games with Endogenous Players and Strategic Replicators**|Kevin Vallier et.al.||
 |**2025-12-08**|**[[2512.07557v1](http://arxiv.org/abs/2512.07557v1)]On Conditional Independence Graph Learning From Multi-Attribute Gaussian Dependent Time Series**|Jitendra K. Tugnait et.al.||
 |**2025-12-08**|**[[2512.07276v1](http://arxiv.org/abs/2512.07276v1)]Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|VLM|
 |**2025-12-07**|**[[2512.06730v1](http://arxiv.org/abs/2512.06730v1)]Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data**|Lin Yang et.al.||
