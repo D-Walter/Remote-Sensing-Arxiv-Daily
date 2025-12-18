@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-17**|**[[2512.15544v1](http://arxiv.org/abs/2512.15544v1)]Assessing the Effect of PCA-Based Dimensionality Reduction on Machine Learning Performance in Hyperspectral Optical Imaging**|Parisa Parand et.al.||
 |**2025-12-15**|**[[2512.13682v1](http://arxiv.org/abs/2512.13682v1)]XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**|J. M. S. Donnellan et.al.||
 |**2025-12-11**|**[[2512.10506v1](http://arxiv.org/abs/2512.10506v1)]Hyperspectral Image Data Reduction for Endmember Extraction**|Tomohiko Mizutani et.al.||
 |**2025-12-11**|**[[2512.10213v1](http://arxiv.org/abs/2512.10213v1)]Active Optics for Hyperspectral Imaging of Reflective Agricultural Leaf Sensors**|Dexter Burns et.al.||
@@ -371,6 +372,18 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-17**|**[[2512.15660v1](http://arxiv.org/abs/2512.15660v1)]The longest known tails of ram-pressure stripped star-forming galaxies are caused by an ICM shock in Abell 1367**|H. W. Edler et.al.||
+|**2025-12-17**|**[[2512.15609v1](http://arxiv.org/abs/2512.15609v1)]Hadronic Clues in Quasars Caught by Fermi-LAT**|Antonio Galván et.al.||
+|**2025-12-17**|**[[2512.15555v1](http://arxiv.org/abs/2512.15555v1)]Spectroscopic Alerts for the Time-Domain Era**|Alejandra Melo et.al.||
+|**2025-12-17**|**[[2512.15539v1](http://arxiv.org/abs/2512.15539v1)]Extensive Observational Evidence for Massive Star Stellar Wind Variability at Low Metallicities: implications for mass-loss rate determination**|Timothy N. Parsons et.al.||
+|**2025-12-17**|**[[2512.15344v1](http://arxiv.org/abs/2512.15344v1)]Empirical Investigation of the Impact of Phase Information on Fault Diagnosis of Rotating Machinery**|Hiroyoshi Nagahama et.al.||
+|**2025-12-17**|**[[2512.15261v1](http://arxiv.org/abs/2512.15261v1)]MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|Superresolution|
+|**2025-12-17**|**[[2512.15065v1](http://arxiv.org/abs/2512.15065v1)]A Comprehensive Interpretation of Fermi-LAT Pulsars: Fundamental-Plane Death Border, Visibility Thresholds, and GeV-TeV Unification**|Constantinos Kalapotharakos et.al.||
+|**2025-12-17**|**[[2512.15019v1](http://arxiv.org/abs/2512.15019v1)]HOney-BeeS II. Be-X-ray binaries as testbeds for spectroscopic studies of Be stars**|S. Janssens et.al.||
+|**2025-12-16**|**[[2512.14816v1](http://arxiv.org/abs/2512.14816v1)]Exploiting tidal asteroseismology in binary populations from combined space photometry and time-resolved high-resolution spectroscopy**|Ema Šipková et.al.||
+|**2025-12-16**|**[[2512.14802v1](http://arxiv.org/abs/2512.14802v1)]Dynamical binary interactions in the 2040s**|Nadejda Blagorodnova et.al.||
+|**2025-12-16**|**[[2512.14768v1](http://arxiv.org/abs/2512.14768v1)]Serendipitous and targeted mm/sub-mm transient searches with wide-FOV telescope**|Karri Koljonen et.al.||
+|**2025-12-15**|**[[2512.14763v1](http://arxiv.org/abs/2512.14763v1)]The Galactic White Dwarf Population**|Santiago Torres et.al.||
 |**2025-12-16**|**[[2512.14372v1](http://arxiv.org/abs/2512.14372v1)]Surveying Galaxy Clusters (in formation) in the Distant Universe**|J. M. Pérez-Martínez et.al.||
 |**2025-12-15**|**[[2512.13631v1](http://arxiv.org/abs/2512.13631v1)]Torus Time-Spectral Method for Quasi-Periodic Problems**|Sicheng He et.al.||
 |**2025-12-15**|**[[2512.13079v1](http://arxiv.org/abs/2512.13079v1)]Unraveling real-time chemical shifts in the ultrafast regime**|Daniel E. Rivas et.al.||
