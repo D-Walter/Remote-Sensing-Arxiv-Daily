@@ -376,6 +376,15 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-18**|**[[2512.16714v1](http://arxiv.org/abs/2512.16714v1)]Evidence of Possible Spectral Variability in the Patroclus-Menoetius Binary System**|Ian Wong et.al.||
+|**2025-12-18**|**[[2512.16709v1](http://arxiv.org/abs/2512.16709v1)]Simulation-based inference with neural posterior estimation applied to X-ray spectral fitting - III Deriving exact posteriors with dimension reduction and importance sampling**|Didier Barret et.al.||
+|**2025-12-18**|**[[2512.16669v1](http://arxiv.org/abs/2512.16669v1)]Photoinduced phase heterogeneity and charge localization in SnSe**|Benjamin J. Dringoli et.al.||
+|**2025-12-18**|**[[2512.16543v1](http://arxiv.org/abs/2512.16543v1)]Efficient Precoding for LEO Satellites: A Low-Complexity Matrix Inversion Method via Woodbury Matrix Identity and arSVD**|Mohammad Momani et.al.||
+|**2025-12-18**|**[[2512.16469v1](http://arxiv.org/abs/2512.16469v1)]Tri-Select: A Multi-Stage Visual Data Selection Framework for Mobile Visual Crowdsensing**|Jiayu Zhang et.al.||
+|**2025-12-17**|**[[2512.16010v1](http://arxiv.org/abs/2512.16010v1)]LSTM-MDNz: Estimating Quasar Photometric Redshifts with an LSTM-Augmented Mixture Density Network**|Jianzhen Chen et.al.||
+|**2025-12-17**|**[[2512.15971v1](http://arxiv.org/abs/2512.15971v1)]From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum et.al.|VLM, Object Detection|
+|**2025-12-17**|**[[2512.15904v1](http://arxiv.org/abs/2512.15904v1)]Binarity Beyond Gaia: The case for a dedicated spectroscopic survey of binary stars**|Borja Anguiano et.al.||
+|**2025-12-17**|**[[2512.15895v1](http://arxiv.org/abs/2512.15895v1)]The Next Generation Fornax Survey (NGFS).VIII. A Support Vector Machine Approach for Disentangling Globular Clusters from other Sources**|Yasna Ordenes-Briceño et.al.|Classification|
 |**2025-12-17**|**[[2512.15660v1](http://arxiv.org/abs/2512.15660v1)]The longest known tails of ram-pressure stripped star-forming galaxies are caused by an ICM shock in Abell 1367**|H. W. Edler et.al.||
 |**2025-12-17**|**[[2512.15609v1](http://arxiv.org/abs/2512.15609v1)]Hadronic Clues in Quasars Caught by Fermi-LAT**|Antonio Galván et.al.||
 |**2025-12-17**|**[[2512.15555v1](http://arxiv.org/abs/2512.15555v1)]Spectroscopic Alerts for the Time-Domain Era**|Alejandra Melo et.al.||
