@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-19**|**[[2512.17647v1](http://arxiv.org/abs/2512.17647v1)]Hyperbolic-enhanced Raman scattering in van der Waals MoOCl2: from Fano resonances to picomolar detection**|Anton Minnekhanov et.al.||
 |**2025-12-17**|**[[2512.15544v1](http://arxiv.org/abs/2512.15544v1)]Assessing the Effect of PCA-Based Dimensionality Reduction on Machine Learning Performance in Hyperspectral Optical Imaging**|Parisa Parand et.al.||
 |**2025-12-15**|**[[2512.13682v1](http://arxiv.org/abs/2512.13682v1)]XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**|J. M. S. Donnellan et.al.||
 |**2025-12-11**|**[[2512.10506v1](http://arxiv.org/abs/2512.10506v1)]Hyperspectral Image Data Reduction for Endmember Extraction**|Tomohiko Mizutani et.al.||
@@ -57,7 +58,7 @@ layout: default
 |**2025-11-24**|**[[2511.15509v2](http://arxiv.org/abs/2511.15509v2)]Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|Classification|
 |**2025-11-19**|**[[2511.15052v1](http://arxiv.org/abs/2511.15052v1)]Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|Superresolution|
 |**2025-11-17**|**[[2511.13020v1](http://arxiv.org/abs/2511.13020v1)]SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.||
-|**2025-11-15**|**[[2511.12346v1](http://arxiv.org/abs/2511.12346v1)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
+|**2025-12-19**|**[[2511.12346v2](http://arxiv.org/abs/2511.12346v2)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
 |**2025-11-15**|**[[2511.12268v1](http://arxiv.org/abs/2511.12268v1)]Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|Classification|
 |**2025-11-15**|**[[2511.12038v1](http://arxiv.org/abs/2511.12038v1)]Temperature bandgaps and thermal dopants arising from photothermal nonlinearities in high-Q silicon metasurfaces**|Punnag Padhy et.al.||
 |**2025-11-13**|**[[2511.11732v1](http://arxiv.org/abs/2511.11732v1)]Exposing DeepFakes via Hyperspectral Domain Mapping**|Aditya Mehta et.al.||
@@ -376,6 +377,12 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-19**|**[[2512.17539v1](http://arxiv.org/abs/2512.17539v1)]Constraining black hole spin in PG 1535+547 amidst complex multi-layered absorption**|A. Madathil-Pottayil et.al.||
+|**2025-12-19**|**[[2512.17512v1](http://arxiv.org/abs/2512.17512v1)]BHiCect 2.0: Multi-resolution clustering of Hi-C data**|Vipin Kumar et.al.||
+|**2025-12-19**|**[[2512.17224v1](http://arxiv.org/abs/2512.17224v1)]Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing**|Xuyang Li et.al.||
+|**2025-12-19**|**[[2512.17202v1](http://arxiv.org/abs/2512.17202v1)]Fose: Fusion of One-Step Diffusion and End-to-End Network for Pansharpening**|Kai Liu et.al.|Pansharpening|
+|**2025-12-19**|**[[2512.17184v1](http://arxiv.org/abs/2512.17184v1)]A VERITAS view of HESS J1857+026 within a multi-wavelength analysis**|Y. Chen et.al.||
+|**2025-12-18**|**[[2512.17055v1](http://arxiv.org/abs/2512.17055v1)]Packet Detection in a Filter Bank-Based Ultra-Wideband Communication System**|Brian Nelson et.al.||
 |**2025-12-18**|**[[2512.16714v1](http://arxiv.org/abs/2512.16714v1)]Evidence of Possible Spectral Variability in the Patroclus-Menoetius Binary System**|Ian Wong et.al.||
 |**2025-12-18**|**[[2512.16709v1](http://arxiv.org/abs/2512.16709v1)]Simulation-based inference with neural posterior estimation applied to X-ray spectral fitting - III Deriving exact posteriors with dimension reduction and importance sampling**|Didier Barret et.al.||
 |**2025-12-18**|**[[2512.16669v1](http://arxiv.org/abs/2512.16669v1)]Photoinduced phase heterogeneity and charge localization in SnSe**|Benjamin J. Dringoli et.al.||
@@ -391,7 +398,7 @@ layout: default
 |**2025-12-17**|**[[2512.15539v1](http://arxiv.org/abs/2512.15539v1)]Extensive Observational Evidence for Massive Star Stellar Wind Variability at Low Metallicities: implications for mass-loss rate determination**|Timothy N. Parsons et.al.||
 |**2025-12-17**|**[[2512.15344v1](http://arxiv.org/abs/2512.15344v1)]Empirical Investigation of the Impact of Phase Information on Fault Diagnosis of Rotating Machinery**|Hiroyoshi Nagahama et.al.||
 |**2025-12-17**|**[[2512.15261v1](http://arxiv.org/abs/2512.15261v1)]MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|Superresolution|
-|**2025-12-17**|**[[2512.15065v1](http://arxiv.org/abs/2512.15065v1)]A Comprehensive Interpretation of Fermi-LAT Pulsars: Fundamental-Plane Death Border, Visibility Thresholds, and GeV-TeV Unification**|Constantinos Kalapotharakos et.al.||
+|**2025-12-19**|**[[2512.15065v2](http://arxiv.org/abs/2512.15065v2)]A Comprehensive Interpretation of Fermi-LAT Pulsars: Fundamental-Plane Death Border, Visibility Thresholds, and GeV-TeV Unification**|Constantinos Kalapotharakos et.al.||
 |**2025-12-17**|**[[2512.15019v1](http://arxiv.org/abs/2512.15019v1)]HOney-BeeS II. Be-X-ray binaries as testbeds for spectroscopic studies of Be stars**|S. Janssens et.al.||
 |**2025-12-16**|**[[2512.14816v1](http://arxiv.org/abs/2512.14816v1)]Exploiting tidal asteroseismology in binary populations from combined space photometry and time-resolved high-resolution spectroscopy**|Ema Šipková et.al.||
 |**2025-12-16**|**[[2512.14802v1](http://arxiv.org/abs/2512.14802v1)]Dynamical binary interactions in the 2040s**|Nadejda Blagorodnova et.al.||
