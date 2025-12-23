@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
+|**2025-12-20**|**[[2512.18245v1](http://arxiv.org/abs/2512.18245v1)]Spectral Discrepancy and Cross-modal Semantic Consistency Learning for Object Detection in Hyperspectral Image**|Xiao He et.al.|Object Detection|
 |**2025-12-19**|**[[2512.17647v1](http://arxiv.org/abs/2512.17647v1)]Hyperbolic-enhanced Raman scattering in van der Waals MoOCl2: from Fano resonances to picomolar detection**|Anton Minnekhanov et.al.||
 |**2025-12-17**|**[[2512.15544v1](http://arxiv.org/abs/2512.15544v1)]Assessing the Effect of PCA-Based Dimensionality Reduction on Machine Learning Performance in Hyperspectral Optical Imaging**|Parisa Parand et.al.||
 |**2025-12-15**|**[[2512.13682v1](http://arxiv.org/abs/2512.13682v1)]XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**|J. M. S. Donnellan et.al.||
@@ -41,7 +43,7 @@
 |**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
 |**2025-12-02**|**[[2512.03143v1](http://arxiv.org/abs/2512.03143v1)]Infrared emission from $z \sim 6.5$ quasar host galaxies: a direct estimate of dust physical properties**|M. Costa et.al.||
 |**2025-12-01**|**[[2512.02184v1](http://arxiv.org/abs/2512.02184v1)]Visible to Longwave-infrared imaging via an inverse-designed monolithic lens**|Syed N. Qadri et.al.|Superresolution|
-|**2025-12-01**|**[[2512.01372v1](http://arxiv.org/abs/2512.01372v1)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
+|**2025-12-21**|**[[2512.01372v2](http://arxiv.org/abs/2512.01372v2)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
 |**2025-11-29**|**[[2512.00261v1](http://arxiv.org/abs/2512.00261v1)]UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations**|Yuzhen Hu et.al.|Classification|
 |**2025-11-23**|**[[2511.18521v1](http://arxiv.org/abs/2511.18521v1)]Hyperspectral Variational Autoencoders for Joint Data Compression and Component Extraction**|Core Francisco Park et.al.||
 |**2025-11-23**|**[[2511.18473v1](http://arxiv.org/abs/2511.18473v1)]Uncertainty Quantification in HSI Reconstruction using Physics-Aware Diffusion Priors and Optics-Encoded Measurements**|Juan Romero et.al.||
@@ -373,6 +375,20 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-22**|**[[2512.19504v1](http://arxiv.org/abs/2512.19504v1)]FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors**|Georgios Voulgaris et.al.||
+|**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
+|**2025-12-22**|**[[2512.19483v1](http://arxiv.org/abs/2512.19483v1)]Gold-polymer hybrid metasurface for polarization-independent enhanced third harmonic generation in the ultraviolet**|Shroddha Mukhopadhyay et.al.||
+|**2025-12-22**|**[[2512.19457v1](http://arxiv.org/abs/2512.19457v1)]Spectral Shinkage of Gaussian Entropic Optimal Transport**|Ho Yun et.al.||
+|**2025-12-22**|**[[2512.19205v1](http://arxiv.org/abs/2512.19205v1)]Highly efficient multi-chromatic Raman microlasers from cavity polygon modes on thin-film lithium niobate platform**|Yixuan Yang et.al.||
+|**2025-12-21**|**[[2512.18873v1](http://arxiv.org/abs/2512.18873v1)]Temporal nonclassicality in continuous-time quantum walks**|Paolo Luppi et.al.||
+|**2025-12-21**|**[[2512.18837v1](http://arxiv.org/abs/2512.18837v1)]Generative Modeling through Spectral Analysis of Koopman Operator**|Yuanchao Xu et.al.||
+|**2025-12-21**|**[[2512.18788v1](http://arxiv.org/abs/2512.18788v1)]RIS-Enabled Smart Wireless Environments: Fundamentals and Distributed Optimization**|George C. Alexandropoulos et.al.||
+|**2025-12-21**|**[[2512.18738v1](http://arxiv.org/abs/2512.18738v1)]AMLID: An Adaptive Multispectral Landmine Identification Dataset for Drone-Based Detection**|James E. Gallagher et.al.||
+|**2025-12-21**|**[[2512.18595v1](http://arxiv.org/abs/2512.18595v1)]Benchmarking neural surrogates on realistic spatiotemporal multiphysics flows**|Runze Mao et.al.||
+|**2025-12-21**|**[[2512.18570v1](http://arxiv.org/abs/2512.18570v1)]Localized wave solutions of three-component defocusing Kundu-Eckhaus equation with 4x4 matrix spectral problem**|Yanan Wang et.al.||
+|**2025-12-20**|**[[2512.18359v1](http://arxiv.org/abs/2512.18359v1)]Downlink Power Allocation for STAR-RIS-Assisted Cell-Free Massive MIMO with Multi-antenna Users**|Jun Qian et.al.||
+|**2025-12-20**|**[[2512.18350v1](http://arxiv.org/abs/2512.18350v1)]On the sharp multi-bubble stability for fractional Hardy-Sobolev equations -- A quantitative approach in low dimensions**|Souptik Chakraborty et.al.||
+|**2025-12-20**|**[[2512.18309v1](http://arxiv.org/abs/2512.18309v1)]Embedded Safety-Aligned Intelligence via Differentiable Internal Alignment Embeddings**|Harsh Rathva et.al.||
 |**2025-12-19**|**[[2512.17539v1](http://arxiv.org/abs/2512.17539v1)]Constraining black hole spin in PG 1535+547 amidst complex multi-layered absorption**|A. Madathil-Pottayil et.al.||
 |**2025-12-19**|**[[2512.17512v1](http://arxiv.org/abs/2512.17512v1)]BHiCect 2.0: Multi-resolution clustering of Hi-C data**|Vipin Kumar et.al.||
 |**2025-12-19**|**[[2512.17224v1](http://arxiv.org/abs/2512.17224v1)]Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing**|Xuyang Li et.al.||
@@ -444,7 +460,7 @@
 |**2025-12-09**|**[[2512.08181v1](http://arxiv.org/abs/2512.08181v1)]NEOWISE data and Thermophysical Modeling of 98943 Torifune (2001 CC21)**|Edward L. et.al.||
 |**2025-12-15**|**[[2512.07901v2](http://arxiv.org/abs/2512.07901v2)]The Theory of Strategic Evolution: Games with Endogenous Players and Strategic Replicators**|Kevin Vallier et.al.||
 |**2025-12-08**|**[[2512.07557v1](http://arxiv.org/abs/2512.07557v1)]On Conditional Independence Graph Learning From Multi-Attribute Gaussian Dependent Time Series**|Jitendra K. Tugnait et.al.||
-|**2025-12-08**|**[[2512.07276v1](http://arxiv.org/abs/2512.07276v1)]Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|VLM|
+|**2025-12-21**|**[[2512.07276v2](http://arxiv.org/abs/2512.07276v2)]Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|VLM|
 |**2025-12-07**|**[[2512.06730v1](http://arxiv.org/abs/2512.06730v1)]Enhancing Interpretability of AR-SSVEP-Based Motor Intention Recognition via CNN-BiLSTM and SHAP Analysis on EEG Data**|Lin Yang et.al.||
 |**2025-12-06**|**[[2512.06400v1](http://arxiv.org/abs/2512.06400v1)]Perceptual Region-Driven Infrared-Visible Co-Fusion for Extreme Scene Enhancement**|Jing Tao et.al.||
 |**2025-12-06**|**[[2512.06330v1](http://arxiv.org/abs/2512.06330v1)]S2WMamba: A Spectral-Spatial Wavelet Mamba for Pansharpening**|Haoyu Zhang et.al.|Pansharpening|
