@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-23**|**[[2512.20251v1](http://arxiv.org/abs/2512.20251v1)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
 |**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
 |**2025-12-20**|**[[2512.18245v1](http://arxiv.org/abs/2512.18245v1)]Spectral Discrepancy and Cross-modal Semantic Consistency Learning for Object Detection in Hyperspectral Image**|Xiao He et.al.|Object Detection|
 |**2025-12-19**|**[[2512.17647v1](http://arxiv.org/abs/2512.17647v1)]Hyperbolic-enhanced Raman scattering in van der Waals MoOCl2: from Fano resonances to picomolar detection**|Anton Minnekhanov et.al.||
@@ -379,6 +380,10 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-23**|**[[2512.20332v1](http://arxiv.org/abs/2512.20332v1)]RIS-Empowered OTFS Modulation With Faster-than-Nyquist Signaling in High-Mobility Wireless Communications**|Chaorong Zhang et.al.||
+|**2025-12-23**|**[[2512.20251v1](http://arxiv.org/abs/2512.20251v1)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
+|**2025-12-23**|**[[2512.20165v1](http://arxiv.org/abs/2512.20165v1)]Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions**|Aviad Eisenberg et.al.||
+|**2025-12-11**|**[[2512.19702v1](http://arxiv.org/abs/2512.19702v1)]Enhanced Information Security via Wave-Field Selectivity and Structured Wavefront Manipulation**|Yufei Zhao et.al.||
 |**2025-12-22**|**[[2512.19504v1](http://arxiv.org/abs/2512.19504v1)]FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors**|Georgios Voulgaris et.al.||
 |**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
 |**2025-12-22**|**[[2512.19483v1](http://arxiv.org/abs/2512.19483v1)]Gold-polymer hybrid metasurface for polarization-independent enhanced third harmonic generation in the ultraviolet**|Shroddha Mukhopadhyay et.al.||
