@@ -376,6 +376,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-24**|**[[2512.21213v1](http://arxiv.org/abs/2512.21213v1)]3D cavity-based graphene superconducting quantum circuits in two-qubit architectures**|Kuei-Lin Chiu et.al.||
+|**2025-12-23**|**[[2512.20784v1](http://arxiv.org/abs/2512.20784v1)]Zariski Topology and Cohomology for Commutative Ternary Gamma Semirings**|Chandrasekhar Gokavarapu et.al.||
 |**2025-12-23**|**[[2512.20332v1](http://arxiv.org/abs/2512.20332v1)]RIS-Empowered OTFS Modulation With Faster-than-Nyquist Signaling in High-Mobility Wireless Communications**|Chaorong Zhang et.al.||
 |**2025-12-23**|**[[2512.20251v1](http://arxiv.org/abs/2512.20251v1)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
 |**2025-12-23**|**[[2512.20165v1](http://arxiv.org/abs/2512.20165v1)]Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions**|Aviad Eisenberg et.al.||
