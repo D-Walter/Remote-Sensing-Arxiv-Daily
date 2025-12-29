@@ -24,7 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
-|**2025-12-23**|**[[2512.20251v1](http://arxiv.org/abs/2512.20251v1)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
+|**2025-12-25**|**[[2512.20251v2](http://arxiv.org/abs/2512.20251v2)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
 |**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
 |**2025-12-20**|**[[2512.18245v1](http://arxiv.org/abs/2512.18245v1)]Spectral Discrepancy and Cross-modal Semantic Consistency Learning for Object Detection in Hyperspectral Image**|Xiao He et.al.|Object Detection|
 |**2025-12-19**|**[[2512.17647v1](http://arxiv.org/abs/2512.17647v1)]Hyperbolic-enhanced Raman scattering in van der Waals MoOCl2: from Fano resonances to picomolar detection**|Anton Minnekhanov et.al.||
@@ -380,10 +380,13 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-26**|**[[2512.22028v1](http://arxiv.org/abs/2512.22028v1)]Multiband optical variability on diverse timescales of the blazar Ton 599 from 2011 to 2023**|O. Vince et.al.||
+|**2025-12-26**|**[[2512.21953v1](http://arxiv.org/abs/2512.21953v1)]Phase-Coherent D-MIMO ISAC: Multi-Target Estimation and Spectral Efficiency Trade-Offs**|Venkatesh Tentu et.al.||
+|**2025-12-26**|**[[2512.21868v1](http://arxiv.org/abs/2512.21868v1)]Beyond on-site Hubbard interaction in charge dynamics of cuprate superconductors**|Hiroyuki Yamase et.al.||
 |**2025-12-24**|**[[2512.21213v1](http://arxiv.org/abs/2512.21213v1)]3D cavity-based graphene superconducting quantum circuits in two-qubit architectures**|Kuei-Lin Chiu et.al.||
 |**2025-12-23**|**[[2512.20784v1](http://arxiv.org/abs/2512.20784v1)]Zariski Topology and Cohomology for Commutative Ternary Gamma Semirings**|Chandrasekhar Gokavarapu et.al.||
 |**2025-12-23**|**[[2512.20332v1](http://arxiv.org/abs/2512.20332v1)]RIS-Empowered OTFS Modulation With Faster-than-Nyquist Signaling in High-Mobility Wireless Communications**|Chaorong Zhang et.al.||
-|**2025-12-23**|**[[2512.20251v1](http://arxiv.org/abs/2512.20251v1)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
+|**2025-12-25**|**[[2512.20251v2](http://arxiv.org/abs/2512.20251v2)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
 |**2025-12-23**|**[[2512.20165v1](http://arxiv.org/abs/2512.20165v1)]Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions**|Aviad Eisenberg et.al.||
 |**2025-12-11**|**[[2512.19702v1](http://arxiv.org/abs/2512.19702v1)]Enhanced Information Security via Wave-Field Selectivity and Structured Wavefront Manipulation**|Yufei Zhao et.al.||
 |**2025-12-22**|**[[2512.19504v1](http://arxiv.org/abs/2512.19504v1)]FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors**|Georgios Voulgaris et.al.||
