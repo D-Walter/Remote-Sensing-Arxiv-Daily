@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.12.30
+## Updated on 2025.12.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-29**|**[[2512.23444v1](http://arxiv.org/abs/2512.23444v1)]Uncertainty calibration for latent-variable regression models**|Zina-Sabrina Duma et.al.||
 |**2025-12-25**|**[[2512.20251v2](http://arxiv.org/abs/2512.20251v2)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
 |**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
 |**2025-12-20**|**[[2512.18245v1](http://arxiv.org/abs/2512.18245v1)]Spectral Discrepancy and Cross-modal Semantic Consistency Learning for Object Detection in Hyperspectral Image**|Xiao He et.al.|Object Detection|
@@ -374,12 +375,32 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251231>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-29**|**[[2512.23567v1](http://arxiv.org/abs/2512.23567v1)]Panel Coupled Matrix-Tensor Clustering Model with Applications to Asset Pricing**|Liyuan Cui et.al.||
+|**2025-12-29**|**[[2512.23295v1](http://arxiv.org/abs/2512.23295v1)]Spectral Analysis of Hard-Constraint PINNs: The Spatial Modulation Mechanism of Boundary Functions**|Yuchen Xie et.al.||
+|**2025-12-29**|**[[2512.23278v1](http://arxiv.org/abs/2512.23278v1)]Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.||
+|**2025-12-29**|**[[2512.23237v1](http://arxiv.org/abs/2512.23237v1)]Multi-orbital dynamical mean-field theory with a complex-time solver**|Yang Yu et.al.||
+|**2025-12-29**|**[[2512.23196v1](http://arxiv.org/abs/2512.23196v1)]ForCM: Forest Cover Mapping from Multispectral Sentinel-2 Image by Integrating Deep Learning with Object-Based Image Analysis**|Maisha Haque et.al.||
+|**2025-12-29**|**[[2512.23160v1](http://arxiv.org/abs/2512.23160v1)]A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|Classification|
+|**2025-12-29**|**[[2512.23158v1](http://arxiv.org/abs/2512.23158v1)]Breaking Symmetry-Induced Degeneracy in Multi-Agent Ergodic Coverage via Stochastic Spectral Control**|Kooktae Lee et.al.||
+|**2025-12-28**|**[[2512.22990v1](http://arxiv.org/abs/2512.22990v1)]A Low-Cost UAV Deep Learning Pipeline for Integrated Apple Disease Diagnosis,Freshness Assessment, and Fruit Detection**|Soham Dutta et.al.|Classification|
+|**2025-12-28**|**[[2512.22897v1](http://arxiv.org/abs/2512.22897v1)]Federated Multi-Task Clustering**|S. Dai et.al.||
+|**2025-12-28**|**[[2512.22875v1](http://arxiv.org/abs/2512.22875v1)]Hierarchical Test of Lorentz Invariance with Gamma-Ray Burst Spectral-Lag Measurements**|Shen-Shi Du et.al.||
+|**2025-12-28**|**[[2512.22855v1](http://arxiv.org/abs/2512.22855v1)]A Rapid GeoSAM-Based Workflow for Multi-Temporal Glacier Delineation: Case Study from Svalbard**|Alexandru Hegyi et.al.||
+|**2025-12-27**|**[[2512.22656v1](http://arxiv.org/abs/2512.22656v1)]Clinically Calibrated Machine Learning Benchmarks for Large-Scale Multi-Disorder EEG Classification**|Argha Kamal Samanta et.al.|Classification|
+|**2025-12-27**|**[[2512.22635v1](http://arxiv.org/abs/2512.22635v1)]amangkurat: A Python Library for Symplectic Pseudo-Spectral Solution of the Idealized (1+1)D Nonlinear Klein-Gordon Equation**|Sandy H. S. Herho et.al.||
+|**2025-12-27**|**[[2512.22617v1](http://arxiv.org/abs/2512.22617v1)]Evidence for a Stratified Accretion Disk Wind in AGN**|P. Marziani et.al.||
+|**2025-12-26**|**[[2512.22377v1](http://arxiv.org/abs/2512.22377v1)]Temporal Bragg Gratings: Broadband Reconfigurable Parametric Amplifiers**|Sajjad Taravati et.al.||
+|**2025-12-25**|**[[2512.22291v1](http://arxiv.org/abs/2512.22291v1)]Multi-Head Spectral-Adaptive Graph Anomaly Detection**|Qingyue Cao et.al.||
+|**2025-12-25**|**[[2512.22283v1](http://arxiv.org/abs/2512.22283v1)]DBAW-PIKAN: Dynamic Balance Adaptive Weight Kolmogorov-Arnold Neural Network for Solving Partial Differential Equations**|Guokan Chen et.al.||
+|**2025-12-24**|**[[2512.22263v1](http://arxiv.org/abs/2512.22263v1)]Evaluating an Adaptive Multispectral Turret System for Autonomous Tracking Across Variable Illumination Conditions**|Aahan Sachdeva et.al.||
+|**2025-12-22**|**[[2512.22214v1](http://arxiv.org/abs/2512.22214v1)]Signal-SGN++: Topology-Enhanced Time-Frequency Spiking Graph Network for Skeleton-Based Action Recognition**|Naichuan Zheng et.al.||
+|**2025-12-17**|**[[2512.22172v1](http://arxiv.org/abs/2512.22172v1)]PaperNet: Efficient Temporal Convolutions and Channel Residual Attention for EEG Epilepsy Detection**|Md Shahriar Sajid et.al.|Classification|
 |**2025-12-26**|**[[2512.22028v1](http://arxiv.org/abs/2512.22028v1)]Multiband optical variability on diverse timescales of the blazar Ton 599 from 2011 to 2023**|O. Vince et.al.||
 |**2025-12-26**|**[[2512.21953v1](http://arxiv.org/abs/2512.21953v1)]Phase-Coherent D-MIMO ISAC: Multi-Target Estimation and Spectral Efficiency Trade-Offs**|Venkatesh Tentu et.al.||
 |**2025-12-26**|**[[2512.21868v1](http://arxiv.org/abs/2512.21868v1)]Beyond on-site Hubbard interaction in charge dynamics of cuprate superconductors**|Hiroyuki Yamase et.al.||
@@ -930,7 +951,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251231>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
