@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2025-12-30**|**[[2512.24172v1](http://arxiv.org/abs/2512.24172v1)]Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.||
 |**2025-12-29**|**[[2512.23444v1](http://arxiv.org/abs/2512.23444v1)]Uncertainty calibration for latent-variable regression models**|Zina-Sabrina Duma et.al.||
 |**2025-12-25**|**[[2512.20251v2](http://arxiv.org/abs/2512.20251v2)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
 |**2025-12-22**|**[[2512.19489v1](http://arxiv.org/abs/2512.19489v1)]Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|Superresolution|
@@ -377,6 +378,21 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-12-31**|**[[2512.24901v1](http://arxiv.org/abs/2512.24901v1)]Spectral Graph Neural Networks for Cognitive Task Classification in fMRI Connectomes**|Debasis Maji et.al.|Classification|
+|**2025-12-31**|**[[2512.24764v1](http://arxiv.org/abs/2512.24764v1)]LUNCH: A Lightweight Unified Deep-Learning Framework for General Transients Classification in High-Energy Time-Domain Astronomy**|Peng Zhang et.al.|Classification|
+|**2025-12-31**|**[[2512.24628v1](http://arxiv.org/abs/2512.24628v1)]AI-Driven Acoustic Voice Biomarker-Based Hierarchical Classification of Benign Laryngeal Voice Disorders from Sustained Vowels**|Mohsen Annabestani et.al.|Classification|
+|**2025-12-31**|**[[2512.24619v1](http://arxiv.org/abs/2512.24619v1)]Decentralized No-Regret Frequency-Time Scheduling for FMCW Radar Interference Avoidance**|Yunian Pan et.al.||
+|**2025-12-31**|**[[2512.24583v1](http://arxiv.org/abs/2512.24583v1)]Resource Allocation via Backscatter-Aware Transmit Antenna Selection for Low-PAPR and Ultra-Reliable WSNs**|Rahul Gulia et.al.||
+|**2025-12-30**|**[[2512.24463v1](http://arxiv.org/abs/2512.24463v1)]Spectral and Spatial Graph Learning for Multispectral Solar Image Compression**|Prasiddha Siwakoti et.al.||
+|**2025-12-30**|**[[2512.24388v1](http://arxiv.org/abs/2512.24388v1)]A closer look at the young stellar group around Sh 2-295**|João Victor Corrêa-Rodrigues et.al.||
+|**2025-12-30**|**[[2512.24261v1](http://arxiv.org/abs/2512.24261v1)]First Positronium Lifetime Imaging using $^{52}$Mn and $^{55}$ Co with a plastic-based PET scanner**|Manish Das et.al.||
+|**2025-12-30**|**[[2512.24260v1](http://arxiv.org/abs/2512.24260v1)]Physically-Grounded Manifold Projection with Foundation Priors for Metal Artifact Reduction in Dental CBCT**|Zhi Li et.al.|Denoising|
+|**2025-12-30**|**[[2512.24228v1](http://arxiv.org/abs/2512.24228v1)]H.E.S.S. detection and multi-wavelength study of the $z \sim$ 1 blazar PKS 0346$-$ 27**|H. E. S. S. collaboration et.al.||
+|**2025-12-30**|**[[2512.24172v1](http://arxiv.org/abs/2512.24172v1)]Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.||
+|**2025-12-30**|**[[2512.24141v1](http://arxiv.org/abs/2512.24141v1)]Evolution of Accretion Properties in Mrk 1040 using long-term X-ray Observations**|Prantik Nandi et.al.||
+|**2025-12-30**|**[[2512.24060v1](http://arxiv.org/abs/2512.24060v1)]A two-dimensional terahertz smart wristband for integrated sensing and communication**|Shaojing Liu et.al.||
+|**2025-12-30**|**[[2512.23986v1](http://arxiv.org/abs/2512.23986v1)]Anomaly detection in satellite imagery through temporal inpainting**|Bertrand Rouet-Leduc et.al.||
+|**2025-12-30**|**[[2512.23963v1](http://arxiv.org/abs/2512.23963v1)]Correlated 5f electronic states and phase stability in americium under high pressure: Insights from DFT+DMFT calculations**|Haiyan Lu et.al.||
 |**2025-12-29**|**[[2512.23567v1](http://arxiv.org/abs/2512.23567v1)]Panel Coupled Matrix-Tensor Clustering Model with Applications to Asset Pricing**|Liyuan Cui et.al.||
 |**2025-12-29**|**[[2512.23295v1](http://arxiv.org/abs/2512.23295v1)]Spectral Analysis of Hard-Constraint PINNs: The Spatial Modulation Mechanism of Boundary Functions**|Yuchen Xie et.al.||
 |**2025-12-29**|**[[2512.23278v1](http://arxiv.org/abs/2512.23278v1)]Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.||
@@ -385,7 +401,7 @@
 |**2025-12-29**|**[[2512.23160v1](http://arxiv.org/abs/2512.23160v1)]A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|Classification|
 |**2025-12-29**|**[[2512.23158v1](http://arxiv.org/abs/2512.23158v1)]Breaking Symmetry-Induced Degeneracy in Multi-Agent Ergodic Coverage via Stochastic Spectral Control**|Kooktae Lee et.al.||
 |**2025-12-28**|**[[2512.22990v1](http://arxiv.org/abs/2512.22990v1)]A Low-Cost UAV Deep Learning Pipeline for Integrated Apple Disease Diagnosis,Freshness Assessment, and Fruit Detection**|Soham Dutta et.al.|Classification|
-|**2025-12-28**|**[[2512.22897v1](http://arxiv.org/abs/2512.22897v1)]Federated Multi-Task Clustering**|S. Dai et.al.||
+|**2025-12-30**|**[[2512.22897v2](http://arxiv.org/abs/2512.22897v2)]Federated Multi-Task Clustering**|Suyan Dai et.al.||
 |**2025-12-28**|**[[2512.22875v1](http://arxiv.org/abs/2512.22875v1)]Hierarchical Test of Lorentz Invariance with Gamma-Ray Burst Spectral-Lag Measurements**|Shen-Shi Du et.al.||
 |**2025-12-28**|**[[2512.22855v1](http://arxiv.org/abs/2512.22855v1)]A Rapid GeoSAM-Based Workflow for Multi-Temporal Glacier Delineation: Case Study from Svalbard**|Alexandru Hegyi et.al.||
 |**2025-12-27**|**[[2512.22656v1](http://arxiv.org/abs/2512.22656v1)]Clinically Calibrated Machine Learning Benchmarks for Large-Scale Multi-Disorder EEG Classification**|Argha Kamal Samanta et.al.|Classification|
