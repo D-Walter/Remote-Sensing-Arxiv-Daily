@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-01**|**[[2601.00194v1](http://arxiv.org/abs/2601.00194v1)]DichroGAN: Towards Restoration of in-air Colours of Seafloor from Satellite Imagery**|Salma Gonzalez-Sabbagh et.al.||
 |**2025-12-30**|**[[2512.24172v1](http://arxiv.org/abs/2512.24172v1)]Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.||
 |**2025-12-29**|**[[2512.23444v1](http://arxiv.org/abs/2512.23444v1)]Uncertainty calibration for latent-variable regression models**|Zina-Sabrina Duma et.al.||
 |**2025-12-25**|**[[2512.20251v2](http://arxiv.org/abs/2512.20251v2)]Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.||
@@ -378,6 +379,13 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-02**|**[[2601.00535v1](http://arxiv.org/abs/2601.00535v1)]FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection**|Ruiqiang Zhang et.al.||
+|**2026-01-01**|**[[2601.00485v1](http://arxiv.org/abs/2601.00485v1)]Spectral performance of single-channel plastic and GAGG scintillator bars of the CUbesat Solar Polarimeter (CUSP)**|Nicolas De Angelis et.al.||
+|**2026-01-01**|**[[2601.00427v1](http://arxiv.org/abs/2601.00427v1)]A Deep Learning-Enhanced Fourier Method for the Multi-Frequency Inverse Source Problem with Sparse Far-Field Data**|Hao Chen et.al.||
+|**2026-01-01**|**[[2601.00330v1](http://arxiv.org/abs/2601.00330v1)]Effective Graph Resistance as Cumulative Heat Dissipation**|Xiangrong Wang et.al.||
+|**2026-01-01**|**[[2601.00320v1](http://arxiv.org/abs/2601.00320v1)]Multispectral UV Imaging on Capacitive CMOS Arrays Enabled by Solution-Processed Metal-Oxide Nanoparticles**|Suman Kundu et.al.||
+|**2025-12-31**|**[[2601.00123v1](http://arxiv.org/abs/2601.00123v1)]A Spatially Masked Adaptive Gated Network for multimodal post-flood water extent mapping using SAR and incomplete multispectral data**|Hyunho Lee et.al.||
+|**2025-12-31**|**[[2601.00046v1](http://arxiv.org/abs/2601.00046v1)]Identifiability Limits of Low-Rank RFI Mitigation Under Single-Epoch Constraints: A Controlled Failure-Mode Study**|Yujin Kim et.al.||
 |**2025-12-31**|**[[2512.24901v1](http://arxiv.org/abs/2512.24901v1)]Spectral Graph Neural Networks for Cognitive Task Classification in fMRI Connectomes**|Debasis Maji et.al.|Classification|
 |**2025-12-31**|**[[2512.24764v1](http://arxiv.org/abs/2512.24764v1)]LUNCH: A Lightweight Unified Deep-Learning Framework for General Transients Classification in High-Energy Time-Domain Astronomy**|Peng Zhang et.al.|Classification|
 |**2025-12-31**|**[[2512.24628v1](http://arxiv.org/abs/2512.24628v1)]AI-Driven Acoustic Voice Biomarker-Based Hierarchical Classification of Benign Laryngeal Voice Disorders from Sustained Vowels**|Mohsen Annabestani et.al.|Classification|
@@ -386,7 +394,7 @@
 |**2025-12-30**|**[[2512.24463v1](http://arxiv.org/abs/2512.24463v1)]Spectral and Spatial Graph Learning for Multispectral Solar Image Compression**|Prasiddha Siwakoti et.al.||
 |**2025-12-30**|**[[2512.24388v1](http://arxiv.org/abs/2512.24388v1)]A closer look at the young stellar group around Sh 2-295**|João Victor Corrêa-Rodrigues et.al.||
 |**2025-12-30**|**[[2512.24261v1](http://arxiv.org/abs/2512.24261v1)]First Positronium Lifetime Imaging using $^{52}$Mn and $^{55}$ Co with a plastic-based PET scanner**|Manish Das et.al.||
-|**2025-12-30**|**[[2512.24260v1](http://arxiv.org/abs/2512.24260v1)]Physically-Grounded Manifold Projection with Foundation Priors for Metal Artifact Reduction in Dental CBCT**|Zhi Li et.al.|Denoising|
+|**2026-01-01**|**[[2512.24260v2](http://arxiv.org/abs/2512.24260v2)]Physically-Grounded Manifold Projection Model for Generalizable Metal Artifact Reduction in Dental CBCT**|Zhi Li et.al.|Denoising|
 |**2025-12-30**|**[[2512.24228v1](http://arxiv.org/abs/2512.24228v1)]H.E.S.S. detection and multi-wavelength study of the $z \sim$ 1 blazar PKS 0346$-$ 27**|H. E. S. S. collaboration et.al.||
 |**2025-12-30**|**[[2512.24172v1](http://arxiv.org/abs/2512.24172v1)]Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.||
 |**2025-12-30**|**[[2512.24141v1](http://arxiv.org/abs/2512.24141v1)]Evolution of Accretion Properties in Mrk 1040 using long-term X-ray Observations**|Prantik Nandi et.al.||
@@ -400,7 +408,7 @@
 |**2025-12-29**|**[[2512.23196v1](http://arxiv.org/abs/2512.23196v1)]ForCM: Forest Cover Mapping from Multispectral Sentinel-2 Image by Integrating Deep Learning with Object-Based Image Analysis**|Maisha Haque et.al.||
 |**2025-12-29**|**[[2512.23160v1](http://arxiv.org/abs/2512.23160v1)]A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|Classification|
 |**2025-12-29**|**[[2512.23158v1](http://arxiv.org/abs/2512.23158v1)]Breaking Symmetry-Induced Degeneracy in Multi-Agent Ergodic Coverage via Stochastic Spectral Control**|Kooktae Lee et.al.||
-|**2025-12-28**|**[[2512.22990v1](http://arxiv.org/abs/2512.22990v1)]A Low-Cost UAV Deep Learning Pipeline for Integrated Apple Disease Diagnosis,Freshness Assessment, and Fruit Detection**|Soham Dutta et.al.|Classification|
+|**2026-01-01**|**[[2512.22990v2](http://arxiv.org/abs/2512.22990v2)]A Low-Cost UAV Deep Learning Pipeline for Integrated Apple Disease Diagnosis,Freshness Assessment, and Fruit Detection**|Soham Dutta et.al.|Classification|
 |**2025-12-30**|**[[2512.22897v2](http://arxiv.org/abs/2512.22897v2)]Federated Multi-Task Clustering**|Suyan Dai et.al.||
 |**2025-12-28**|**[[2512.22875v1](http://arxiv.org/abs/2512.22875v1)]Hierarchical Test of Lorentz Invariance with Gamma-Ray Burst Spectral-Lag Measurements**|Shen-Shi Du et.al.||
 |**2025-12-28**|**[[2512.22855v1](http://arxiv.org/abs/2512.22855v1)]A Rapid GeoSAM-Based Workflow for Multi-Temporal Glacier Delineation: Case Study from Svalbard**|Alexandru Hegyi et.al.||
@@ -444,7 +452,7 @@
 |**2025-12-18**|**[[2512.17055v1](http://arxiv.org/abs/2512.17055v1)]Packet Detection in a Filter Bank-Based Ultra-Wideband Communication System**|Brian Nelson et.al.||
 |**2025-12-18**|**[[2512.16714v1](http://arxiv.org/abs/2512.16714v1)]Evidence of Possible Spectral Variability in the Patroclus-Menoetius Binary System**|Ian Wong et.al.||
 |**2025-12-18**|**[[2512.16709v1](http://arxiv.org/abs/2512.16709v1)]Simulation-based inference with neural posterior estimation applied to X-ray spectral fitting - III Deriving exact posteriors with dimension reduction and importance sampling**|Didier Barret et.al.||
-|**2025-12-18**|**[[2512.16669v1](http://arxiv.org/abs/2512.16669v1)]Photoinduced phase heterogeneity and charge localization in SnSe**|Benjamin J. Dringoli et.al.||
+|**2025-12-30**|**[[2512.16669v2](http://arxiv.org/abs/2512.16669v2)]Photoinduced phase heterogeneity and charge localization in SnSe**|Benjamin J. Dringoli et.al.||
 |**2025-12-18**|**[[2512.16543v1](http://arxiv.org/abs/2512.16543v1)]Efficient Precoding for LEO Satellites: A Low-Complexity Matrix Inversion Method via Woodbury Matrix Identity and arSVD**|Mohammad Momani et.al.||
 |**2025-12-18**|**[[2512.16469v1](http://arxiv.org/abs/2512.16469v1)]Tri-Select: A Multi-Stage Visual Data Selection Framework for Mobile Visual Crowdsensing**|Jiayu Zhang et.al.||
 |**2025-12-17**|**[[2512.16010v1](http://arxiv.org/abs/2512.16010v1)]LSTM-MDNz: Estimating Quasar Photometric Redshifts with an LSTM-Augmented Mixture Density Network**|Jianzhen Chen et.al.||
