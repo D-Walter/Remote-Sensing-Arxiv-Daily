@@ -20,6 +20,9 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-03**|**[[2601.01064v1](http://arxiv.org/abs/2601.01064v1)]Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.||
+|**2026-01-02**|**[[2601.00997v1](http://arxiv.org/abs/2601.00997v1)]AI-Assisted Hyperspectral Interferometry and Single-Cell Dispersion Imaging**|Kamyar Behrouzi et.al.|Classification|
+|**2025-12-31**|**[[2601.00904v1](http://arxiv.org/abs/2601.00904v1)]Deep Deterministic Nonlinear ICA via Total Correlation Minimization with Matrix-Based Entropy Functional**|Qiang Li et.al.|Unmixing|
 |**2026-01-01**|**[[2601.00194v1](http://arxiv.org/abs/2601.00194v1)]DichroGAN: Towards Restoration of in-air Colours of Seafloor from Satellite Imagery**|Salma Gonzalez-Sabbagh et.al.||
 |**2025-12-30**|**[[2512.24172v1](http://arxiv.org/abs/2512.24172v1)]Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.||
 |**2025-12-29**|**[[2512.23444v1](http://arxiv.org/abs/2512.23444v1)]Uncertainty calibration for latent-variable regression models**|Zina-Sabrina Duma et.al.||
@@ -379,6 +382,17 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-05**|**[[2601.02289v1](http://arxiv.org/abs/2601.02289v1)]Rank-based Geographical Regularization: Revisiting Contrastive Self-Supervised Learning for Multispectral Remote Sensing Imagery**|Tom Burgert et.al.||
+|**2026-01-05**|**[[2601.02185v1](http://arxiv.org/abs/2601.02185v1)]Nonlinear spin-Wave Doppler effect for flexible tuning of magnonic frequencies**|Jinchen Hou et.al.||
+|**2026-01-05**|**[[2601.02175v1](http://arxiv.org/abs/2601.02175v1)]Single- and Multi-Objective Stochastic Optimization for Next-Generation Networks in the Generative AI and Quantum Computing Era**|Trinh Van Chien et.al.||
+|**2026-01-05**|**[[2601.02028v1](http://arxiv.org/abs/2601.02028v1)]Disc Winds From Accreting Systems in the 2040s**|Noel Castro Segura et.al.||
+|**2026-01-05**|**[[2601.01908v1](http://arxiv.org/abs/2601.01908v1)]Nodule-DETR: A Novel DETR Architecture with Frequency-Channel Attention for Ultrasound Thyroid Nodule Detection**|Jingjing Wang et.al.||
+|**2026-01-05**|**[[2601.01748v1](http://arxiv.org/abs/2601.01748v1)]Exploring the interplay between molecular and ionized gas in HII regions**|S. Khan et.al.||
+|**2026-01-04**|**[[2601.01632v1](http://arxiv.org/abs/2601.01632v1)]Learning Stiff Dynamical Operators: Scaling, Fast-Slow Excitation, and Eigen-Consistent Neural Models**|Mauro Valorani et.al.||
+|**2026-01-03**|**[[2601.01216v1](http://arxiv.org/abs/2601.01216v1)]Order-Constrained Spectral Causality in Multivariate Time Series**|Alejandro Rodriguez Dominguez et.al.||
+|**2026-01-03**|**[[2601.01084v1](http://arxiv.org/abs/2601.01084v1)]A UAV-Based Multispectral and RGB Dataset for Multi-Stage Paddy Crop Monitoring in Indian Agricultural Fields**|Adari Rama Sukanya et.al.||
+|**2026-01-03**|**[[2601.01041v1](http://arxiv.org/abs/2601.01041v1)]Deepfake Detection with Multi-Artifact Subspace Fine-Tuning and Selective Layer Masking**|Xiang Zhang et.al.||
+|**2025-12-31**|**[[2601.00900v1](http://arxiv.org/abs/2601.00900v1)]Noise-Aware and Dynamically Adaptive Federated Defense Framework for SAR Image Target Recognition**|Yuchao Hou et.al.||
 |**2026-01-02**|**[[2601.00535v1](http://arxiv.org/abs/2601.00535v1)]FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection**|Ruiqiang Zhang et.al.||
 |**2026-01-01**|**[[2601.00485v1](http://arxiv.org/abs/2601.00485v1)]Spectral performance of single-channel plastic and GAGG scintillator bars of the CUbesat Solar Polarimeter (CUSP)**|Nicolas De Angelis et.al.||
 |**2026-01-01**|**[[2601.00427v1](http://arxiv.org/abs/2601.00427v1)]A Deep Learning-Enhanced Fourier Method for the Multi-Frequency Inverse Source Problem with Sparse Far-Field Data**|Hao Chen et.al.||
@@ -459,7 +473,7 @@
 |**2025-12-17**|**[[2512.15971v1](http://arxiv.org/abs/2512.15971v1)]From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum et.al.|VLM, Object Detection|
 |**2025-12-17**|**[[2512.15904v1](http://arxiv.org/abs/2512.15904v1)]Binarity Beyond Gaia: The case for a dedicated spectroscopic survey of binary stars**|Borja Anguiano et.al.||
 |**2025-12-17**|**[[2512.15895v1](http://arxiv.org/abs/2512.15895v1)]The Next Generation Fornax Survey (NGFS).VIII. A Support Vector Machine Approach for Disentangling Globular Clusters from other Sources**|Yasna Ordenes-Briceño et.al.|Classification|
-|**2025-12-17**|**[[2512.15660v1](http://arxiv.org/abs/2512.15660v1)]The longest known tails of ram-pressure stripped star-forming galaxies are caused by an ICM shock in Abell 1367**|H. W. Edler et.al.||
+|**2026-01-05**|**[[2512.15660v2](http://arxiv.org/abs/2512.15660v2)]The longest known tails of ram-pressure-stripped star-forming galaxies are caused by an intracluster medium shock in Abell 1367**|H. W. Edler et.al.||
 |**2025-12-17**|**[[2512.15609v1](http://arxiv.org/abs/2512.15609v1)]Hadronic Clues in Quasars Caught by Fermi-LAT**|Antonio Galván et.al.||
 |**2025-12-17**|**[[2512.15555v1](http://arxiv.org/abs/2512.15555v1)]Spectroscopic Alerts for the Time-Domain Era**|Alejandra Melo et.al.||
 |**2025-12-17**|**[[2512.15539v1](http://arxiv.org/abs/2512.15539v1)]Extensive Observational Evidence for Massive Star Stellar Wind Variability at Low Metallicities: implications for mass-loss rate determination**|Timothy N. Parsons et.al.||
