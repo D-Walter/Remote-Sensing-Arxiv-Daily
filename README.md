@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-05**|**[[2601.02440v1](http://arxiv.org/abs/2601.02440v1)]Mitigating Long-Tailed Anomaly Score Distributions with Importance-Weighted Loss**|Jungi Lee et.al.|Classification|
 |**2026-01-03**|**[[2601.01064v1](http://arxiv.org/abs/2601.01064v1)]Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.||
 |**2026-01-02**|**[[2601.00997v1](http://arxiv.org/abs/2601.00997v1)]AI-Assisted Hyperspectral Interferometry and Single-Cell Dispersion Imaging**|Kamyar Behrouzi et.al.|Classification|
 |**2025-12-31**|**[[2601.00904v1](http://arxiv.org/abs/2601.00904v1)]Deep Deterministic Nonlinear ICA via Total Correlation Minimization with Matrix-Based Entropy Functional**|Qiang Li et.al.|Unmixing|
@@ -43,7 +44,7 @@
 |**2025-12-05**|**[[2512.05674v1](http://arxiv.org/abs/2512.05674v1)]Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|Unmixing|
 |**2025-12-05**|**[[2512.05578v1](http://arxiv.org/abs/2512.05578v1)]A Hyperspectral Imaging Guided Robotic Grasping System**|Zheng Sun et.al.||
 |**2025-12-04**|**[[2512.04901v1](http://arxiv.org/abs/2512.04901v1)]Adaptive Optics-Enhanced Michelson Interferometer for Spectroscopy of Narrow-Band Light Sources**|Jesneil Lauren Lewis et.al.||
-|**2025-12-04**|**[[2512.04816v1](http://arxiv.org/abs/2512.04816v1)]Spaceflight KID Readout Electronics for PRIMA**|Thomas Essinger-Hileman et.al.||
+|**2026-01-06**|**[[2512.04816v2](http://arxiv.org/abs/2512.04816v2)]Spaceflight KID Readout Electronics for PRIMA**|Thomas Essinger-Hileman et.al.||
 |**2025-12-04**|**[[2512.04644v1](http://arxiv.org/abs/2512.04644v1)]Contract-Governed Training for Earth Observation: Observed Service Agreement Graphs and Coverage-Accuracy Trade-offs**|Wenzhang Du et.al.||
 |**2025-12-03**|**[[2512.04314v1](http://arxiv.org/abs/2512.04314v1)]DisentangleFormer: Spatial-Channel Decoupling for Multi-Channel Vision**|Jiashu Liao et.al.||
 |**2025-12-03**|**[[2512.03430v1](http://arxiv.org/abs/2512.03430v1)]Label-Efficient Hyperspectral Image Classification via Spectral FiLM Modulation of Low-Level Pretrained Diffusion Features**|Yuzhen Hu et.al.|Classification, Denoising|
@@ -382,6 +383,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-06**|**[[2601.02903v1](http://arxiv.org/abs/2601.02903v1)]Site-Specific and Frequency-Dependent Channel Characterization and MIMO Performance in FR3**|Zhuangzhuang Cui et.al.||
+|**2026-01-06**|**[[2601.02614v1](http://arxiv.org/abs/2601.02614v1)]GKFieldFlow: A Spatio-Temporal Neural Surrogate for Nonlinear Gyrokinetic Turbulence**|Arash Ashourvan et.al.||
+|**2026-01-05**|**[[2601.02605v1](http://arxiv.org/abs/2601.02605v1)]Beyond Path Loss: Altitude-Dependent Spectral Structure Modeling for UAV Measurements**|Amir Hossein Fahim Raouf et.al.||
+|**2026-01-05**|**[[2601.02535v1](http://arxiv.org/abs/2601.02535v1)]ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation**|Hyeong Kyu Choi et.al.||
 |**2026-01-05**|**[[2601.02289v1](http://arxiv.org/abs/2601.02289v1)]Rank-based Geographical Regularization: Revisiting Contrastive Self-Supervised Learning for Multispectral Remote Sensing Imagery**|Tom Burgert et.al.||
 |**2026-01-05**|**[[2601.02185v1](http://arxiv.org/abs/2601.02185v1)]Nonlinear spin-Wave Doppler effect for flexible tuning of magnonic frequencies**|Jinchen Hou et.al.||
 |**2026-01-05**|**[[2601.02175v1](http://arxiv.org/abs/2601.02175v1)]Single- and Multi-Objective Stochastic Optimization for Next-Generation Networks in the Generative AI and Quantum Computing Era**|Trinh Van Chien et.al.||
