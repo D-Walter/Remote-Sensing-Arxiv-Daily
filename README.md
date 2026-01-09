@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-08**|**[[2601.05181v1](http://arxiv.org/abs/2601.05181v1)]Spacecube: A fast inverse hyperspectral georectification system**|Thomas P. Watson et.al.||
+|**2026-01-08**|**[[2601.05020v1](http://arxiv.org/abs/2601.05020v1)]Scalable neural pushbroom architectures for real-time denoising of hyperspectral images onboard satellites**|Ziyao Yi et.al.|Denoising|
 |**2026-01-07**|**[[2601.03736v1](http://arxiv.org/abs/2601.03736v1)]HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|Object Detection|
 |**2026-01-05**|**[[2601.02440v1](http://arxiv.org/abs/2601.02440v1)]Mitigating Long-Tailed Anomaly Score Distributions with Importance-Weighted Loss**|Jungi Lee et.al.|Classification|
 |**2026-01-03**|**[[2601.01064v1](http://arxiv.org/abs/2601.01064v1)]Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.||
@@ -384,6 +386,13 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-08**|**[[2601.05181v1](http://arxiv.org/abs/2601.05181v1)]Spacecube: A fast inverse hyperspectral georectification system**|Thomas P. Watson et.al.||
+|**2026-01-08**|**[[2601.05155v1](http://arxiv.org/abs/2601.05155v1)]Machine learning for radiative hydrodynamics in astrophysics**|Gonzague Radureau et.al.||
+|**2026-01-08**|**[[2601.04964v1](http://arxiv.org/abs/2601.04964v1)]Nonlinear virtual lens for programmable and multispectral infrared upconversion imaging**|Ze Zheng et.al.||
+|**2026-01-08**|**[[2601.04844v1](http://arxiv.org/abs/2601.04844v1)]SE-EE Tradeoff in Pinching-Antenna Systems: Waveguide Multiplexing or Waveguide Switching?**|Guangyu Zhu et.al.||
+|**2026-01-08**|**[[2601.04808v1](http://arxiv.org/abs/2601.04808v1)]Comparison of Maximum Likelihood Classification Before and After Applying Weierstrass Transform**|Muhammad Shoaib et.al.|Classification|
+|**2026-01-08**|**[[2601.04788v1](http://arxiv.org/abs/2601.04788v1)]Ensemble of Fixed Points in Multi-branch Shell Models of Turbulent Cascades**|Flavio Tuteri et.al.||
+|**2026-01-08**|**[[2601.04581v1](http://arxiv.org/abs/2601.04581v1)]Spectral point transformer for significant wave height estimation from sea clutter**|Yi Zhou et.al.||
 |**2026-01-07**|**[[2601.04000v1](http://arxiv.org/abs/2601.04000v1)]Terahertz volume plasmon-polariton modulation in all-dielectric hyperbolic metamaterials**|Stefano Campanaro et.al.||
 |**2026-01-07**|**[[2601.03975v1](http://arxiv.org/abs/2601.03975v1)]Cavity-Driven Multispectral Gain for High-Sensitivity NV Center Magnetometers**|Himanshu Kumar et.al.||
 |**2026-01-06**|**[[2601.02903v1](http://arxiv.org/abs/2601.02903v1)]Site-Specific and Frequency-Dependent Channel Characterization and MIMO Performance in FR3**|Zhuangzhuang Cui et.al.||
