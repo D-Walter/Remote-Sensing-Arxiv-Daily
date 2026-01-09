@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-07**|**[[2601.03736v1](http://arxiv.org/abs/2601.03736v1)]HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|Object Detection|
 |**2026-01-05**|**[[2601.02440v1](http://arxiv.org/abs/2601.02440v1)]Mitigating Long-Tailed Anomaly Score Distributions with Importance-Weighted Loss**|Jungi Lee et.al.|Classification|
 |**2026-01-03**|**[[2601.01064v1](http://arxiv.org/abs/2601.01064v1)]Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.||
 |**2026-01-02**|**[[2601.00997v1](http://arxiv.org/abs/2601.00997v1)]AI-Assisted Hyperspectral Interferometry and Single-Cell Dispersion Imaging**|Kamyar Behrouzi et.al.|Classification|
@@ -381,12 +382,14 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-07**|**[[2601.04000v1](http://arxiv.org/abs/2601.04000v1)]Terahertz volume plasmon-polariton modulation in all-dielectric hyperbolic metamaterials**|Stefano Campanaro et.al.||
+|**2026-01-07**|**[[2601.03975v1](http://arxiv.org/abs/2601.03975v1)]Cavity-Driven Multispectral Gain for High-Sensitivity NV Center Magnetometers**|Himanshu Kumar et.al.||
 |**2026-01-06**|**[[2601.02903v1](http://arxiv.org/abs/2601.02903v1)]Site-Specific and Frequency-Dependent Channel Characterization and MIMO Performance in FR3**|Zhuangzhuang Cui et.al.||
 |**2026-01-06**|**[[2601.02614v1](http://arxiv.org/abs/2601.02614v1)]GKFieldFlow: A Spatio-Temporal Neural Surrogate for Nonlinear Gyrokinetic Turbulence**|Arash Ashourvan et.al.||
 |**2026-01-05**|**[[2601.02605v1](http://arxiv.org/abs/2601.02605v1)]Beyond Path Loss: Altitude-Dependent Spectral Structure Modeling for UAV Measurements**|Amir Hossein Fahim Raouf et.al.||
@@ -413,7 +416,7 @@ layout: default
 |**2025-12-31**|**[[2512.24764v1](http://arxiv.org/abs/2512.24764v1)]LUNCH: A Lightweight Unified Deep-Learning Framework for General Transients Classification in High-Energy Time-Domain Astronomy**|Peng Zhang et.al.|Classification|
 |**2025-12-31**|**[[2512.24628v1](http://arxiv.org/abs/2512.24628v1)]AI-Driven Acoustic Voice Biomarker-Based Hierarchical Classification of Benign Laryngeal Voice Disorders from Sustained Vowels**|Mohsen Annabestani et.al.|Classification|
 |**2025-12-31**|**[[2512.24619v1](http://arxiv.org/abs/2512.24619v1)]Decentralized No-Regret Frequency-Time Scheduling for FMCW Radar Interference Avoidance**|Yunian Pan et.al.||
-|**2025-12-31**|**[[2512.24583v1](http://arxiv.org/abs/2512.24583v1)]Resource Allocation via Backscatter-Aware Transmit Antenna Selection for Low-PAPR and Ultra-Reliable WSNs**|Rahul Gulia et.al.||
+|**2026-01-06**|**[[2512.24583v2](http://arxiv.org/abs/2512.24583v2)]Resource Allocation via Backscatter-Aware Transmit Antenna Selection for Low-PAPR and Ultra-Reliable WSNs**|Rahul Gulia et.al.||
 |**2025-12-30**|**[[2512.24463v1](http://arxiv.org/abs/2512.24463v1)]Spectral and Spatial Graph Learning for Multispectral Solar Image Compression**|Prasiddha Siwakoti et.al.||
 |**2025-12-30**|**[[2512.24388v1](http://arxiv.org/abs/2512.24388v1)]A closer look at the young stellar group around Sh 2-295**|João Victor Corrêa-Rodrigues et.al.||
 |**2025-12-30**|**[[2512.24261v1](http://arxiv.org/abs/2512.24261v1)]First Positronium Lifetime Imaging using $^{52}$Mn and $^{55}$ Co with a plastic-based PET scanner**|Manish Das et.al.||
@@ -994,7 +997,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
