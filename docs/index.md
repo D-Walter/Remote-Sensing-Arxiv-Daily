@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-09**|**[[2601.05900v1](http://arxiv.org/abs/2601.05900v1)]High-Energy Interlayer Exciton Ensembles in MoSe $_2$/WSe$_2$ Heterostructures by Laguerre-Gaussian Excitation**|Mirco Troue et.al.||
+|**2026-01-09**|**[[2601.05842v1](http://arxiv.org/abs/2601.05842v1)]A latent factor approach to hyperspectral time series data for multivariate genomic prediction of grain yield in wheat**|Jonathan F. Kunst et.al.||
+|**2026-01-08**|**[[2601.05379v1](http://arxiv.org/abs/2601.05379v1)]EdgeLDR: Quaternion Low-Displacement Rank Neural Networks for Edge-Efficient Deep Learning**|Vladimir Frants et.al.|Classification|
 |**2026-01-08**|**[[2601.05181v1](http://arxiv.org/abs/2601.05181v1)]Spacecube: A fast inverse hyperspectral georectification system**|Thomas P. Watson et.al.||
 |**2026-01-08**|**[[2601.05020v1](http://arxiv.org/abs/2601.05020v1)]Scalable neural pushbroom architectures for real-time denoising of hyperspectral images onboard satellites**|Ziyao Yi et.al.|Denoising|
 |**2026-01-07**|**[[2601.03736v1](http://arxiv.org/abs/2601.03736v1)]HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|Object Detection|
@@ -390,6 +393,13 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-09**|**[[2601.05942v1](http://arxiv.org/abs/2601.05942v1)]WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.||
+|**2026-01-09**|**[[2601.05861v1](http://arxiv.org/abs/2601.05861v1)]Phase4DFD: Multi-Domain Phase-Aware Attention for Deepfake Detection**|Zhen-Xin Lin et.al.||
+|**2026-01-09**|**[[2601.05779v1](http://arxiv.org/abs/2601.05779v1)]A Catalog of 45,206 Hα Emission-line Stars from LAMOST MRS DR7**|Lihuan Yu et.al.|Classification|
+|**2026-01-09**|**[[2601.05748v1](http://arxiv.org/abs/2601.05748v1)]Semicircle law for multi-parameter random simplicial complexes**|Kartick Adhikari et.al.||
+|**2026-01-09**|**[[2601.05671v1](http://arxiv.org/abs/2601.05671v1)]Improving quantum interference visibility between independent sources by enhancing the purity of correlated photon pairs**|Hsin-Pin Lo et.al.||
+|**2026-01-08**|**[[2601.05436v1](http://arxiv.org/abs/2601.05436v1)]Multi-resonant non-dispersive infrared gas sensing: breaking the selectivity and sensitivity tradeoff**|Emma R. Bartelsen et.al.||
+|**2026-01-08**|**[[2601.05423v1](http://arxiv.org/abs/2601.05423v1)]A Unified Spectral Framework for Aging, Heterogeneous, and Distributed Order Systems via Weighted Weyl-Sonine Operators**|Gustavo Dorrego et.al.||
 |**2026-01-08**|**[[2601.05181v1](http://arxiv.org/abs/2601.05181v1)]Spacecube: A fast inverse hyperspectral georectification system**|Thomas P. Watson et.al.||
 |**2026-01-08**|**[[2601.05155v1](http://arxiv.org/abs/2601.05155v1)]Machine learning for radiative hydrodynamics in astrophysics**|Gonzague Radureau et.al.||
 |**2026-01-08**|**[[2601.04964v1](http://arxiv.org/abs/2601.04964v1)]Nonlinear virtual lens for programmable and multispectral infrared upconversion imaging**|Ze Zheng et.al.||
