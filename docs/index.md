@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-12**|**[[2601.07416v1](http://arxiv.org/abs/2601.07416v1)]SDHSI-Net: Learning Better Representations for Hyperspectral Images via Self-Distillation**|Prachet Dev Singh et.al.|Classification|
+|**2026-01-11**|**[[2601.07056v1](http://arxiv.org/abs/2601.07056v1)]Adversarial Attacks on Medical Hyperspectral Imaging Exploiting Spectral-Spatial Dependencies and Multiscale Features**|Yunrui Gu et.al.|Classification|
 |**2026-01-09**|**[[2601.05900v1](http://arxiv.org/abs/2601.05900v1)]High-Energy Interlayer Exciton Ensembles in MoSe $_2$/WSe$_2$ Heterostructures by Laguerre-Gaussian Excitation**|Mirco Troue et.al.||
 |**2026-01-09**|**[[2601.05842v1](http://arxiv.org/abs/2601.05842v1)]A latent factor approach to hyperspectral time series data for multivariate genomic prediction of grain yield in wheat**|Jonathan F. Kunst et.al.||
 |**2026-01-08**|**[[2601.05379v1](http://arxiv.org/abs/2601.05379v1)]EdgeLDR: Quaternion Low-Displacement Rank Neural Networks for Edge-Efficient Deep Learning**|Vladimir Frants et.al.|Classification|
@@ -393,6 +395,16 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-12**|**[[2601.07818v1](http://arxiv.org/abs/2601.07818v1)]Cosmoglobe DR2. V. Spatial correlations between thermal dust and ionized carbon emission in Planck HFI and COBE-DIRBE**|E. Gjerløw et.al.||
+|**2026-01-12**|**[[2601.07783v1](http://arxiv.org/abs/2601.07783v1)]Affordable Data Collection System for UAVs Taxi Vibration Testing**|Chaoyi Lin Yang et.al.||
+|**2026-01-12**|**[[2601.07170v1](http://arxiv.org/abs/2601.07170v1)]A Study Revealing Physical Attributes of Supernova Remnant in G321.3-3.9**|Shaobo Zhang et.al.||
+|**2026-01-11**|**[[2601.06989v1](http://arxiv.org/abs/2601.06989v1)]Localization Estimator for High Dimensional Tensor Covariance Matrices**|Hao-Xuan Sun et.al.||
+|**2026-01-11**|**[[2601.06983v1](http://arxiv.org/abs/2601.06983v1)]Hybrid Bound States in the Continuum beyond Diffraction Limit**|Ji Tong Wang et.al.||
+|**2026-01-11**|**[[2601.06925v1](http://arxiv.org/abs/2601.06925v1)]Caching Yields up to 5x Spectral Efficiency in Multi-Beam Satellite Communications**|Hui Zhao et.al.||
+|**2026-01-10**|**[[2601.06717v1](http://arxiv.org/abs/2601.06717v1)]Plasma Discharge Undulator: a novel concept for plasma-based radiation sources**|Andrea Frazzitta et.al.||
+|**2026-01-10**|**[[2601.06560v1](http://arxiv.org/abs/2601.06560v1)]Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.||
+|**2026-01-10**|**[[2601.06448v1](http://arxiv.org/abs/2601.06448v1)]Physics-guided foundation model for universal speckle removal in ultrathin multimode fiber imaging**|Xianrui Zeng et.al.||
+|**2026-01-06**|**[[2601.06162v1](http://arxiv.org/abs/2601.06162v1)]Forget Many, Forget Right: Scalable and Precise Concept Unlearning in Diffusion Models**|Kaiyuan Deng et.al.||
 |**2026-01-09**|**[[2601.05942v1](http://arxiv.org/abs/2601.05942v1)]WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.||
 |**2026-01-09**|**[[2601.05861v1](http://arxiv.org/abs/2601.05861v1)]Phase4DFD: Multi-Domain Phase-Aware Attention for Deepfake Detection**|Zhen-Xin Lin et.al.||
 |**2026-01-09**|**[[2601.05779v1](http://arxiv.org/abs/2601.05779v1)]A Catalog of 45,206 Hα Emission-line Stars from LAMOST MRS DR7**|Lihuan Yu et.al.|Classification|
@@ -401,7 +413,7 @@ layout: default
 |**2026-01-08**|**[[2601.05436v1](http://arxiv.org/abs/2601.05436v1)]Multi-resonant non-dispersive infrared gas sensing: breaking the selectivity and sensitivity tradeoff**|Emma R. Bartelsen et.al.||
 |**2026-01-08**|**[[2601.05423v1](http://arxiv.org/abs/2601.05423v1)]A Unified Spectral Framework for Aging, Heterogeneous, and Distributed Order Systems via Weighted Weyl-Sonine Operators**|Gustavo Dorrego et.al.||
 |**2026-01-08**|**[[2601.05181v1](http://arxiv.org/abs/2601.05181v1)]Spacecube: A fast inverse hyperspectral georectification system**|Thomas P. Watson et.al.||
-|**2026-01-08**|**[[2601.05155v1](http://arxiv.org/abs/2601.05155v1)]Machine learning for radiative hydrodynamics in astrophysics**|Gonzague Radureau et.al.||
+|**2026-01-12**|**[[2601.05155v2](http://arxiv.org/abs/2601.05155v2)]Machine learning for radiative hydrodynamics in astrophysics**|Gonzague Radureau et.al.||
 |**2026-01-08**|**[[2601.04964v1](http://arxiv.org/abs/2601.04964v1)]Nonlinear virtual lens for programmable and multispectral infrared upconversion imaging**|Ze Zheng et.al.||
 |**2026-01-08**|**[[2601.04844v1](http://arxiv.org/abs/2601.04844v1)]SE-EE Tradeoff in Pinching-Antenna Systems: Waveguide Multiplexing or Waveguide Switching?**|Guangyu Zhu et.al.||
 |**2026-01-08**|**[[2601.04808v1](http://arxiv.org/abs/2601.04808v1)]Comparison of Maximum Likelihood Classification Before and After Applying Weierstrass Transform**|Muhammad Shoaib et.al.|Classification|
@@ -411,7 +423,7 @@ layout: default
 |**2026-01-07**|**[[2601.03975v1](http://arxiv.org/abs/2601.03975v1)]Cavity-Driven Multispectral Gain for High-Sensitivity NV Center Magnetometers**|Himanshu Kumar et.al.||
 |**2026-01-06**|**[[2601.02903v1](http://arxiv.org/abs/2601.02903v1)]Site-Specific and Frequency-Dependent Channel Characterization and MIMO Performance in FR3**|Zhuangzhuang Cui et.al.||
 |**2026-01-06**|**[[2601.02614v1](http://arxiv.org/abs/2601.02614v1)]GKFieldFlow: A Spatio-Temporal Neural Surrogate for Nonlinear Gyrokinetic Turbulence**|Arash Ashourvan et.al.||
-|**2026-01-05**|**[[2601.02605v1](http://arxiv.org/abs/2601.02605v1)]Beyond Path Loss: Altitude-Dependent Spectral Structure Modeling for UAV Measurements**|Amir Hossein Fahim Raouf et.al.||
+|**2026-01-12**|**[[2601.02605v2](http://arxiv.org/abs/2601.02605v2)]Beyond Path Loss: Altitude-Dependent Spectral Structure Modeling for UAV Measurements**|Amir Hossein Fahim Raouf et.al.||
 |**2026-01-05**|**[[2601.02535v1](http://arxiv.org/abs/2601.02535v1)]ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation**|Hyeong Kyu Choi et.al.||
 |**2026-01-05**|**[[2601.02289v1](http://arxiv.org/abs/2601.02289v1)]Rank-based Geographical Regularization: Revisiting Contrastive Self-Supervised Learning for Multispectral Remote Sensing Imagery**|Tom Burgert et.al.||
 |**2026-01-05**|**[[2601.02185v1](http://arxiv.org/abs/2601.02185v1)]Nonlinear spin-Wave Doppler effect for flexible tuning of magnonic frequencies**|Jinchen Hou et.al.||
