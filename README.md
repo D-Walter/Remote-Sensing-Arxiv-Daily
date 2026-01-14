@@ -20,6 +20,9 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-13**|**[[2601.08420v1](http://arxiv.org/abs/2601.08420v1)]MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP**|Aditya Chaudhary et.al.|VLM|
+|**2026-01-13**|**[[2601.08293v1](http://arxiv.org/abs/2601.08293v1)]M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction**|Yuze Zhang et.al.||
+|**2026-01-13**|**[[2601.08228v1](http://arxiv.org/abs/2601.08228v1)]Second-Generation Wavelet-inspired Tensor Product with Applications in Hyperspectral Imaging**|Aneesh Panchal et.al.||
 |**2026-01-12**|**[[2601.07416v1](http://arxiv.org/abs/2601.07416v1)]SDHSI-Net: Learning Better Representations for Hyperspectral Images via Self-Distillation**|Prachet Dev Singh et.al.|Classification|
 |**2026-01-11**|**[[2601.07056v1](http://arxiv.org/abs/2601.07056v1)]Adversarial Attacks on Medical Hyperspectral Imaging Exploiting Spectral-Spatial Dependencies and Multiscale Features**|Yunrui Gu et.al.|Classification|
 |**2026-01-09**|**[[2601.05900v1](http://arxiv.org/abs/2601.05900v1)]High-Energy Interlayer Exciton Ensembles in MoSe $_2$/WSe$_2$ Heterostructures by Laguerre-Gaussian Excitation**|Mirco Troue et.al.||
@@ -391,6 +394,17 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-13**|**[[2601.08724v1](http://arxiv.org/abs/2601.08724v1)]Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling**|Yasushi Hasegawa et.al.||
+|**2026-01-13**|**[[2601.08631v1](http://arxiv.org/abs/2601.08631v1)]M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.||
+|**2026-01-13**|**[[2601.08404v1](http://arxiv.org/abs/2601.08404v1)]Out-of-distribution generalization of deep-learning surrogates for 2D PDE-generated dynamics in the small-data regime**|Binh Duong Nguyen et.al.||
+|**2026-01-13**|**[[2601.08300v1](http://arxiv.org/abs/2601.08300v1)]Variable-Length Wideband CSI Feedback via Loewner Interpolation and Deep Learning**|Meilin Li et.al.||
+|**2026-01-13**|**[[2601.08293v1](http://arxiv.org/abs/2601.08293v1)]M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction**|Yuze Zhang et.al.||
+|**2026-01-13**|**[[2601.08289v1](http://arxiv.org/abs/2601.08289v1)]Efficient and broadband quantum frequency comb generation in a monolithic AlGaAs-on-insulator microresonator**|Xiaodong Zheng et.al.||
+|**2026-01-13**|**[[2601.08269v1](http://arxiv.org/abs/2601.08269v1)]Bifurcated Impact of Neutrino Fast Flavor Conversion on Core-collapse Supernovae Informed by Multi-angle Neutrino Radiation Hydrodynamics**|Ryuichiro Akaho et.al.||
+|**2026-01-13**|**[[2601.08216v1](http://arxiv.org/abs/2601.08216v1)]One-Shot Federated Ridge Regression: Exact Recovery via Sufficient Statistic Aggregation**|Zahir Alsulaimawi et.al.||
+|**2026-01-13**|**[[2601.08212v1](http://arxiv.org/abs/2601.08212v1)]Diverse Origins of Broad H $α$ Lines in Heavily Obscured AGNs Revealed by Multi-epoch Spectroscopy**|Shoichiro Mizukoshi et.al.||
+|**2026-01-13**|**[[2601.08104v1](http://arxiv.org/abs/2601.08104v1)]High-Fidelity Modeling of Stochastic Chemical Dynamics on Complex Manifolds: A Multi-Scale SIREN-PINN Framework for the Curvature-Perturbed Ginzburg-Landau Equation**|Julian Evan Chrisnanto et.al.||
+|**2026-01-12**|**[[2601.07901v1](http://arxiv.org/abs/2601.07901v1)]Decentralized Online Convex Optimization with Unknown Feedback Delays**|Hao Qiu et.al.||
 |**2026-01-12**|**[[2601.07818v1](http://arxiv.org/abs/2601.07818v1)]Cosmoglobe DR2. V. Spatial correlations between thermal dust and ionized carbon emission in Planck HFI and COBE-DIRBE**|E. Gjerløw et.al.||
 |**2026-01-12**|**[[2601.07783v1](http://arxiv.org/abs/2601.07783v1)]Affordable Data Collection System for UAVs Taxi Vibration Testing**|Chaoyi Lin Yang et.al.||
 |**2026-01-12**|**[[2601.07170v1](http://arxiv.org/abs/2601.07170v1)]A Study Revealing Physical Attributes of Supernova Remnant in G321.3-3.9**|Shaobo Zhang et.al.||
