@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-13**|**[[2601.08984v1](http://arxiv.org/abs/2601.08984v1)]Quantifying the Relationship Between Strain and Bandgap in Thin Ga $_2$Se$_2$**|Lottie L. Murray et.al.||
 |**2026-01-13**|**[[2601.08420v1](http://arxiv.org/abs/2601.08420v1)]MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP**|Aditya Chaudhary et.al.|VLM|
 |**2026-01-13**|**[[2601.08293v1](http://arxiv.org/abs/2601.08293v1)]M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction**|Yuze Zhang et.al.||
 |**2026-01-13**|**[[2601.08228v1](http://arxiv.org/abs/2601.08228v1)]Second-Generation Wavelet-inspired Tensor Product with Applications in Hyperspectral Imaging**|Aneesh Panchal et.al.||
@@ -398,6 +399,12 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-14**|**[[2601.09352v1](http://arxiv.org/abs/2601.09352v1)]Spectral Complex Autoencoder Pruning: A Fidelity-Guided Criterion for Extreme Structured Channel Compression**|Wei Liu et.al.||
+|**2026-01-14**|**[[2601.09262v1](http://arxiv.org/abs/2601.09262v1)]Magnifying change: Rapid burn scar mapping with multi-resolution, multi-source satellite imagery**|Maria Sdraka et.al.||
+|**2026-01-14**|**[[2601.09218v1](http://arxiv.org/abs/2601.09218v1)]The Quasar Feedback Survey: Revealing the importance of sensitive radio imaging for AGN identification deeper into the radio-quiet regime**|Ann Njeri et.al.||
+|**2026-01-14**|**[[2601.09098v1](http://arxiv.org/abs/2601.09098v1)]Overcoming the Shadow: Bending Airy Beams for Radiative Near-Field Multi-User Access in Half-Space Blockage Scenarios**|Yifeng Qin et.al.||
+|**2026-01-14**|**[[2601.09055v1](http://arxiv.org/abs/2601.09055v1)]Multi parameter discrimination using multiple spectral troughs in a cascaded fiber sensor**|Riming Xu et.al.||
+|**2026-01-13**|**[[2601.09005v1](http://arxiv.org/abs/2601.09005v1)]The IRIS $^{2+}$ inversion tool: recovering the radiative losses and the thermodynamics in the lower solar atmosphere**|Alberto Sainz Dalda et.al.||
 |**2026-01-13**|**[[2601.08724v1](http://arxiv.org/abs/2601.08724v1)]Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling**|Yasushi Hasegawa et.al.||
 |**2026-01-13**|**[[2601.08631v1](http://arxiv.org/abs/2601.08631v1)]M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.||
 |**2026-01-13**|**[[2601.08404v1](http://arxiv.org/abs/2601.08404v1)]Out-of-distribution generalization of deep-learning surrogates for 2D PDE-generated dynamics in the small-data regime**|Binh Duong Nguyen et.al.||
