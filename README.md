@@ -395,6 +395,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-15**|**[[2601.10637v1](http://arxiv.org/abs/2601.10637v1)]Measuring the Coronal Magnetic Field with 2D Coronal Seismology: A Forward-Modeling Validation**|Zihao Yang et.al.||
+|**2026-01-15**|**[[2601.10249v1](http://arxiv.org/abs/2601.10249v1)]Critical time of the almost 2-regular random degree constrained process**|Balázs Ráth et.al.||
+|**2026-01-15**|**[[2601.10121v1](http://arxiv.org/abs/2601.10121v1)]Direct Detection of Type II-P Supernova Progenitors with the Euclid and CSST Surveys**|Junjie Wu et.al.||
+|**2026-01-14**|**[[2601.09788v1](http://arxiv.org/abs/2601.09788v1)]New Hard X-Ray and Multiwavelength Study of the PeVatron Candidate PWN G0.9+0.1 in the Galactic Center Region**|Giulia Brunelli et.al.||
 |**2026-01-14**|**[[2601.09352v1](http://arxiv.org/abs/2601.09352v1)]Spectral Complex Autoencoder Pruning: A Fidelity-Guided Criterion for Extreme Structured Channel Compression**|Wei Liu et.al.||
 |**2026-01-14**|**[[2601.09262v1](http://arxiv.org/abs/2601.09262v1)]Magnifying change: Rapid burn scar mapping with multi-resolution, multi-source satellite imagery**|Maria Sdraka et.al.||
 |**2026-01-14**|**[[2601.09218v1](http://arxiv.org/abs/2601.09218v1)]The Quasar Feedback Survey: Revealing the importance of sensitive radio imaging for AGN identification deeper into the radio-quiet regime**|Ann Njeri et.al.||
