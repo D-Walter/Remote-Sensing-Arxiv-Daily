@@ -399,6 +399,9 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-16**|**[[2601.11428v1](http://arxiv.org/abs/2601.11428v1)]Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families**|Lennon Shikhman et.al.||
+|**2026-01-16**|**[[2601.11070v1](http://arxiv.org/abs/2601.11070v1)]Multifrequency evolution of the Integrated pulse profile of radio pulsars by implementing the inverse Compton mechanism**|Tridib Roy et.al.||
+|**2026-01-16**|**[[2601.10916v1](http://arxiv.org/abs/2601.10916v1)]Two-tooth bosonic quantum comb for temporal-correlation sensing**|Shaojiang Zhu et.al.||
 |**2026-01-15**|**[[2601.10637v1](http://arxiv.org/abs/2601.10637v1)]Measuring the Coronal Magnetic Field with 2D Coronal Seismology: A Forward-Modeling Validation**|Zihao Yang et.al.||
 |**2026-01-15**|**[[2601.10249v1](http://arxiv.org/abs/2601.10249v1)]Critical time of the almost 2-regular random degree constrained process**|Balázs Ráth et.al.||
 |**2026-01-15**|**[[2601.10121v1](http://arxiv.org/abs/2601.10121v1)]Direct Detection of Type II-P Supernova Progenitors with the Euclid and CSST Surveys**|Junjie Wu et.al.||
@@ -406,7 +409,7 @@ layout: default
 |**2026-01-14**|**[[2601.09352v1](http://arxiv.org/abs/2601.09352v1)]Spectral Complex Autoencoder Pruning: A Fidelity-Guided Criterion for Extreme Structured Channel Compression**|Wei Liu et.al.||
 |**2026-01-14**|**[[2601.09262v1](http://arxiv.org/abs/2601.09262v1)]Magnifying change: Rapid burn scar mapping with multi-resolution, multi-source satellite imagery**|Maria Sdraka et.al.||
 |**2026-01-14**|**[[2601.09218v1](http://arxiv.org/abs/2601.09218v1)]The Quasar Feedback Survey: Revealing the importance of sensitive radio imaging for AGN identification deeper into the radio-quiet regime**|Ann Njeri et.al.||
-|**2026-01-14**|**[[2601.09098v1](http://arxiv.org/abs/2601.09098v1)]Overcoming the Shadow: Bending Airy Beams for Radiative Near-Field Multi-User Access in Half-Space Blockage Scenarios**|Yifeng Qin et.al.||
+|**2026-01-16**|**[[2601.09098v2](http://arxiv.org/abs/2601.09098v2)]Airy Beamforming for Radiative Near-Field MU-XL-MIMO: Overcoming Half-Space Blockage**|Yifeng Qin et.al.||
 |**2026-01-14**|**[[2601.09055v1](http://arxiv.org/abs/2601.09055v1)]Multi parameter discrimination using multiple spectral troughs in a cascaded fiber sensor**|Riming Xu et.al.||
 |**2026-01-13**|**[[2601.09005v1](http://arxiv.org/abs/2601.09005v1)]The IRIS $^{2+}$ inversion tool: recovering the radiative losses and the thermodynamics in the lower solar atmosphere**|Alberto Sainz Dalda et.al.||
 |**2026-01-13**|**[[2601.08724v1](http://arxiv.org/abs/2601.08724v1)]Kernel Learning for Regression via Quantum Annealing Based Spectral Sampling**|Yasushi Hasegawa et.al.||
