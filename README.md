@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-20**|**[[2601.14474v1](http://arxiv.org/abs/2601.14474v1)]Nanoscopy of Excitons in Atomically Thin In-Plane Heterostructures with Nanointerfaces**|Mahdi Ghafariasl et.al.||
 |**2026-01-20**|**[[2601.14110v1](http://arxiv.org/abs/2601.14110v1)]Adsorption-Driven Symmetry Lowering in Single Molecules Revealed by Ångstrom-scale Tip-Enhanced Raman Imaging**|Rodrigo Cezar de Campos Ferreira et.al.||
 |**2026-01-20**|**[[2601.13987v1](http://arxiv.org/abs/2601.13987v1)]SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration**|Jiangwei Xie et.al.|Superresolution|
 |**2026-01-20**|**[[2601.13953v1](http://arxiv.org/abs/2601.13953v1)]Differentiable Logic Synthesis: Spectral Coefficient Selection via Sinkhorn-Constrained Composition**|Gorgi Pavlov et.al.||
@@ -405,6 +406,18 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-21**|**[[2601.14975v1](http://arxiv.org/abs/2601.14975v1)]Kinematics of the HII region NGC 7538 from study of the Ha line**|D. Russeil et.al.||
+|**2026-01-21**|**[[2601.14963v1](http://arxiv.org/abs/2601.14963v1)]Resonant Excitation Induced Vibronic Mollow Triplets**|Devashish Pandey et.al.||
+|**2026-01-21**|**[[2601.14929v1](http://arxiv.org/abs/2601.14929v1)]Modelling the Time-variable Broadband Emission and Correlation Study of FSRQ S5 1044+71**|Sajad Ahanger et.al.||
+|**2026-01-21**|**[[2601.14793v1](http://arxiv.org/abs/2601.14793v1)]LiNUS: Lightweight Automatic Segmentation of Deep Brain Nuclei for Real-Time DBS Surgery**|Shuo Zhang et.al.||
+|**2026-01-21**|**[[2601.14787v1](http://arxiv.org/abs/2601.14787v1)]The Intermediate-Mass Black Hole Reverberation Mapping Project: Stable Optical Continuum Lags of an IMBH in the Dwarf Galaxy NGC 4395 Over Years**|Yu Pan et.al.||
+|**2026-01-21**|**[[2601.14759v1](http://arxiv.org/abs/2601.14759v1)]Improved GPR-Based CSI Acquisition via Spatial-Correlation Kernel**|Syed Luqman Shah et.al.||
+|**2026-01-21**|**[[2601.14565v1](http://arxiv.org/abs/2601.14565v1)]Programming Quantum Measurements of Time inside a Complex Medium**|Dylan Danese et.al.||
+|**2026-01-20**|**[[2601.14523v1](http://arxiv.org/abs/2601.14523v1)]Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree**|Leyi Zhao et.al.||
+|**2026-01-20**|**[[2601.14475v1](http://arxiv.org/abs/2601.14475v1)]Real-Time Wildfire Localization on the NASA Autonomous Modular Sensor using Deep Learning**|Yajvan Ravan et.al.|Classification|
+|**2026-01-20**|**[[2601.14472v1](http://arxiv.org/abs/2601.14472v1)]Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum**|Mohammed Salah Al-Radhi et.al.||
+|**2026-01-20**|**[[2601.14403v1](http://arxiv.org/abs/2601.14403v1)]Ultraviolet spectroscopy reveals a hot and luminous companion to the Be star + black hole candidate MWC 656**|Johanna Müller-Horn et.al.||
+|**2026-01-19**|**[[2601.14318v1](http://arxiv.org/abs/2601.14318v1)]The Ep-Liso correlation: A new diagnostic tool for kilonova transients**|Ruben Farinelli et.al.||
 |**2026-01-20**|**[[2601.14159v1](http://arxiv.org/abs/2601.14159v1)]Multi-Partner Project: Multi-GPU Performance Portability Analysis for CFD Simulations at Scale**|Panagiotis-Eleftherios Eleftherakis et.al.||
 |**2026-01-20**|**[[2601.14043v1](http://arxiv.org/abs/2601.14043v1)]A curvature-weighted spectral precursor to dissipation in decaying three-dimensional turbulence: robustness across initial conditions and viscosity effects**|Satori Tsuzuki et.al.||
 |**2026-01-20**|**[[2601.13692v1](http://arxiv.org/abs/2601.13692v1)]Three-dimensional properties of a coronal shock and the longitudinal distribution of its related solar energetic particles**|Yue Zhou et.al.||
@@ -413,15 +426,15 @@
 |**2026-01-19**|**[[2601.12824v1](http://arxiv.org/abs/2601.12824v1)]Identification of false positive double-lined spectroscopic binaries in LAMOST-MRS data due to moonlight contamination**|Zhoulin Wang et.al.||
 |**2026-01-19**|**[[2601.12791v1](http://arxiv.org/abs/2601.12791v1)]SKANet: A Cognitive Dual-Stream Framework with Adaptive Modality Fusion for Robust Compound GNSS Interference Classification**|Zhihan Zeng et.al.|Classification|
 |**2026-01-19**|**[[2601.12752v1](http://arxiv.org/abs/2601.12752v1)]SoundPlot: An Open-Source Framework for Birdsong Acoustic Analysis and Neural Synthesis with Interactive 3D Visualization**|Naqcho Ali Mehdi et.al.||
-|**2026-01-19**|**[[2601.12694v1](http://arxiv.org/abs/2601.12694v1)]Closed-loop Uplink Radio Resource Management in CF-O-RAN Empowered 5G Aerial Corridor**|Manobendu Sarker et.al.||
+|**2026-01-21**|**[[2601.12694v2](http://arxiv.org/abs/2601.12694v2)]Closed-loop Uplink Radio Resource Management in CF-O-RAN Empowered 5G Aerial Corridor**|Manobendu Sarker et.al.||
 |**2026-01-19**|**[[2601.12647v1](http://arxiv.org/abs/2601.12647v1)]LAMOST J113208.06-005052.3 and LAMOST J052957.56+344127.0: two new binaries with a hot white dwarf and a flaring companion star**|Yanhui Chen et.al.||
-|**2026-01-18**|**[[2601.12345v1](http://arxiv.org/abs/2601.12345v1)]Adaptive Rotary Steering with Joint Autoregression for Robust Extraction of Closely Moving Speakers in Dynamic Scenarios**|Jakob Kienegger et.al.||
+|**2026-01-21**|**[[2601.12345v2](http://arxiv.org/abs/2601.12345v2)]Adaptive Rotary Steering with Joint Autoregression for Robust Extraction of Closely Moving Speakers in Dynamic Scenarios**|Jakob Kienegger et.al.||
 |**2026-01-18**|**[[2601.12330v1](http://arxiv.org/abs/2601.12330v1)]IceWatch: Forecasting Glacial Lake Outburst Floods (GLOFs) using Multimodal Deep Learning**|Zuha Fatima et.al.||
 |**2026-01-18**|**[[2601.12279v1](http://arxiv.org/abs/2601.12279v1)]HCFT: Hierarchical Convolutional Fusion Transformer for EEG Decoding**|Haodong Zhang et.al.|Classification|
 |**2026-01-18**|**[[2601.12215v1](http://arxiv.org/abs/2601.12215v1)]Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models**|Megha Thukral et.al.||
 |**2026-01-12**|**[[2601.11626v1](http://arxiv.org/abs/2601.11626v1)]Concatenated Matrix SVD: Compression Bounds, Incremental Approximation, and Error-Constrained Clustering**|Maksym Shamrai et.al.||
-|**2026-01-08**|**[[2601.11605v1](http://arxiv.org/abs/2601.11605v1)]Boundary Delocalization and Spectral Packets for Dirichlet Eigenfunctions**|Anton Alexa et.al.||
-|**2026-01-08**|**[[2601.11603v1](http://arxiv.org/abs/2601.11603v1)]The use of spectral indices in environmental monitoring of smouldering coal-waste dumps**|Anna Abramowicz et.al.||
+|**2026-01-21**|**[[2601.11605v2](http://arxiv.org/abs/2601.11605v2)]Boundary Delocalization and Spectral Packets for Dirichlet Eigenfunctions**|Anton Alexa et.al.||
+|**2026-01-21**|**[[2601.11603v2](http://arxiv.org/abs/2601.11603v2)]The use of spectral indices in environmental monitoring of smouldering coal-waste dumps**|Anna Abramowicz et.al.||
 |**2026-01-06**|**[[2601.11594v1](http://arxiv.org/abs/2601.11594v1)]Multi-Scale Negative Coupled Information Systems (MNCIS): A Unified Spectral Topology Framework for Stability in Turbulence, AI, and Biology**|Pengyue Hou et.al.||
 |**2026-01-16**|**[[2601.11428v1](http://arxiv.org/abs/2601.11428v1)]Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families**|Lennon Shikhman et.al.||
 |**2026-01-16**|**[[2601.11070v1](http://arxiv.org/abs/2601.11070v1)]Multifrequency evolution of the Integrated pulse profile of radio pulsars by implementing the inverse Compton mechanism**|Tridib Roy et.al.||
@@ -480,7 +493,7 @@
 |**2026-01-05**|**[[2601.02289v1](http://arxiv.org/abs/2601.02289v1)]Rank-based Geographical Regularization: Revisiting Contrastive Self-Supervised Learning for Multispectral Remote Sensing Imagery**|Tom Burgert et.al.||
 |**2026-01-05**|**[[2601.02185v1](http://arxiv.org/abs/2601.02185v1)]Nonlinear spin-Wave Doppler effect for flexible tuning of magnonic frequencies**|Jinchen Hou et.al.||
 |**2026-01-05**|**[[2601.02175v1](http://arxiv.org/abs/2601.02175v1)]Single- and Multi-Objective Stochastic Optimization for Next-Generation Networks in the Generative AI and Quantum Computing Era**|Trinh Van Chien et.al.||
-|**2026-01-05**|**[[2601.02028v1](http://arxiv.org/abs/2601.02028v1)]Disc Winds From Accreting Systems in the 2040s**|Noel Castro Segura et.al.||
+|**2026-01-21**|**[[2601.02028v2](http://arxiv.org/abs/2601.02028v2)]Disc Winds From Accreting Systems in the 2040s**|Noel Castro Segura et.al.||
 |**2026-01-05**|**[[2601.01908v1](http://arxiv.org/abs/2601.01908v1)]Nodule-DETR: A Novel DETR Architecture with Frequency-Channel Attention for Ultrasound Thyroid Nodule Detection**|Jingjing Wang et.al.||
 |**2026-01-05**|**[[2601.01748v1](http://arxiv.org/abs/2601.01748v1)]Exploring the interplay between molecular and ionized gas in HII regions**|S. Khan et.al.||
 |**2026-01-04**|**[[2601.01632v1](http://arxiv.org/abs/2601.01632v1)]Learning Stiff Dynamical Operators: Scaling, Fast-Slow Excitation, and Eigen-Consistent Neural Models**|Mauro Valorani et.al.||
