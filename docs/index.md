@@ -24,6 +24,10 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-22**|**[[2601.16098v1](http://arxiv.org/abs/2601.16098v1)]Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|Classification|
+|**2026-01-22**|**[[2601.15947v1](http://arxiv.org/abs/2601.15947v1)]Multimodal Imaging System Combining Hyperspectral and Laser Speckle Imaging for In Vivo Hemodynamic and Metabolic Monitoring**|Junda Wang et.al.||
+|**2026-01-22**|**[[2601.15852v1](http://arxiv.org/abs/2601.15852v1)]Localized emission in MoSe $_2$ monolayers on GaN nanopillars**|Abderrahim Lamrani Alaoui et.al.||
+|**2026-01-22**|**[[2601.15757v1](http://arxiv.org/abs/2601.15757v1)]White-Box mHC: Electromagnetic Spectrum-Aware and Interpretable Stream Interactions for Hyperspectral Image Classification**|Yimin Zhu et.al.|Classification|
 |**2026-01-20**|**[[2601.14474v1](http://arxiv.org/abs/2601.14474v1)]Nanoscopy of Excitons in Atomically Thin In-Plane Heterostructures with Nanointerfaces**|Mahdi Ghafariasl et.al.||
 |**2026-01-20**|**[[2601.14110v1](http://arxiv.org/abs/2601.14110v1)]Adsorption-Driven Symmetry Lowering in Single Molecules Revealed by Ångstrom-scale Tip-Enhanced Raman Imaging**|Rodrigo Cezar de Campos Ferreira et.al.||
 |**2026-01-20**|**[[2601.13987v1](http://arxiv.org/abs/2601.13987v1)]SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration**|Jiangwei Xie et.al.|Superresolution|
@@ -410,6 +414,15 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-22**|**[[2601.16202v1](http://arxiv.org/abs/2601.16202v1)]A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution**|Nguyen Thi Phuong et.al.||
+|**2026-01-22**|**[[2601.16158v1](http://arxiv.org/abs/2601.16158v1)]Domain-Incremental Continual Learning for Robust and Efficient Keyword Spotting in Resource Constrained Systems**|Prakash Dhungana et.al.|Denoising|
+|**2026-01-22**|**[[2601.16101v1](http://arxiv.org/abs/2601.16101v1)]Biexcitons in Ruddlesden-Popper Metal Halides Probed by Nonlinear Coherent Spectroscopy**|Katherine A. Koch et.al.||
+|**2026-01-22**|**[[2601.16077v1](http://arxiv.org/abs/2601.16077v1)]Loose coupling of spectral and spatial models for multi-channel diarization and enhancement of meetings in dynamic environments**|Adrian Meise et.al.||
+|**2026-01-22**|**[[2601.16048v1](http://arxiv.org/abs/2601.16048v1)]Unveiling the Spectral Morphological Division of Fast Radio Bursts with CHIME/FRB Catalog 2**|Wan-Peng Sun et.al.||
+|**2026-01-22**|**[[2601.15994v1](http://arxiv.org/abs/2601.15994v1)]SVOM discovery of a strong X-ray outburst of the blazar 1ES~1959+650 and multi-wavelength follow-up with the Neil Gehrels Swift observatory**|A. Foisseau et.al.||
+|**2026-01-22**|**[[2601.15991v1](http://arxiv.org/abs/2601.15991v1)]A multi-wavelength approach of AGN feedback in LINERs: The case of NGC 4438**|M. Puig-Subirà et.al.||
+|**2026-01-22**|**[[2601.15897v1](http://arxiv.org/abs/2601.15897v1)]ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.||
+|**2026-01-22**|**[[2601.15762v1](http://arxiv.org/abs/2601.15762v1)]Multi-Scale Irregularities Product: a data product utilizing the high-resolution Swarm plasma density data for space weather applications**|Yaqi Jin et.al.||
 |**2026-01-21**|**[[2601.14975v1](http://arxiv.org/abs/2601.14975v1)]Kinematics of the HII region NGC 7538 from study of the Ha line**|D. Russeil et.al.||
 |**2026-01-21**|**[[2601.14963v1](http://arxiv.org/abs/2601.14963v1)]Resonant Excitation Induced Vibronic Mollow Triplets**|Devashish Pandey et.al.||
 |**2026-01-21**|**[[2601.14929v1](http://arxiv.org/abs/2601.14929v1)]Modelling the Time-variable Broadband Emission and Correlation Study of FSRQ S5 1044+71**|Sajad Ahanger et.al.||
@@ -437,7 +450,7 @@ layout: default
 |**2026-01-18**|**[[2601.12279v1](http://arxiv.org/abs/2601.12279v1)]HCFT: Hierarchical Convolutional Fusion Transformer for EEG Decoding**|Haodong Zhang et.al.|Classification|
 |**2026-01-18**|**[[2601.12215v1](http://arxiv.org/abs/2601.12215v1)]Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models**|Megha Thukral et.al.||
 |**2026-01-12**|**[[2601.11626v1](http://arxiv.org/abs/2601.11626v1)]Concatenated Matrix SVD: Compression Bounds, Incremental Approximation, and Error-Constrained Clustering**|Maksym Shamrai et.al.||
-|**2026-01-21**|**[[2601.11605v2](http://arxiv.org/abs/2601.11605v2)]Boundary Delocalization and Spectral Packets for Dirichlet Eigenfunctions**|Anton Alexa et.al.||
+|**2026-01-22**|**[[2601.11605v3](http://arxiv.org/abs/2601.11605v3)]Boundary Delocalization and Spectral Packets for Dirichlet Eigenfunctions**|Anton Alexa et.al.||
 |**2026-01-21**|**[[2601.11603v2](http://arxiv.org/abs/2601.11603v2)]The use of spectral indices in environmental monitoring of smouldering coal-waste dumps**|Anna Abramowicz et.al.||
 |**2026-01-06**|**[[2601.11594v1](http://arxiv.org/abs/2601.11594v1)]Multi-Scale Negative Coupled Information Systems (MNCIS): A Unified Spectral Topology Framework for Stability in Turbulence, AI, and Biology**|Pengyue Hou et.al.||
 |**2026-01-16**|**[[2601.11428v1](http://arxiv.org/abs/2601.11428v1)]Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families**|Lennon Shikhman et.al.||
