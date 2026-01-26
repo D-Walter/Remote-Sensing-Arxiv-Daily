@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-23**|**[[2601.16602v1](http://arxiv.org/abs/2601.16602v1)]Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images Using Fully Synthetic Training**|Xinxin Xu et.al.|Unmixing, Superresolution|
+|**2026-01-23**|**[[2601.16386v1](http://arxiv.org/abs/2601.16386v1)]XMM-Newton observations of ten high-redshift CAMIRA clusters of galaxies**|Naomi Ota et.al.||
 |**2026-01-22**|**[[2601.16098v1](http://arxiv.org/abs/2601.16098v1)]Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|Classification|
 |**2026-01-22**|**[[2601.15947v1](http://arxiv.org/abs/2601.15947v1)]Multimodal Imaging System Combining Hyperspectral and Laser Speckle Imaging for In Vivo Hemodynamic and Metabolic Monitoring**|Junda Wang et.al.||
 |**2026-01-22**|**[[2601.15852v1](http://arxiv.org/abs/2601.15852v1)]Localized emission in MoSe $_2$ monolayers on GaN nanopillars**|Abderrahim Lamrani Alaoui et.al.||
@@ -414,6 +416,10 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-23**|**[[2601.16834v1](http://arxiv.org/abs/2601.16834v1)]Calibrated Probabilistic Interpolation for GEDI Biomass**|Robin Young et.al.||
+|**2026-01-23**|**[[2601.16499v1](http://arxiv.org/abs/2601.16499v1)]Constraints on the Hot Circumgalactic Medium around Nearby L* Galaxies from SRG/eROSITA All Sky Survey**|Lin He et.al.||
+|**2026-01-22**|**[[2601.16371v1](http://arxiv.org/abs/2601.16371v1)]Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph**|Jiwon Jang et.al.||
+|**2026-01-22**|**[[2601.16265v1](http://arxiv.org/abs/2601.16265v1)]A Binary-Based Reassessment of the Age and Stellar Properties of NGC 7789 Using Twelve Binary Components**|Kadri Yakut et.al.||
 |**2026-01-22**|**[[2601.16202v1](http://arxiv.org/abs/2601.16202v1)]A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution**|Nguyen Thi Phuong et.al.||
 |**2026-01-22**|**[[2601.16158v1](http://arxiv.org/abs/2601.16158v1)]Domain-Incremental Continual Learning for Robust and Efficient Keyword Spotting in Resource Constrained Systems**|Prakash Dhungana et.al.|Denoising|
 |**2026-01-22**|**[[2601.16101v1](http://arxiv.org/abs/2601.16101v1)]Biexcitons in Ruddlesden-Popper Metal Halides Probed by Nonlinear Coherent Spectroscopy**|Katherine A. Koch et.al.||
@@ -422,7 +428,7 @@ layout: default
 |**2026-01-22**|**[[2601.15994v1](http://arxiv.org/abs/2601.15994v1)]SVOM discovery of a strong X-ray outburst of the blazar 1ES~1959+650 and multi-wavelength follow-up with the Neil Gehrels Swift observatory**|A. Foisseau et.al.||
 |**2026-01-22**|**[[2601.15991v1](http://arxiv.org/abs/2601.15991v1)]A multi-wavelength approach of AGN feedback in LINERs: The case of NGC 4438**|M. Puig-Subirà et.al.||
 |**2026-01-22**|**[[2601.15897v1](http://arxiv.org/abs/2601.15897v1)]ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.||
-|**2026-01-22**|**[[2601.15762v1](http://arxiv.org/abs/2601.15762v1)]Multi-Scale Irregularities Product: a data product utilizing the high-resolution Swarm plasma density data for space weather applications**|Yaqi Jin et.al.||
+|**2026-01-23**|**[[2601.15762v2](http://arxiv.org/abs/2601.15762v2)]Multi-Scale Irregularities Product: a data product utilizing the high-resolution Swarm plasma density data for space weather applications**|Yaqi Jin et.al.||
 |**2026-01-21**|**[[2601.14975v1](http://arxiv.org/abs/2601.14975v1)]Kinematics of the HII region NGC 7538 from study of the Ha line**|D. Russeil et.al.||
 |**2026-01-21**|**[[2601.14963v1](http://arxiv.org/abs/2601.14963v1)]Resonant Excitation Induced Vibronic Mollow Triplets**|Devashish Pandey et.al.||
 |**2026-01-21**|**[[2601.14929v1](http://arxiv.org/abs/2601.14929v1)]Modelling the Time-variable Broadband Emission and Correlation Study of FSRQ S5 1044+71**|Sajad Ahanger et.al.||
