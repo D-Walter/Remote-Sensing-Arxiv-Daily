@@ -417,6 +417,12 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-27**|**[[2601.19525v1](http://arxiv.org/abs/2601.19525v1)]Low-frequency-selected Fast Radio Burst Host Galaxy Candidates**|Yu-Zhu Sun et.al.||
+|**2026-01-27**|**[[2601.19403v1](http://arxiv.org/abs/2601.19403v1)]Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|Object Detection|
+|**2026-01-27**|**[[2601.19361v1](http://arxiv.org/abs/2601.19361v1)]Scaling of broadband Ho:CALGO regenerative amplifier to multi-mJ pulse energy**|Anna Suzuki et.al.||
+|**2026-01-27**|**[[2601.19356v1](http://arxiv.org/abs/2601.19356v1)]Experimental High-Accuracy and Broadband Quantum Frequency Sensing via Geodesic Control**|Si-Qi Chen et.al.||
+|**2026-01-27**|**[[2601.19328v1](http://arxiv.org/abs/2601.19328v1)]STONKS first results: Long-term transients in the XMM-Newton Galactic plane survey**|Robbie Webbe et.al.||
+|**2026-01-26**|**[[2601.19018v1](http://arxiv.org/abs/2601.19018v1)]A multiwavelength view of the nearby Calcium-Strong Transient SN 2025coe in the X-Ray, Near-Infrared, and Radio Wavebands**|Sahana Kumar et.al.||
 |**2026-01-26**|**[[2601.18589v1](http://arxiv.org/abs/2601.18589v1)]AGSP-DSA: An Adaptive Graph Signal Processing Framework for Robust Multimodal Fusion with Dynamic Semantic Alignment**|KV Karthikeya et.al.|Classification|
 |**2026-01-26**|**[[2601.18297v1](http://arxiv.org/abs/2601.18297v1)]Acceleration of Modelling with Physics Informed Learning: Frameworks and Perspectives for Real-Time Control of Electrochemical Devices**|Remus Teodorescu et.al.||
 |**2026-01-26**|**[[2601.18269v1](http://arxiv.org/abs/2601.18269v1)]The Most Luminous H $β$ Reverberation Mapping of E1821+643 Indicates the Lower Boundary of the Radius-Luminosity Relation**|Sha-Sha Li et.al.||
@@ -471,7 +477,7 @@
 |**2026-01-22**|**[[2601.11605v3](http://arxiv.org/abs/2601.11605v3)]Boundary Delocalization and Spectral Packets for Dirichlet Eigenfunctions**|Anton Alexa et.al.||
 |**2026-01-26**|**[[2601.11603v3](http://arxiv.org/abs/2601.11603v3)]The use of spectral indices in environmental monitoring of smouldering coal-waste dumps**|Anna Abramowicz et.al.||
 |**2026-01-06**|**[[2601.11594v1](http://arxiv.org/abs/2601.11594v1)]Multi-Scale Negative Coupled Information Systems (MNCIS): A Unified Spectral Topology Framework for Stability in Turbulence, AI, and Biology**|Pengyue Hou et.al.||
-|**2026-01-24**|**[[2601.11428v2](http://arxiv.org/abs/2601.11428v2)]Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families**|Lennon Shikhman et.al.||
+|**2026-01-27**|**[[2601.11428v3](http://arxiv.org/abs/2601.11428v3)]Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families**|Lennon Shikhman et.al.||
 |**2026-01-16**|**[[2601.11070v1](http://arxiv.org/abs/2601.11070v1)]Multifrequency evolution of the Integrated pulse profile of radio pulsars by implementing the inverse Compton mechanism**|Tridib Roy et.al.||
 |**2026-01-16**|**[[2601.10916v1](http://arxiv.org/abs/2601.10916v1)]Two-tooth bosonic quantum comb for temporal-correlation sensing**|Shaojiang Zhu et.al.||
 |**2026-01-15**|**[[2601.10637v1](http://arxiv.org/abs/2601.10637v1)]Measuring the Coronal Magnetic Field with 2D Coronal Seismology: A Forward-Modeling Validation**|Zihao Yang et.al.||
