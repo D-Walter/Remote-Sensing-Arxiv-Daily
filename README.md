@@ -417,6 +417,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-28**|**[[2601.20570v1](http://arxiv.org/abs/2601.20570v1)]Single-Shot Multispectral Mid-Infrared Imaging with Incoherent Light via Adiabatic Upconversion**|Daniel Beitner et.al.||
+|**2026-01-28**|**[[2601.20522v1](http://arxiv.org/abs/2601.20522v1)]Improved Computational Lower Bound of Estimation for Multi-Frequency Group Synchronization**|Zhangsong Li et.al.||
+|**2026-01-28**|**[[2601.20495v1](http://arxiv.org/abs/2601.20495v1)]Ultraviolet Signatures of Jet-Ejecta Interaction in Early Kilonovae: Prediction from Realistic Atomic Opacities**|Smaranika Banerjee et.al.||
+|**2026-01-16**|**[[2601.19942v1](http://arxiv.org/abs/2601.19942v1)]Latent Object Permanence: Topological Phase Transitions, Free-Energy Principles, and Renormalization Group Flows in Deep Transformer Manifolds**|Faruk Alpay et.al.||
 |**2026-01-27**|**[[2601.19525v1](http://arxiv.org/abs/2601.19525v1)]Low-frequency-selected Fast Radio Burst Host Galaxy Candidates**|Yu-Zhu Sun et.al.||
 |**2026-01-27**|**[[2601.19403v1](http://arxiv.org/abs/2601.19403v1)]Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|Object Detection|
 |**2026-01-27**|**[[2601.19361v1](http://arxiv.org/abs/2601.19361v1)]Scaling of broadband Ho:CALGO regenerative amplifier to multi-mJ pulse energy**|Anna Suzuki et.al.||
