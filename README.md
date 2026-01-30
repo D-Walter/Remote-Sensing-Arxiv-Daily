@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-29**|**[[2601.21664v1](http://arxiv.org/abs/2601.21664v1)]SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.||
+|**2026-01-29**|**[[2601.21338v1](http://arxiv.org/abs/2601.21338v1)]SR $^{2}$ -Net: A General Plug-and-Play Model for Spectral Refinement in Hyperspectral Image Super-Resolution**|Ji-Xuan He et.al.|Superresolution|
 |**2026-01-26**|**[[2601.18560v1](http://arxiv.org/abs/2601.18560v1)]AI-enabled Satellite Edge Computing: A Single-Pixel Feature based Shallow Classification Model for Hyperspectral Imaging**|Li Fang et.al.|Classification|
 |**2026-01-26**|**[[2601.18088v1](http://arxiv.org/abs/2601.18088v1)]Cross-Domain Transfer with Self-Supervised Spectral-Spatial Modeling for Hyperspectral Image Classification**|Jianshu Chao et.al.|Classification|
 |**2026-01-26**|**[[2601.18049v1](http://arxiv.org/abs/2601.18049v1)]Semi-Supervised Hyperspectral Image Classification with Edge-Aware Superpixel Label Propagation and Adaptive Pseudo-Labeling**|Yunfei Qiu et.al.|Classification|
@@ -417,6 +419,15 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-01-29**|**[[2601.22145v1](http://arxiv.org/abs/2601.22145v1)]Neural S-matrix bootstrap II: solvable 4d amplitudes with particle production**|Mehmet Asim Gumus et.al.||
+|**2026-01-29**|**[[2601.21731v1](http://arxiv.org/abs/2601.21731v1)]Amortized Spectral Kernel Discovery via Prior-Data Fitted Network**|Kaustubh Sharma et.al.||
+|**2026-01-29**|**[[2601.21664v1](http://arxiv.org/abs/2601.21664v1)]SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.||
+|**2026-01-29**|**[[2601.21612v1](http://arxiv.org/abs/2601.21612v1)]Representation-Regularized Convolutional Audio Transformer for Audio Understanding**|Bing Han et.al.||
+|**2026-01-29**|**[[2601.21584v1](http://arxiv.org/abs/2601.21584v1)]Frequency as Aperture: Enabling Embeddable Near-Field Sensing for 6G Wireless Radios**|Pin-Han Ho et.al.||
+|**2026-01-29**|**[[2601.21429v1](http://arxiv.org/abs/2601.21429v1)]Interference Detection and Exploitation for Multi-User Radar Sensing**|Laurits Randers et.al.|Object Detection|
+|**2026-01-29**|**[[2601.21213v1](http://arxiv.org/abs/2601.21213v1)]Classical solutions to the Boltzmann equations for gas mixture with unequal molecular masses**|Gaofeng Wang et.al.||
+|**2026-01-28**|**[[2601.21111v1](http://arxiv.org/abs/2601.21111v1)]Euclid preparation. Decomposing components of the extragalactic background light using multi-band intensity mapping cross-correlations**|Euclid Collaboration et.al.||
+|**2026-01-28**|**[[2601.21100v1](http://arxiv.org/abs/2601.21100v1)]Disk Wind Feedback from High-mass Protostars. V. Application of Multi-Modal Machine Learning to Characterize Outflow Properties**|Duo Xu et.al.||
 |**2026-01-28**|**[[2601.20570v1](http://arxiv.org/abs/2601.20570v1)]Single-Shot Multispectral Mid-Infrared Imaging with Incoherent Light via Adiabatic Upconversion**|Daniel Beitner et.al.||
 |**2026-01-28**|**[[2601.20522v1](http://arxiv.org/abs/2601.20522v1)]Improved Computational Lower Bound of Estimation for Multi-Frequency Group Synchronization**|Zhangsong Li et.al.||
 |**2026-01-28**|**[[2601.20495v1](http://arxiv.org/abs/2601.20495v1)]Ultraviolet Signatures of Jet-Ejecta Interaction in Early Kilonovae: Prediction from Realistic Atomic Opacities**|Smaranika Banerjee et.al.||
@@ -450,7 +461,7 @@
 |**2026-01-22**|**[[2601.15994v1](http://arxiv.org/abs/2601.15994v1)]SVOM discovery of a strong X-ray outburst of the blazar 1ES~1959+650 and multi-wavelength follow-up with the Neil Gehrels Swift observatory**|A. Foisseau et.al.||
 |**2026-01-22**|**[[2601.15991v1](http://arxiv.org/abs/2601.15991v1)]A multi-wavelength approach of AGN feedback in LINERs: The case of NGC 4438**|M. Puig-Subirà et.al.||
 |**2026-01-22**|**[[2601.15897v1](http://arxiv.org/abs/2601.15897v1)]ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.||
-|**2026-01-23**|**[[2601.15762v2](http://arxiv.org/abs/2601.15762v2)]Multi-Scale Irregularities Product: a data product utilizing the high-resolution Swarm plasma density data for space weather applications**|Yaqi Jin et.al.||
+|**2026-01-29**|**[[2601.15762v3](http://arxiv.org/abs/2601.15762v3)]Multi-Scale Irregularities Product: a data product utilizing the high-resolution Swarm plasma density data for space weather applications**|Yaqi Jin et.al.||
 |**2026-01-21**|**[[2601.14975v1](http://arxiv.org/abs/2601.14975v1)]Kinematics of the HII region NGC 7538 from study of the Ha line**|D. Russeil et.al.||
 |**2026-01-21**|**[[2601.14963v1](http://arxiv.org/abs/2601.14963v1)]Resonant Excitation Induced Vibronic Mollow Triplets**|Devashish Pandey et.al.||
 |**2026-01-21**|**[[2601.14929v1](http://arxiv.org/abs/2601.14929v1)]Modelling the Time-variable Broadband Emission and Correlation Study of FSRQ S5 1044+71**|Sajad Ahanger et.al.||
