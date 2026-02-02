@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-30**|**[[2601.22755v1](http://arxiv.org/abs/2601.22755v1)]Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images**|Xinxin Xu et.al.|Unmixing, Superresolution|
+|**2026-01-30**|**[[2601.22581v1](http://arxiv.org/abs/2601.22581v1)]Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|Classification|
 |**2026-01-29**|**[[2601.21664v1](http://arxiv.org/abs/2601.21664v1)]SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.||
 |**2026-01-29**|**[[2601.21338v1](http://arxiv.org/abs/2601.21338v1)]SR $^{2}$ -Net: A General Plug-and-Play Model for Spectral Refinement in Hyperspectral Image Super-Resolution**|Ji-Xuan He et.al.|Superresolution|
 |**2026-01-26**|**[[2601.18560v1](http://arxiv.org/abs/2601.18560v1)]AI-enabled Satellite Edge Computing: A Single-Pixel Feature based Shallow Classification Model for Hyperspectral Imaging**|Li Fang et.al.|Classification|
@@ -73,7 +75,7 @@ layout: default
 |**2025-12-19**|**[[2512.17647v1](http://arxiv.org/abs/2512.17647v1)]Hyperbolic-enhanced Raman scattering in van der Waals MoOCl2: from Fano resonances to picomolar detection**|Anton Minnekhanov et.al.||
 |**2025-12-17**|**[[2512.15544v1](http://arxiv.org/abs/2512.15544v1)]Assessing the Effect of PCA-Based Dimensionality Reduction on Machine Learning Performance in Hyperspectral Optical Imaging**|Parisa Parand et.al.||
 |**2025-12-15**|**[[2512.13682v1](http://arxiv.org/abs/2512.13682v1)]XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**|J. M. S. Donnellan et.al.||
-|**2025-12-11**|**[[2512.10506v1](http://arxiv.org/abs/2512.10506v1)]Hyperspectral Image Data Reduction for Endmember Extraction**|Tomohiko Mizutani et.al.||
+|**2026-01-30**|**[[2512.10506v2](http://arxiv.org/abs/2512.10506v2)]Hyperspectral Image Data Reduction for Endmember Extraction**|Tomohiko Mizutani et.al.||
 |**2025-12-11**|**[[2512.10213v1](http://arxiv.org/abs/2512.10213v1)]Active Optics for Hyperspectral Imaging of Reflective Agricultural Leaf Sensors**|Dexter Burns et.al.||
 |**2025-12-10**|**[[2512.09871v1](http://arxiv.org/abs/2512.09871v1)]Diffusion Posterior Sampler for Hyperspectral Unmixing with Spectral Variability Modeling**|Yimin Zhu et.al.|Unmixing|
 |**2025-12-10**|**[[2512.09546v1](http://arxiv.org/abs/2512.09546v1)]A Dual-Domain Convolutional Network for Hyperspectral Single-Image Super-Resolution**|Murat Karayaka et.al.|Superresolution|
@@ -91,7 +93,7 @@ layout: default
 |**2025-12-02**|**[[2512.03257v1](http://arxiv.org/abs/2512.03257v1)]PyroFocus: A Deep Learning Approach to Real-Time Wildfire Detection in Multispectral Remote Sensing Imagery**|Mark Moussa et.al.|Classification|
 |**2025-12-02**|**[[2512.03143v1](http://arxiv.org/abs/2512.03143v1)]Infrared emission from $z \sim 6.5$ quasar host galaxies: a direct estimate of dust physical properties**|M. Costa et.al.||
 |**2025-12-01**|**[[2512.02184v1](http://arxiv.org/abs/2512.02184v1)]Visible to Longwave-infrared imaging via an inverse-designed monolithic lens**|Syed N. Qadri et.al.|Superresolution|
-|**2025-12-21**|**[[2512.01372v2](http://arxiv.org/abs/2512.01372v2)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
+|**2026-01-30**|**[[2512.01372v3](http://arxiv.org/abs/2512.01372v3)]Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.||
 |**2025-11-29**|**[[2512.00261v1](http://arxiv.org/abs/2512.00261v1)]UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations**|Yuzhen Hu et.al.|Classification|
 |**2025-11-23**|**[[2511.18521v1](http://arxiv.org/abs/2511.18521v1)]Hyperspectral Variational Autoencoders for Joint Data Compression and Component Extraction**|Core Francisco Park et.al.||
 |**2025-11-23**|**[[2511.18473v1](http://arxiv.org/abs/2511.18473v1)]Uncertainty Quantification in HSI Reconstruction using Physics-Aware Diffusion Priors and Optics-Encoded Measurements**|Juan Romero et.al.||
@@ -423,6 +425,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-01-30**|**[[2601.23242v1](http://arxiv.org/abs/2601.23242v1)]Physical origin of very-high-energy gamma rays from the low-luminosity active galactic nucleus NGC 4278 and implications for neutrino observations**|Shilong Chen et.al.||
+|**2026-01-30**|**[[2601.23103v1](http://arxiv.org/abs/2601.23103v1)]Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|Ping Chen et.al.||
+|**2026-01-30**|**[[2601.23076v1](http://arxiv.org/abs/2601.23076v1)]Learning-Based Signal Recovery in Nonlinear Systems with Spectrally Separated Interference**|Jayadev Joy et.al.|Denoising|
+|**2026-01-30**|**[[2601.22815v1](http://arxiv.org/abs/2601.22815v1)]The SPIRou Legacy Survey: Detection of a nearby world orbiting in the habitable zone of Gl725B achieved by correcting strong telluric contamination in near-infrared radial velocities with WAPITI**|M. Ould-Elhkim et.al.||
+|**2026-01-30**|**[[2601.22793v1](http://arxiv.org/abs/2601.22793v1)]Fast Eikonal Phase Retrieval for High-Throughput Beamlines**|Alessandro Mirone et.al.||
+|**2026-01-30**|**[[2601.22704v1](http://arxiv.org/abs/2601.22704v1)]Multi-target DoA estimation with a single Rydberg atomic receiver by spectral analysis of spatially-resolved fluorescence**|Liangcheng Han et.al.|Object Detection|
+|**2026-01-30**|**[[2601.22665v1](http://arxiv.org/abs/2601.22665v1)]Sharp thresholds for Escobar and Gagliardo-Nirenberg functionals: the Escobar-Willmore mass, geometric selection, and compactness trichotomy**|Mayukh Mukherjee et.al.||
+|**2026-01-30**|**[[2601.22422v1](http://arxiv.org/abs/2601.22422v1)]Spectral function for pions in magnetic field**|Jie Mei et.al.||
 |**2026-01-29**|**[[2601.22145v1](http://arxiv.org/abs/2601.22145v1)]Neural S-matrix bootstrap II: solvable 4d amplitudes with particle production**|Mehmet Asim Gumus et.al.||
 |**2026-01-29**|**[[2601.21731v1](http://arxiv.org/abs/2601.21731v1)]Amortized Spectral Kernel Discovery via Prior-Data Fitted Network**|Kaustubh Sharma et.al.||
 |**2026-01-29**|**[[2601.21664v1](http://arxiv.org/abs/2601.21664v1)]SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.||
