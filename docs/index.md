@@ -24,6 +24,12 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-02**|**[[2602.01906v1](http://arxiv.org/abs/2602.01906v1)]DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|Classification|
+|**2026-02-02**|**[[2602.01681v1](http://arxiv.org/abs/2602.01681v1)]Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism**|Yu-Jie Liang et.al.||
+|**2026-02-01**|**[[2602.01309v1](http://arxiv.org/abs/2602.01309v1)]Spectral hyperspaces of Krasner hyperrings**|Amartya Goswami et.al.||
+|**2026-01-31**|**[[2602.00749v1](http://arxiv.org/abs/2602.00749v1)]HSI-VAR: Rethinking Hyperspectral Restoration through Spatial-Spectral Visual Autoregression**|Xiangming Wang et.al.||
+|**2026-01-31**|**[[2602.00490v1](http://arxiv.org/abs/2602.00490v1)]HSSDCT: Factorized Spatial-Spectral Correlation for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.||
+|**2026-01-30**|**[[2602.00262v1](http://arxiv.org/abs/2602.00262v1)]Subspace Clustering on Incomplete Data with Self-Supervised Contrastive Learning**|Huanran Li et.al.||
 |**2026-01-30**|**[[2601.22755v1](http://arxiv.org/abs/2601.22755v1)]Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images**|Xinxin Xu et.al.|Unmixing, Superresolution|
 |**2026-01-30**|**[[2601.22581v1](http://arxiv.org/abs/2601.22581v1)]Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|Classification|
 |**2026-01-29**|**[[2601.21664v1](http://arxiv.org/abs/2601.21664v1)]SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.||
@@ -425,6 +431,29 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-02**|**[[2602.01936v1](http://arxiv.org/abs/2602.01936v1)]PIMCST: Physics-Informed Multi-Phase Consensus and Spatio-Temporal Few-Shot Learning for Traffic Flow Forecasting**|Abdul Joseph Fofanah et.al.||
+|**2026-02-02**|**[[2602.01920v1](http://arxiv.org/abs/2602.01920v1)]PIMPC-GNN: Physics-Informed Multi-Phase Consensus Learning for Enhancing Imbalanced Node Classification in Graph Neural Networks**|Abdul Joseph Fofanah et.al.|Classification|
+|**2026-02-02**|**[[2602.01906v1](http://arxiv.org/abs/2602.01906v1)]DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|Classification|
+|**2026-02-02**|**[[2602.01760v1](http://arxiv.org/abs/2602.01760v1)]MagicFuse: Single Image Fusion for Visual and Semantic Reinforcement**|Hao Zhang et.al.||
+|**2026-02-02**|**[[2602.01737v1](http://arxiv.org/abs/2602.01737v1)]Physics-Informed Chebyshev Polynomial Neural Operator for Parametric Partial Differential Equations**|Biao Chen et.al.||
+|**2026-02-02**|**[[2602.01681v1](http://arxiv.org/abs/2602.01681v1)]Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism**|Yu-Jie Liang et.al.||
+|**2026-02-02**|**[[2602.01668v1](http://arxiv.org/abs/2602.01668v1)]ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting**|Qianyang Li et.al.||
+|**2026-02-02**|**[[2602.01588v1](http://arxiv.org/abs/2602.01588v1)]Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting**|Huu Hiep Nguyen et.al.||
+|**2026-02-01**|**[[2602.01486v1](http://arxiv.org/abs/2602.01486v1)]Multi-Scale Wavelet Transformers for Operator Learning of Dynamical Systems**|Xuesong Wang et.al.||
+|**2026-02-01**|**[[2602.01403v1](http://arxiv.org/abs/2602.01403v1)]Semigroup Solutions for A Multilayered Filtration System**|George Avalos et.al.||
+|**2026-02-01**|**[[2602.01370v1](http://arxiv.org/abs/2602.01370v1)]PolyGen: Fully Synthetic Vision-Language Training via Multi-Generator Ensembles**|Leonardo Brusini et.al.||
+|**2026-02-01**|**[[2602.01121v1](http://arxiv.org/abs/2602.01121v1)]Digital and Hybrid Precoding and RF Chain Selection Designs for Energy Efficient Multi-User MIMO-OFDM ISAC Systems**|Po-Chun Kang et.al.||
+|**2026-02-01**|**[[2602.00977v1](http://arxiv.org/abs/2602.00977v1)]Trust in One Round: Confidence Estimation for Large Language Models via Structural Signals**|Pengyue Yang et.al.||
+|**2026-02-01**|**[[2602.00958v1](http://arxiv.org/abs/2602.00958v1)]Metrology-grade mid-infrared spectroscopy for multi-dimensional perception**|Baoqi Shi et.al.||
+|**2026-01-31**|**[[2602.00673v1](http://arxiv.org/abs/2602.00673v1)]Tuning of Localized Surface Plasmons in Vanadium Dioxide Nanoparticles via Size and Insulator-Metal Transition**|Jiří Kabát et.al.||
+|**2026-01-31**|**[[2602.00516v1](http://arxiv.org/abs/2602.00516v1)]SPARK: Stochastic Propagation via Affinity-guided Random walK for training-free unsupervised segmentation**|Kunal Mahatha et.al.||
+|**2026-01-31**|**[[2602.00490v1](http://arxiv.org/abs/2602.00490v1)]HSSDCT: Factorized Spatial-Spectral Correlation for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.||
+|**2026-01-30**|**[[2602.00331v1](http://arxiv.org/abs/2602.00331v1)]Prototype-based Explainable Neural Networks with Channel-specific Reasoning for Geospatial Learning Tasks**|Anushka Narayanan et.al.|Classification|
+|**2026-01-30**|**[[2602.00324v1](http://arxiv.org/abs/2602.00324v1)]Dual Quaternion SE(3) Synchronization with Recovery Guarantees**|Jianing Zhao et.al.||
+|**2026-01-30**|**[[2602.00263v1](http://arxiv.org/abs/2602.00263v1)]The Fourth HAWC Catalog of Very-High-Energy Gamma-Ray Sources**|R. Alfaro et.al.||
+|**2026-01-30**|**[[2602.00246v1](http://arxiv.org/abs/2602.00246v1)]On-chip electrically reconfigurable octave-bandwidth optical amplification from visible to near-infrared**|Guanyu Han et.al.||
+|**2026-01-29**|**[[2602.00152v1](http://arxiv.org/abs/2602.00152v1)]Real-Time Human Activity Recognition on Edge Microcontrollers: Dynamic Hierarchical Inference with Multi-Spectral Sensor Fusion**|Boyu Li et.al.||
+|**2026-01-19**|**[[2602.00042v1](http://arxiv.org/abs/2602.00042v1)]JSR-GFNet: Jamming-to-Signal Ratio-Aware Dynamic Gating for Interference Classification in future Cognitive Global Navigation Satellite Systems**|Zhihan Zeng et.al.|Classification|
 |**2026-01-30**|**[[2601.23242v1](http://arxiv.org/abs/2601.23242v1)]Physical origin of very-high-energy gamma rays from the low-luminosity active galactic nucleus NGC 4278 and implications for neutrino observations**|Shilong Chen et.al.||
 |**2026-01-30**|**[[2601.23103v1](http://arxiv.org/abs/2601.23103v1)]Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|Ping Chen et.al.||
 |**2026-01-30**|**[[2601.23076v1](http://arxiv.org/abs/2601.23076v1)]Learning-Based Signal Recovery in Nonlinear Systems with Spectrally Separated Interference**|Jayadev Joy et.al.|Denoising|
@@ -463,7 +492,7 @@ layout: default
 |**2026-01-25**|**[[2601.17741v1](http://arxiv.org/abs/2601.17741v1)]Frequency-aware Neural Representation for Videos**|Jun Zhu et.al.||
 |**2026-01-24**|**[[2601.17423v1](http://arxiv.org/abs/2601.17423v1)]Joint Uplink-Downlink Fronthaul Bit Allocation in Fronthaul-Limited Massive MU-MIMO Systems**|Yasaman Khorsandmanesh et.al.||
 |**2026-01-23**|**[[2601.17185v1](http://arxiv.org/abs/2601.17185v1)]LGDWT-GS: Local and Global Discrete Wavelet-Regularized 3D Gaussian Splatting for Sparse-View Scene Reconstruction**|Shima Salehi et.al.||
-|**2026-01-23**|**[[2601.16834v1](http://arxiv.org/abs/2601.16834v1)]Calibrated Probabilistic Interpolation for GEDI Biomass**|Robin Young et.al.||
+|**2026-01-31**|**[[2601.16834v2](http://arxiv.org/abs/2601.16834v2)]Calibrated Probabilistic Interpolation for GEDI Biomass**|Robin Young et.al.||
 |**2026-01-23**|**[[2601.16499v1](http://arxiv.org/abs/2601.16499v1)]Constraints on the Hot Circumgalactic Medium around Nearby L* Galaxies from SRG/eROSITA All Sky Survey**|Lin He et.al.||
 |**2026-01-22**|**[[2601.16371v1](http://arxiv.org/abs/2601.16371v1)]Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph**|Jiwon Jang et.al.||
 |**2026-01-22**|**[[2601.16265v1](http://arxiv.org/abs/2601.16265v1)]A Binary-Based Reassessment of the Age and Stellar Properties of NGC 7789 Using Twelve Binary Components**|Kadri Yakut et.al.||
@@ -491,7 +520,7 @@ layout: default
 |**2026-01-20**|**[[2601.14159v1](http://arxiv.org/abs/2601.14159v1)]Multi-Partner Project: Multi-GPU Performance Portability Analysis for CFD Simulations at Scale**|Panagiotis-Eleftherios Eleftherakis et.al.||
 |**2026-01-20**|**[[2601.14043v1](http://arxiv.org/abs/2601.14043v1)]A curvature-weighted spectral precursor to dissipation in decaying three-dimensional turbulence: robustness across initial conditions and viscosity effects**|Satori Tsuzuki et.al.||
 |**2026-01-20**|**[[2601.13692v1](http://arxiv.org/abs/2601.13692v1)]Three-dimensional properties of a coronal shock and the longitudinal distribution of its related solar energetic particles**|Yue Zhou et.al.||
-|**2026-01-19**|**[[2601.13435v1](http://arxiv.org/abs/2601.13435v1)]A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization**|Shuozhe Li et.al.||
+|**2026-01-30**|**[[2601.13435v2](http://arxiv.org/abs/2601.13435v2)]A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization**|Shuozhe Li et.al.||
 |**2026-01-19**|**[[2601.13241v1](http://arxiv.org/abs/2601.13241v1)]Multilayer Q-BIC-like Optical Filters with High Throughput Direct-Write Multilayer Lithography**|A. Bilgehan Baspinar et.al.||
 |**2026-01-19**|**[[2601.12824v1](http://arxiv.org/abs/2601.12824v1)]Identification of false positive double-lined spectroscopic binaries in LAMOST-MRS data due to moonlight contamination**|Zhoulin Wang et.al.||
 |**2026-01-19**|**[[2601.12791v1](http://arxiv.org/abs/2601.12791v1)]SKANet: A Cognitive Dual-Stream Framework with Adaptive Modality Fusion for Robust Compound GNSS Interference Classification**|Zhihan Zeng et.al.|Classification|
