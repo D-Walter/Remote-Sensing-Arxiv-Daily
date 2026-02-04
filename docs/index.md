@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-01-30**|**[[2602.02552v1](http://arxiv.org/abs/2602.02552v1)]Super-résolution non supervisée d'images hyperspectrales de télédétection utilisant un entraînement entièrement synthétique**|Xinxin Xu et.al.|Unmixing, Superresolution|
+|**2026-01-27**|**[[2602.02526v1](http://arxiv.org/abs/2602.02526v1)]The "Robert Boulton" Singularity: Semantic Tunneling and Manifold Unfolding in Recursive AI**|Pengyue Hou et.al.||
 |**2026-02-02**|**[[2602.01906v1](http://arxiv.org/abs/2602.01906v1)]DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|Classification|
 |**2026-02-02**|**[[2602.01681v1](http://arxiv.org/abs/2602.01681v1)]Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism**|Yu-Jie Liang et.al.||
 |**2026-02-01**|**[[2602.01309v1](http://arxiv.org/abs/2602.01309v1)]Spectral hyperspaces of Krasner hyperrings**|Amartya Goswami et.al.||
@@ -431,6 +433,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-03**|**[[2602.03710v1](http://arxiv.org/abs/2602.03710v1)]Quantum Computing for Electronic Circular Dichroism Spectrum Prediction of Chiral Molecules**|Amandeep Singh Bhatia et.al.||
+|**2026-02-03**|**[[2602.03698v1](http://arxiv.org/abs/2602.03698v1)]Data-Driven Graph Filters via Adaptive Spectral Shaping**|Dylan Sandfelder et.al.||
+|**2026-02-03**|**[[2602.03658v1](http://arxiv.org/abs/2602.03658v1)]Orbital-selective Mottness Driven by Geometric Frustration of Interorbital Hybridization in Pr4Ni3O10**|Yidian Li et.al.||
+|**2026-02-03**|**[[2602.03622v1](http://arxiv.org/abs/2602.03622v1)]Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|Classification|
+|**2026-02-03**|**[[2602.03355v1](http://arxiv.org/abs/2602.03355v1)]PACE: Pretrained Audio Continual Learning**|Chang Li et.al.||
+|**2026-02-03**|**[[2602.03062v1](http://arxiv.org/abs/2602.03062v1)]Inverse Design of Tunable Infrared Metasurface Absorbers via a Conditional Wasserstein Generative Adversarial Network**|H. Shen et.al.||
+|**2026-02-03**|**[[2602.03030v1](http://arxiv.org/abs/2602.03030v1)]From Grism to IFU: Revising the Redshift and Nature of the Massive Dusty Galaxy S1 with JWST and ALMA**|Mengyuan Xiao et.al.||
+|**2026-01-27**|**[[2602.02526v1](http://arxiv.org/abs/2602.02526v1)]The "Robert Boulton" Singularity: Semantic Tunneling and Manifold Unfolding in Recursive AI**|Pengyue Hou et.al.||
 |**2026-02-02**|**[[2602.01936v1](http://arxiv.org/abs/2602.01936v1)]PIMCST: Physics-Informed Multi-Phase Consensus and Spatio-Temporal Few-Shot Learning for Traffic Flow Forecasting**|Abdul Joseph Fofanah et.al.||
 |**2026-02-02**|**[[2602.01920v1](http://arxiv.org/abs/2602.01920v1)]PIMPC-GNN: Physics-Informed Multi-Phase Consensus Learning for Enhancing Imbalanced Node Classification in Graph Neural Networks**|Abdul Joseph Fofanah et.al.|Classification|
 |**2026-02-02**|**[[2602.01906v1](http://arxiv.org/abs/2602.01906v1)]DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|Classification|
@@ -438,7 +448,7 @@ layout: default
 |**2026-02-02**|**[[2602.01737v1](http://arxiv.org/abs/2602.01737v1)]Physics-Informed Chebyshev Polynomial Neural Operator for Parametric Partial Differential Equations**|Biao Chen et.al.||
 |**2026-02-02**|**[[2602.01681v1](http://arxiv.org/abs/2602.01681v1)]Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism**|Yu-Jie Liang et.al.||
 |**2026-02-02**|**[[2602.01668v1](http://arxiv.org/abs/2602.01668v1)]ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting**|Qianyang Li et.al.||
-|**2026-02-02**|**[[2602.01588v1](http://arxiv.org/abs/2602.01588v1)]Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting**|Huu Hiep Nguyen et.al.||
+|**2026-02-03**|**[[2602.01588v2](http://arxiv.org/abs/2602.01588v2)]Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting**|Huu Hiep Nguyen et.al.||
 |**2026-02-01**|**[[2602.01486v1](http://arxiv.org/abs/2602.01486v1)]Multi-Scale Wavelet Transformers for Operator Learning of Dynamical Systems**|Xuesong Wang et.al.||
 |**2026-02-01**|**[[2602.01403v1](http://arxiv.org/abs/2602.01403v1)]Semigroup Solutions for A Multilayered Filtration System**|George Avalos et.al.||
 |**2026-02-01**|**[[2602.01370v1](http://arxiv.org/abs/2602.01370v1)]PolyGen: Fully Synthetic Vision-Language Training via Multi-Generator Ensembles**|Leonardo Brusini et.al.||
