@@ -20,6 +20,9 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-04**|**[[2602.04795v1](http://arxiv.org/abs/2602.04795v1)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
+|**2026-02-04**|**[[2602.04505v1](http://arxiv.org/abs/2602.04505v1)]PhoQuPy: A Python framework for Automation of Quantum Optics experiments**|Srivatsa Murali et.al.||
+|**2026-02-04**|**[[2602.04102v1](http://arxiv.org/abs/2602.04102v1)]DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.||
 |**2026-01-30**|**[[2602.02552v1](http://arxiv.org/abs/2602.02552v1)]Super-résolution non supervisée d'images hyperspectrales de télédétection utilisant un entraînement entièrement synthétique**|Xinxin Xu et.al.|Unmixing, Superresolution|
 |**2026-01-27**|**[[2602.02526v1](http://arxiv.org/abs/2602.02526v1)]The "Robert Boulton" Singularity: Semantic Tunneling and Manifold Unfolding in Recursive AI**|Pengyue Hou et.al.||
 |**2026-02-02**|**[[2602.01906v1](http://arxiv.org/abs/2602.01906v1)]DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|Classification|
@@ -111,7 +114,7 @@
 |**2025-11-19**|**[[2511.15052v1](http://arxiv.org/abs/2511.15052v1)]Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|Superresolution|
 |**2025-11-17**|**[[2511.13020v1](http://arxiv.org/abs/2511.13020v1)]SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.||
 |**2025-12-19**|**[[2511.12346v2](http://arxiv.org/abs/2511.12346v2)]CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|Classification|
-|**2025-11-15**|**[[2511.12268v1](http://arxiv.org/abs/2511.12268v1)]Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|Classification|
+|**2026-02-04**|**[[2511.12268v2](http://arxiv.org/abs/2511.12268v2)]Patient-Aware Multimodal RGB-HSI Fusion via Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|Classification|
 |**2025-11-15**|**[[2511.12038v1](http://arxiv.org/abs/2511.12038v1)]Temperature bandgaps and thermal dopants arising from photothermal nonlinearities in high-Q silicon metasurfaces**|Punnag Padhy et.al.||
 |**2025-11-13**|**[[2511.11732v1](http://arxiv.org/abs/2511.11732v1)]Exposing DeepFakes via Hyperspectral Domain Mapping**|Aditya Mehta et.al.||
 |**2025-11-14**|**[[2511.11096v1](http://arxiv.org/abs/2511.11096v1)]Detection of Bark Beetle Attacks using Hyperspectral PRISMA Data and Few-Shot Learning**|Mattia Ferrari et.al.||
@@ -429,6 +432,13 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-04**|**[[2602.04709v1](http://arxiv.org/abs/2602.04709v1)]Towards Understanding and Avoiding Limitations of Convolutions on Graphs**|Andreas Roth et.al.||
+|**2026-02-04**|**[[2602.04646v1](http://arxiv.org/abs/2602.04646v1)]Pure narrowband photon-pair generation in a monolithic cavity**|Xavier Barcons Planas et.al.||
+|**2026-02-04**|**[[2602.04473v1](http://arxiv.org/abs/2602.04473v1)]SALAD-Pan: Sensor-Agnostic Latent Adaptive Diffusion for Pan-Sharpening**|Junjie Li et.al.|Pansharpening|
+|**2026-02-04**|**[[2602.04373v1](http://arxiv.org/abs/2602.04373v1)]Reducing the labeling burden in time-series mapping using Common Ground: a semi-automated approach to tracking changes in land cover and species over time**|Geethen Singh et.al.|Classification|
+|**2026-02-04**|**[[2602.04299v1](http://arxiv.org/abs/2602.04299v1)]A Multimodal fNIRS-EEG Dataset for Unilateral Limb Motor Imagery**|Lufeng Feng et.al.|Classification|
+|**2026-02-04**|**[[2602.04182v1](http://arxiv.org/abs/2602.04182v1)]HoloEv-Net: Efficient Event-based Action Recognition via Holographic Spatial Embedding and Global Spectral Gating**|Weidong Hao et.al.||
+|**2026-02-04**|**[[2602.04121v1](http://arxiv.org/abs/2602.04121v1)]Advanced Superdirective Antennas**|Alex Krasnok et.al.||
 |**2026-02-03**|**[[2602.03710v1](http://arxiv.org/abs/2602.03710v1)]Quantum Computing for Electronic Circular Dichroism Spectrum Prediction of Chiral Molecules**|Amandeep Singh Bhatia et.al.||
 |**2026-02-03**|**[[2602.03698v1](http://arxiv.org/abs/2602.03698v1)]Data-Driven Graph Filters via Adaptive Spectral Shaping**|Dylan Sandfelder et.al.||
 |**2026-02-03**|**[[2602.03658v1](http://arxiv.org/abs/2602.03658v1)]Orbital-selective Mottness Driven by Geometric Frustration of Interorbital Hybridization in Pr4Ni3O10**|Yidian Li et.al.||
@@ -498,7 +508,7 @@
 |**2026-01-25**|**[[2601.17741v1](http://arxiv.org/abs/2601.17741v1)]Frequency-aware Neural Representation for Videos**|Jun Zhu et.al.||
 |**2026-01-24**|**[[2601.17423v1](http://arxiv.org/abs/2601.17423v1)]Joint Uplink-Downlink Fronthaul Bit Allocation in Fronthaul-Limited Massive MU-MIMO Systems**|Yasaman Khorsandmanesh et.al.||
 |**2026-01-23**|**[[2601.17185v1](http://arxiv.org/abs/2601.17185v1)]LGDWT-GS: Local and Global Discrete Wavelet-Regularized 3D Gaussian Splatting for Sparse-View Scene Reconstruction**|Shima Salehi et.al.||
-|**2026-01-31**|**[[2601.16834v2](http://arxiv.org/abs/2601.16834v2)]Calibrated Probabilistic Interpolation for GEDI Biomass**|Robin Young et.al.||
+|**2026-02-04**|**[[2601.16834v3](http://arxiv.org/abs/2601.16834v3)]Interpolation of GEDI Biomass Estimates with Calibrated Uncertainty Quantification**|Robin Young et.al.||
 |**2026-01-23**|**[[2601.16499v1](http://arxiv.org/abs/2601.16499v1)]Constraints on the Hot Circumgalactic Medium around Nearby L* Galaxies from SRG/eROSITA All Sky Survey**|Lin He et.al.||
 |**2026-01-22**|**[[2601.16371v1](http://arxiv.org/abs/2601.16371v1)]Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph**|Jiwon Jang et.al.||
 |**2026-01-22**|**[[2601.16265v1](http://arxiv.org/abs/2601.16265v1)]A Binary-Based Reassessment of the Age and Stellar Properties of NGC 7789 Using Twelve Binary Components**|Kadri Yakut et.al.||
