@@ -24,7 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
-|**2026-02-04**|**[[2602.04795v1](http://arxiv.org/abs/2602.04795v1)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
+|**2026-02-05**|**[[2602.04795v2](http://arxiv.org/abs/2602.04795v2)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
 |**2026-02-04**|**[[2602.04505v1](http://arxiv.org/abs/2602.04505v1)]PhoQuPy: A Python framework for Automation of Quantum Optics experiments**|Srivatsa Murali et.al.||
 |**2026-02-04**|**[[2602.04102v1](http://arxiv.org/abs/2602.04102v1)]DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.||
 |**2026-01-30**|**[[2602.02552v1](http://arxiv.org/abs/2602.02552v1)]Super-résolution non supervisée d'images hyperspectrales de télédétection utilisant un entraînement entièrement synthétique**|Xinxin Xu et.al.|Unmixing, Superresolution|
@@ -436,6 +436,18 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-05**|**[[2602.05846v1](http://arxiv.org/abs/2602.05846v1)]Optimal scaling laws in learning hierarchical multi-index models**|Leonardo Defilippis et.al.||
+|**2026-02-05**|**[[2602.05808v1](http://arxiv.org/abs/2602.05808v1)]MIGHTEE/COSMOS-3D: The discovery of three spectroscopically confirmed radio-selected star-forming galaxies at z=4.9-5.6**|R. G. Varadaraj et.al.||
+|**2026-02-05**|**[[2602.05609v1](http://arxiv.org/abs/2602.05609v1)]XGAP with uGMRT I: Old AGN plasma in merging galaxy groups**|R. Santra et.al.||
+|**2026-02-05**|**[[2602.05404v1](http://arxiv.org/abs/2602.05404v1)]The Double-Burst Nature and Early Afterglow Evolution of Long GRB 110801A**|Qiu-Li Wang et.al.||
+|**2026-02-05**|**[[2602.05396v1](http://arxiv.org/abs/2602.05396v1)]ELFO: A Python package for emission line fitting optimization in integral field spectroscopy data**|Hui Guo et.al.||
+|**2026-02-05**|**[[2602.05293v1](http://arxiv.org/abs/2602.05293v1)]Fast-SAM3D: 3Dfy Anything in Images but Faster**|Weilun Feng et.al.||
+|**2026-02-05**|**[[2602.05222v1](http://arxiv.org/abs/2602.05222v1)]A gamma-ray-emitting blazar B3 1239+376 at z = 3.82 identified in a multi-wavelength context**|Wei Zhang et.al.||
+|**2026-02-05**|**[[2602.05187v1](http://arxiv.org/abs/2602.05187v1)]SpectraKAN: Conditioning Spectral Operators**|Chun-Wun Cheng et.al.||
+|**2026-02-04**|**[[2602.05080v1](http://arxiv.org/abs/2602.05080v1)]Photonic entanglement enhanced multidimensional spectroscopy for probing exciton correlations: theory and applications to photosynthetic aggregates**|Arunangshu Debnath et.al.||
+|**2026-02-04**|**[[2602.04964v1](http://arxiv.org/abs/2602.04964v1)]Classifying white dwarfs from multi-object spectroscopy surveys with machine learning**|James Munday et.al.|Classification|
+|**2026-02-04**|**[[2602.04963v1](http://arxiv.org/abs/2602.04963v1)]Dynamics of Heavy Operators in $\mathcal{N}=4$ SYM: Integrated Correlators and AdS Bubbles**|Francesco Aprile et.al.||
+|**2026-02-04**|**[[2602.04962v1](http://arxiv.org/abs/2602.04962v1)]Wiggling Through the ICM: Multi-Resolution Radio Imaging of a Tailed Radio Galaxy in MACS J1354.6+7715**|Abdul Gani et.al.||
 |**2026-02-04**|**[[2602.04709v1](http://arxiv.org/abs/2602.04709v1)]Towards Understanding and Avoiding Limitations of Convolutions on Graphs**|Andreas Roth et.al.||
 |**2026-02-04**|**[[2602.04646v1](http://arxiv.org/abs/2602.04646v1)]Pure narrowband photon-pair generation in a monolithic cavity**|Xavier Barcons Planas et.al.||
 |**2026-02-04**|**[[2602.04473v1](http://arxiv.org/abs/2602.04473v1)]SALAD-Pan: Sensor-Agnostic Latent Adaptive Diffusion for Pan-Sharpening**|Junjie Li et.al.|Pansharpening|
