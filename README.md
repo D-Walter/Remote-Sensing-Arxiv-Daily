@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -426,16 +426,21 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260210>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-06**|**[[2602.06912v1](http://arxiv.org/abs/2602.06912v1)]PANC: Prior-Aware Normalized Cut for Object Segmentation**|Juan Gutiérrez et.al.||
+|**2026-02-06**|**[[2602.06748v1](http://arxiv.org/abs/2602.06748v1)]Gold Exploration using Representations from a Multispectral Autoencoder**|Argyro Tsandalidou et.al.||
+|**2026-02-06**|**[[2602.06732v1](http://arxiv.org/abs/2602.06732v1)]Thermoelastic surface acoustic waves in low-loss silicon nitride integrated circuits**|Zheng Zheng et.al.||
+|**2026-02-06**|**[[2602.06711v1](http://arxiv.org/abs/2602.06711v1)]Universal Bright-Bright Integrated Soliton Molecule via Parametric Binding**|Pradyoth Shandilya et.al.||
+|**2026-02-06**|**[[2602.06476v1](http://arxiv.org/abs/2602.06476v1)]Prism: Spectral Parameter Sharing for Multi-Agent Reinforcement Learning**|Kyungbeom Kim et.al.||
 |**2026-02-05**|**[[2602.05846v1](http://arxiv.org/abs/2602.05846v1)]Optimal scaling laws in learning hierarchical multi-index models**|Leonardo Defilippis et.al.||
 |**2026-02-05**|**[[2602.05808v1](http://arxiv.org/abs/2602.05808v1)]MIGHTEE/COSMOS-3D: The discovery of three spectroscopically confirmed radio-selected star-forming galaxies at z=4.9-5.6**|R. G. Varadaraj et.al.||
 |**2026-02-05**|**[[2602.05609v1](http://arxiv.org/abs/2602.05609v1)]XGAP with uGMRT I: Old AGN plasma in merging galaxy groups**|R. Santra et.al.||
-|**2026-02-05**|**[[2602.05404v1](http://arxiv.org/abs/2602.05404v1)]The Double-Burst Nature and Early Afterglow Evolution of Long GRB 110801A**|Qiu-Li Wang et.al.||
+|**2026-02-06**|**[[2602.05404v2](http://arxiv.org/abs/2602.05404v2)]The Double-Burst Nature and Early Afterglow Evolution of Long GRB 110801A**|Qiu-Li Wang et.al.||
 |**2026-02-05**|**[[2602.05396v1](http://arxiv.org/abs/2602.05396v1)]ELFO: A Python package for emission line fitting optimization in integral field spectroscopy data**|Hui Guo et.al.||
 |**2026-02-05**|**[[2602.05293v1](http://arxiv.org/abs/2602.05293v1)]Fast-SAM3D: 3Dfy Anything in Images but Faster**|Weilun Feng et.al.||
 |**2026-02-05**|**[[2602.05222v1](http://arxiv.org/abs/2602.05222v1)]A gamma-ray-emitting blazar B3 1239+376 at z = 3.82 identified in a multi-wavelength context**|Wei Zhang et.al.||
@@ -1221,7 +1226,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
