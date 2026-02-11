@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-07**|**[[2602.07358v1](http://arxiv.org/abs/2602.07358v1)]UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding**|Jiaming He et.al.||
 |**2026-02-05**|**[[2602.04795v2](http://arxiv.org/abs/2602.04795v2)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
 |**2026-02-04**|**[[2602.04505v1](http://arxiv.org/abs/2602.04505v1)]PhoQuPy: A Python framework for Automation of Quantum Optics experiments**|Srivatsa Murali et.al.||
 |**2026-02-04**|**[[2602.04102v1](http://arxiv.org/abs/2602.04102v1)]DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.||
@@ -430,12 +431,29 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-09**|**[[2602.08814v1](http://arxiv.org/abs/2602.08814v1)]New Approach to Superflare Energy Determination**|Petr Heinzel et.al.||
+|**2026-02-09**|**[[2602.08638v1](http://arxiv.org/abs/2602.08638v1)]LEFT: Learnable Fusion of Tri-view Tokens for Unsupervised Time Series Anomaly Detection**|Dezheng Wang et.al.||
+|**2026-02-09**|**[[2602.08602v1](http://arxiv.org/abs/2602.08602v1)]Mimic Intent, Not Just Trajectories**|Renming Huang et.al.||
+|**2026-02-09**|**[[2602.08511v1](http://arxiv.org/abs/2602.08511v1)]Estimation of Fish Catch Using Sentinel-2, 3 and XGBoost-Kernel-Based Kernel Ridge Regression**|Kanu Mohammed et.al.||
+|**2026-02-09**|**[[2602.08456v1](http://arxiv.org/abs/2602.08456v1)]Decentralized Spatial Reuse Optimization in Wi-Fi: An Internal Regret Minimization Approach**|Francesc Wilhelmi et.al.||
+|**2026-02-09**|**[[2602.08406v1](http://arxiv.org/abs/2602.08406v1)]Optimizing Spectral Prediction in MXene-Based Metasurfaces Through Multi-Channel Spectral Refinement and Savitzky-Golay Smoothing**|Shujaat Khan et.al.||
+|**2026-02-09**|**[[2602.08233v1](http://arxiv.org/abs/2602.08233v1)]Tutti: Expressive Multi-Singer Synthesis via Structure-Level Timbre Control and Vocal Texture Modeling**|Jiatao Chen et.al.||
+|**2026-02-09**|**[[2602.08223v1](http://arxiv.org/abs/2602.08223v1)]A Minimal Interpretation of the Galactic Cosmic-Ray Spectrum from GeV to PeV Energies**|Felix Aharonian et.al.||
+|**2026-02-09**|**[[2602.08168v1](http://arxiv.org/abs/2602.08168v1)]DAS-SK: An Adaptive Model Integrating Dual Atrous Separable and Selective Kernel CNN for Agriculture Semantic Segmentation**|Mei Ling Chee et.al.||
+|**2026-02-08**|**[[2602.08082v1](http://arxiv.org/abs/2602.08082v1)]Spectral Guardrails for Agents in the Wild: Detecting Tool Use Hallucinations via Attention Topology**|Valentin Noël et.al.||
+|**2026-02-08**|**[[2602.07979v1](http://arxiv.org/abs/2602.07979v1)]FSP-Diff: Full-Spectrum Prior-Enhanced DualDomain Latent Diffusion for Ultra-Low-Dose Spectral CT Reconstruction**|Peng Peng et.al.||
+|**2026-02-07**|**[[2602.07667v1](http://arxiv.org/abs/2602.07667v1)]Fast Response or Silence: Conversation Persistence in an AI-Agent Social Network**|Aysajan Eziz et.al.||
+|**2026-02-07**|**[[2602.07657v1](http://arxiv.org/abs/2602.07657v1)]Terahertz multispectral polarimetric imaging based on intensity measurement**|Redwan Ahmad et.al.||
+|**2026-02-07**|**[[2602.07405v1](http://arxiv.org/abs/2602.07405v1)]Wavelet Packet-Based Diffusion Model for Ground Motion Generation with Multi-Conditional Energy and Spectral Matching**|Yi Ding et.al.||
+|**2026-02-07**|**[[2602.07389v1](http://arxiv.org/abs/2602.07389v1)]A General Formulation of the Kinematic Dipole as a Functional of Selection and Source Properties: Beyond the Ellis--Baldwin Approximation**|Tsutomu T. Takeuchi et.al.||
+|**2026-01-30**|**[[2602.07010v1](http://arxiv.org/abs/2602.07010v1)]Learning Alzheimer's Disease Signatures by bridging EEG with Spiking Neural Networks and Biophysical Simulations**|Szymon Mamoń et.al.|Classification|
+|**2026-01-29**|**[[2602.07003v1](http://arxiv.org/abs/2602.07003v1)]Time-Resolved Multi-Spectral X-ray Computed Tomography of Cryoprotectant Diffusion Into Biomimetic Material**|Alaa M. Ali et.al.||
 |**2026-02-06**|**[[2602.06912v1](http://arxiv.org/abs/2602.06912v1)]PANC: Prior-Aware Normalized Cut for Object Segmentation**|Juan Gutiérrez et.al.||
 |**2026-02-06**|**[[2602.06748v1](http://arxiv.org/abs/2602.06748v1)]Gold Exploration using Representations from a Multispectral Autoencoder**|Argyro Tsandalidou et.al.||
 |**2026-02-06**|**[[2602.06732v1](http://arxiv.org/abs/2602.06732v1)]Thermoelastic surface acoustic waves in low-loss silicon nitride integrated circuits**|Zheng Zheng et.al.||
@@ -445,7 +463,7 @@ layout: default
 |**2026-02-05**|**[[2602.05808v1](http://arxiv.org/abs/2602.05808v1)]MIGHTEE/COSMOS-3D: The discovery of three spectroscopically confirmed radio-selected star-forming galaxies at z=4.9-5.6**|R. G. Varadaraj et.al.||
 |**2026-02-05**|**[[2602.05609v1](http://arxiv.org/abs/2602.05609v1)]XGAP with uGMRT I: Old AGN plasma in merging galaxy groups**|R. Santra et.al.||
 |**2026-02-06**|**[[2602.05404v2](http://arxiv.org/abs/2602.05404v2)]The Double-Burst Nature and Early Afterglow Evolution of Long GRB 110801A**|Qiu-Li Wang et.al.||
-|**2026-02-05**|**[[2602.05396v1](http://arxiv.org/abs/2602.05396v1)]ELFO: A Python package for emission line fitting optimization in integral field spectroscopy data**|Hui Guo et.al.||
+|**2026-02-08**|**[[2602.05396v2](http://arxiv.org/abs/2602.05396v2)]ELFO: A Python Package for Emission Line Fitting Optimization in Integral Field Spectroscopy Data**|Hui Guo et.al.||
 |**2026-02-05**|**[[2602.05293v1](http://arxiv.org/abs/2602.05293v1)]Fast-SAM3D: 3Dfy Anything in Images but Faster**|Weilun Feng et.al.||
 |**2026-02-05**|**[[2602.05222v1](http://arxiv.org/abs/2602.05222v1)]A gamma-ray-emitting blazar B3 1239+376 at z = 3.82 identified in a multi-wavelength context**|Wei Zhang et.al.||
 |**2026-02-05**|**[[2602.05187v1](http://arxiv.org/abs/2602.05187v1)]SpectraKAN: Conditioning Spectral Operators**|Chun-Wun Cheng et.al.||
@@ -1230,7 +1248,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
