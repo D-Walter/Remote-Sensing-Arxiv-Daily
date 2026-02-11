@@ -24,7 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
-|**2026-02-07**|**[[2602.07358v1](http://arxiv.org/abs/2602.07358v1)]UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding**|Jiaming He et.al.||
+|**2026-02-09**|**[[2602.09245v1](http://arxiv.org/abs/2602.09245v1)]Micromolar chemical imaging by high-energy low-photodamage Coherent Anti-stokes Raman Scattering (HELP-CARS)**|Guangrui Ding et.al.|Denoising|
+|**2026-02-10**|**[[2602.07358v2](http://arxiv.org/abs/2602.07358v2)]UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding**|Jiaming He et.al.||
 |**2026-02-05**|**[[2602.04795v2](http://arxiv.org/abs/2602.04795v2)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
 |**2026-02-04**|**[[2602.04505v1](http://arxiv.org/abs/2602.04505v1)]PhoQuPy: A Python framework for Automation of Quantum Optics experiments**|Srivatsa Murali et.al.||
 |**2026-02-04**|**[[2602.04102v1](http://arxiv.org/abs/2602.04102v1)]DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.||
@@ -54,7 +55,7 @@ layout: default
 |**2026-01-20**|**[[2601.14474v1](http://arxiv.org/abs/2601.14474v1)]Nanoscopy of Excitons in Atomically Thin In-Plane Heterostructures with Nanointerfaces**|Mahdi Ghafariasl et.al.||
 |**2026-01-20**|**[[2601.14110v1](http://arxiv.org/abs/2601.14110v1)]Adsorption-Driven Symmetry Lowering in Single Molecules Revealed by Ångstrom-scale Tip-Enhanced Raman Imaging**|Rodrigo Cezar de Campos Ferreira et.al.||
 |**2026-01-20**|**[[2601.13987v1](http://arxiv.org/abs/2601.13987v1)]SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration**|Jiangwei Xie et.al.|Superresolution|
-|**2026-01-24**|**[[2601.13953v2](http://arxiv.org/abs/2601.13953v2)]Differentiable Logic Synthesis: Spectral Coefficient Selection via Sinkhorn-Constrained Composition**|Gorgi Pavlov et.al.||
+|**2026-02-09**|**[[2601.13953v3](http://arxiv.org/abs/2601.13953v3)]Differentiable Logic Synthesis: Spectral Coefficient Selection via Sinkhorn-Constrained Composition**|Gorgi Pavlov et.al.||
 |**2026-01-19**|**[[2601.13241v1](http://arxiv.org/abs/2601.13241v1)]Multilayer Q-BIC-like Optical Filters with High Throughput Direct-Write Multilayer Lithography**|A. Bilgehan Baspinar et.al.||
 |**2026-01-19**|**[[2601.12673v1](http://arxiv.org/abs/2601.12673v1)]Purely equatorial lasing in spherical liquid crystal polymer microlasers with engineered refractive index gradient**|David Ripp et.al.||
 |**2026-01-18**|**[[2601.12379v1](http://arxiv.org/abs/2601.12379v1)]Utilizing the Score of Data Distribution for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al.||
@@ -437,6 +438,18 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-10**|**[[2602.09980v1](http://arxiv.org/abs/2602.09980v1)]Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks**|Enzo Nicolas Spotorno et.al.||
+|**2026-02-10**|**[[2602.09977v1](http://arxiv.org/abs/2602.09977v1)]Split Representations and Bubble Resummation for Massive de Sitter Correlators**|Jonathan Gräfe et.al.||
+|**2026-02-10**|**[[2602.09959v1](http://arxiv.org/abs/2602.09959v1)]Statistical-Computational Trade-offs in Learning Multi-Index Models via Harmonic Analysis**|Hugo Latourelle-Vigeant et.al.||
+|**2026-02-10**|**[[2602.09943v1](http://arxiv.org/abs/2602.09943v1)]Chromospheric Flashes in a Solar Pore: Insights from Multi-line Spectropolarimetric Diagnostics**|Sandeep Dubey et.al.||
+|**2026-02-10**|**[[2602.09777v1](http://arxiv.org/abs/2602.09777v1)]Characterisation of an EXor outburst SPICY 97589**|Aaron Labdon et.al.||
+|**2026-02-10**|**[[2602.09689v1](http://arxiv.org/abs/2602.09689v1)]Model soups need only one ingredient**|Alireza Abdollahpoorrostam et.al.||
+|**2026-02-10**|**[[2602.09658v1](http://arxiv.org/abs/2602.09658v1)]EMU Radio Observations of Barred Spiral Galaxy NGC 5938 (Araish)**|H. Zakir et.al.||
+|**2026-02-10**|**[[2602.09586v1](http://arxiv.org/abs/2602.09586v1)]Delving into Spectral Clustering with Vision-Language Representations**|Bo Peng et.al.|VLM|
+|**2026-02-10**|**[[2602.09390v1](http://arxiv.org/abs/2602.09390v1)]Spectroscopic He I 1083 nm prominence eruption observations in the middle corona with MLSO/UCoMP**|Chloe Pistelli et.al.||
+|**2026-02-09**|**[[2602.09223v1](http://arxiv.org/abs/2602.09223v1)]astromorph: Self-supervised machine learning pipeline for astronomical morphology analysis**|Per Bjerkeli et.al.||
+|**2026-02-09**|**[[2602.09085v1](http://arxiv.org/abs/2602.09085v1)]Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST**|D. Kakkad et.al.||
+|**2026-01-29**|**[[2602.09030v1](http://arxiv.org/abs/2602.09030v1)]UniPhy: Unifying Riemannian-Clifford Geometry and Biorthogonal Dynamics for Planetary-Scale Continuous Weather Modeling**|Ruiqing Yan et.al.||
 |**2026-02-09**|**[[2602.08814v1](http://arxiv.org/abs/2602.08814v1)]New Approach to Superflare Energy Determination**|Petr Heinzel et.al.||
 |**2026-02-09**|**[[2602.08638v1](http://arxiv.org/abs/2602.08638v1)]LEFT: Learnable Fusion of Tri-view Tokens for Unsupervised Time Series Anomaly Detection**|Dezheng Wang et.al.||
 |**2026-02-09**|**[[2602.08602v1](http://arxiv.org/abs/2602.08602v1)]Mimic Intent, Not Just Trajectories**|Renming Huang et.al.||
