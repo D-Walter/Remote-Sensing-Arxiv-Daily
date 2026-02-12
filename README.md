@@ -20,6 +20,9 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
+|**2026-02-11**|**[[2602.10745v1](http://arxiv.org/abs/2602.10745v1)]Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
+|**2026-02-11**|**[[2602.10434v1](http://arxiv.org/abs/2602.10434v1)]Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery**|Sagar Lekhak et.al.|Object Detection|
 |**2026-02-09**|**[[2602.09245v1](http://arxiv.org/abs/2602.09245v1)]Micromolar chemical imaging by high-energy low-photodamage Coherent Anti-stokes Raman Scattering (HELP-CARS)**|Guangrui Ding et.al.|Denoising|
 |**2026-02-10**|**[[2602.07358v2](http://arxiv.org/abs/2602.07358v2)]UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding**|Jiaming He et.al.||
 |**2026-02-05**|**[[2602.04795v2](http://arxiv.org/abs/2602.04795v2)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
@@ -434,13 +437,23 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-11**|**[[2602.11014v1](http://arxiv.org/abs/2602.11014v1)]Vertically Correlated Disorder and Structured Interlayer Tunneling in Cuprates**|E. Yu. Beliayev et.al.||
+|**2026-02-11**|**[[2602.10978v1](http://arxiv.org/abs/2602.10978v1)]VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation**|Ruiqi Song et.al.||
+|**2026-02-11**|**[[2602.10867v1](http://arxiv.org/abs/2602.10867v1)]Deep Learning of Compositional Targets with Hierarchical Spectral Methods**|Hugo Tabanelli et.al.||
+|**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
+|**2026-02-11**|**[[2602.10678v1](http://arxiv.org/abs/2602.10678v1)]Stabilization of nonautonomous Navier-Stokes flows under dynamic slip boundary conditions**|Buddhika Priyasad et.al.||
+|**2026-02-11**|**[[2602.10642v1](http://arxiv.org/abs/2602.10642v1)]Fully nonlinear phenomenology of the bump-on-tail (BOT) instability with drag, diffusion and Krook relaxation**|Shi-Jie Zhang et.al.||
+|**2026-02-11**|**[[2602.10547v1](http://arxiv.org/abs/2602.10547v1)]ReSPEC: A Framework for Online Multispectral Sensor Reconfiguration in Dynamic Environments**|Yanchen Liu et.al.||
+|**2026-02-11**|**[[2602.10489v1](http://arxiv.org/abs/2602.10489v1)]Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation**|Wei Chen et.al.||
+|**2026-02-10**|**[[2602.10213v1](http://arxiv.org/abs/2602.10213v1)]On the Expected Orbitally-modulated TeV Signatures of Spider Binaries: The Effect of Intrabinary Shock Geometry**|Christo Venter et.al.||
+|**2026-02-08**|**[[2602.10137v1](http://arxiv.org/abs/2602.10137v1)]Multi-encoder ConvNeXt Network with Smooth Attentional Feature Fusion for Multispectral Semantic Segmentation**|Leo Thomas Ramos et.al.||
 |**2026-02-10**|**[[2602.09980v1](http://arxiv.org/abs/2602.09980v1)]Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks**|Enzo Nicolas Spotorno et.al.||
 |**2026-02-10**|**[[2602.09977v1](http://arxiv.org/abs/2602.09977v1)]Split Representations and Bubble Resummation for Massive de Sitter Correlators**|Jonathan Gräfe et.al.||
 |**2026-02-10**|**[[2602.09959v1](http://arxiv.org/abs/2602.09959v1)]Statistical-Computational Trade-offs in Learning Multi-Index Models via Harmonic Analysis**|Hugo Latourelle-Vigeant et.al.||
 |**2026-02-10**|**[[2602.09943v1](http://arxiv.org/abs/2602.09943v1)]Chromospheric Flashes in a Solar Pore: Insights from Multi-line Spectropolarimetric Diagnostics**|Sandeep Dubey et.al.||
 |**2026-02-10**|**[[2602.09777v1](http://arxiv.org/abs/2602.09777v1)]Characterisation of an EXor outburst SPICY 97589**|Aaron Labdon et.al.||
 |**2026-02-10**|**[[2602.09689v1](http://arxiv.org/abs/2602.09689v1)]Model soups need only one ingredient**|Alireza Abdollahpoorrostam et.al.||
-|**2026-02-10**|**[[2602.09658v1](http://arxiv.org/abs/2602.09658v1)]EMU Radio Observations of Barred Spiral Galaxy NGC 5938 (Araish)**|H. Zakir et.al.||
+|**2026-02-11**|**[[2602.09658v2](http://arxiv.org/abs/2602.09658v2)]EMU Radio Observations of Barred Spiral Galaxy NGC 5938 (Araish)**|H. Zakir et.al.||
 |**2026-02-10**|**[[2602.09586v1](http://arxiv.org/abs/2602.09586v1)]Delving into Spectral Clustering with Vision-Language Representations**|Bo Peng et.al.|VLM|
 |**2026-02-10**|**[[2602.09390v1](http://arxiv.org/abs/2602.09390v1)]Spectroscopic He I 1083 nm prominence eruption observations in the middle corona with MLSO/UCoMP**|Chloe Pistelli et.al.||
 |**2026-02-09**|**[[2602.09223v1](http://arxiv.org/abs/2602.09223v1)]astromorph: Self-supervised machine learning pipeline for astronomical morphology analysis**|Per Bjerkeli et.al.||
