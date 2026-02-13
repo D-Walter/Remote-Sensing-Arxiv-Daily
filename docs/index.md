@@ -441,6 +441,13 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-12**|**[[2602.12177v1](http://arxiv.org/abs/2602.12177v1)]EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.||
+|**2026-02-12**|**[[2602.11891v1](http://arxiv.org/abs/2602.11891v1)]Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?**|Ravi Kiran Palla et.al.||
+|**2026-02-12**|**[[2602.11511v1](http://arxiv.org/abs/2602.11511v1)]Representation Learning with Blockwise Missingness and Signal Heterogeneity**|Ziqi Liu et.al.|Denoising|
+|**2026-02-11**|**[[2602.11356v1](http://arxiv.org/abs/2602.11356v1)]ALMA Band1 observations of the rhoOphW filament I. Enhanced power from excess microwave emission at high spatial frequencies**|Simon Casassus et.al.||
+|**2026-02-11**|**[[2602.11326v1](http://arxiv.org/abs/2602.11326v1)]Multi-ion entangling gates mediated by spectrally unresolved modes**|Modesto Orozco-Ruiz et.al.||
+|**2026-02-11**|**[[2602.11264v1](http://arxiv.org/abs/2602.11264v1)]Time delays and stationarity in quasar light curves**|Namu Kroupa et.al.||
+|**2026-02-10**|**[[2602.11205v1](http://arxiv.org/abs/2602.11205v1)]Multi-scale Vandermonde test kernels for spectral trace formulas**|Stefan Horvath et.al.||
 |**2026-02-11**|**[[2602.11014v1](http://arxiv.org/abs/2602.11014v1)]Vertically Correlated Disorder and Structured Interlayer Tunneling in Cuprates**|E. Yu. Beliayev et.al.||
 |**2026-02-11**|**[[2602.10978v1](http://arxiv.org/abs/2602.10978v1)]VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation**|Ruiqi Song et.al.||
 |**2026-02-11**|**[[2602.10867v1](http://arxiv.org/abs/2602.10867v1)]Deep Learning of Compositional Targets with Hierarchical Spectral Methods**|Hugo Tabanelli et.al.||
