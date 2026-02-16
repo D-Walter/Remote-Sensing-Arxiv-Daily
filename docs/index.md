@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-13**|**[[2602.13063v1](http://arxiv.org/abs/2602.13063v1)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
+|**2026-02-12**|**[[2602.12313v1](http://arxiv.org/abs/2602.12313v1)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
 |**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
 |**2026-02-11**|**[[2602.10745v1](http://arxiv.org/abs/2602.10745v1)]Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
 |**2026-02-11**|**[[2602.10434v1](http://arxiv.org/abs/2602.10434v1)]Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery**|Sagar Lekhak et.al.|Object Detection|
@@ -441,8 +443,12 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-13**|**[[2602.13022v1](http://arxiv.org/abs/2602.13022v1)]Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.||
+|**2026-02-13**|**[[2602.12841v1](http://arxiv.org/abs/2602.12841v1)]EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks**|Zilin Ge et.al.||
+|**2026-02-13**|**[[2602.12753v1](http://arxiv.org/abs/2602.12753v1)]Hierarchical Successor Representation for Robust Transfer**|Changmin Yu et.al.||
+|**2026-02-12**|**[[2602.12452v1](http://arxiv.org/abs/2602.12452v1)]Implementation of a Directional Modulation Testbed for Reconfigurable Transmitters for Spatially Agile MIMO Systems**|Jonathan E. Swindell et.al.||
 |**2026-02-12**|**[[2602.12177v1](http://arxiv.org/abs/2602.12177v1)]EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.||
-|**2026-02-12**|**[[2602.11891v1](http://arxiv.org/abs/2602.11891v1)]Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?**|Ravi Kiran Palla et.al.||
+|**2026-02-13**|**[[2602.11891v2](http://arxiv.org/abs/2602.11891v2)]Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?**|Ravi Kiran Palla et.al.||
 |**2026-02-12**|**[[2602.11511v1](http://arxiv.org/abs/2602.11511v1)]Representation Learning with Blockwise Missingness and Signal Heterogeneity**|Ziqi Liu et.al.|Denoising|
 |**2026-02-11**|**[[2602.11356v1](http://arxiv.org/abs/2602.11356v1)]ALMA Band1 observations of the rhoOphW filament I. Enhanced power from excess microwave emission at high spatial frequencies**|Simon Casassus et.al.||
 |**2026-02-11**|**[[2602.11326v1](http://arxiv.org/abs/2602.11326v1)]Multi-ion entangling gates mediated by spectrally unresolved modes**|Modesto Orozco-Ruiz et.al.||
