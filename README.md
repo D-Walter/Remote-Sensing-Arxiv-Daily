@@ -441,6 +441,13 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-17**|**[[2602.15633v1](http://arxiv.org/abs/2602.15633v1)]SpecFuse: A Spectral-Temporal Fusion Predictive Control Framework for UAV Landing on Oscillating Marine Platforms**|Haichao Liu et.al.||
+|**2026-02-17**|**[[2602.15550v1](http://arxiv.org/abs/2602.15550v1)]A homogeneous view of asymptotic giant branch carbon stars as seen by Gaia**|Alessio Liberatori et.al.||
+|**2026-02-17**|**[[2602.15484v1](http://arxiv.org/abs/2602.15484v1)]Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction**|Amartyaveer et.al.||
+|**2026-02-17**|**[[2602.15325v1](http://arxiv.org/abs/2602.15325v1)]AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents**|Zhixing Zhang et.al.||
+|**2026-02-17**|**[[2602.15321v1](http://arxiv.org/abs/2602.15321v1)]New Insights from Revisiting the Rotation Period of the Strongly Magnetic O Star, NGC 1624-2**|S. Seadrow et.al.||
+|**2026-02-16**|**[[2602.15250v1](http://arxiv.org/abs/2602.15250v1)]Systematic Design and Demonstration of Multipole, Coupled-Cavity Integrated Photonic Bandpass Filters with High FSR, High-Q Single-Mode Microresonators in Low-Loss Silicon Nitride Platform**|Amir H Hosseinnia et.al.||
+|**2026-02-16**|**[[2602.15209v1](http://arxiv.org/abs/2602.15209v1)]Secure High-Resolution ISAC via Multi-Layer Intelligent Metasurfaces: A Layered Optimization Framework**|Amirhossein Taherpour et.al.||
 |**2026-02-16**|**[[2602.14846v1](http://arxiv.org/abs/2602.14846v1)]Multi-dimensional Persistent Sheaf Laplacians for Image Analysis**|Xiang Xiang Wang et.al.|Classification|
 |**2026-02-16**|**[[2602.14787v1](http://arxiv.org/abs/2602.14787v1)]Exact Multi-Valley Envelope Function Theory of Valley Splitting in Si/SiGe Nanostructures**|Lasse Ermoneit et.al.||
 |**2026-02-16**|**[[2602.14785v1](http://arxiv.org/abs/2602.14785v1)]SA-SSL-MOS: Self-supervised Learning MOS Prediction with Spectral Augmentation for Generalized Multi-Rate Speech Assessment**|Fengyuan Cao et.al.||
@@ -448,7 +455,7 @@
 |**2026-02-16**|**[[2602.14708v1](http://arxiv.org/abs/2602.14708v1)]A Unified Mathematical Framework for Distributed Data Fabrics: Categorical Hypergraph Models**|T. Shaska et.al.||
 |**2026-02-15**|**[[2602.14196v1](http://arxiv.org/abs/2602.14196v1)]Nonlinear diffusive shock acceleration with upstream escape reproduces DAMPE observations**|Han-Xiang Hu et.al.||
 |**2026-02-15**|**[[2602.14194v1](http://arxiv.org/abs/2602.14194v1)]Diversities and similarities exhibited by multi-planetary systems and their architectures: II. Radii of singles and multis**|Alexandra Muresan et.al.||
-|**2026-02-15**|**[[2602.14027v1](http://arxiv.org/abs/2602.14027v1)]Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation**|Jia Li et.al.||
+|**2026-02-17**|**[[2602.14027v2](http://arxiv.org/abs/2602.14027v2)]Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation**|Jia Li et.al.||
 |**2026-02-13**|**[[2602.13022v1](http://arxiv.org/abs/2602.13022v1)]Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.||
 |**2026-02-13**|**[[2602.12841v1](http://arxiv.org/abs/2602.12841v1)]EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks**|Zilin Ge et.al.||
 |**2026-02-13**|**[[2602.12753v1](http://arxiv.org/abs/2602.12753v1)]Hierarchical Successor Representation for Robust Transfer**|Changmin Yu et.al.||
