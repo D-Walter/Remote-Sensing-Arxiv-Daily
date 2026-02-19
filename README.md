@@ -441,6 +441,12 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-18**|**[[2602.16559v1](http://arxiv.org/abs/2602.16559v1)]GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B**|Sergey Belkin et.al.||
+|**2026-02-18**|**[[2602.16443v1](http://arxiv.org/abs/2602.16443v1)]Modal Analysis of Buffet Effects Induced by Ultrahigh Bypass Ratio Nacelle Installation**|Sebastian Spinner et.al.||
+|**2026-02-18**|**[[2602.16193v1](http://arxiv.org/abs/2602.16193v1)]Rethinking Input Domains in Physics-Informed Neural Networks via Geometric Compactification Mappings**|Zhenzhen Huang et.al.||
+|**2026-02-18**|**[[2602.16167v1](http://arxiv.org/abs/2602.16167v1)]Muon with Spectral Guidance: Efficient Optimization for Scientific Machine Learning**|Binghang Lu et.al.||
+|**2026-02-18**|**[[2602.16128v1](http://arxiv.org/abs/2602.16128v1)]Graph--Based Event Fingerprints for Classifying Geomagnetic Storm--Driven Forbush Decreases**|Juan D. Perez-Navarro et.al.|Classification|
+|**2026-02-18**|**[[2602.16097v1](http://arxiv.org/abs/2602.16097v1)]Local and Multi-Scale Strategies to Mitigate Exponential Concentration in Quantum Kernels**|Claudia Zendejas-Morales et.al.|Classification|
 |**2026-02-17**|**[[2602.15633v1](http://arxiv.org/abs/2602.15633v1)]SpecFuse: A Spectral-Temporal Fusion Predictive Control Framework for UAV Landing on Oscillating Marine Platforms**|Haichao Liu et.al.||
 |**2026-02-17**|**[[2602.15550v1](http://arxiv.org/abs/2602.15550v1)]A homogeneous view of asymptotic giant branch carbon stars as seen by Gaia**|Alessio Liberatori et.al.||
 |**2026-02-17**|**[[2602.15484v1](http://arxiv.org/abs/2602.15484v1)]Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction**|Amartyaveer et.al.||
@@ -519,7 +525,7 @@
 |**2026-02-05**|**[[2602.05293v1](http://arxiv.org/abs/2602.05293v1)]Fast-SAM3D: 3Dfy Anything in Images but Faster**|Weilun Feng et.al.||
 |**2026-02-05**|**[[2602.05222v1](http://arxiv.org/abs/2602.05222v1)]A gamma-ray-emitting blazar B3 1239+376 at z = 3.82 identified in a multi-wavelength context**|Wei Zhang et.al.||
 |**2026-02-05**|**[[2602.05187v1](http://arxiv.org/abs/2602.05187v1)]SpectraKAN: Conditioning Spectral Operators**|Chun-Wun Cheng et.al.||
-|**2026-02-04**|**[[2602.05080v1](http://arxiv.org/abs/2602.05080v1)]Photonic entanglement enhanced multidimensional spectroscopy for probing exciton correlations: theory and applications to photosynthetic aggregates**|Arunangshu Debnath et.al.||
+|**2026-02-18**|**[[2602.05080v2](http://arxiv.org/abs/2602.05080v2)]Photon entanglement-enhanced multidimensional spectroscopy of exciton correlations in photosynthetic aggregates**|Arunangshu Debnath et.al.||
 |**2026-02-04**|**[[2602.04964v1](http://arxiv.org/abs/2602.04964v1)]Classifying white dwarfs from multi-object spectroscopy surveys with machine learning**|James Munday et.al.|Classification|
 |**2026-02-04**|**[[2602.04963v1](http://arxiv.org/abs/2602.04963v1)]Dynamics of Heavy Operators in $\mathcal{N}=4$ SYM: Integrated Correlators and AdS Bubbles**|Francesco Aprile et.al.||
 |**2026-02-04**|**[[2602.04962v1](http://arxiv.org/abs/2602.04962v1)]Wiggling Through the ICM: Multi-Resolution Radio Imaging of a Tailed Radio Galaxy in MACS J1354.6+7715**|Abdul Gani et.al.||
