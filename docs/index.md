@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
 |**2026-02-16**|**[[2602.14408v1](http://arxiv.org/abs/2602.14408v1)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
 |**2026-02-13**|**[[2602.13509v1](http://arxiv.org/abs/2602.13509v1)]A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.||
 |**2026-02-13**|**[[2602.13063v1](http://arxiv.org/abs/2602.13063v1)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
@@ -445,7 +446,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
-|**2026-02-18**|**[[2602.16559v1](http://arxiv.org/abs/2602.16559v1)]GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B**|Sergey Belkin et.al.||
+|**2026-02-19**|**[[2602.17665v1](http://arxiv.org/abs/2602.17665v1)]OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.||
+|**2026-02-19**|**[[2602.17586v1](http://arxiv.org/abs/2602.17586v1)]Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.||
+|**2026-02-19**|**[[2602.17572v1](http://arxiv.org/abs/2602.17572v1)]The spectral state transition of Mkn 590, a potential link between AGNs and X-ray binaries?**|B. Palit et.al.||
+|**2026-02-19**|**[[2602.17175v1](http://arxiv.org/abs/2602.17175v1)]Bright Fractional Single and Multi-Solitons in a Prototypical Nonlinear Schr{ö}dinger Paradigm: Existence, Stability and Dynamics**|Robert J. Decker et.al.||
+|**2026-02-19**|**[[2602.16966v1](http://arxiv.org/abs/2602.16966v1)]A Unified Framework for Locality in Scalable MARL**|Sourav Chakraborty et.al.||
+|**2026-02-18**|**[[2602.16959v1](http://arxiv.org/abs/2602.16959v1)]Eigenmood Space: Uncertainty-Aware Spectral Graph Analysis of Psychological Patterns in Classical Persian Poetry**|Kourosh Shahnazari et.al.||
+|**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
+|**2026-02-19**|**[[2602.16559v2](http://arxiv.org/abs/2602.16559v2)]GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B**|S. Belkin et.al.||
 |**2026-02-18**|**[[2602.16443v1](http://arxiv.org/abs/2602.16443v1)]Modal Analysis of Buffet Effects Induced by Ultrahigh Bypass Ratio Nacelle Installation**|Sebastian Spinner et.al.||
 |**2026-02-18**|**[[2602.16193v1](http://arxiv.org/abs/2602.16193v1)]Rethinking Input Domains in Physics-Informed Neural Networks via Geometric Compactification Mappings**|Zhenzhen Huang et.al.||
 |**2026-02-18**|**[[2602.16167v1](http://arxiv.org/abs/2602.16167v1)]Muon with Spectral Guidance: Efficient Optimization for Scientific Machine Learning**|Binghang Lu et.al.||
