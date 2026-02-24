@@ -24,11 +24,12 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-23**|**[[2602.19888v1](http://arxiv.org/abs/2602.19888v1)]A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy**|Naoki Wada et.al.||
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
 |**2026-02-16**|**[[2602.14408v1](http://arxiv.org/abs/2602.14408v1)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
 |**2026-02-13**|**[[2602.13509v1](http://arxiv.org/abs/2602.13509v1)]A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.||
 |**2026-02-13**|**[[2602.13063v1](http://arxiv.org/abs/2602.13063v1)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
-|**2026-02-12**|**[[2602.12313v1](http://arxiv.org/abs/2602.12313v1)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
+|**2026-02-23**|**[[2602.12313v2](http://arxiv.org/abs/2602.12313v2)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
 |**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
 |**2026-02-11**|**[[2602.10745v1](http://arxiv.org/abs/2602.10745v1)]Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
 |**2026-02-11**|**[[2602.10434v1](http://arxiv.org/abs/2602.10434v1)]Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery**|Sagar Lekhak et.al.|Object Detection|
@@ -446,11 +447,30 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-23**|**[[2602.20101v1](http://arxiv.org/abs/2602.20101v1)]HelioSpectrotron 5000: An Interactive Multi-Resolution Solar Spectral Atlas**|A. G. M. Pietrow et.al.||
+|**2026-02-23**|**[[2602.19997v1](http://arxiv.org/abs/2602.19997v1)]The major merger-active galactic nucleus connection up to the cosmic noon**|A. La Marca et.al.||
+|**2026-02-23**|**[[2602.19941v1](http://arxiv.org/abs/2602.19941v1)]Probing Dust in the MWC 480 Disk from Millimeter to Centimeter Wavelengths**|Yangfan Shi et.al.||
+|**2026-02-23**|**[[2602.19933v1](http://arxiv.org/abs/2602.19933v1)]Edge-based Synchronization over Signed Digraphs with Multiple Leaders**|Pelin Sekercioglu et.al.||
+|**2026-02-23**|**[[2602.19897v1](http://arxiv.org/abs/2602.19897v1)]Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051**|James Reeves et.al.||
+|**2026-02-23**|**[[2602.19863v1](http://arxiv.org/abs/2602.19863v1)]Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|Classification|
+|**2026-02-23**|**[[2602.19855v1](http://arxiv.org/abs/2602.19855v1)]SHIELD: Semantic Heterogeneity Integrated Embedding for Latent Discovery in Clinical Trial Safety Signals**|Francois Vandenhende et.al.||
+|**2026-02-23**|**[[2602.19825v1](http://arxiv.org/abs/2602.19825v1)]DTT-BSR: GAN-based DTTNet with RoPE Transformer Enhancement for Music Source Restoration**|Shihong Tan et.al.||
+|**2026-02-23**|**[[2602.19738v1](http://arxiv.org/abs/2602.19738v1)]Individualized Causal Effects under Network Interference with Combinatorial Treatments**|Yunping Lu et.al.||
+|**2026-02-23**|**[[2602.19652v1](http://arxiv.org/abs/2602.19652v1)]Hardware-Accelerated Geometrical Simulation of Biological and Engineered In-Air Ultrasonic Systems**|Wouter Jansen et.al.||
+|**2026-02-23**|**[[2602.19638v1](http://arxiv.org/abs/2602.19638v1)]MEDUSA I. Tracing magnetic field structures in tidal arms of the dwarf-dwarf merger NGC 1487**|Sam Taziaux et.al.||
+|**2026-02-23**|**[[2602.19608v1](http://arxiv.org/abs/2602.19608v1)]Satellite-Based Detection of Looted Archaeological Sites Using Machine Learning**|Girmaw Abebe Tadesse et.al.||
+|**2026-02-23**|**[[2602.19494v1](http://arxiv.org/abs/2602.19494v1)]Koopman Analysis of Sea Surface Temperature with a Signature Kernel**|Nozomi Sugiura et.al.||
+|**2026-02-21**|**[[2602.18875v1](http://arxiv.org/abs/2602.18875v1)]Channel-Correlation-Based Access Point Selection and Pilot Power Allocation for Cell-Free Massive MIMO**|Saeed Mohammadzadeh et.al.||
+|**2026-02-21**|**[[2602.18794v1](http://arxiv.org/abs/2602.18794v1)]Statistical Error Bounds for Generative Solvers of Chaotic PDEs: Wasserstein Stability, Generalization, and Turbulence**|Victor Armegioiu et.al.||
+|**2026-02-21**|**[[2602.18728v1](http://arxiv.org/abs/2602.18728v1)]Phase-Consistent Magnetic Spectral Learning for Multi-View Clustering**|Mingdong Lu et.al.||
+|**2026-02-21**|**[[2602.18697v1](http://arxiv.org/abs/2602.18697v1)]Deep LoRA-Unfolding Networks for Image Restoration**|Xiangming Wang et.al.|Superresolution, Denoising|
+|**2026-02-20**|**[[2602.18649v1](http://arxiv.org/abs/2602.18649v1)]Global Low-Rank, Local Full-Rank: The Holographic Encoding of Learned Algorithms**|Yongzhong Xu et.al.||
+|**2026-02-20**|**[[2602.18642v1](http://arxiv.org/abs/2602.18642v1)]Auto Quantum Machine Learning for Multisource Classification**|Tomasz Rybotycki et.al.|Classification|
 |**2026-02-20**|**[[2602.17979v1](http://arxiv.org/abs/2602.17979v1)]Learning While Transmitting: Pilotless Polar Coded Modulation for Short Packet Transmission**|Geon Choi et.al.||
 |**2026-02-20**|**[[2602.17954v1](http://arxiv.org/abs/2602.17954v1)]Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO**|Mohammad Zangooei et.al.||
 |**2026-02-19**|**[[2602.17783v1](http://arxiv.org/abs/2602.17783v1)]Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors**|Xiangyu Sun et.al.|Superresolution|
 |**2026-02-14**|**[[2602.17711v1](http://arxiv.org/abs/2602.17711v1)]Interpreting Multi-Branch Anti-Spoofing Architectures: Correlating Internal Strategy with Empirical Performance**|Ivan Viakhirev et.al.||
-|**2026-02-19**|**[[2602.17665v1](http://arxiv.org/abs/2602.17665v1)]OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.||
+|**2026-02-23**|**[[2602.17665v2](http://arxiv.org/abs/2602.17665v2)]OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.||
 |**2026-02-19**|**[[2602.17586v1](http://arxiv.org/abs/2602.17586v1)]Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.||
 |**2026-02-19**|**[[2602.17572v1](http://arxiv.org/abs/2602.17572v1)]The spectral state transition of Mkn 590, a potential link between AGNs and X-ray binaries?**|B. Palit et.al.||
 |**2026-02-19**|**[[2602.17175v1](http://arxiv.org/abs/2602.17175v1)]Bright Fractional Single and Multi-Solitons in a Prototypical Nonlinear Schr{ö}dinger Paradigm: Existence, Stability and Dynamics**|Robert J. Decker et.al.||
