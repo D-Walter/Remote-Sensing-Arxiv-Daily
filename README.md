@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -436,12 +436,16 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260224>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-20**|**[[2602.17979v1](http://arxiv.org/abs/2602.17979v1)]Learning While Transmitting: Pilotless Polar Coded Modulation for Short Packet Transmission**|Geon Choi et.al.||
+|**2026-02-20**|**[[2602.17954v1](http://arxiv.org/abs/2602.17954v1)]Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO**|Mohammad Zangooei et.al.||
+|**2026-02-19**|**[[2602.17783v1](http://arxiv.org/abs/2602.17783v1)]Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors**|Xiangyu Sun et.al.|Superresolution|
+|**2026-02-14**|**[[2602.17711v1](http://arxiv.org/abs/2602.17711v1)]Interpreting Multi-Branch Anti-Spoofing Architectures: Correlating Internal Strategy with Empirical Performance**|Ivan Viakhirev et.al.||
 |**2026-02-19**|**[[2602.17665v1](http://arxiv.org/abs/2602.17665v1)]OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.||
 |**2026-02-19**|**[[2602.17586v1](http://arxiv.org/abs/2602.17586v1)]Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.||
 |**2026-02-19**|**[[2602.17572v1](http://arxiv.org/abs/2602.17572v1)]The spectral state transition of Mkn 590, a potential link between AGNs and X-ray binaries?**|B. Palit et.al.||
@@ -1314,7 +1318,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
