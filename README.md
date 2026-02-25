@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-23**|**[[2602.20316v1](http://arxiv.org/abs/2602.20316v1)]Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.||
 |**2026-02-23**|**[[2602.19888v1](http://arxiv.org/abs/2602.19888v1)]A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy**|Naoki Wada et.al.||
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
 |**2026-02-16**|**[[2602.14408v1](http://arxiv.org/abs/2602.14408v1)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
@@ -443,12 +444,21 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
-|**2026-02-23**|**[[2602.20101v1](http://arxiv.org/abs/2602.20101v1)]HelioSpectrotron 5000: An Interactive Multi-Resolution Solar Spectral Atlas**|A. G. M. Pietrow et.al.||
+|**2026-02-24**|**[[2602.21166v1](http://arxiv.org/abs/2602.21166v1)]A Novel Explicit Filter for the Approximate Deconvolution in Large-Eddy Simulation on General Unstructured Grids: A posteriori tests on highly stretched grids**|Mohammad Bagher Molaei et.al.||
+|**2026-02-24**|**[[2602.21147v1](http://arxiv.org/abs/2602.21147v1)]RAMSES-MCR: A consistent multi-group treatment of cosmic rays physics in momentum-space with the RAMSES code**|Nimatou-Seydi Diallo et.al.||
+|**2026-02-24**|**[[2602.21114v1](http://arxiv.org/abs/2602.21114v1)]Delay Alignment Modulation for Secure ISAC Systems**|Tianyu Lu et.al.||
+|**2026-02-24**|**[[2602.20786v1](http://arxiv.org/abs/2602.20786v1)]A multi-wavelength study of nearby starburst galaxy M 82**|Nilkanth Vagshette et.al.||
+|**2026-02-24**|**[[2602.20746v1](http://arxiv.org/abs/2602.20746v1)]Evidence of a non-equipartition energy regime in 1803+784 Core-shift and Faraday rotation measurements from simultaneous multi-frequency polarimetric VGOS observations**|V. Pérez-Díez et.al.||
+|**2026-02-24**|**[[2602.20719v1](http://arxiv.org/abs/2602.20719v1)]The Adaptive Solution of High-Frequency Helmholtz Equations via Multi-Grade Deep Learning**|Peiyao Zhao et.al.||
+|**2026-02-24**|**[[2602.20542v1](http://arxiv.org/abs/2602.20542v1)]Rotation of a Solar Jet Driven by Plasma Flow along Helical Magnetic Fields in an Active Region**|Lei Huang et.al.||
+|**2026-02-24**|**[[2602.20537v1](http://arxiv.org/abs/2602.20537v1)]PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning**|Xinyong Cai et.al.||
+|**2026-02-23**|**[[2602.20276v1](http://arxiv.org/abs/2602.20276v1)]ALMA Central molecular zone Exploration Survey (ACES) III: Molecular line data reduction and HNCO and HCO $^{+}$ data**|Daniel L. Walker et.al.||
+|**2026-02-24**|**[[2602.20101v2](http://arxiv.org/abs/2602.20101v2)]HelioSpectrotron 5000: An interactive multi-resolution solar spectral atlas**|A. G. M. Pietrow et.al.||
 |**2026-02-23**|**[[2602.19997v1](http://arxiv.org/abs/2602.19997v1)]The major merger-active galactic nucleus connection up to the cosmic noon**|A. La Marca et.al.||
 |**2026-02-23**|**[[2602.19941v1](http://arxiv.org/abs/2602.19941v1)]Probing Dust in the MWC 480 Disk from Millimeter to Centimeter Wavelengths**|Yangfan Shi et.al.||
 |**2026-02-23**|**[[2602.19933v1](http://arxiv.org/abs/2602.19933v1)]Edge-based Synchronization over Signed Digraphs with Multiple Leaders**|Pelin Sekercioglu et.al.||
 |**2026-02-23**|**[[2602.19897v1](http://arxiv.org/abs/2602.19897v1)]Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051**|James Reeves et.al.||
-|**2026-02-23**|**[[2602.19863v1](http://arxiv.org/abs/2602.19863v1)]Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|Classification|
+|**2026-02-24**|**[[2602.19863v2](http://arxiv.org/abs/2602.19863v2)]Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|Classification|
 |**2026-02-23**|**[[2602.19855v1](http://arxiv.org/abs/2602.19855v1)]SHIELD: Semantic Heterogeneity Integrated Embedding for Latent Discovery in Clinical Trial Safety Signals**|Francois Vandenhende et.al.||
 |**2026-02-23**|**[[2602.19825v1](http://arxiv.org/abs/2602.19825v1)]DTT-BSR: GAN-based DTTNet with RoPE Transformer Enhancement for Music Source Restoration**|Shihong Tan et.al.||
 |**2026-02-23**|**[[2602.19738v1](http://arxiv.org/abs/2602.19738v1)]Individualized Causal Effects under Network Interference with Combinatorial Treatments**|Yunping Lu et.al.||
