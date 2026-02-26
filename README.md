@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-25**|**[[2602.22140v1](http://arxiv.org/abs/2602.22140v1)]Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.||
 |**2026-02-23**|**[[2602.20316v1](http://arxiv.org/abs/2602.20316v1)]Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.||
 |**2026-02-23**|**[[2602.19888v1](http://arxiv.org/abs/2602.19888v1)]A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy**|Naoki Wada et.al.||
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
@@ -53,7 +54,7 @@
 |**2026-01-25**|**[[2601.18034v1](http://arxiv.org/abs/2601.18034v1)]Dominant Sets Based Band Selection in Hyperspectral Imagery**|Onur Haliloğlu et.al.|Classification|
 |**2026-01-24**|**[[2601.17352v1](http://arxiv.org/abs/2601.17352v1)]HyDeMiC: A Deep Learning-based Mineral Classifier using Hyperspectral Data**|M. L. Mamud et.al.|Classification|
 |**2026-01-23**|**[[2601.16602v1](http://arxiv.org/abs/2601.16602v1)]Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images Using Fully Synthetic Training**|Xinxin Xu et.al.|Unmixing, Superresolution|
-|**2026-01-23**|**[[2601.16386v1](http://arxiv.org/abs/2601.16386v1)]XMM-Newton observations of ten high-redshift CAMIRA clusters of galaxies**|Naomi Ota et.al.||
+|**2026-02-25**|**[[2601.16386v2](http://arxiv.org/abs/2601.16386v2)]XMM-Newton observations of ten high-redshift CAMIRA clusters of galaxies**|Naomi Ota et.al.||
 |**2026-01-22**|**[[2601.16098v1](http://arxiv.org/abs/2601.16098v1)]Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|Classification|
 |**2026-01-22**|**[[2601.15947v1](http://arxiv.org/abs/2601.15947v1)]Multimodal Imaging System Combining Hyperspectral and Laser Speckle Imaging for In Vivo Hemodynamic and Metabolic Monitoring**|Junda Wang et.al.||
 |**2026-01-22**|**[[2601.15852v1](http://arxiv.org/abs/2601.15852v1)]Localized emission in MoSe $_2$ monolayers on GaN nanopillars**|Abderrahim Lamrani Alaoui et.al.||
@@ -444,6 +445,11 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-25**|**[[2602.22004v1](http://arxiv.org/abs/2602.22004v1)]Probing Large-scale Structure and the Multi-Phase IGM at the Cosmic Noon -- Insights from a Joint Survey with Euclid, CSST, JPCam, and JUST**|Jiang-Tao Li et.al.||
+|**2026-02-25**|**[[2602.21910v1](http://arxiv.org/abs/2602.21910v1)]The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions**|Alexander Heinlein et.al.||
+|**2026-02-25**|**[[2602.21905v1](http://arxiv.org/abs/2602.21905v1)]TIRAuxCloud: A Thermal Infrared Dataset for Day and Night Cloud Detection**|Alexis Apostolakis et.al.||
+|**2026-02-25**|**[[2602.21709v1](http://arxiv.org/abs/2602.21709v1)]Assessing airborne laser scanning and aerial photogrammetry for deep learning-based stand delineation**|Håkon Næss Sandum et.al.||
+|**2026-02-25**|**[[2602.21502v1](http://arxiv.org/abs/2602.21502v1)]A Decade-Long Increasing Mid-Infrared Luminosity in Galaxy NGC6447: a Turning-On Candidate of Active Galactic Nucleus**|Xinyu Dai et.al.||
 |**2026-02-24**|**[[2602.21166v1](http://arxiv.org/abs/2602.21166v1)]A Novel Explicit Filter for the Approximate Deconvolution in Large-Eddy Simulation on General Unstructured Grids: A posteriori tests on highly stretched grids**|Mohammad Bagher Molaei et.al.||
 |**2026-02-24**|**[[2602.21147v1](http://arxiv.org/abs/2602.21147v1)]RAMSES-MCR: A consistent multi-group treatment of cosmic rays physics in momentum-space with the RAMSES code**|Nimatou-Seydi Diallo et.al.||
 |**2026-02-24**|**[[2602.21114v1](http://arxiv.org/abs/2602.21114v1)]Delay Alignment Modulation for Secure ISAC Systems**|Tianyu Lu et.al.||
