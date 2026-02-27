@@ -30,7 +30,7 @@ layout: default
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
 |**2026-02-16**|**[[2602.14408v1](http://arxiv.org/abs/2602.14408v1)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
 |**2026-02-13**|**[[2602.13509v1](http://arxiv.org/abs/2602.13509v1)]A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.||
-|**2026-02-13**|**[[2602.13063v1](http://arxiv.org/abs/2602.13063v1)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
+|**2026-02-26**|**[[2602.13063v2](http://arxiv.org/abs/2602.13063v2)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
 |**2026-02-23**|**[[2602.12313v2](http://arxiv.org/abs/2602.12313v2)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
 |**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
 |**2026-02-11**|**[[2602.10745v1](http://arxiv.org/abs/2602.10745v1)]Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
@@ -449,6 +449,17 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-26**|**[[2602.23309v1](http://arxiv.org/abs/2602.23309v1)]A precessing jet from a supermassive black hole: multi-wavelength observations of S5 1044+71**|M. Cerruti et.al.||
+|**2026-02-26**|**[[2602.23255v1](http://arxiv.org/abs/2602.23255v1)]Variability of the X-ray obscuring wind in Mrk 335 with XMM-Newton/RGS**|Daniele Rogantini et.al.||
+|**2026-02-26**|**[[2602.23238v1](http://arxiv.org/abs/2602.23238v1)]Gaussian mode coupling of spectrally broadband photons from bulk spontaneous parametric down-conversion: A spatial-spectral mode analysis of fiber coupling**|Carlos Sevilla-Gutiérrez et.al.||
+|**2026-02-26**|**[[2602.23103v1](http://arxiv.org/abs/2602.23103v1)]SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation**|Fuhao Zhang et.al.||
+|**2026-02-26**|**[[2602.22829v1](http://arxiv.org/abs/2602.22829v1)]Reflectance Multispectral Imaging for Soil Composition Estimation and USDA Texture Classification**|G. A. S. L Ranasinghe et.al.|Classification|
+|**2026-02-26**|**[[2602.22796v1](http://arxiv.org/abs/2602.22796v1)]Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment**|Yijie Bian et.al.||
+|**2026-02-26**|**[[2602.22613v1](http://arxiv.org/abs/2602.22613v1)]Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery**|Minh Kha Do et.al.|Classification|
+|**2026-02-25**|**[[2602.22487v1](http://arxiv.org/abs/2602.22487v1)]Moving Speaker Separation via Parallel Spectral-Spatial Processing**|Yuzhu Wang et.al.||
+|**2026-02-25**|**[[2602.22309v1](http://arxiv.org/abs/2602.22309v1)]A steadily declining dispersion measure for the repeating fast radio burst FRB 20220529A: Evidence for an FRB engine embedded in an expanding supernova remnant**|Ayush Pandhi et.al.||
+|**2026-02-24**|**[[2602.22247v1](http://arxiv.org/abs/2602.22247v1)]Multi-Dimensional Spectral Geometry of Biological Knowledge in Single-Cell Transformer Representations**|Ihor Kendiukhov et.al.||
+|**2026-02-15**|**[[2602.22231v1](http://arxiv.org/abs/2602.22231v1)]FM-RME: Foundation Model Empowered Radio Map Estimation**|Dong Yang et.al.||
 |**2026-02-25**|**[[2602.22004v1](http://arxiv.org/abs/2602.22004v1)]Probing Large-scale Structure and the Multi-Phase IGM at the Cosmic Noon -- Insights from a Joint Survey with Euclid, CSST, JPCam, and JUST**|Jiang-Tao Li et.al.||
 |**2026-02-25**|**[[2602.21910v1](http://arxiv.org/abs/2602.21910v1)]The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions**|Alexander Heinlein et.al.||
 |**2026-02-25**|**[[2602.21905v1](http://arxiv.org/abs/2602.21905v1)]TIRAuxCloud: A Thermal Infrared Dataset for Day and Night Cloud Detection**|Alexis Apostolakis et.al.||
@@ -524,7 +535,7 @@ layout: default
 |**2026-02-11**|**[[2602.11356v1](http://arxiv.org/abs/2602.11356v1)]ALMA Band1 observations of the rhoOphW filament I. Enhanced power from excess microwave emission at high spatial frequencies**|Simon Casassus et.al.||
 |**2026-02-11**|**[[2602.11326v1](http://arxiv.org/abs/2602.11326v1)]Multi-ion entangling gates mediated by spectrally unresolved modes**|Modesto Orozco-Ruiz et.al.||
 |**2026-02-11**|**[[2602.11264v1](http://arxiv.org/abs/2602.11264v1)]Time delays and stationarity in quasar light curves**|Namu Kroupa et.al.||
-|**2026-02-10**|**[[2602.11205v1](http://arxiv.org/abs/2602.11205v1)]Multi-scale Vandermonde test kernels for spectral trace formulas**|Stefan Horvath et.al.||
+|**2026-02-26**|**[[2602.11205v2](http://arxiv.org/abs/2602.11205v2)]Multi-scale Vandermonde test kernels for spectral trace formulas**|Stefan Horvath et.al.||
 |**2026-02-11**|**[[2602.11014v1](http://arxiv.org/abs/2602.11014v1)]Vertically Correlated Disorder and Structured Interlayer Tunneling in Cuprates**|E. Yu. Beliayev et.al.||
 |**2026-02-11**|**[[2602.10978v1](http://arxiv.org/abs/2602.10978v1)]VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation**|Ruiqi Song et.al.||
 |**2026-02-11**|**[[2602.10867v1](http://arxiv.org/abs/2602.10867v1)]Deep Learning of Compositional Targets with Hierarchical Spectral Methods**|Hugo Tabanelli et.al.||
