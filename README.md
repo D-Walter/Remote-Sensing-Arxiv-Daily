@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-02-26**|**[[2602.23439v1](http://arxiv.org/abs/2602.23439v1)]Resonance-Enhanced Four-Wave Mixing Imaging for Mapping Defect Regions in Vanadium-Doped WS2 Monolayers**|Felipe Menescal et.al.||
 |**2026-02-25**|**[[2602.22140v1](http://arxiv.org/abs/2602.22140v1)]Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.||
 |**2026-02-23**|**[[2602.20316v1](http://arxiv.org/abs/2602.20316v1)]Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.||
 |**2026-02-23**|**[[2602.19888v1](http://arxiv.org/abs/2602.19888v1)]A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy**|Naoki Wada et.al.||
@@ -445,6 +446,11 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-02-27**|**[[2602.24218v1](http://arxiv.org/abs/2602.24218v1)]First spectroscopic identification of the main sequence in Westerlund 1**|R. Castellanos et.al.||
+|**2026-02-27**|**[[2602.24212v1](http://arxiv.org/abs/2602.24212v1)]Spin dynamics of the spin-1 triangular lattice Heisenberg antiferromagnet K $_2$Ni(SeO$_3$)$_2$**|Chaebin Kim et.al.||
+|**2026-02-27**|**[[2602.24199v1](http://arxiv.org/abs/2602.24199v1)]Electro-optic frequency combs for multi-wavelength digital holography with high dynamic range**|Leonard Voßgrag et.al.||
+|**2026-02-27**|**[[2602.23785v1](http://arxiv.org/abs/2602.23785v1)]Provable Subspace Identification of Nonlinear Multi-view CCA**|Zhiwei Han et.al.||
+|**2026-02-26**|**[[2602.23534v1](http://arxiv.org/abs/2602.23534v1)]Are Stacked Intelligent Metasurfaces (SIMs) Better than Single-layer Reconfigurable Intelligent Surfaces (RISs) for Wideband Multi-user MIMO Communication Systems?**|Muhammad Ibrahim et.al.||
 |**2026-02-26**|**[[2602.23309v1](http://arxiv.org/abs/2602.23309v1)]A precessing jet from a supermassive black hole: multi-wavelength observations of S5 1044+71**|M. Cerruti et.al.||
 |**2026-02-26**|**[[2602.23255v1](http://arxiv.org/abs/2602.23255v1)]Variability of the X-ray obscuring wind in Mrk 335 with XMM-Newton/RGS**|Daniele Rogantini et.al.||
 |**2026-02-26**|**[[2602.23238v1](http://arxiv.org/abs/2602.23238v1)]Gaussian mode coupling of spectrally broadband photons from bulk spontaneous parametric down-conversion: A spatial-spectral mode analysis of fiber coupling**|Carlos Sevilla-Gutiérrez et.al.||
@@ -530,7 +536,7 @@
 |**2026-02-12**|**[[2602.11511v1](http://arxiv.org/abs/2602.11511v1)]Representation Learning with Blockwise Missingness and Signal Heterogeneity**|Ziqi Liu et.al.|Denoising|
 |**2026-02-11**|**[[2602.11356v1](http://arxiv.org/abs/2602.11356v1)]ALMA Band1 observations of the rhoOphW filament I. Enhanced power from excess microwave emission at high spatial frequencies**|Simon Casassus et.al.||
 |**2026-02-11**|**[[2602.11326v1](http://arxiv.org/abs/2602.11326v1)]Multi-ion entangling gates mediated by spectrally unresolved modes**|Modesto Orozco-Ruiz et.al.||
-|**2026-02-11**|**[[2602.11264v1](http://arxiv.org/abs/2602.11264v1)]Time delays and stationarity in quasar light curves**|Namu Kroupa et.al.||
+|**2026-02-27**|**[[2602.11264v2](http://arxiv.org/abs/2602.11264v2)]Time delays and stationarity in quasar light curves**|Namu Kroupa et.al.||
 |**2026-02-26**|**[[2602.11205v2](http://arxiv.org/abs/2602.11205v2)]Multi-scale Vandermonde test kernels for spectral trace formulas**|Stefan Horvath et.al.||
 |**2026-02-11**|**[[2602.11014v1](http://arxiv.org/abs/2602.11014v1)]Vertically Correlated Disorder and Structured Interlayer Tunneling in Cuprates**|E. Yu. Beliayev et.al.||
 |**2026-02-11**|**[[2602.10978v1](http://arxiv.org/abs/2602.10978v1)]VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation**|Ruiqi Song et.al.||
