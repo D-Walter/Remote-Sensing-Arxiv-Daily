@@ -24,6 +24,11 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-01**|**[[2603.01174v1](http://arxiv.org/abs/2603.01174v1)]VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|Classification|
+|**2026-03-01**|**[[2603.00920v1](http://arxiv.org/abs/2603.00920v1)]Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image**|Si-Sheng Young et.al.|Superresolution|
+|**2026-02-28**|**[[2603.00611v1](http://arxiv.org/abs/2603.00611v1)]Exploring Spatiotemporal Feature Propagation for Video-Level Compressive Spectral Reconstruction: Dataset, Model and Benchmark**|Lijing Cai et.al.||
+|**2026-02-28**|**[[2603.00474v1](http://arxiv.org/abs/2603.00474v1)]Wireless Power Control Based on Large Language Models**|Jiacheng Wang et.al.||
+|**2026-02-27**|**[[2603.00273v1](http://arxiv.org/abs/2603.00273v1)]Ozone Cues Mitigate Reflected Downwelling Radiance in LWIR Absorption-Based Ranging**|Unay Dorken Gallastegi et.al.||
 |**2026-02-26**|**[[2602.23439v1](http://arxiv.org/abs/2602.23439v1)]Resonance-Enhanced Four-Wave Mixing Imaging for Mapping Defect Regions in Vanadium-Doped WS2 Monolayers**|Felipe Menescal et.al.||
 |**2026-02-25**|**[[2602.22140v1](http://arxiv.org/abs/2602.22140v1)]Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.||
 |**2026-02-23**|**[[2602.20316v1](http://arxiv.org/abs/2602.20316v1)]Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.||
@@ -450,6 +455,32 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-02**|**[[2603.02122v1](http://arxiv.org/abs/2603.02122v1)]Deep Unfolding for SIM-Assisted Multiband MU-MISO Downlink Systems**|Muhammad Ibrahim et.al.||
+|**2026-03-02**|**[[2603.01932v1](http://arxiv.org/abs/2603.01932v1)]BAWSeg: A UAV Multispectral Benchmark for Barley Weed Segmentation**|Haitian Wang et.al.||
+|**2026-03-02**|**[[2603.01833v1](http://arxiv.org/abs/2603.01833v1)]Inverse problem for a multi-term time-fractional diffusion equation with the Caputo derivatives**|Ravshan Ashurov et.al.||
+|**2026-03-02**|**[[2603.01812v1](http://arxiv.org/abs/2603.01812v1)]Neural Operator-Grounded Continuous Tensor Function Representation and Its Applications**|Ruoyang Su et.al.||
+|**2026-03-02**|**[[2603.01633v1](http://arxiv.org/abs/2603.01633v1)]Episode-wise spectro-polarimetry of GRB 220107A: Testing the hypothesis of evolving radiation mechanisms**|Rahul Gupta et.al.||
+|**2026-03-02**|**[[2603.01542v1](http://arxiv.org/abs/2603.01542v1)]Deep-ultraviolet Cherenkov radiation in all-normal-dispersion waveguide enabled by spatial-temporal dynamics**|Tiandao Chen et.al.||
+|**2026-03-02**|**[[2603.01526v1](http://arxiv.org/abs/2603.01526v1)]Scalable Multi-Task Low-Rank Model Adaptation**|Zichen Tian et.al.||
+|**2026-03-02**|**[[2603.01380v1](http://arxiv.org/abs/2603.01380v1)]Topological Diagnosis of Optical Composites via Inversion of Nonlinear Dielectric Mixing Rules**|Proity Nayeeb Akbar et.al.||
+|**2026-03-02**|**[[2603.01332v1](http://arxiv.org/abs/2603.01332v1)]Perspective-Equivariant Fine-tuning for Multispectral Demosaicing without Ground Truth**|Andrew Wang et.al.||
+|**2026-03-01**|**[[2603.01279v1](http://arxiv.org/abs/2603.01279v1)]Energy analysis of 2D electro-thermo-hydrodynamic turbulent convection**|Owen Hutchinson et.al.||
+|**2026-03-01**|**[[2603.01174v1](http://arxiv.org/abs/2603.01174v1)]VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|Classification|
+|**2026-03-01**|**[[2603.01028v1](http://arxiv.org/abs/2603.01028v1)]Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features**|Junbo Ke et.al.||
+|**2026-03-01**|**[[2603.01001v1](http://arxiv.org/abs/2603.01001v1)]Data-Free PINNs for Compressible Flows: Mitigating Spectral Bias and Gradient Pathologies via Mach-Guided Scaling and Hybrid Convolutions**|Ryosuke Yano et.al.||
+|**2026-03-01**|**[[2603.00920v1](http://arxiv.org/abs/2603.00920v1)]Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image**|Si-Sheng Young et.al.|Superresolution|
+|**2026-03-01**|**[[2603.00863v1](http://arxiv.org/abs/2603.00863v1)]ALMA Central molecular zone Exploration Survey (ACES) V: CS(2-1), SO(2_3-1_2), CH3CHO(5_1,4-4_1,3), HC3N(11-10), and H40a lines data**|Pei-Ying Hsieh et.al.||
+|**2026-02-28**|**[[2603.00746v1](http://arxiv.org/abs/2603.00746v1)]SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion**|Faria Ahmed et.al.|Classification|
+|**2026-02-28**|**[[2603.00543v1](http://arxiv.org/abs/2603.00543v1)]Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark**|Ke Cao et.al.|Pansharpening|
+|**2026-02-28**|**[[2603.00407v1](http://arxiv.org/abs/2603.00407v1)]Adaptive Channel Estimation and Hybrid Beamforming for RIS aided Vehicular Communication**|Tianyou Li et.al.||
+|**2026-02-27**|**[[2603.00383v1](http://arxiv.org/abs/2603.00383v1)]A divide-and-conquer strategy for fast elastodynamic simulation of earthquakes and aseismic slip on fault networks**|Federico Ciardo et.al.||
+|**2026-02-27**|**[[2603.00240v1](http://arxiv.org/abs/2603.00240v1)]Spectroscopic follow-up of hot subdwarf variables found in ZTF -- Atmospheric and fundamental properties of radial-mode sdB pulsators**|Corey W. Bradshaw et.al.||
+|**2026-02-27**|**[[2603.00234v1](http://arxiv.org/abs/2603.00234v1)]Constraining the synchrotron peak and estimating the VHE brightness of a sample of extreme high synchrotron peak blazars**|Federica Sibani et.al.||
+|**2026-02-27**|**[[2603.00212v1](http://arxiv.org/abs/2603.00212v1)]Graph-Based Multi-Omics Integration Improves Subtype Recovery and Survival Prediction Over Classical Integration Strategies in TCGA-BRCA**|Taha Ahmad et.al.|Classification|
+|**2026-02-26**|**[[2603.00175v1](http://arxiv.org/abs/2603.00175v1)]Infinite Self-Attention**|Giorgio Roffo et.al.||
+|**2026-02-25**|**[[2603.00149v1](http://arxiv.org/abs/2603.00149v1)]Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction**|Zhihao Li et.al.|Superresolution|
+|**2026-02-24**|**[[2603.00139v1](http://arxiv.org/abs/2603.00139v1)]Towards Data-driven Nitrogen Estimation in Wheat Fields using Multispectral Images**|Andreas Tritsarolis et.al.||
+|**2026-02-23**|**[[2603.00121v1](http://arxiv.org/abs/2603.00121v1)]Graph-theoretic Agreement Framework for Multi-agent LLM Systems**|Muhammad Umar Javed et.al.||
 |**2026-02-27**|**[[2602.24218v1](http://arxiv.org/abs/2602.24218v1)]First spectroscopic identification of the main sequence in Westerlund 1**|R. Castellanos et.al.||
 |**2026-02-27**|**[[2602.24212v1](http://arxiv.org/abs/2602.24212v1)]Spin dynamics of the spin-1 triangular lattice Heisenberg antiferromagnet K $_2$Ni(SeO$_3$)$_2$**|Chaebin Kim et.al.||
 |**2026-02-27**|**[[2602.24199v1](http://arxiv.org/abs/2602.24199v1)]Electro-optic frequency combs for multi-wavelength digital holography with high dynamic range**|Leonard Voßgrag et.al.||
@@ -483,11 +514,11 @@ layout: default
 |**2026-02-24**|**[[2602.20101v2](http://arxiv.org/abs/2602.20101v2)]HelioSpectrotron 5000: An interactive multi-resolution solar spectral atlas**|A. G. M. Pietrow et.al.||
 |**2026-02-23**|**[[2602.19997v1](http://arxiv.org/abs/2602.19997v1)]The major merger-active galactic nucleus connection up to the cosmic noon**|A. La Marca et.al.||
 |**2026-02-23**|**[[2602.19941v1](http://arxiv.org/abs/2602.19941v1)]Probing Dust in the MWC 480 Disk from Millimeter to Centimeter Wavelengths**|Yangfan Shi et.al.||
-|**2026-02-23**|**[[2602.19933v1](http://arxiv.org/abs/2602.19933v1)]Edge-based Synchronization over Signed Digraphs with Multiple Leaders**|Pelin Sekercioglu et.al.||
+|**2026-03-02**|**[[2602.19933v2](http://arxiv.org/abs/2602.19933v2)]Edge-based Synchronization over Signed Digraphs with Multiple Leaders**|Pelin Sekercioglu et.al.||
 |**2026-02-23**|**[[2602.19897v1](http://arxiv.org/abs/2602.19897v1)]Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051**|James Reeves et.al.||
 |**2026-02-24**|**[[2602.19863v2](http://arxiv.org/abs/2602.19863v2)]Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|Classification|
 |**2026-02-23**|**[[2602.19855v1](http://arxiv.org/abs/2602.19855v1)]SHIELD: Semantic Heterogeneity Integrated Embedding for Latent Discovery in Clinical Trial Safety Signals**|Francois Vandenhende et.al.||
-|**2026-02-23**|**[[2602.19825v1](http://arxiv.org/abs/2602.19825v1)]DTT-BSR: GAN-based DTTNet with RoPE Transformer Enhancement for Music Source Restoration**|Shihong Tan et.al.||
+|**2026-03-02**|**[[2602.19825v2](http://arxiv.org/abs/2602.19825v2)]DTT-BSR: GAN-based DTTNet with RoPE Transformer Enhancement for Music Source Restoration**|Shihong Tan et.al.||
 |**2026-02-23**|**[[2602.19738v1](http://arxiv.org/abs/2602.19738v1)]Individualized Causal Effects under Network Interference with Combinatorial Treatments**|Yunping Lu et.al.||
 |**2026-02-23**|**[[2602.19652v1](http://arxiv.org/abs/2602.19652v1)]Hardware-Accelerated Geometrical Simulation of Biological and Engineered In-Air Ultrasonic Systems**|Wouter Jansen et.al.||
 |**2026-02-23**|**[[2602.19638v1](http://arxiv.org/abs/2602.19638v1)]MEDUSA I. Tracing magnetic field structures in tidal arms of the dwarf-dwarf merger NGC 1487**|Sam Taziaux et.al.||
