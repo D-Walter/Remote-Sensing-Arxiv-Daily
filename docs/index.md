@@ -455,6 +455,11 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-03**|**[[2603.03112v1](http://arxiv.org/abs/2603.03112v1)]From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs**|Pengyu Lai et.al.||
+|**2026-03-03**|**[[2603.02745v1](http://arxiv.org/abs/2603.02745v1)]Enhancing User Throughput in Multi-panel mmWave Radio Access Networks for Beam-based MU-MIMO Using a DRL Method**|Ramin Hashemi et.al.||
+|**2026-03-03**|**[[2603.02536v1](http://arxiv.org/abs/2603.02536v1)]Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**|Jinghong Huang et.al.||
+|**2026-03-02**|**[[2603.02447v1](http://arxiv.org/abs/2603.02447v1)]Spectral Regularization for Diffusion Models**|Satish Chandran et.al.||
+|**2026-03-02**|**[[2603.02386v1](http://arxiv.org/abs/2603.02386v1)]Advancing Earth Observation Through Machine Learning: A TorchGeo Tutorial**|Caleb Robinson et.al.||
 |**2026-03-02**|**[[2603.02122v1](http://arxiv.org/abs/2603.02122v1)]Deep Unfolding for SIM-Assisted Multiband MU-MISO Downlink Systems**|Muhammad Ibrahim et.al.||
 |**2026-03-02**|**[[2603.01932v1](http://arxiv.org/abs/2603.01932v1)]BAWSeg: A UAV Multispectral Benchmark for Barley Weed Segmentation**|Haitian Wang et.al.||
 |**2026-03-02**|**[[2603.01833v1](http://arxiv.org/abs/2603.01833v1)]Inverse problem for a multi-term time-fractional diffusion equation with the Caputo derivatives**|Ravshan Ashurov et.al.||
