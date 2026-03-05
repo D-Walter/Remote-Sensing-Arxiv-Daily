@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-04**|**[[2603.03812v1](http://arxiv.org/abs/2603.03812v1)]Video-rate volumetric chemical imaging via mid-infrared photothermal optical diffraction tomography**|Masato Fukushima et.al.||
+|**2026-03-03**|**[[2603.03418v1](http://arxiv.org/abs/2603.03418v1)]mHC-HSI: Clustering-Guided Hyper-Connection Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|Classification|
 |**2026-03-01**|**[[2603.01174v1](http://arxiv.org/abs/2603.01174v1)]VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|Classification|
 |**2026-03-01**|**[[2603.00920v1](http://arxiv.org/abs/2603.00920v1)]Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image**|Si-Sheng Young et.al.|Superresolution|
 |**2026-02-28**|**[[2603.00611v1](http://arxiv.org/abs/2603.00611v1)]Exploring Spatiotemporal Feature Propagation for Video-Level Compressive Spectral Reconstruction: Dataset, Model and Benchmark**|Lijing Cai et.al.||
@@ -33,6 +35,7 @@ layout: default
 |**2026-02-25**|**[[2602.22140v1](http://arxiv.org/abs/2602.22140v1)]Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.||
 |**2026-02-23**|**[[2602.20316v1](http://arxiv.org/abs/2602.20316v1)]Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.||
 |**2026-02-23**|**[[2602.19888v1](http://arxiv.org/abs/2602.19888v1)]A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy**|Naoki Wada et.al.||
+|**2026-03-04**|**[[2602.18308v2](http://arxiv.org/abs/2602.18308v2)]JPmHC Dynamical Isometry via Orthogonal Hyper-Connections**|Biswa Sengupta et.al.||
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
 |**2026-02-16**|**[[2602.14408v1](http://arxiv.org/abs/2602.14408v1)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
 |**2026-02-13**|**[[2602.13509v1](http://arxiv.org/abs/2602.13509v1)]A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.||
@@ -449,12 +452,21 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-04**|**[[2603.04181v1](http://arxiv.org/abs/2603.04181v1)]REDNET-ML: A Multi-Sensor Machine Learning Pipeline for Harmful Algal Bloom Risk Detection Along the Omani Coast**|Ameer Alhashemi et.al.||
+|**2026-03-04**|**[[2603.04097v1](http://arxiv.org/abs/2603.04097v1)]Spectral Bath Engineering for Quantum-Enhanced Agrivoltaics: Advancing Efficiency and Environmental Sustainability via Non-Markovian Dynamics**|Steve Cabrel Teguia Kouam et.al.||
+|**2026-03-04**|**[[2603.03963v1](http://arxiv.org/abs/2603.03963v1)]TFWaveFormer: Temporal-Frequency Collaborative Multi-level Wavelet Transformer for Dynamic Link Prediction**|Hantong Feng et.al.||
+|**2026-03-04**|**[[2603.03831v1](http://arxiv.org/abs/2603.03831v1)]Universal Pansharpening Foundation Model**|Hebaixu Wang et.al.|Pansharpening|
+|**2026-03-04**|**[[2603.03661v1](http://arxiv.org/abs/2603.03661v1)]Continuous-time multi-armed bandits under random intervention times**|Kei Noba et.al.||
+|**2026-03-03**|**[[2603.03513v1](http://arxiv.org/abs/2603.03513v1)]q-Gaussian Crossover in Overlap Spectra towards 3D Edwards-Anderson Criticality**|Yaprak Onder et.al.||
+|**2026-03-03**|**[[2603.03461v1](http://arxiv.org/abs/2603.03461v1)]Automatic calibration of gamma-ray detectors deployed in uncontrolled environments**|Marco Salathe et.al.||
+|**2026-03-03**|**[[2603.03440v1](http://arxiv.org/abs/2603.03440v1)]CHEX-MATE: Are we getting cluster thermodynamics right?**|R. Seppi et.al.||
+|**2026-02-27**|**[[2603.03354v1](http://arxiv.org/abs/2603.03354v1)]Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow**|Dongyi He et.al.||
 |**2026-03-03**|**[[2603.03112v1](http://arxiv.org/abs/2603.03112v1)]From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs**|Pengyu Lai et.al.||
 |**2026-03-03**|**[[2603.02745v1](http://arxiv.org/abs/2603.02745v1)]Enhancing User Throughput in Multi-panel mmWave Radio Access Networks for Beam-based MU-MIMO Using a DRL Method**|Ramin Hashemi et.al.||
 |**2026-03-03**|**[[2603.02536v1](http://arxiv.org/abs/2603.02536v1)]Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**|Jinghong Huang et.al.||
@@ -474,7 +486,7 @@ layout: default
 |**2026-03-01**|**[[2603.01028v1](http://arxiv.org/abs/2603.01028v1)]Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features**|Junbo Ke et.al.||
 |**2026-03-01**|**[[2603.01001v1](http://arxiv.org/abs/2603.01001v1)]Data-Free PINNs for Compressible Flows: Mitigating Spectral Bias and Gradient Pathologies via Mach-Guided Scaling and Hybrid Convolutions**|Ryosuke Yano et.al.||
 |**2026-03-01**|**[[2603.00920v1](http://arxiv.org/abs/2603.00920v1)]Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image**|Si-Sheng Young et.al.|Superresolution|
-|**2026-03-01**|**[[2603.00863v1](http://arxiv.org/abs/2603.00863v1)]ALMA Central molecular zone Exploration Survey (ACES) V: CS(2-1), SO(2_3-1_2), CH3CHO(5_1,4-4_1,3), HC3N(11-10), and H40a lines data**|Pei-Ying Hsieh et.al.||
+|**2026-03-04**|**[[2603.00863v2](http://arxiv.org/abs/2603.00863v2)]ALMA Central molecular zone Exploration Survey (ACES) V: CS(2-1), SO(2_3-1_2), CH3CHO(5_1,4-4_1,3), HC3N(11-10), and H40a lines data**|Pei-Ying Hsieh et.al.||
 |**2026-02-28**|**[[2603.00746v1](http://arxiv.org/abs/2603.00746v1)]SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion**|Faria Ahmed et.al.|Classification|
 |**2026-02-28**|**[[2603.00543v1](http://arxiv.org/abs/2603.00543v1)]Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark**|Ke Cao et.al.|Pansharpening|
 |**2026-02-28**|**[[2603.00407v1](http://arxiv.org/abs/2603.00407v1)]Adaptive Channel Estimation and Hybrid Beamforming for RIS aided Vehicular Communication**|Tianyou Li et.al.||
@@ -1411,7 +1423,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
