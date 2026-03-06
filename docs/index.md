@@ -24,6 +24,10 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
+|**2026-03-05**|**[[2603.05014v1](http://arxiv.org/abs/2603.05014v1)]Fusion of JWST data - Demonstrating practical feasibility**|Landry Marquis et.al.||
+|**2026-03-05**|**[[2603.04720v1](http://arxiv.org/abs/2603.04720v1)]A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification**|Sai Shi et.al.|Classification|
+|**2026-03-04**|**[[2603.04606v1](http://arxiv.org/abs/2603.04606v1)]PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion**|Mahindra Rautela et.al.||
 |**2026-03-04**|**[[2603.03812v1](http://arxiv.org/abs/2603.03812v1)]Video-rate volumetric chemical imaging via mid-infrared photothermal optical diffraction tomography**|Masato Fukushima et.al.||
 |**2026-03-03**|**[[2603.03418v1](http://arxiv.org/abs/2603.03418v1)]mHC-HSI: Clustering-Guided Hyper-Connection Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|Classification|
 |**2026-03-01**|**[[2603.01174v1](http://arxiv.org/abs/2603.01174v1)]VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|Classification|
@@ -458,6 +462,13 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
+|**2026-03-05**|**[[2603.05127v1](http://arxiv.org/abs/2603.05127v1)]A Fully Open-source Implementation of an Analog 8-PAM Demapper for High-speed Communications**|Mohamed Aiham Hemza et.al.||
+|**2026-03-05**|**[[2603.04970v1](http://arxiv.org/abs/2603.04970v1)]Uniform process tensor approach for the calculation of multi-time correlation functions of non-Markovian open systems**|Matteo Garbellini et.al.||
+|**2026-03-05**|**[[2603.04781v1](http://arxiv.org/abs/2603.04781v1)]Could the interaction of jet and SN ejecta be the cause of X-ray knots observed in a radio galaxy?**|Jia-Chun He et.al.||
+|**2026-03-04**|**[[2603.04586v1](http://arxiv.org/abs/2603.04586v1)]NEXUS: Quick Release Notes**|Ming-Yang Zhuang et.al.||
+|**2026-03-04**|**[[2603.04562v1](http://arxiv.org/abs/2603.04562v1)]Fusion and Grouping Strategies in Deep Learning for Local Climate Zone Classification of Multimodal Remote Sensing Data**|Ancymol Thomas et.al.|Classification|
+|**2026-03-04**|**[[2603.04524v1](http://arxiv.org/abs/2603.04524v1)]Towards Predictive Quantum Algorithmic Performance: Modeling Time-Correlated Noise at Scale**|Amit Jamadagni et.al.||
 |**2026-03-04**|**[[2603.04181v1](http://arxiv.org/abs/2603.04181v1)]REDNET-ML: A Multi-Sensor Machine Learning Pipeline for Harmful Algal Bloom Risk Detection Along the Omani Coast**|Ameer Alhashemi et.al.||
 |**2026-03-04**|**[[2603.04097v1](http://arxiv.org/abs/2603.04097v1)]Spectral Bath Engineering for Quantum-Enhanced Agrivoltaics: Advancing Efficiency and Environmental Sustainability via Non-Markovian Dynamics**|Steve Cabrel Teguia Kouam et.al.||
 |**2026-03-04**|**[[2603.03963v1](http://arxiv.org/abs/2603.03963v1)]TFWaveFormer: Temporal-Frequency Collaborative Multi-level Wavelet Transformer for Dynamic Link Prediction**|Hantong Feng et.al.||
