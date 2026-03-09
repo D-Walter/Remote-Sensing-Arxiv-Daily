@@ -458,6 +458,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-06**|**[[2603.06541v1](http://arxiv.org/abs/2603.06541v1)]Codebook Design and Baseband Precoding for Pragmatic Array-Fed RIS Hybrid Multiuser MIMO**|Krishan Kumar Tiwari et.al.||
 |**2026-03-06**|**[[2603.06047v1](http://arxiv.org/abs/2603.06047v1)]High-Harmonic Coherent Pulse Generation in a Storage Ring Using Multiple-Echo-Enabled Harmonic Generation**|Weihang Liu et.al.||
 |**2026-03-06**|**[[2603.05787v1](http://arxiv.org/abs/2603.05787v1)]Spectral Probing of Feature Upsamplers in 2D-to-3D Scene Reconstruction**|Ling Xiao et.al.||
 |**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
