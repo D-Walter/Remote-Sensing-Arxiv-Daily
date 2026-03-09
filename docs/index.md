@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -456,12 +456,14 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-06**|**[[2603.06047v1](http://arxiv.org/abs/2603.06047v1)]High-Harmonic Coherent Pulse Generation in a Storage Ring Using Multiple-Echo-Enabled Harmonic Generation**|Weihang Liu et.al.||
+|**2026-03-06**|**[[2603.05787v1](http://arxiv.org/abs/2603.05787v1)]Spectral Probing of Feature Upsamplers in 2D-to-3D Scene Reconstruction**|Ling Xiao et.al.||
 |**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
 |**2026-03-05**|**[[2603.05127v1](http://arxiv.org/abs/2603.05127v1)]A Fully Open-source Implementation of an Analog 8-PAM Demapper for High-speed Communications**|Mohamed Aiham Hemza et.al.||
 |**2026-03-05**|**[[2603.04970v1](http://arxiv.org/abs/2603.04970v1)]Uniform process tensor approach for the calculation of multi-time correlation functions of non-Markovian open systems**|Matteo Garbellini et.al.||
@@ -499,7 +501,7 @@ layout: default
 |**2026-03-01**|**[[2603.00920v1](http://arxiv.org/abs/2603.00920v1)]Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image**|Si-Sheng Young et.al.|Superresolution|
 |**2026-03-04**|**[[2603.00863v2](http://arxiv.org/abs/2603.00863v2)]ALMA Central molecular zone Exploration Survey (ACES) V: CS(2-1), SO(2_3-1_2), CH3CHO(5_1,4-4_1,3), HC3N(11-10), and H40a lines data**|Pei-Ying Hsieh et.al.||
 |**2026-02-28**|**[[2603.00746v1](http://arxiv.org/abs/2603.00746v1)]SpectroFusion-ViT: A Lightweight Transformer for Speech Emotion Recognition Using Harmonic Mel-Chroma Fusion**|Faria Ahmed et.al.|Classification|
-|**2026-02-28**|**[[2603.00543v1](http://arxiv.org/abs/2603.00543v1)]Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark**|Ke Cao et.al.|Pansharpening|
+|**2026-03-06**|**[[2603.00543v2](http://arxiv.org/abs/2603.00543v2)]Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark**|Ke Cao et.al.|Pansharpening|
 |**2026-02-28**|**[[2603.00407v1](http://arxiv.org/abs/2603.00407v1)]Adaptive Channel Estimation and Hybrid Beamforming for RIS aided Vehicular Communication**|Tianyou Li et.al.||
 |**2026-02-27**|**[[2603.00383v1](http://arxiv.org/abs/2603.00383v1)]A divide-and-conquer strategy for fast elastodynamic simulation of earthquakes and aseismic slip on fault networks**|Federico Ciardo et.al.||
 |**2026-02-27**|**[[2603.00240v1](http://arxiv.org/abs/2603.00240v1)]Spectroscopic follow-up of hot subdwarf variables found in ZTF -- Atmospheric and fundamental properties of radial-mode sdB pulsators**|Corey W. Bradshaw et.al.||
@@ -1434,7 +1436,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
