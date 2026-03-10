@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,11 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-09**|**[[2603.07918v1](http://arxiv.org/abs/2603.07918v1)]Enhancing Unregistered Hyperspectral Image Super-Resolution via Unmixing-based Abundance Fusion Learning**|Yingkai Zhang et.al.|Unmixing, Superresolution|
+|**2026-03-08**|**[[2603.07666v1](http://arxiv.org/abs/2603.07666v1)]AI-Driven Phase Identification from X-ray Hyperspectral Imaging of cycled Na-ion Cathode Materials**|Fayçal Adrar et.al.||
+|**2026-03-08**|**[[2603.07418v1](http://arxiv.org/abs/2603.07418v1)]Fluctuation imaging of disorder in monolayer semiconductors**|Tom T. C. Sistermans et.al.|Superresolution|
+|**2026-03-04**|**[[2603.06690v1](http://arxiv.org/abs/2603.06690v1)]Spectral Gaps and Spatial Priors: Studying Hyperspectral Downstream Adaptation Using TerraMind**|Julia Anna Leonardi et.al.||
+|**2026-03-03**|**[[2603.06673v1](http://arxiv.org/abs/2603.06673v1)]Unmixing microinfrared spectroscopic images of cross-sections of historical oil paintings**|Shivam Pande et.al.|Unmixing|
 |**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
 |**2026-03-05**|**[[2603.05014v1](http://arxiv.org/abs/2603.05014v1)]Fusion of JWST data - Demonstrating practical feasibility**|Landry Marquis et.al.||
 |**2026-03-05**|**[[2603.04720v1](http://arxiv.org/abs/2603.04720v1)]A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification**|Sai Shi et.al.|Classification|
@@ -456,12 +461,32 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-09**|**[[2603.08574v1](http://arxiv.org/abs/2603.08574v1)]Scalable Neural Vocoder from Range-Null Space Decomposition**|Andong Li et.al.||
+|**2026-03-09**|**[[2603.08494v1](http://arxiv.org/abs/2603.08494v1)]First-Order Geometry, Spectral Compression, and Structural Compatibility under Bounded Computation**|Changkai Li et.al.||
+|**2026-03-09**|**[[2603.08472v1](http://arxiv.org/abs/2603.08472v1)]Multi-Mode Pinching-Antenna Systems: Mode Selection or Mode Combining?**|Xiaoxia Xu et.al.||
+|**2026-03-09**|**[[2603.08348v1](http://arxiv.org/abs/2603.08348v1)]Multi-Axis Concentration Modulation for Mobile Molecular Communication Systems**|Muskan Ahuja et.al.||
+|**2026-03-08**|**[[2603.07755v1](http://arxiv.org/abs/2603.07755v1)]Whitening Reveals Cluster Commitment as the Geometric Separator of Hallucination Types**|Matic Korun et.al.||
+|**2026-03-08**|**[[2603.07719v1](http://arxiv.org/abs/2603.07719v1)]Secure and Robust Beamforming Design for STAR-RIS-aided MU-MIMO ISAC Systems**|Rakesh Ranjan et.al.||
+|**2026-03-08**|**[[2603.07652v1](http://arxiv.org/abs/2603.07652v1)]GLASS: Graph and Vision-Language Assisted Semantic Shape Correspondence**|Qinfeng Xiao et.al.||
+|**2026-03-08**|**[[2603.07463v1](http://arxiv.org/abs/2603.07463v1)]SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing**|Xiaokang Zhang et.al.|Classification|
+|**2026-03-08**|**[[2603.07404v1](http://arxiv.org/abs/2603.07404v1)]Adaptive Capacity Allocation for Vision Language Action Fine-tuning**|Donghoon Kim et.al.||
+|**2026-03-07**|**[[2603.07325v1](http://arxiv.org/abs/2603.07325v1)]Covariant Multi-Scale Negative Coupling on Dynamic Riemannian Manifolds: A Geometric Framework for Topological Persistence in Infinite-Dimensional Systems**|Pengyue Hou et.al.||
+|**2026-03-07**|**[[2603.07299v1](http://arxiv.org/abs/2603.07299v1)]Spectral Discovery of Continuous Symmetries via Generalized Fourier Transforms**|Pavan Karjol et.al.||
+|**2026-03-07**|**[[2603.07031v1](http://arxiv.org/abs/2603.07031v1)]Quantum criticality in sub-Ohmic systems with three competing terms: beyond conventional spin-boson physics**|Nengji Zhou et.al.||
+|**2026-03-06**|**[[2603.06920v1](http://arxiv.org/abs/2603.06920v1)]DLRMamba: Distilling Low-Rank Mamba for Edge Multispectral Fusion Object Detection**|Qianqian Zhang et.al.|Object Detection|
+|**2026-03-06**|**[[2603.06782v1](http://arxiv.org/abs/2603.06782v1)]Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data**|Marawan Yakout et.al.||
+|**2026-03-06**|**[[2603.06753v1](http://arxiv.org/abs/2603.06753v1)]EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track**|Zhenyuan Chen et.al.||
+|**2026-03-06**|**[[2603.06723v1](http://arxiv.org/abs/2603.06723v1)]UWPD: A General Paradigm for Invisible Watermark Detection Agnostic to Embedding Algorithms**|Xiang Ao et.al.||
+|**2026-03-05**|**[[2603.06702v1](http://arxiv.org/abs/2603.06702v1)]Green-Function and Information-Geometric Correspondences Between Inverse Eigenvalue Loci of Generalized Lucas Sequences and the Mandelbrot Set**|Arturo Ortiz-Tapia et.al.||
+|**2026-03-03**|**[[2603.06673v1](http://arxiv.org/abs/2603.06673v1)]Unmixing microinfrared spectroscopic images of cross-sections of historical oil paintings**|Shivam Pande et.al.||
+|**2026-02-28**|**[[2603.06655v1](http://arxiv.org/abs/2603.06655v1)]A Parameter-efficient Convolutional Approach for Weed Detection in Multispectral Aerial Imagery**|Leo Thomas Ramos et.al.||
+|**2026-02-27**|**[[2603.06646v1](http://arxiv.org/abs/2603.06646v1)]Trust Aware Federated Learning for Secure Bone Healing Stage Interpretation in e-Health**|Paul Shepherd et.al.|Classification|
 |**2026-03-06**|**[[2603.06541v1](http://arxiv.org/abs/2603.06541v1)]Codebook Design and Baseband Precoding for Pragmatic Array-Fed RIS Hybrid Multiuser MIMO**|Krishan Kumar Tiwari et.al.||
 |**2026-03-06**|**[[2603.06047v1](http://arxiv.org/abs/2603.06047v1)]High-Harmonic Coherent Pulse Generation in a Storage Ring Using Multiple-Echo-Enabled Harmonic Generation**|Weihang Liu et.al.||
 |**2026-03-06**|**[[2603.05787v1](http://arxiv.org/abs/2603.05787v1)]Spectral Probing of Feature Upsamplers in 2D-to-3D Scene Reconstruction**|Ling Xiao et.al.||
@@ -480,7 +505,7 @@ layout: default
 |**2026-03-03**|**[[2603.03513v1](http://arxiv.org/abs/2603.03513v1)]q-Gaussian Crossover in Overlap Spectra towards 3D Edwards-Anderson Criticality**|Yaprak Onder et.al.||
 |**2026-03-03**|**[[2603.03461v1](http://arxiv.org/abs/2603.03461v1)]Automatic calibration of gamma-ray detectors deployed in uncontrolled environments**|Marco Salathe et.al.||
 |**2026-03-03**|**[[2603.03440v1](http://arxiv.org/abs/2603.03440v1)]CHEX-MATE: Are we getting cluster thermodynamics right?**|R. Seppi et.al.||
-|**2026-02-27**|**[[2603.03354v1](http://arxiv.org/abs/2603.03354v1)]Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow**|Dongyi He et.al.||
+|**2026-03-08**|**[[2603.03354v2](http://arxiv.org/abs/2603.03354v2)]Non-Invasive Reconstruction of Intracranial EEG Across the Deep Temporal Lobe from Scalp EEG based on Conditional Normalizing Flow**|Dongyi He et.al.||
 |**2026-03-03**|**[[2603.03112v1](http://arxiv.org/abs/2603.03112v1)]From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs**|Pengyu Lai et.al.||
 |**2026-03-03**|**[[2603.02745v1](http://arxiv.org/abs/2603.02745v1)]Enhancing User Throughput in Multi-panel mmWave Radio Access Networks for Beam-based MU-MIMO Using a DRL Method**|Ramin Hashemi et.al.||
 |**2026-03-03**|**[[2603.02536v1](http://arxiv.org/abs/2603.02536v1)]Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**|Jinghong Huang et.al.||
@@ -508,7 +533,7 @@ layout: default
 |**2026-02-27**|**[[2603.00240v1](http://arxiv.org/abs/2603.00240v1)]Spectroscopic follow-up of hot subdwarf variables found in ZTF -- Atmospheric and fundamental properties of radial-mode sdB pulsators**|Corey W. Bradshaw et.al.||
 |**2026-02-27**|**[[2603.00234v1](http://arxiv.org/abs/2603.00234v1)]Constraining the synchrotron peak and estimating the VHE brightness of a sample of extreme high synchrotron peak blazars**|Federica Sibani et.al.||
 |**2026-02-27**|**[[2603.00212v1](http://arxiv.org/abs/2603.00212v1)]Graph-Based Multi-Omics Integration Improves Subtype Recovery and Survival Prediction Over Classical Integration Strategies in TCGA-BRCA**|Taha Ahmad et.al.|Classification|
-|**2026-02-26**|**[[2603.00175v1](http://arxiv.org/abs/2603.00175v1)]Infinite Self-Attention**|Giorgio Roffo et.al.||
+|**2026-03-08**|**[[2603.00175v2](http://arxiv.org/abs/2603.00175v2)]Self-Attention And Beyond the Infinite: Towards Linear Transformers with Infinite Self-Attention**|Giorgio Roffo et.al.||
 |**2026-02-25**|**[[2603.00149v1](http://arxiv.org/abs/2603.00149v1)]Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction**|Zhihao Li et.al.|Superresolution|
 |**2026-02-24**|**[[2603.00139v1](http://arxiv.org/abs/2603.00139v1)]Towards Data-driven Nitrogen Estimation in Wheat Fields using Multispectral Images**|Andreas Tritsarolis et.al.||
 |**2026-02-23**|**[[2603.00121v1](http://arxiv.org/abs/2603.00121v1)]Graph-theoretic Agreement Framework for Multi-agent LLM Systems**|Muhammad Umar Javed et.al.||
@@ -1437,7 +1462,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
