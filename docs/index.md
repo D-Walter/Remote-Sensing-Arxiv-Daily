@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.10
+## Updated on 2026.03.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-10**|**[[2603.09116v1](http://arxiv.org/abs/2603.09116v1)]MetaSpectra+: A Compact Broadband Metasurface Camera for Snapshot Hyperspectral+ Imaging**|Yuxuan Liu et.al.||
+|**2026-03-10**|**[[2603.09037v1](http://arxiv.org/abs/2603.09037v1)]WS-Net: Weak-Signal Representation Learning and Gated Abundance Reconstruction for Hyperspectral Unmixing via State-Space and Weak Signal Attention Fusion**|Zekun Long et.al.|Unmixing|
 |**2026-03-09**|**[[2603.07918v1](http://arxiv.org/abs/2603.07918v1)]Enhancing Unregistered Hyperspectral Image Super-Resolution via Unmixing-based Abundance Fusion Learning**|Yingkai Zhang et.al.|Unmixing, Superresolution|
 |**2026-03-08**|**[[2603.07666v1](http://arxiv.org/abs/2603.07666v1)]AI-Driven Phase Identification from X-ray Hyperspectral Imaging of cycled Na-ion Cathode Materials**|Fayçal Adrar et.al.||
 |**2026-03-08**|**[[2603.07418v1](http://arxiv.org/abs/2603.07418v1)]Fluctuation imaging of disorder in monolayer semiconductors**|Tom T. C. Sistermans et.al.|Superresolution|
@@ -461,13 +463,25 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260312>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
-|**2026-03-09**|**[[2603.08574v1](http://arxiv.org/abs/2603.08574v1)]Scalable Neural Vocoder from Range-Null Space Decomposition**|Andong Li et.al.||
+|**2026-03-10**|**[[2603.09976v1](http://arxiv.org/abs/2603.09976v1)]Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts**|Dohyeong Kim et.al.||
+|**2026-03-10**|**[[2603.09760v1](http://arxiv.org/abs/2603.09760v1)]PanoAffordanceNet: Towards Holistic Affordance Grounding in 360° Indoor Environments**|Guoliang Zhu et.al.||
+|**2026-03-10**|**[[2603.09423v1](http://arxiv.org/abs/2603.09423v1)]A Model Companion for Abelian Lattice-Ordered Groups with a Model Companion**|John Stokes-Waters et.al.||
+|**2026-03-10**|**[[2603.09397v1](http://arxiv.org/abs/2603.09397v1)]Chip-Integrated Broadband Multi-Photon Source for Wavelength-Multiplexed Quantum Networks**|Xiao-Xu Fang et.al.||
+|**2026-03-10**|**[[2603.09282v1](http://arxiv.org/abs/2603.09282v1)]Two-Stage Hybrid Transceiver Design Relying on Low-Resolution ADCs in Partially Connected MU Terahertz (THz) MIMO Systems**|Abhisha Garg et.al.||
+|**2026-03-10**|**[[2603.09228v1](http://arxiv.org/abs/2603.09228v1)]Searching for Black Hole Candidates in Quiescence by Using Multi-band Observations in Globular Cluster M22 (NGC6656)**|Yu-Jing Xu et.al.|Classification|
+|**2026-03-10**|**[[2603.09223v1](http://arxiv.org/abs/2603.09223v1)]UniField: A Unified Field-Aware MRI Enhancement Framework**|Yiyang Lin et.al.||
+|**2026-03-10**|**[[2603.09210v1](http://arxiv.org/abs/2603.09210v1)]Weighing Hidden Companions of Compact Object Candidates via Rotational Broadening**|Rui Wang et.al.||
+|**2026-03-10**|**[[2603.09054v1](http://arxiv.org/abs/2603.09054v1)]Spectral-Structured Diffusion for Single-Image Rain Removal**|Yucheng Xing et.al.|Denoising|
+|**2026-03-10**|**[[2603.09037v1](http://arxiv.org/abs/2603.09037v1)]WS-Net: Weak-Signal Representation Learning and Gated Abundance Reconstruction for Hyperspectral Unmixing via State-Space and Weak Signal Attention Fusion**|Zekun Long et.al.||
+|**2026-03-09**|**[[2603.08808v1](http://arxiv.org/abs/2603.08808v1)]Detecting Axion-like particles using Cosmic Variance Cancellation with CMB and Radio surveys**|Harsh Mehta et.al.||
+|**2026-03-07**|**[[2603.08753v1](http://arxiv.org/abs/2603.08753v1)]Permutation-Equivariant 2D State Space Models: Theory and Canonical Architecture for Multivariate Time Series**|Seungwoo Jeong et.al.|Classification|
+|**2026-03-10**|**[[2603.08574v2](http://arxiv.org/abs/2603.08574v2)]Scalable Neural Vocoder from Range-Null Space Decomposition**|Andong Li et.al.||
 |**2026-03-09**|**[[2603.08494v1](http://arxiv.org/abs/2603.08494v1)]First-Order Geometry, Spectral Compression, and Structural Compatibility under Bounded Computation**|Changkai Li et.al.||
 |**2026-03-09**|**[[2603.08472v1](http://arxiv.org/abs/2603.08472v1)]Multi-Mode Pinching-Antenna Systems: Mode Selection or Mode Combining?**|Xiaoxia Xu et.al.||
 |**2026-03-09**|**[[2603.08348v1](http://arxiv.org/abs/2603.08348v1)]Multi-Axis Concentration Modulation for Mobile Molecular Communication Systems**|Muskan Ahuja et.al.||
@@ -533,7 +547,7 @@ layout: default
 |**2026-02-27**|**[[2603.00240v1](http://arxiv.org/abs/2603.00240v1)]Spectroscopic follow-up of hot subdwarf variables found in ZTF -- Atmospheric and fundamental properties of radial-mode sdB pulsators**|Corey W. Bradshaw et.al.||
 |**2026-02-27**|**[[2603.00234v1](http://arxiv.org/abs/2603.00234v1)]Constraining the synchrotron peak and estimating the VHE brightness of a sample of extreme high synchrotron peak blazars**|Federica Sibani et.al.||
 |**2026-02-27**|**[[2603.00212v1](http://arxiv.org/abs/2603.00212v1)]Graph-Based Multi-Omics Integration Improves Subtype Recovery and Survival Prediction Over Classical Integration Strategies in TCGA-BRCA**|Taha Ahmad et.al.|Classification|
-|**2026-03-08**|**[[2603.00175v2](http://arxiv.org/abs/2603.00175v2)]Self-Attention And Beyond the Infinite: Towards Linear Transformers with Infinite Self-Attention**|Giorgio Roffo et.al.||
+|**2026-03-10**|**[[2603.00175v3](http://arxiv.org/abs/2603.00175v3)]Self-Attention And Beyond the Infinite: Towards Linear Transformers with Infinite Self-Attention**|Giorgio Roffo et.al.||
 |**2026-02-25**|**[[2603.00149v1](http://arxiv.org/abs/2603.00149v1)]Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction**|Zhihao Li et.al.|Superresolution|
 |**2026-02-24**|**[[2603.00139v1](http://arxiv.org/abs/2603.00139v1)]Towards Data-driven Nitrogen Estimation in Wheat Fields using Multispectral Images**|Andreas Tritsarolis et.al.||
 |**2026-02-23**|**[[2603.00121v1](http://arxiv.org/abs/2603.00121v1)]Graph-theoretic Agreement Framework for Multi-agent LLM Systems**|Muhammad Umar Javed et.al.||
@@ -1462,7 +1476,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
