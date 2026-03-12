@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-11**|**[[2603.10856v1](http://arxiv.org/abs/2603.10856v1)]6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.||
+|**2026-03-11**|**[[2603.10503v1](http://arxiv.org/abs/2603.10503v1)]A New Tensor Network: Tubal Tensor Train and Its Applications**|Salman Ahmadi-Asl et.al.||
+|**2026-03-10**|**[[2603.10132v1](http://arxiv.org/abs/2603.10132v1)]Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering**|Joshua Lentz et.al.||
 |**2026-03-10**|**[[2603.09116v1](http://arxiv.org/abs/2603.09116v1)]MetaSpectra+: A Compact Broadband Metasurface Camera for Snapshot Hyperspectral+ Imaging**|Yuxuan Liu et.al.||
 |**2026-03-10**|**[[2603.09037v1](http://arxiv.org/abs/2603.09037v1)]WS-Net: Weak-Signal Representation Learning and Gated Abundance Reconstruction for Hyperspectral Unmixing via State-Space and Weak Signal Attention Fusion**|Zekun Long et.al.|Unmixing|
 |**2026-03-09**|**[[2603.07918v1](http://arxiv.org/abs/2603.07918v1)]Enhancing Unregistered Hyperspectral Image Super-Resolution via Unmixing-based Abundance Fusion Learning**|Yingkai Zhang et.al.|Unmixing, Superresolution|
@@ -469,6 +472,15 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-11**|**[[2603.10752v1](http://arxiv.org/abs/2603.10752v1)]Design and performance of the coded mask for the Lunar Electromagnetic Monitor in X-rays (LEM-X)**|Yuri Evangelista et.al.||
+|**2026-03-11**|**[[2603.10658v1](http://arxiv.org/abs/2603.10658v1)]How To Embed Matters: Evaluation of EO Embedding Design Choices**|Luis Gilch et.al.||
+|**2026-03-11**|**[[2603.10566v1](http://arxiv.org/abs/2603.10566v1)]The Rayleigh Taylor instability in partially ionized plasmas: ambipolar diffusion effects in the non linear phase**|E. Callies et.al.||
+|**2026-03-11**|**[[2603.10508v1](http://arxiv.org/abs/2603.10508v1)]Newly discovered Luminous blue variable candidates in M31 & M33**|Sai Li et.al.|Classification|
+|**2026-03-11**|**[[2603.10481v1](http://arxiv.org/abs/2603.10481v1)]White Dwarfs with Infrared Excess from LAMOST Data Release 11**|Keyi Wang et.al.||
+|**2026-03-10**|**[[2603.10275v1](http://arxiv.org/abs/2603.10275v1)]Optimal Control Synthesis of Closed-Loop Recommendation Systems over Social Networks**|Simone Mariano et.al.||
+|**2026-03-10**|**[[2603.10185v1](http://arxiv.org/abs/2603.10185v1)]Attaining Spectral Energy Distributions With Sub-Percent Uncertainties: All-Sky DA White Dwarf Spectrophotometric Standard Stars For Large Telescopes And Surveys**|Abhijit Saha et.al.||
+|**2026-03-10**|**[[2603.10111v1](http://arxiv.org/abs/2603.10111v1)]XMM-Newton Observations of Flares and a Possible Pulse Dropout in the Supergiant X-ray binary 4U 1909+07**|Joel B. Coley et.al.||
+|**2026-03-10**|**[[2603.10083v1](http://arxiv.org/abs/2603.10083v1)]Mitigating Frequency Learning Bias in Quantum Models via Multi-Stage Residual Learning**|Ammar Daskin et.al.||
 |**2026-03-10**|**[[2603.09976v1](http://arxiv.org/abs/2603.09976v1)]Black Hole Properties of Type-1 Active Galactic Nuclei in the North Ecliptic Pole Wide Field: I. Mid-infrared Sources with Optical Counterparts**|Dohyeong Kim et.al.||
 |**2026-03-10**|**[[2603.09760v1](http://arxiv.org/abs/2603.09760v1)]PanoAffordanceNet: Towards Holistic Affordance Grounding in 360° Indoor Environments**|Guoliang Zhu et.al.||
 |**2026-03-10**|**[[2603.09423v1](http://arxiv.org/abs/2603.09423v1)]A Model Companion for Abelian Lattice-Ordered Groups with a Model Companion**|John Stokes-Waters et.al.||
