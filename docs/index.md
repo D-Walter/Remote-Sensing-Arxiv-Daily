@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.|Unmixing|
+|**2026-03-11**|**[[2603.11272v1](http://arxiv.org/abs/2603.11272v1)]Neutrino Spectral Pinching in 3D Core-Collapse Supernovae: Late-Time Convergence, Failed-Explosion Signatures, and Viewing-Angle Dispersion**|Nicolás Viaux M et.al.||
 |**2026-03-11**|**[[2603.10856v1](http://arxiv.org/abs/2603.10856v1)]6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.||
 |**2026-03-11**|**[[2603.10503v1](http://arxiv.org/abs/2603.10503v1)]A New Tensor Network: Tubal Tensor Train and Its Applications**|Salman Ahmadi-Asl et.al.||
 |**2026-03-10**|**[[2603.10132v1](http://arxiv.org/abs/2603.10132v1)]Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering**|Joshua Lentz et.al.||
@@ -466,12 +468,22 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-12**|**[[2603.11918v1](http://arxiv.org/abs/2603.11918v1)]Indirect and Direct Multiuser Hybrid Beamforming for Far-Field and Near-Field Communications: A Deep Learning Approach**|Xinyang Li et.al.||
+|**2026-03-12**|**[[2603.11902v1](http://arxiv.org/abs/2603.11902v1)]940-nm VCSELs grown by molecular beam epitaxy on Ge(001)**|Karim Ben Saddik et.al.||
+|**2026-03-12**|**[[2603.11880v1](http://arxiv.org/abs/2603.11880v1)]Optical parametric multi-pass cell amplifier**|Supriya Rajhans et.al.||
+|**2026-03-12**|**[[2603.11669v1](http://arxiv.org/abs/2603.11669v1)]SEMamba++: A General Speech Restoration Framework Leveraging Global, Local, and Periodic Spectral Patterns**|Yongjoon Lee et.al.|Denoising|
+|**2026-03-12**|**[[2603.11560v1](http://arxiv.org/abs/2603.11560v1)]How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination**|Stefano Grassi et.al.||
+|**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.||
+|**2026-03-12**|**[[2603.11521v1](http://arxiv.org/abs/2603.11521v1)]EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection**|Shuo Jiang et.al.|Denoising, Object Detection|
+|**2026-03-12**|**[[2603.11390v1](http://arxiv.org/abs/2603.11390v1)]SliceFed: Federated Constrained Multi-Agent DRL for Dynamic Spectrum Slicing in 6G**|Hossein Mohammadi et.al.||
+|**2026-03-11**|**[[2603.11322v1](http://arxiv.org/abs/2603.11322v1)]From Embeddings to Dyson Series: Transformer Mechanics as Non-Hermitian Operator Theory**|Po-Hao Chang et.al.||
+|**2026-03-11**|**[[2603.11180v1](http://arxiv.org/abs/2603.11180v1)]AGN obscuration in optical and X-rays: Host properties and the interplay of nuclear and galactic gas and dust in a combined SDSS-XMM sample**|G. Mountrichas et.al.|Classification|
 |**2026-03-11**|**[[2603.10752v1](http://arxiv.org/abs/2603.10752v1)]Design and performance of the coded mask for the Lunar Electromagnetic Monitor in X-rays (LEM-X)**|Yuri Evangelista et.al.||
 |**2026-03-11**|**[[2603.10658v1](http://arxiv.org/abs/2603.10658v1)]How To Embed Matters: Evaluation of EO Embedding Design Choices**|Luis Gilch et.al.||
 |**2026-03-11**|**[[2603.10566v1](http://arxiv.org/abs/2603.10566v1)]The Rayleigh Taylor instability in partially ionized plasmas: ambipolar diffusion effects in the non linear phase**|E. Callies et.al.||
@@ -1488,7 +1500,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
