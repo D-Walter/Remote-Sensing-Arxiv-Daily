@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -468,12 +468,14 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-13**|**[[2603.12914v1](http://arxiv.org/abs/2603.12914v1)]Joint and Streamwise Distributed MIMO Satellite Communications with Multi-Antenna Ground Users**|Parisa Ramezani et.al.||
+|**2026-03-12**|**[[2603.12507v1](http://arxiv.org/abs/2603.12507v1)]Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty**|Marcell T. Kurbucz et.al.||
 |**2026-03-12**|**[[2603.11918v1](http://arxiv.org/abs/2603.11918v1)]Indirect and Direct Multiuser Hybrid Beamforming for Far-Field and Near-Field Communications: A Deep Learning Approach**|Xinyang Li et.al.||
 |**2026-03-12**|**[[2603.11902v1](http://arxiv.org/abs/2603.11902v1)]940-nm VCSELs grown by molecular beam epitaxy on Ge(001)**|Karim Ben Saddik et.al.||
 |**2026-03-12**|**[[2603.11880v1](http://arxiv.org/abs/2603.11880v1)]Optical parametric multi-pass cell amplifier**|Supriya Rajhans et.al.||
@@ -520,7 +522,7 @@ layout: default
 |**2026-03-06**|**[[2603.06920v1](http://arxiv.org/abs/2603.06920v1)]DLRMamba: Distilling Low-Rank Mamba for Edge Multispectral Fusion Object Detection**|Qianqian Zhang et.al.|Object Detection|
 |**2026-03-06**|**[[2603.06782v1](http://arxiv.org/abs/2603.06782v1)]Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data**|Marawan Yakout et.al.||
 |**2026-03-06**|**[[2603.06753v1](http://arxiv.org/abs/2603.06753v1)]EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track**|Zhenyuan Chen et.al.||
-|**2026-03-06**|**[[2603.06723v1](http://arxiv.org/abs/2603.06723v1)]UWPD: A General Paradigm for Invisible Watermark Detection Agnostic to Embedding Algorithms**|Xiang Ao et.al.||
+|**2026-03-13**|**[[2603.06723v2](http://arxiv.org/abs/2603.06723v2)]AWPD: Frequency Shield Network for Agnostic Watermark Presence Detection**|Xiang Ao et.al.||
 |**2026-03-05**|**[[2603.06702v1](http://arxiv.org/abs/2603.06702v1)]Green-Function and Information-Geometric Correspondences Between Inverse Eigenvalue Loci of Generalized Lucas Sequences and the Mandelbrot Set**|Arturo Ortiz-Tapia et.al.||
 |**2026-03-03**|**[[2603.06673v1](http://arxiv.org/abs/2603.06673v1)]Unmixing microinfrared spectroscopic images of cross-sections of historical oil paintings**|Shivam Pande et.al.||
 |**2026-02-28**|**[[2603.06655v1](http://arxiv.org/abs/2603.06655v1)]A Parameter-efficient Convolutional Approach for Weed Detection in Multispectral Aerial Imagery**|Leo Thomas Ramos et.al.||
@@ -1500,7 +1502,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
