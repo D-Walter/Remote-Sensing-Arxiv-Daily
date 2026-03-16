@@ -21,7 +21,7 @@
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
 |**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.|Unmixing|
-|**2026-03-11**|**[[2603.11272v1](http://arxiv.org/abs/2603.11272v1)]Neutrino Spectral Pinching in 3D Core-Collapse Supernovae: Late-Time Convergence, Failed-Explosion Signatures, and Viewing-Angle Dispersion**|Nicolás Viaux M et.al.||
+|**2026-03-13**|**[[2603.11272v2](http://arxiv.org/abs/2603.11272v2)]Neutrino Spectral Pinching in 3D Core-Collapse Supernovae: Late-Time Convergence, Failed-Explosion Signatures, and Viewing-Angle Dispersion**|Nicolás Viaux M et.al.||
 |**2026-03-11**|**[[2603.10856v1](http://arxiv.org/abs/2603.10856v1)]6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.||
 |**2026-03-11**|**[[2603.10503v1](http://arxiv.org/abs/2603.10503v1)]A New Tensor Network: Tubal Tensor Train and Its Applications**|Salman Ahmadi-Asl et.al.||
 |**2026-03-10**|**[[2603.10132v1](http://arxiv.org/abs/2603.10132v1)]Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering**|Joshua Lentz et.al.||
@@ -470,6 +470,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-13**|**[[2603.13175v1](http://arxiv.org/abs/2603.13175v1)]Fluxon Time-Delay Readout of a Superconducting Qubit Protected by a Spectral Gap in a Josephson Transmission Line**|Shunsuke Kamimura et.al.||
 |**2026-03-13**|**[[2603.12914v1](http://arxiv.org/abs/2603.12914v1)]Joint and Streamwise Distributed MIMO Satellite Communications with Multi-Antenna Ground Users**|Parisa Ramezani et.al.||
 |**2026-03-12**|**[[2603.12507v1](http://arxiv.org/abs/2603.12507v1)]Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty**|Marcell T. Kurbucz et.al.||
 |**2026-03-12**|**[[2603.11918v1](http://arxiv.org/abs/2603.11918v1)]Indirect and Direct Multiuser Hybrid Beamforming for Far-Field and Near-Field Communications: A Deep Learning Approach**|Xinyang Li et.al.||
