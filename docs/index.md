@@ -476,6 +476,12 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-16**|**[[2603.15522v1](http://arxiv.org/abs/2603.15522v1)]Quantum-Inspired Unitary Pooling for Multispectral Satellite Image Classification**|Georgios Maragkopoulos et.al.|Classification|
+|**2026-03-16**|**[[2603.15109v1](http://arxiv.org/abs/2603.15109v1)]PAKAN: Pixel Adaptive Kolmogorov-Arnold Network Modules for Pansharpening**|Haoyu Zhang et.al.|Pansharpening|
+|**2026-03-16**|**[[2603.15091v1](http://arxiv.org/abs/2603.15091v1)]Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds**|Gustav Conradie et.al.||
+|**2026-03-16**|**[[2603.14952v1](http://arxiv.org/abs/2603.14952v1)]Pansharpening for Thin-Cloud Contaminated Remote Sensing Images: A Unified Framework and Benchmark Dataset**|Songcheng Du et.al.|Pansharpening|
+|**2026-03-16**|**[[2603.14734v1](http://arxiv.org/abs/2603.14734v1)]Gauge-Equivariant Intrinsic Neural Operators for Geometry-Consistent Learning of Elliptic PDE Maps**|Pengcheng Cheng et.al.||
+|**2026-03-15**|**[[2603.14412v1](http://arxiv.org/abs/2603.14412v1)]G-ZAP: A Generalizable Zero-Shot Framework for Arbitrary-Scale Pansharpening**|Zhiqi Yang et.al.|Pansharpening|
 |**2026-03-14**|**[[2603.14137v1](http://arxiv.org/abs/2603.14137v1)]Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova**|Avinash Singh et.al.||
 |**2026-03-14**|**[[2603.13824v1](http://arxiv.org/abs/2603.13824v1)]Evaluating Semantic Fragility in Text-to-Audio Generation Systems Under Controlled Prompt Perturbations**|Jiahui Wu et.al.||
 |**2026-03-14**|**[[2603.13814v1](http://arxiv.org/abs/2603.13814v1)]A Hybrid Framework for Kilonova Anomaly Detection using Single-Epoch SEDs from the 7-Dimensional Telescope**|Gregory S. H. Paek et.al.|Classification|
