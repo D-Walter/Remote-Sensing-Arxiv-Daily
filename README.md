@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,8 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-14**|**[[2603.13941v1](http://arxiv.org/abs/2603.13941v1)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
+|**2026-03-08**|**[[2603.13352v1](http://arxiv.org/abs/2603.13352v1)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
 |**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.|Unmixing|
 |**2026-03-13**|**[[2603.11272v2](http://arxiv.org/abs/2603.11272v2)]Neutrino Spectral Pinching in 3D Core-Collapse Supernovae: Late-Time Convergence, Failed-Explosion Signatures, and Viewing-Angle Dispersion**|Nicolás Viaux M et.al.||
 |**2026-03-11**|**[[2603.10856v1](http://arxiv.org/abs/2603.10856v1)]6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.||
@@ -464,12 +466,21 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-14**|**[[2603.14137v1](http://arxiv.org/abs/2603.14137v1)]Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova**|Avinash Singh et.al.||
+|**2026-03-14**|**[[2603.13824v1](http://arxiv.org/abs/2603.13824v1)]Evaluating Semantic Fragility in Text-to-Audio Generation Systems Under Controlled Prompt Perturbations**|Jiahui Wu et.al.||
+|**2026-03-14**|**[[2603.13814v1](http://arxiv.org/abs/2603.13814v1)]A Hybrid Framework for Kilonova Anomaly Detection using Single-Epoch SEDs from the 7-Dimensional Telescope**|Gregory S. H. Paek et.al.|Classification|
+|**2026-03-14**|**[[2603.13781v1](http://arxiv.org/abs/2603.13781v1)]KoopmanFlow: Spectrally Decoupled Generative Control Policy via Koopman Structural Bias**|Chengsi Yao et.al.||
+|**2026-03-13**|**[[2603.13588v1](http://arxiv.org/abs/2603.13588v1)]Feedback Control and Local Convexification of Wasserstein Gradient Flows**|Dante Kalise et.al.||
+|**2026-03-13**|**[[2603.13524v1](http://arxiv.org/abs/2603.13524v1)]Hide and Seek: Investigating Redundancy in Earth Observation Imagery**|Tasos Papazafeiropoulos et.al.||
+|**2026-03-08**|**[[2603.13352v1](http://arxiv.org/abs/2603.13352v1)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
+|**2026-03-07**|**[[2603.13345v1](http://arxiv.org/abs/2603.13345v1)]DDS-UDA: Dual-Domain Synergy for Unsupervised Domain Adaptation in Joint Segmentation of Optic Disc and Optic Cup**|Yusong Xiao et.al.||
+|**2026-03-04**|**[[2603.13311v1](http://arxiv.org/abs/2603.13311v1)]Neural Approximation and Its Applications**|Wei-Hao Wu et.al.||
 |**2026-03-13**|**[[2603.13175v1](http://arxiv.org/abs/2603.13175v1)]Fluxon Time-Delay Readout of a Superconducting Qubit Protected by a Spectral Gap in a Josephson Transmission Line**|Shunsuke Kamimura et.al.||
 |**2026-03-13**|**[[2603.12914v1](http://arxiv.org/abs/2603.12914v1)]Joint and Streamwise Distributed MIMO Satellite Communications with Multi-Antenna Ground Users**|Parisa Ramezani et.al.||
 |**2026-03-12**|**[[2603.12507v1](http://arxiv.org/abs/2603.12507v1)]Adaptive Conditional Forest Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty**|Marcell T. Kurbucz et.al.||
@@ -484,6 +495,7 @@
 |**2026-03-11**|**[[2603.11322v1](http://arxiv.org/abs/2603.11322v1)]From Embeddings to Dyson Series: Transformer Mechanics as Non-Hermitian Operator Theory**|Po-Hao Chang et.al.||
 |**2026-03-11**|**[[2603.11180v1](http://arxiv.org/abs/2603.11180v1)]AGN obscuration in optical and X-rays: Host properties and the interplay of nuclear and galactic gas and dust in a combined SDSS-XMM sample**|G. Mountrichas et.al.|Classification|
 |**2026-03-11**|**[[2603.10752v1](http://arxiv.org/abs/2603.10752v1)]Design and performance of the coded mask for the Lunar Electromagnetic Monitor in X-rays (LEM-X)**|Yuri Evangelista et.al.||
+|**2026-03-14**|**[[2603.10722v2](http://arxiv.org/abs/2603.10722v2)]UAV traffic scene understanding: A regulation embedded multi-modal network and a unified benchmark**|Yu Zhang et.al.||
 |**2026-03-11**|**[[2603.10658v1](http://arxiv.org/abs/2603.10658v1)]How To Embed Matters: Evaluation of EO Embedding Design Choices**|Luis Gilch et.al.||
 |**2026-03-11**|**[[2603.10566v1](http://arxiv.org/abs/2603.10566v1)]The Rayleigh Taylor instability in partially ionized plasmas: ambipolar diffusion effects in the non linear phase**|E. Callies et.al.||
 |**2026-03-11**|**[[2603.10508v1](http://arxiv.org/abs/2603.10508v1)]Newly discovered Luminous blue variable candidates in M31 & M33**|Sai Li et.al.|Classification|
@@ -1499,7 +1511,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
