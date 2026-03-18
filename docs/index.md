@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-17**|**[[2603.16426v1](http://arxiv.org/abs/2603.16426v1)]3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
 |**2026-03-14**|**[[2603.13941v1](http://arxiv.org/abs/2603.13941v1)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
 |**2026-03-08**|**[[2603.13352v1](http://arxiv.org/abs/2603.13352v1)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
 |**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.|Unmixing|
@@ -470,12 +471,19 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-17**|**[[2603.16049v1](http://arxiv.org/abs/2603.16049v1)]Qudit Implementation of the Rodeo Algorithm for Quantum Spectral Filtering**|Julio Cesar Siqueira Rocha et.al.||
+|**2026-03-16**|**[[2603.15996v1](http://arxiv.org/abs/2603.15996v1)]Advanced Control of Electron Beams: Tailoring X-ray Production with Programmable Laser Shaping**|Jack Hirschman et.al.||
+|**2026-03-16**|**[[2603.15872v1](http://arxiv.org/abs/2603.15872v1)]NEO Colors from The Mission Accessible Near-Earth Object Survey (MANOS)**|Nicholas Moskovitz et.al.|Classification|
+|**2026-03-16**|**[[2603.15869v1](http://arxiv.org/abs/2603.15869v1)]Analysis of spatially resolved stellar populations and emission line properties in nearby galaxies with J-PLUS data. II-Results for the M51 group and first comparison with the M101 group**|J. Thainá-Batista et.al.||
+|**2026-03-16**|**[[2603.15837v1](http://arxiv.org/abs/2603.15837v1)]Multi-Year Spectral Structure of 6G Candidate Bands at 2.7 GHz and 4.4 GHz**|Amir Hossein Fahim Raouf et.al.||
+|**2026-03-16**|**[[2603.15754v1](http://arxiv.org/abs/2603.15754v1)]Single-source-class interpretation of the diffuse astrophysical neutrino flux**|Walter Winter et.al.||
+|**2026-03-10**|**[[2603.15662v1](http://arxiv.org/abs/2603.15662v1)]The Geometry of Quasi-Cycles: How Stoichiometric Covariance Alters Pre-Bifurcation Signatures**|Louis Shuo Wang et.al.||
 |**2026-03-16**|**[[2603.15522v1](http://arxiv.org/abs/2603.15522v1)]Quantum-Inspired Unitary Pooling for Multispectral Satellite Image Classification**|Georgios Maragkopoulos et.al.|Classification|
 |**2026-03-16**|**[[2603.15109v1](http://arxiv.org/abs/2603.15109v1)]PAKAN: Pixel Adaptive Kolmogorov-Arnold Network Modules for Pansharpening**|Haoyu Zhang et.al.|Pansharpening|
 |**2026-03-16**|**[[2603.15091v1](http://arxiv.org/abs/2603.15091v1)]Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds**|Gustav Conradie et.al.||
@@ -1521,7 +1529,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
