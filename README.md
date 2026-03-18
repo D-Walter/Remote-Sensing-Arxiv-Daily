@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-17**|**[[2603.16662v1](http://arxiv.org/abs/2603.16662v1)]Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|Classification|
 |**2026-03-17**|**[[2603.16426v1](http://arxiv.org/abs/2603.16426v1)]3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
 |**2026-03-14**|**[[2603.13941v1](http://arxiv.org/abs/2603.13941v1)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
 |**2026-03-08**|**[[2603.13352v1](http://arxiv.org/abs/2603.13352v1)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
@@ -575,7 +576,7 @@
 |**2026-03-02**|**[[2603.02447v1](http://arxiv.org/abs/2603.02447v1)]Spectral Regularization for Diffusion Models**|Satish Chandran et.al.||
 |**2026-03-02**|**[[2603.02386v1](http://arxiv.org/abs/2603.02386v1)]Advancing Earth Observation Through Machine Learning: A TorchGeo Tutorial**|Caleb Robinson et.al.||
 |**2026-03-02**|**[[2603.02122v1](http://arxiv.org/abs/2603.02122v1)]Deep Unfolding for SIM-Assisted Multiband MU-MISO Downlink Systems**|Muhammad Ibrahim et.al.||
-|**2026-03-02**|**[[2603.01932v1](http://arxiv.org/abs/2603.01932v1)]BAWSeg: A UAV Multispectral Benchmark for Barley Weed Segmentation**|Haitian Wang et.al.||
+|**2026-03-17**|**[[2603.01932v2](http://arxiv.org/abs/2603.01932v2)]BAWSeg: A UAV Multispectral Benchmark for Barley Weed Segmentation**|Haitian Wang et.al.||
 |**2026-03-02**|**[[2603.01833v1](http://arxiv.org/abs/2603.01833v1)]Inverse problem for a multi-term time-fractional diffusion equation with the Caputo derivatives**|Ravshan Ashurov et.al.||
 |**2026-03-02**|**[[2603.01812v1](http://arxiv.org/abs/2603.01812v1)]Neural Operator-Grounded Continuous Tensor Function Representation and Its Applications**|Ruoyang Su et.al.||
 |**2026-03-02**|**[[2603.01633v1](http://arxiv.org/abs/2603.01633v1)]Episode-wise spectro-polarimetry of GRB 220107A: Testing the hypothesis of evolving radiation mechanisms**|Rahul Gupta et.al.||
