@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -472,12 +472,18 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-18**|**[[2603.17511v1](http://arxiv.org/abs/2603.17511v1)]VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.||
+|**2026-03-18**|**[[2603.17464v1](http://arxiv.org/abs/2603.17464v1)]Revealing the Spectral Properties of Galactic Interstellar Medium by Survey Observations**|Ya-Wen Xiao et.al.||
+|**2026-03-18**|**[[2603.17440v1](http://arxiv.org/abs/2603.17440v1)]Polarization-Aligned, Spectrally Consistent Quantum Emitters in As-Exfoliated Carbon-Doped Hexagonal Boron Nitride**|Sofiya Karankova et.al.||
+|**2026-03-18**|**[[2603.17299v1](http://arxiv.org/abs/2603.17299v1)]Optical variability and optical--mid-infrared dust lags in Type~1 changing-look AGNs**|Yu Tao et.al.||
+|**2026-03-17**|**[[2603.17219v1](http://arxiv.org/abs/2603.17219v1)]SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization**|Ishrith Gowda et.al.||
+|**2026-03-17**|**[[2603.17095v1](http://arxiv.org/abs/2603.17095v1)]Multi-Component Dark Matter as a Solution to the Galactic Center GeV Excess**|Farinaldo S. Queiroz et.al.||
 |**2026-03-17**|**[[2603.16049v1](http://arxiv.org/abs/2603.16049v1)]Qudit Implementation of the Rodeo Algorithm for Quantum Spectral Filtering**|Julio Cesar Siqueira Rocha et.al.||
 |**2026-03-16**|**[[2603.15996v1](http://arxiv.org/abs/2603.15996v1)]Advanced Control of Electron Beams: Tailoring X-ray Production with Programmable Laser Shaping**|Jack Hirschman et.al.||
 |**2026-03-16**|**[[2603.15872v1](http://arxiv.org/abs/2603.15872v1)]NEO Colors from The Mission Accessible Near-Earth Object Survey (MANOS)**|Nicholas Moskovitz et.al.|Classification|
@@ -1530,7 +1536,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
