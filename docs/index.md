@@ -478,6 +478,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-18**|**[[2603.17620v1](http://arxiv.org/abs/2603.17620v1)]3D Spherical Directly-Connected Antenna Array for Low-Altitude UAV Swarm ISAC**|Haoyu Jiang et.al.||
+|**2026-03-18**|**[[2603.17528v1](http://arxiv.org/abs/2603.17528v1)]MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|VLM|
 |**2026-03-18**|**[[2603.17511v1](http://arxiv.org/abs/2603.17511v1)]VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.||
 |**2026-03-18**|**[[2603.17464v1](http://arxiv.org/abs/2603.17464v1)]Revealing the Spectral Properties of Galactic Interstellar Medium by Survey Observations**|Ya-Wen Xiao et.al.||
 |**2026-03-18**|**[[2603.17440v1](http://arxiv.org/abs/2603.17440v1)]Polarization-Aligned, Spectrally Consistent Quantum Emitters in As-Exfoliated Carbon-Doped Hexagonal Boron Nitride**|Sofiya Karankova et.al.||
