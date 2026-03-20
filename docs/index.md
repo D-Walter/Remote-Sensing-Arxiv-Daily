@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-19**|**[[2603.19142v1](http://arxiv.org/abs/2603.19142v1)]Hyper-efficient superconducting filterbanks with impedance-defined spectral resolution for millimeter-wave spectroscopy**|Oliver Jeong et.al.||
 |**2026-03-17**|**[[2603.16662v1](http://arxiv.org/abs/2603.16662v1)]Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|Classification|
 |**2026-03-17**|**[[2603.16426v1](http://arxiv.org/abs/2603.16426v1)]3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
 |**2026-03-14**|**[[2603.13941v1](http://arxiv.org/abs/2603.13941v1)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
@@ -478,6 +479,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-19**|**[[2603.19077v1](http://arxiv.org/abs/2603.19077v1)]Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline**|Ye Wang et.al.||
 |**2026-03-19**|**[[2603.18432v1](http://arxiv.org/abs/2603.18432v1)]MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting**|Runze Yang et.al.||
 |**2026-03-19**|**[[2603.18386v1](http://arxiv.org/abs/2603.18386v1)] $\mathrm{PGL}(3)$ -invariant integrable systems from factorisation of linear differential and difference operators**|Frank Nijhoff et.al.||
 |**2026-03-18**|**[[2603.18062v1](http://arxiv.org/abs/2603.18062v1)]S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.||
