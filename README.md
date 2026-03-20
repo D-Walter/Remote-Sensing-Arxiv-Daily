@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -468,12 +468,15 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-19**|**[[2603.18432v1](http://arxiv.org/abs/2603.18432v1)]MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting**|Runze Yang et.al.||
+|**2026-03-19**|**[[2603.18386v1](http://arxiv.org/abs/2603.18386v1)] $\mathrm{PGL}(3)$ -invariant integrable systems from factorisation of linear differential and difference operators**|Frank Nijhoff et.al.||
+|**2026-03-18**|**[[2603.18062v1](http://arxiv.org/abs/2603.18062v1)]S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.||
 |**2026-03-18**|**[[2603.17620v1](http://arxiv.org/abs/2603.17620v1)]3D Spherical Directly-Connected Antenna Array for Low-Altitude UAV Swarm ISAC**|Haoyu Jiang et.al.||
 |**2026-03-18**|**[[2603.17528v1](http://arxiv.org/abs/2603.17528v1)]MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|VLM|
 |**2026-03-18**|**[[2603.17511v1](http://arxiv.org/abs/2603.17511v1)]VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.||
@@ -1534,7 +1537,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
