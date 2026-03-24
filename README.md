@@ -20,6 +20,10 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-23**|**[[2603.22097v1](http://arxiv.org/abs/2603.22097v1)]SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.||
+|**2026-03-23**|**[[2603.21911v1](http://arxiv.org/abs/2603.21911v1)]A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing**|Chedly Ben Azizi et.al.||
+|**2026-03-23**|**[[2603.21732v1](http://arxiv.org/abs/2603.21732v1)]Hyperspectral imaging solutions for brain tissue metabolic and haemodynamic monitoring: an updated perspective**|Luca Giannoni et.al.||
+|**2026-03-23**|**[[2603.21510v1](http://arxiv.org/abs/2603.21510v1)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Unmixing, Superresolution|
 |**2026-03-21**|**[[2603.20896v1](http://arxiv.org/abs/2603.20896v1)]Beyond the Birkhoff Polytope: Spectral-Sphere-Constrained Hyper-Connections**|Zhaoyi Liu et.al.||
 |**2026-03-19**|**[[2603.20292v1](http://arxiv.org/abs/2603.20292v1)]HSI Image Enhancement Classification Based on Knowledge Distillation: A Study on Forgetting**|Songfeng Zhu et.al.|Classification|
 |**2026-03-19**|**[[2603.19142v1](http://arxiv.org/abs/2603.19142v1)]Hyper-efficient superconducting filterbanks with impedance-defined spectral resolution for millimeter-wave spectroscopy**|Oliver Jeong et.al.||
@@ -56,7 +60,7 @@
 |**2026-02-23**|**[[2602.19888v1](http://arxiv.org/abs/2602.19888v1)]A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy**|Naoki Wada et.al.||
 |**2026-03-04**|**[[2602.18308v2](http://arxiv.org/abs/2602.18308v2)]JPmHC Dynamical Isometry via Orthogonal Hyper-Connections**|Biswa Sengupta et.al.||
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
-|**2026-02-16**|**[[2602.14408v1](http://arxiv.org/abs/2602.14408v1)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
+|**2026-03-23**|**[[2602.14408v2](http://arxiv.org/abs/2602.14408v2)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Enhanced Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
 |**2026-02-13**|**[[2602.13509v1](http://arxiv.org/abs/2602.13509v1)]A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.||
 |**2026-02-26**|**[[2602.13063v2](http://arxiv.org/abs/2602.13063v2)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
 |**2026-02-23**|**[[2602.12313v2](http://arxiv.org/abs/2602.12313v2)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
@@ -477,6 +481,18 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-23**|**[[2603.22258v1](http://arxiv.org/abs/2603.22258v1)]Semi-Blind Channel Estimation and Hybrid Receiver Beamforming in the Tera-Hertz Multi-User Massive MIMO Uplink**|Abhisha Garg et.al.||
+|**2026-03-23**|**[[2603.22247v1](http://arxiv.org/abs/2603.22247v1)]Two hot pre-white dwarfs inside the red-giant-branch planetary nebula Pa 13 -- Double core evolution or common envelope-induced rejuvenation?**|Nicole Reindl et.al.||
+|**2026-03-23**|**[[2603.22232v1](http://arxiv.org/abs/2603.22232v1)]Broadband Asymmetric Transmission with Wide Spectral Tunability based on Substrate-Embedded Silicon Nanoring Arrays**|Ruihan Ma et.al.||
+|**2026-03-23**|**[[2603.22230v1](http://arxiv.org/abs/2603.22230v1)]Riverine Land Cover Mapping through Semantic Segmentation of Multispectral Point Clouds**|Sopitta Thurachen et.al.||
+|**2026-03-23**|**[[2603.22097v1](http://arxiv.org/abs/2603.22097v1)]SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.||
+|**2026-03-23**|**[[2603.22025v1](http://arxiv.org/abs/2603.22025v1)]Superbunched random fiber laser**|Qiang Ji et.al.||
+|**2026-03-23**|**[[2603.21912v1](http://arxiv.org/abs/2603.21912v1)]H.E.S.S. observations of composite Seyfert-starburst galaxies**|H. E. S. S. Collaboration et.al.||
+|**2026-03-23**|**[[2603.21540v1](http://arxiv.org/abs/2603.21540v1)]Resonance-Suppression Principle for Prethermalization beyond Periodic Driving**|Jian Xian Sim et.al.||
+|**2026-03-23**|**[[2603.21517v1](http://arxiv.org/abs/2603.21517v1)]Magnetic Field Measurements in the Solar Chromosphere Using the H $_β$ 4861Å~Line I: Forward Modeling Based on 1D Models**|Jiasheng Wang et.al.||
+|**2026-03-23**|**[[2603.21510v1](http://arxiv.org/abs/2603.21510v1)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Superresolution|
+|**2026-03-23**|**[[2603.21456v1](http://arxiv.org/abs/2603.21456v1)]Compressive single-pixel imaging via a wavelength-multiplexed spatially incoherent diffractive optical processor**|Xiao Wang et.al.||
+|**2026-03-22**|**[[2603.21160v1](http://arxiv.org/abs/2603.21160v1)]Beyond a Single Signal: SPECTREG2, A Unified MultiExpert Anomaly Detector for Unknown Unknowns**|Rahul D Ray et.al.||
 |**2026-03-22**|**[[2603.21087v1](http://arxiv.org/abs/2603.21087v1)]Exploiting Self-Sustainable Information-Bearing RIS in Underlay CR-NOMA Networks**|Zeyang Sun et.al.||
 |**2026-03-21**|**[[2603.20836v1](http://arxiv.org/abs/2603.20836v1)]MERIT: Multi-domain Efficient RAW Image Translation**|Wenjun Huang et.al.||
 |**2026-03-21**|**[[2603.20739v1](http://arxiv.org/abs/2603.20739v1)]Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding**|Jincen Jiang et.al.|Denoising|
