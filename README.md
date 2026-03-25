@@ -41,7 +41,7 @@
 |**2026-03-09**|**[[2603.07918v1](http://arxiv.org/abs/2603.07918v1)]Enhancing Unregistered Hyperspectral Image Super-Resolution via Unmixing-based Abundance Fusion Learning**|Yingkai Zhang et.al.|Unmixing, Superresolution|
 |**2026-03-08**|**[[2603.07666v1](http://arxiv.org/abs/2603.07666v1)]AI-Driven Phase Identification from X-ray Hyperspectral Imaging of cycled Na-ion Cathode Materials**|Fayçal Adrar et.al.||
 |**2026-03-08**|**[[2603.07418v1](http://arxiv.org/abs/2603.07418v1)]Fluctuation imaging of disorder in monolayer semiconductors**|Tom T. C. Sistermans et.al.|Superresolution|
-|**2026-03-04**|**[[2603.06690v1](http://arxiv.org/abs/2603.06690v1)]Spectral Gaps and Spatial Priors: Studying Hyperspectral Downstream Adaptation Using TerraMind**|Julia Anna Leonardi et.al.||
+|**2026-03-24**|**[[2603.06690v2](http://arxiv.org/abs/2603.06690v2)]Spectral Gaps and Spatial Priors: Studying Hyperspectral Downstream Adaptation Using TerraMind**|Julia Anna Leonardi et.al.||
 |**2026-03-03**|**[[2603.06673v1](http://arxiv.org/abs/2603.06673v1)]Unmixing microinfrared spectroscopic images of cross-sections of historical oil paintings**|Shivam Pande et.al.|Unmixing|
 |**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
 |**2026-03-05**|**[[2603.05014v1](http://arxiv.org/abs/2603.05014v1)]Fusion of JWST data - Demonstrating practical feasibility**|Landry Marquis et.al.||
@@ -481,6 +481,9 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-24**|**[[2603.23392v1](http://arxiv.org/abs/2603.23392v1)]Strain-Engineered Deterministic Quantum Dots for Telecom O-Band Emission Using Buried Stressors**|Imad Limame et.al.||
+|**2026-03-24**|**[[2603.23384v1](http://arxiv.org/abs/2603.23384v1)]Investigating peculiar prompt emission properties of the multi-Peaked GRB 250129A**|Ankur Ghosh et.al.||
+|**2026-03-24**|**[[2603.23210v1](http://arxiv.org/abs/2603.23210v1)]Generative Inversion of Spectroscopic Data for Amorphous Structure Elucidation**|Jiawei Guo et.al.||
 |**2026-03-24**|**[[2603.23009v1](http://arxiv.org/abs/2603.23009v1)]Connection-topology--dependent energy transport and ergotropy in quantum battery networks with reciprocal and nonreciprocal couplings**|Bing-Bing Liu et.al.||
 |**2026-03-24**|**[[2603.23006v1](http://arxiv.org/abs/2603.23006v1)]On the Suboptimality of Rate--Distortion-Optimal Compression: Fundamental Accuracy Limits for Distributed Localization**|Amir Weiss et.al.||
 |**2026-03-24**|**[[2603.22945v1](http://arxiv.org/abs/2603.22945v1)]How well does MAGPHYS recover galaxy properties? A test using EAGLE simulated star-forming galaxies**|Zoe R. Jones et.al.||
