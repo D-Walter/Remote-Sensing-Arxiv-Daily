@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,9 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-25**|**[[2603.24323v1](http://arxiv.org/abs/2603.24323v1)]Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|Classification|
+|**2026-03-25**|**[[2603.24108v1](http://arxiv.org/abs/2603.24108v1)]Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing**|Hector Blondel et.al.|Unmixing|
+|**2026-03-25**|**[[2603.24045v1](http://arxiv.org/abs/2603.24045v1)]LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|Classification|
 |**2026-03-23**|**[[2603.22097v1](http://arxiv.org/abs/2603.22097v1)]SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.||
 |**2026-03-23**|**[[2603.21911v1](http://arxiv.org/abs/2603.21911v1)]A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing**|Chedly Ben Azizi et.al.||
 |**2026-03-23**|**[[2603.21732v1](http://arxiv.org/abs/2603.21732v1)]Hyperspectral imaging solutions for brain tissue metabolic and haemodynamic monitoring: an updated perspective**|Luca Giannoni et.al.||
@@ -475,12 +478,22 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-03-25**|**[[2603.24323v1](http://arxiv.org/abs/2603.24323v1)]Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|Classification|
+|**2026-03-25**|**[[2603.24134v1](http://arxiv.org/abs/2603.24134v1)]Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.||
+|**2026-03-25**|**[[2603.24052v1](http://arxiv.org/abs/2603.24052v1)]Data-driven synthesis of high-fidelity triaxial magnetic waveforms for quantum control**|Giuseppe Bevilacqua et.al.||
+|**2026-03-25**|**[[2603.24045v1](http://arxiv.org/abs/2603.24045v1)]LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|Classification|
+|**2026-03-25**|**[[2603.24040v1](http://arxiv.org/abs/2603.24040v1)]A Catalog of 1,408 Carbon-Enhanced Metal-Poor Stars from LAMOST DR11**|Xianqi Liu et.al.||
+|**2026-03-25**|**[[2603.23986v1](http://arxiv.org/abs/2603.23986v1)]GalSyn I: A Forward-Modeling Framework for Synthetic Galaxy Observations from Hydrodynamical Simulations and First Data Release from IllustrisTNG**|Abdurro'uf et.al.||
+|**2026-03-25**|**[[2603.23897v1](http://arxiv.org/abs/2603.23897v1)]Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation**|Teng Wu et.al.||
+|**2026-03-24**|**[[2603.23779v1](http://arxiv.org/abs/2603.23779v1)]Sentinel-2 for Crop Yield Estimation: A Systematic Review**|Mohammadreza Narimani et.al.||
+|**2026-03-24**|**[[2603.23642v1](http://arxiv.org/abs/2603.23642v1)]Radiation-ionization hydrodynamic simulations of AGN line-driven winds lead to transient shielding and BAL/UFO signatures**|Nicolas Scepi et.al.||
+|**2026-03-24**|**[[2603.23584v1](http://arxiv.org/abs/2603.23584v1)]LineMVGNN: Anti-Money Laundering with Line-Graph-Assisted Multi-View Graph Neural Networks**|Chung-Hoo Poon et.al.||
 |**2026-03-24**|**[[2603.23392v1](http://arxiv.org/abs/2603.23392v1)]Strain-Engineered Deterministic Quantum Dots for Telecom O-Band Emission Using Buried Stressors**|Imad Limame et.al.||
 |**2026-03-24**|**[[2603.23384v1](http://arxiv.org/abs/2603.23384v1)]Investigating peculiar prompt emission properties of the multi-Peaked GRB 250129A**|Ankur Ghosh et.al.||
 |**2026-03-24**|**[[2603.23210v1](http://arxiv.org/abs/2603.23210v1)]Generative Inversion of Spectroscopic Data for Amorphous Structure Elucidation**|Jiawei Guo et.al.||
@@ -499,7 +512,7 @@
 |**2026-03-23**|**[[2603.22097v1](http://arxiv.org/abs/2603.22097v1)]SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.||
 |**2026-03-23**|**[[2603.22025v1](http://arxiv.org/abs/2603.22025v1)]Superbunched random fiber laser**|Qiang Ji et.al.||
 |**2026-03-23**|**[[2603.21912v1](http://arxiv.org/abs/2603.21912v1)]H.E.S.S. observations of composite Seyfert-starburst galaxies**|H. E. S. S. Collaboration et.al.||
-|**2026-03-23**|**[[2603.21540v1](http://arxiv.org/abs/2603.21540v1)]Resonance-Suppression Principle for Prethermalization beyond Periodic Driving**|Jian Xian Sim et.al.||
+|**2026-03-25**|**[[2603.21540v2](http://arxiv.org/abs/2603.21540v2)]Resonance-Suppression Principle for Prethermalization beyond Periodic Driving**|Jian Xian Sim et.al.||
 |**2026-03-23**|**[[2603.21517v1](http://arxiv.org/abs/2603.21517v1)]Magnetic Field Measurements in the Solar Chromosphere Using the H $_β$ 4861Å~Line I: Forward Modeling Based on 1D Models**|Jiasheng Wang et.al.||
 |**2026-03-23**|**[[2603.21510v1](http://arxiv.org/abs/2603.21510v1)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Superresolution|
 |**2026-03-23**|**[[2603.21456v1](http://arxiv.org/abs/2603.21456v1)]Compressive single-pixel imaging via a wavelength-multiplexed spatially incoherent diffractive optical processor**|Xiao Wang et.al.||
@@ -512,7 +525,7 @@
 |**2026-03-21**|**[[2603.20629v1](http://arxiv.org/abs/2603.20629v1)]Effective Rank Analysis and Optimization of Flexible Antenna-Enabled Wireless Systems: Movable Antennas or Pinching Antennas?**|Cheng Yang et.al.||
 |**2026-03-21**|**[[2603.20621v1](http://arxiv.org/abs/2603.20621v1)]A Channel Knowledge Map-Driven Two-Stage Coordinated User Scheduling in Multi-Cell Massive MIMO Systems**|Jiayang Wan et.al.||
 |**2026-03-20**|**[[2603.20403v1](http://arxiv.org/abs/2603.20403v1)]FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection**|Maxime Fontana et.al.||
-|**2026-03-20**|**[[2603.19889v1](http://arxiv.org/abs/2603.19889v1)]VHE gamma-ray intranight variability from BL Lacertae during the extreme flaring state of 2022**|K. Abe et.al.||
+|**2026-03-25**|**[[2603.19889v2](http://arxiv.org/abs/2603.19889v2)]VHE gamma-ray intranight variability from BL Lacertae during the extreme flaring state of 2022**|K. Abe et.al.||
 |**2026-03-20**|**[[2603.19657v1](http://arxiv.org/abs/2603.19657v1)]Model Selection and Parameter Estimation of Multi-dimensional Gaussian Mixture Model**|Xinyu Liu et.al.||
 |**2026-03-24**|**[[2603.19566v2](http://arxiv.org/abs/2603.19566v2)]PhyUnfold-Net: Advancing Remote Sensing Change Detection with Physics-Guided Deep Unfolding**|Zelin Lei et.al.||
 |**2026-03-20**|**[[2603.19555v1](http://arxiv.org/abs/2603.19555v1)]SpecZoo: An AI-Powered Platform for Spectral Analysis and Visualization in Science and Education**|Yuan-Hao Pu et.al.|Classification|
@@ -1581,7 +1594,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
