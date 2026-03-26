@@ -488,6 +488,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-25**|**[[2603.24585v1](http://arxiv.org/abs/2603.24585v1)]Unlocking HST's Stellar Treasure Trove: Stellar Activity Minima for HAT-P-11 Offer Prime Windows for Transmission Spectroscopy**|Prajwal Niraula et.al.||
+|**2026-03-25**|**[[2603.24552v1](http://arxiv.org/abs/2603.24552v1)]The role of spatial context and multitask learning in the detection of organic and conventional farming systems based on Sentinel-2 time series**|Jan Hemmerling et.al.|Classification|
 |**2026-03-25**|**[[2603.24323v1](http://arxiv.org/abs/2603.24323v1)]Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|Classification|
 |**2026-03-25**|**[[2603.24134v1](http://arxiv.org/abs/2603.24134v1)]Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.||
 |**2026-03-25**|**[[2603.24052v1](http://arxiv.org/abs/2603.24052v1)]Data-driven synthesis of high-fidelity triaxial magnetic waveforms for quantum control**|Giuseppe Bevilacqua et.al.||
