@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-26**|**[[2603.25530v1](http://arxiv.org/abs/2603.25530v1)]Adaptive Subspace Modeling With Functional Tucker Decomposition**|Noah Steidle et.al.|Classification|
 |**2026-03-26**|**[[2603.25510v1](http://arxiv.org/abs/2603.25510v1)]Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.||
 |**2026-03-26**|**[[2603.25384v1](http://arxiv.org/abs/2603.25384v1)]Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|Unmixing, Classification|
 |**2026-03-26**|**[[2603.25255v1](http://arxiv.org/abs/2603.25255v1)]Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|Classification|
@@ -492,12 +493,14 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-26**|**[[2603.25709v1](http://arxiv.org/abs/2603.25709v1)]Perturbative unitarity of fractional field theories and gravity**|Gianluca Calcagni et.al.||
+|**2026-03-26**|**[[2603.25687v1](http://arxiv.org/abs/2603.25687v1)]On Neural Scaling Laws for Weather Emulation through Continual Training**|Shashank Subramanian et.al.||
 |**2026-03-26**|**[[2603.25384v1](http://arxiv.org/abs/2603.25384v1)]Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|Classification|
 |**2026-03-26**|**[[2603.25253v1](http://arxiv.org/abs/2603.25253v1)]MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation**|Taolin Han et.al.||
 |**2026-03-26**|**[[2603.25036v1](http://arxiv.org/abs/2603.25036v1)]X-ray spectral and temporal evolution of atoll source 4U 1820-30 with AstroSat: detection of high frequency quasi-periodic oscillation**|Subhasish Das et.al.||
 |**2026-03-26**|**[[2603.24945v1](http://arxiv.org/abs/2603.24945v1)]Investigation on the X-ray emission of NGC 4051 during its 2009 optical/UV-X-ray dissociation phase**|Minhua Zhou et.al.||
 |**2026-03-25**|**[[2603.24678v1](http://arxiv.org/abs/2603.24678v1)]The background gas humming and multi-messenger transients of stalled supermassive black hole binaries**|Pau Amaro Seoane et.al.||
-|**2026-03-25**|**[[2603.24585v1](http://arxiv.org/abs/2603.24585v1)]Unlocking HST's Stellar Treasure Trove: Stellar Activity Minima for HAT-P-11 Offer Prime Windows for Transmission Spectroscopy**|Prajwal Niraula et.al.||
+|**2026-03-26**|**[[2603.24585v2](http://arxiv.org/abs/2603.24585v2)]Unlocking HST's Stellar Treasure Trove: Stellar Activity Minima for HAT-P-11 Offer Prime Windows for Transmission Spectroscopy**|Prajwal Niraula et.al.||
 |**2026-03-25**|**[[2603.24552v1](http://arxiv.org/abs/2603.24552v1)]The role of spatial context and multitask learning in the detection of organic and conventional farming systems based on Sentinel-2 time series**|Jan Hemmerling et.al.|Classification|
 |**2026-03-25**|**[[2603.24323v1](http://arxiv.org/abs/2603.24323v1)]Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|Classification|
 |**2026-03-25**|**[[2603.24134v1](http://arxiv.org/abs/2603.24134v1)]Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.||
