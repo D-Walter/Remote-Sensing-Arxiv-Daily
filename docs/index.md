@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,11 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-26**|**[[2603.26816v1](http://arxiv.org/abs/2603.26816v1)]PiCSRL: Physics-Informed Contextual Spectral Reinforcement Learning**|Mitra Nasr Azadani et.al.||
+|**2026-03-23**|**[[2603.26751v1](http://arxiv.org/abs/2603.26751v1)]Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models**|Qionghao Huang et.al.|Classification|
+|**2026-03-27**|**[[2603.26528v1](http://arxiv.org/abs/2603.26528v1)]Learnable Quantum Efficiency Filters for Urban Hyperspectral Segmentation**|Imad Ali Shah et.al.||
+|**2026-03-27**|**[[2603.26468v1](http://arxiv.org/abs/2603.26468v1)]HyVIC: A Metric-Driven Spatio-Spectral Hyperspectral Image Compression Architecture Based on Variational Autoencoders**|Martin Hermann Paul Fuchs et.al.||
+|**2026-03-27**|**[[2603.26445v1](http://arxiv.org/abs/2603.26445v1)]Nanoscale Surface Analysis of High Entropy Alloy**|Hsin-Hui Huang et.al.||
 |**2026-03-26**|**[[2603.25530v1](http://arxiv.org/abs/2603.25530v1)]Adaptive Subspace Modeling With Functional Tucker Decomposition**|Noah Steidle et.al.|Classification|
 |**2026-03-26**|**[[2603.25510v1](http://arxiv.org/abs/2603.25510v1)]Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.||
 |**2026-03-26**|**[[2603.25384v1](http://arxiv.org/abs/2603.25384v1)]Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|Unmixing, Classification|
@@ -42,7 +47,7 @@ layout: default
 |**2026-03-17**|**[[2603.16662v1](http://arxiv.org/abs/2603.16662v1)]Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|Classification|
 |**2026-03-17**|**[[2603.16426v1](http://arxiv.org/abs/2603.16426v1)]3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
 |**2026-03-14**|**[[2603.13941v1](http://arxiv.org/abs/2603.13941v1)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
-|**2026-03-24**|**[[2603.13352v2](http://arxiv.org/abs/2603.13352v2)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
+|**2026-03-27**|**[[2603.13352v3](http://arxiv.org/abs/2603.13352v3)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
 |**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.|Unmixing|
 |**2026-03-13**|**[[2603.11272v2](http://arxiv.org/abs/2603.11272v2)]Neutrino Spectral Pinching in 3D Core-Collapse Supernovae: Late-Time Convergence, Failed-Explosion Signatures, and Viewing-Angle Dispersion**|Nicolás Viaux M et.al.||
 |**2026-03-11**|**[[2603.10856v1](http://arxiv.org/abs/2603.10856v1)]6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.||
@@ -56,7 +61,7 @@ layout: default
 |**2026-03-24**|**[[2603.06690v2](http://arxiv.org/abs/2603.06690v2)]Spectral Gaps and Spatial Priors: Studying Hyperspectral Downstream Adaptation Using TerraMind**|Julia Anna Leonardi et.al.||
 |**2026-03-03**|**[[2603.06673v1](http://arxiv.org/abs/2603.06673v1)]Unmixing microinfrared spectroscopic images of cross-sections of historical oil paintings**|Shivam Pande et.al.|Unmixing|
 |**2026-03-05**|**[[2603.05473v1](http://arxiv.org/abs/2603.05473v1)]Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.||
-|**2026-03-05**|**[[2603.05014v1](http://arxiv.org/abs/2603.05014v1)]Fusion of JWST data - Demonstrating practical feasibility**|Landry Marquis et.al.||
+|**2026-03-27**|**[[2603.05014v2](http://arxiv.org/abs/2603.05014v2)]Fusion of JWST data: Demonstrating practical feasibility**|Landry Marquis et.al.||
 |**2026-03-05**|**[[2603.04720v1](http://arxiv.org/abs/2603.04720v1)]A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification**|Sai Shi et.al.|Classification|
 |**2026-03-04**|**[[2603.04606v1](http://arxiv.org/abs/2603.04606v1)]PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion**|Mahindra Rautela et.al.||
 |**2026-03-04**|**[[2603.03812v1](http://arxiv.org/abs/2603.03812v1)]Video-rate volumetric chemical imaging via mid-infrared photothermal optical diffraction tomography**|Masato Fukushima et.al.||
@@ -487,12 +492,24 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-29**|**[[2603.27660v1](http://arxiv.org/abs/2603.27660v1)]A Tale of Two Jets: Double Relativistic Outflows from Close Binary GRB Progenitors**|He Gao et.al.||
+|**2026-03-29**|**[[2603.27503v1](http://arxiv.org/abs/2603.27503v1)]Pseudo-magnetism in a strained discrete honeycomb lattice**|Xuenan Li et.al.||
+|**2026-03-28**|**[[2603.27321v1](http://arxiv.org/abs/2603.27321v1)]Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations**|Soyeon Park et.al.||
+|**2026-03-28**|**[[2603.27235v1](http://arxiv.org/abs/2603.27235v1)]XRISM spectroscopy of a crowded Galactic center region -- II. Narrow emission lines in the Black Hole candidate MAXI J1744-294/Swift J174540.2-290037**|Maxime Parra et.al.||
+|**2026-03-28**|**[[2603.27135v1](http://arxiv.org/abs/2603.27135v1)]Spectral-Aware Text-to-Time Series Generation with Billion-Scale Multimodal Meteorological Data**|Shijie Zhang et.al.||
+|**2026-03-27**|**[[2603.26959v1](http://arxiv.org/abs/2603.26959v1)]Symmetry analysis and exact solutions of multi-layer quasi-geostrophic problem**|Serhii D. Koval et.al.||
+|**2026-03-26**|**[[2603.26818v1](http://arxiv.org/abs/2603.26818v1)]Multi-GPU fast Fourier transforms in MATLAB (for large-scale phase-field crystal simulations)**|Maik Punke et.al.||
+|**2026-03-26**|**[[2603.26811v1](http://arxiv.org/abs/2603.26811v1)]Implicit neural representations for larval zebrafish brain microscopy: a reproducible benchmark on the MapZebrain atlas**|Agnieszka Pregowska et.al.|Denoising|
+|**2026-03-27**|**[[2603.26566v1](http://arxiv.org/abs/2603.26566v1)]Beam-Coherence-Aware Two-Stage Digital Combining for mmWave MU-MIMO Systems**|Yasaman Khorsandmanesh et.al.||
+|**2026-03-27**|**[[2603.26554v1](http://arxiv.org/abs/2603.26554v1)]Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory**|Juno Kim et.al.||
+|**2026-03-27**|**[[2603.26528v1](http://arxiv.org/abs/2603.26528v1)]Learnable Quantum Efficiency Filters for Urban Hyperspectral Segmentation**|Imad Ali Shah et.al.||
+|**2026-03-26**|**[[2603.25828v1](http://arxiv.org/abs/2603.25828v1)]Metasurface Engineering with Tantalum Pentoxide-Coated Microspheres: Tailoring Optical Resonances and Enhancing Local Density of States**|Alexandra Fălamaş et.al.||
 |**2026-03-26**|**[[2603.25709v1](http://arxiv.org/abs/2603.25709v1)]Perturbative unitarity of fractional field theories and gravity**|Gianluca Calcagni et.al.||
 |**2026-03-26**|**[[2603.25687v1](http://arxiv.org/abs/2603.25687v1)]On Neural Scaling Laws for Weather Emulation through Continual Training**|Shashank Subramanian et.al.||
 |**2026-03-26**|**[[2603.25384v1](http://arxiv.org/abs/2603.25384v1)]Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|Classification|
@@ -553,10 +570,11 @@ layout: default
 |**2026-03-19**|**[[2603.18386v1](http://arxiv.org/abs/2603.18386v1)] $\mathrm{PGL}(3)$ -invariant integrable systems from factorisation of linear differential and difference operators**|Frank Nijhoff et.al.||
 |**2026-03-20**|**[[2603.18062v2](http://arxiv.org/abs/2603.18062v2)]S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.||
 |**2026-03-18**|**[[2603.17620v1](http://arxiv.org/abs/2603.17620v1)]3D Spherical Directly-Connected Antenna Array for Low-Altitude UAV Swarm ISAC**|Haoyu Jiang et.al.||
-|**2026-03-18**|**[[2603.17528v1](http://arxiv.org/abs/2603.17528v1)]MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|VLM|
+|**2026-03-27**|**[[2603.17528v2](http://arxiv.org/abs/2603.17528v2)]MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|VLM|
 |**2026-03-18**|**[[2603.17511v1](http://arxiv.org/abs/2603.17511v1)]VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.||
 |**2026-03-18**|**[[2603.17464v1](http://arxiv.org/abs/2603.17464v1)]Revealing the Spectral Properties of Galactic Interstellar Medium by Survey Observations**|Ya-Wen Xiao et.al.||
 |**2026-03-18**|**[[2603.17440v1](http://arxiv.org/abs/2603.17440v1)]Polarization-Aligned, Spectrally Consistent Quantum Emitters in As-Exfoliated Carbon-Doped Hexagonal Boron Nitride**|Sofiya Karankova et.al.||
+|**2026-03-28**|**[[2603.17342v2](http://arxiv.org/abs/2603.17342v2)]Quantum Simulation of Non-Hermitian Linear Response via Schrödingerization**|Jeongbin Jo et.al.||
 |**2026-03-18**|**[[2603.17299v1](http://arxiv.org/abs/2603.17299v1)]Optical variability and optical--mid-infrared dust lags in Type~1 changing-look AGNs**|Yu Tao et.al.||
 |**2026-03-17**|**[[2603.17219v1](http://arxiv.org/abs/2603.17219v1)]SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization**|Ishrith Gowda et.al.||
 |**2026-03-17**|**[[2603.17095v1](http://arxiv.org/abs/2603.17095v1)]Multi-Component Dark Matter as a Solution to the Galactic Center GeV Excess**|Farinaldo S. Queiroz et.al.||
@@ -1612,7 +1630,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
