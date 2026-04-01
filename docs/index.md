@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-31**|**[[2603.29438v1](http://arxiv.org/abs/2603.29438v1)]Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning**|Antoine Bottenmuller et.al.|Unmixing, Classification|
 |**2026-03-30**|**[[2603.28390v1](http://arxiv.org/abs/2603.28390v1)]SVH-BD : Synthetic Vegetation Hyperspectral Benchmark Dataset for Emulation of Remote Sensing Images**|Chedly Ben Azizi et.al.|Classification|
 |**2026-03-29**|**[[2603.27832v1](http://arxiv.org/abs/2603.27832v1)]3-D Representations for Hyperspectral Flame Tomography**|Nicolas Tricard et.al.||
 |**2026-03-26**|**[[2603.26816v1](http://arxiv.org/abs/2603.26816v1)]PiCSRL: Physics-Informed Contextual Spectral Reinforcement Learning**|Mitra Nasr Azadani et.al.||
@@ -494,12 +495,16 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-03-31**|**[[2603.29630v1](http://arxiv.org/abs/2603.29630v1)]BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation**|Johann-Ludwig Herzog et.al.|VLM|
+|**2026-03-31**|**[[2603.29264v1](http://arxiv.org/abs/2603.29264v1)]Lie Generator Networks for Nonlinear Partial Differential Equations**|Shafayeth Jamil et.al.||
+|**2026-03-31**|**[[2603.29245v1](http://arxiv.org/abs/2603.29245v1)]Monocular Building Height Estimation from PhiSat-2 Imagery: Dataset and Method**|Yanjiao Song et.al.||
+|**2026-03-30**|**[[2603.28932v1](http://arxiv.org/abs/2603.28932v1)]A Unified Multiscale Auxiliary PINN Framework for Generalized Phonon Transport**|Roberto Riganti et.al.||
 |**2026-03-30**|**[[2603.28528v1](http://arxiv.org/abs/2603.28528v1)]Search for TeV emission from spider millisecond pulsars with HAWC**|R. Alfaro et.al.||
 |**2026-03-30**|**[[2603.28504v1](http://arxiv.org/abs/2603.28504v1)]JW-VL: A Vision-Language Model for Solar Physics**|Mingfu Shao et.al.|VLM|
 |**2026-03-30**|**[[2603.28378v1](http://arxiv.org/abs/2603.28378v1)]Membership Inference Attacks against Large Audio Language Models**|Jia-Kai Dong et.al.||
@@ -508,7 +513,7 @@ layout: default
 |**2026-03-30**|**[[2603.28073v1](http://arxiv.org/abs/2603.28073v1)]SIMR-NO: A Spectrally-Informed Multi-Resolution Neural Operator for Turbulent Flow Super-Resolution**|Muhammad Abid et.al.|Superresolution|
 |**2026-03-30**|**[[2603.27976v1](http://arxiv.org/abs/2603.27976v1)]Physics-informed line-of-sight learning for scalable deterministic channel modeling**|Xiucheng Wang et.al.|Classification|
 |**2026-03-29**|**[[2603.27761v1](http://arxiv.org/abs/2603.27761v1)]Digital Predistortion of Optical Fields for Fast and High-Fidelity Entangling Gates in Trapped-Ion Qubits**|Jovan Markov et.al.||
-|**2026-03-29**|**[[2603.27749v1](http://arxiv.org/abs/2603.27749v1)]Self-Consistent Modelling of Neutrino Production in Turbulent Black Hole Coronae**|Le Bihan Sébastien et.al.||
+|**2026-03-29**|**[[2603.27749v1](http://arxiv.org/abs/2603.27749v1)]Self-Consistent Modelling of Neutrino Production in Turbulent Black Hole Coronae**|Sébastien Le Bihan et.al.||
 |**2026-03-29**|**[[2603.27660v1](http://arxiv.org/abs/2603.27660v1)]A Tale of Two Jets: Double Relativistic Outflows from Close Binary GRB Progenitors**|He Gao et.al.||
 |**2026-03-29**|**[[2603.27503v1](http://arxiv.org/abs/2603.27503v1)]Pseudo-magnetism in a strained discrete honeycomb lattice**|Xuenan Li et.al.||
 |**2026-03-28**|**[[2603.27321v1](http://arxiv.org/abs/2603.27321v1)]Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations**|Soyeon Park et.al.||
@@ -1641,7 +1646,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
