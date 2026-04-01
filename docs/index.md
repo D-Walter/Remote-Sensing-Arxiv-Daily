@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-03-31**|**[[2603.29934v1](http://arxiv.org/abs/2603.29934v1)]Molecular beam epitaxy of wafer-scale O-band InAs/InGaAs quantum dots on GaAs for quantum photonics**|Pavel S. Avdienko et.al.||
 |**2026-03-31**|**[[2603.29438v1](http://arxiv.org/abs/2603.29438v1)]Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning**|Antoine Bottenmuller et.al.|Unmixing, Classification|
 |**2026-03-30**|**[[2603.28390v1](http://arxiv.org/abs/2603.28390v1)]SVH-BD : Synthetic Vegetation Hyperspectral Benchmark Dataset for Emulation of Remote Sensing Images**|Chedly Ben Azizi et.al.|Classification|
 |**2026-03-29**|**[[2603.27832v1](http://arxiv.org/abs/2603.27832v1)]3-D Representations for Hyperspectral Flame Tomography**|Nicolas Tricard et.al.||
