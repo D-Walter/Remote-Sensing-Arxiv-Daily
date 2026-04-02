@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-01**|**[[2604.01141v1](http://arxiv.org/abs/2604.01141v1)]Looking into a Pixel by Nonlinear Unmixing -- A Generative Approach**|Maofeng Tang et.al.|Unmixing|
 |**2026-03-31**|**[[2603.29934v1](http://arxiv.org/abs/2603.29934v1)]Molecular beam epitaxy of wafer-scale O-band InAs/InGaAs quantum dots on GaAs for quantum photonics**|Pavel S. Avdienko et.al.||
 |**2026-03-31**|**[[2603.29438v1](http://arxiv.org/abs/2603.29438v1)]Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning**|Antoine Bottenmuller et.al.|Unmixing, Classification|
 |**2026-03-30**|**[[2603.28390v1](http://arxiv.org/abs/2603.28390v1)]SVH-BD : Synthetic Vegetation Hyperspectral Benchmark Dataset for Emulation of Remote Sensing Images**|Chedly Ben Azizi et.al.|Classification|
@@ -40,7 +41,7 @@
 |**2026-03-23**|**[[2603.22097v1](http://arxiv.org/abs/2603.22097v1)]SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.||
 |**2026-03-23**|**[[2603.21911v1](http://arxiv.org/abs/2603.21911v1)]A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing**|Chedly Ben Azizi et.al.||
 |**2026-03-23**|**[[2603.21732v1](http://arxiv.org/abs/2603.21732v1)]Hyperspectral imaging solutions for brain tissue metabolic and haemodynamic monitoring: an updated perspective**|Luca Giannoni et.al.||
-|**2026-03-23**|**[[2603.21510v1](http://arxiv.org/abs/2603.21510v1)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Unmixing, Superresolution|
+|**2026-04-01**|**[[2603.21510v2](http://arxiv.org/abs/2603.21510v2)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Unmixing, Superresolution|
 |**2026-03-21**|**[[2603.20896v1](http://arxiv.org/abs/2603.20896v1)]Beyond the Birkhoff Polytope: Spectral-Sphere-Constrained Hyper-Connections**|Zhaoyi Liu et.al.||
 |**2026-03-19**|**[[2603.20292v1](http://arxiv.org/abs/2603.20292v1)]HSI Image Enhancement Classification Based on Knowledge Distillation: A Study on Forgetting**|Songfeng Zhu et.al.|Classification|
 |**2026-03-19**|**[[2603.19142v1](http://arxiv.org/abs/2603.19142v1)]Hyper-efficient superconducting filterbanks with impedance-defined spectral resolution for millimeter-wave spectroscopy**|Oliver Jeong et.al.||
@@ -498,6 +499,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-01**|**[[2604.01215v1](http://arxiv.org/abs/2604.01215v1)]The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline**|Piyush Garg et.al.||
+|**2026-04-01**|**[[2604.01096v1](http://arxiv.org/abs/2604.01096v1)]Approximate Energy-Integration Method for Identifying Collisional Neutrino Flavor Instabilities**|Jiabao Liu et.al.||
 |**2026-04-01**|**[[2604.00940v1](http://arxiv.org/abs/2604.00940v1)]YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction**|Miro Miranda et.al.||
 |**2026-04-01**|**[[2604.00531v1](http://arxiv.org/abs/2604.00531v1)]Learning Shared Representations for Multi-Task Linear Bandits**|Jiabin Lin et.al.||
 |**2026-04-01**|**[[2604.00476v1](http://arxiv.org/abs/2604.00476v1)]X-ray variability of SDSS J000532.84+200717.4: from a normal state to an X-weak state**|Yang Xiaohui et.al.||
@@ -565,7 +568,7 @@
 |**2026-03-23**|**[[2603.21912v1](http://arxiv.org/abs/2603.21912v1)]H.E.S.S. observations of composite Seyfert-starburst galaxies**|H. E. S. S. Collaboration et.al.||
 |**2026-03-25**|**[[2603.21540v2](http://arxiv.org/abs/2603.21540v2)]Resonance-Suppression Principle for Prethermalization beyond Periodic Driving**|Jian Xian Sim et.al.||
 |**2026-03-23**|**[[2603.21517v1](http://arxiv.org/abs/2603.21517v1)]Magnetic Field Measurements in the Solar Chromosphere Using the H $_β$ 4861Å~Line I: Forward Modeling Based on 1D Models**|Jiasheng Wang et.al.||
-|**2026-03-23**|**[[2603.21510v1](http://arxiv.org/abs/2603.21510v1)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Superresolution|
+|**2026-04-01**|**[[2603.21510v2](http://arxiv.org/abs/2603.21510v2)]Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and Recoverability**|Jiahui Song et.al.|Superresolution|
 |**2026-03-23**|**[[2603.21456v1](http://arxiv.org/abs/2603.21456v1)]Compressive single-pixel imaging via a wavelength-multiplexed spatially incoherent diffractive optical processor**|Xiao Wang et.al.||
 |**2026-03-22**|**[[2603.21160v1](http://arxiv.org/abs/2603.21160v1)]Beyond a Single Signal: SPECTREG2, A Unified MultiExpert Anomaly Detector for Unknown Unknowns**|Rahul D Ray et.al.||
 |**2026-03-22**|**[[2603.21087v1](http://arxiv.org/abs/2603.21087v1)]Exploiting Self-Sustainable Information-Bearing RIS in Underlay CR-NOMA Networks**|Zeyang Sun et.al.||
@@ -592,7 +595,7 @@
 |**2026-03-18**|**[[2603.17440v1](http://arxiv.org/abs/2603.17440v1)]Polarization-Aligned, Spectrally Consistent Quantum Emitters in As-Exfoliated Carbon-Doped Hexagonal Boron Nitride**|Sofiya Karankova et.al.||
 |**2026-03-28**|**[[2603.17342v2](http://arxiv.org/abs/2603.17342v2)]Quantum Simulation of Non-Hermitian Linear Response via Schrödingerization**|Jeongbin Jo et.al.||
 |**2026-03-18**|**[[2603.17299v1](http://arxiv.org/abs/2603.17299v1)]Optical variability and optical--mid-infrared dust lags in Type~1 changing-look AGNs**|Yu Tao et.al.||
-|**2026-03-17**|**[[2603.17219v1](http://arxiv.org/abs/2603.17219v1)]SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization**|Ishrith Gowda et.al.||
+|**2026-04-01**|**[[2603.17219v2](http://arxiv.org/abs/2603.17219v2)]SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization**|Ishrith Gowda et.al.||
 |**2026-03-17**|**[[2603.17095v1](http://arxiv.org/abs/2603.17095v1)]Multi-Component Dark Matter as a Solution to the Galactic Center GeV Excess**|Farinaldo S. Queiroz et.al.||
 |**2026-03-17**|**[[2603.16049v1](http://arxiv.org/abs/2603.16049v1)]Qudit Implementation of the Rodeo Algorithm for Quantum Spectral Filtering**|Julio Cesar Siqueira Rocha et.al.||
 |**2026-03-16**|**[[2603.15996v1](http://arxiv.org/abs/2603.15996v1)]Advanced Control of Electron Beams: Tailoring X-ray Production with Programmable Laser Shaping**|Jack Hirschman et.al.||
