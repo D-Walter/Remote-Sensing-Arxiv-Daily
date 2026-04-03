@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-02**|**[[2604.02309v1](http://arxiv.org/abs/2604.02309v1)]go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi et.al.||
 |**2026-04-02**|**[[2604.01801v1](http://arxiv.org/abs/2604.01801v1)]Compressive hyperspectral phasor imaging with single-pixel detection for spectral tasks**|Jiaqi Song et.al.|Classification|
 |**2026-04-02**|**[[2604.01763v1](http://arxiv.org/abs/2604.01763v1)]Cosine-Normalized Attention for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
 |**2026-04-02**|**[[2604.01542v1](http://arxiv.org/abs/2604.01542v1)]Universal computational thermal imaging overcoming the ghosting effect**|Hongyi Xu et.al.||
@@ -507,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-02**|**[[2604.02272v1](http://arxiv.org/abs/2604.02272v1)]X-ray Response of the Fully-Depleted, p-Channel SiSeRO-CCD**|Julian Cuevas-Zepeda et.al.||
 |**2026-04-02**|**[[2604.01944v1](http://arxiv.org/abs/2604.01944v1)]Physics-Informed Transformer for Multi-Band Channel Frequency Response Reconstruction**|Anatolij Zubow et.al.||
 |**2026-04-02**|**[[2604.01815v1](http://arxiv.org/abs/2604.01815v1)]The impact of the eROSITA bubbles on Galactic cosmic-ray transport**|Benedikt Schroer et.al.||
 |**2026-04-02**|**[[2604.01778v1](http://arxiv.org/abs/2604.01778v1)]Multi-Mode Pinching-Antenna Systems: Polarization-Aware Full-Wave Modeling and Optimization**|Dengke Wei et.al.||
