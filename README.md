@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,10 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-02**|**[[2604.01801v1](http://arxiv.org/abs/2604.01801v1)]Compressive hyperspectral phasor imaging with single-pixel detection for spectral tasks**|Jiaqi Song et.al.|Classification|
+|**2026-04-02**|**[[2604.01763v1](http://arxiv.org/abs/2604.01763v1)]Cosine-Normalized Attention for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
+|**2026-04-02**|**[[2604.01542v1](http://arxiv.org/abs/2604.01542v1)]Universal computational thermal imaging overcoming the ghosting effect**|Hongyi Xu et.al.||
+|**2026-04-01**|**[[2604.01412v1](http://arxiv.org/abs/2604.01412v1)]Revealing Strain and Disorder in Transition-Metal Dichalcogenides Using Hyperspectral Photoluminescence Imaging**|Adam Alfrey et.al.||
 |**2026-04-01**|**[[2604.01141v1](http://arxiv.org/abs/2604.01141v1)]Looking into a Pixel by Nonlinear Unmixing -- A Generative Approach**|Maofeng Tang et.al.|Unmixing|
 |**2026-03-31**|**[[2603.29934v1](http://arxiv.org/abs/2603.29934v1)]Molecular beam epitaxy of wafer-scale O-band InAs/InGaAs quantum dots on GaAs for quantum photonics**|Pavel S. Avdienko et.al.||
 |**2026-03-31**|**[[2603.29438v1](http://arxiv.org/abs/2603.29438v1)]Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning**|Antoine Bottenmuller et.al.|Unmixing, Classification|
@@ -70,7 +74,7 @@
 |**2026-03-01**|**[[2603.01174v1](http://arxiv.org/abs/2603.01174v1)]VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|Classification|
 |**2026-03-01**|**[[2603.00920v1](http://arxiv.org/abs/2603.00920v1)]Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image**|Si-Sheng Young et.al.|Superresolution|
 |**2026-02-28**|**[[2603.00611v1](http://arxiv.org/abs/2603.00611v1)]Exploring Spatiotemporal Feature Propagation for Video-Level Compressive Spectral Reconstruction: Dataset, Model and Benchmark**|Lijing Cai et.al.||
-|**2026-02-28**|**[[2603.00474v1](http://arxiv.org/abs/2603.00474v1)]Wireless Power Control Based on Large Language Models**|Jiacheng Wang et.al.||
+|**2026-04-02**|**[[2603.00474v2](http://arxiv.org/abs/2603.00474v2)]Wireless Power Control Based on Large Language Models**|Jiacheng Wang et.al.||
 |**2026-02-27**|**[[2603.00273v1](http://arxiv.org/abs/2603.00273v1)]Ozone Cues Mitigate Reflected Downwelling Radiance in LWIR Absorption-Based Ranging**|Unay Dorken Gallastegi et.al.||
 |**2026-02-26**|**[[2602.23439v1](http://arxiv.org/abs/2602.23439v1)]Resonance-Enhanced Four-Wave Mixing Imaging for Mapping Defect Regions in Vanadium-Doped WS2 Monolayers**|Felipe Menescal et.al.||
 |**2026-02-25**|**[[2602.22140v1](http://arxiv.org/abs/2602.22140v1)]Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.||
@@ -493,12 +497,20 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260403>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-02**|**[[2604.01944v1](http://arxiv.org/abs/2604.01944v1)]Physics-Informed Transformer for Multi-Band Channel Frequency Response Reconstruction**|Anatolij Zubow et.al.||
+|**2026-04-02**|**[[2604.01815v1](http://arxiv.org/abs/2604.01815v1)]The impact of the eROSITA bubbles on Galactic cosmic-ray transport**|Benedikt Schroer et.al.||
+|**2026-04-02**|**[[2604.01778v1](http://arxiv.org/abs/2604.01778v1)]Multi-Mode Pinching-Antenna Systems: Polarization-Aware Full-Wave Modeling and Optimization**|Dengke Wei et.al.||
+|**2026-04-02**|**[[2604.01762v1](http://arxiv.org/abs/2604.01762v1)]FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models**|Juyong Jiang et.al.||
+|**2026-04-02**|**[[2604.01721v1](http://arxiv.org/abs/2604.01721v1)]Phase-Shifted Pilot Design for NOMA-Empowered Uplink ISAC Systems**|Ahmet Sacid Sümer et.al.||
+|**2026-04-02**|**[[2604.01598v1](http://arxiv.org/abs/2604.01598v1)]Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.||
+|**2026-04-01**|**[[2604.01475v1](http://arxiv.org/abs/2604.01475v1)]Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease**|Antonios G. Dougalis et.al.||
+|**2026-04-01**|**[[2604.01405v1](http://arxiv.org/abs/2604.01405v1)]The unusually red delay spectrum of the low-mass black hole AGN NGC\,4051 as revealed by intensive continuum reverberation mapping with the Las Cumbres Observatory**|Marcin Marculewicz et.al.||
 |**2026-04-01**|**[[2604.01215v1](http://arxiv.org/abs/2604.01215v1)]The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline**|Piyush Garg et.al.||
 |**2026-04-01**|**[[2604.01096v1](http://arxiv.org/abs/2604.01096v1)]Approximate Energy-Integration Method for Identifying Collisional Neutrino Flavor Instabilities**|Jiabao Liu et.al.||
 |**2026-04-01**|**[[2604.00940v1](http://arxiv.org/abs/2604.00940v1)]YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction**|Miro Miranda et.al.||
@@ -506,7 +518,7 @@
 |**2026-04-01**|**[[2604.00476v1](http://arxiv.org/abs/2604.00476v1)]X-ray variability of SDSS J000532.84+200717.4: from a normal state to an X-weak state**|Yang Xiaohui et.al.||
 |**2026-04-01**|**[[2603.29630v2](http://arxiv.org/abs/2603.29630v2)]BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation**|Johann-Ludwig Herzog et.al.|VLM|
 |**2026-04-01**|**[[2603.29264v2](http://arxiv.org/abs/2603.29264v2)]Lie Generator Networks for Nonlinear Partial Differential Equations**|Shafayeth Jamil et.al.||
-|**2026-03-31**|**[[2603.29245v1](http://arxiv.org/abs/2603.29245v1)]Monocular Building Height Estimation from PhiSat-2 Imagery: Dataset and Method**|Yanjiao Song et.al.||
+|**2026-04-02**|**[[2603.29245v2](http://arxiv.org/abs/2603.29245v2)]Monocular Building Height Estimation from PhiSat-2 Imagery: Dataset and Method**|Yanjiao Song et.al.||
 |**2026-03-30**|**[[2603.28932v1](http://arxiv.org/abs/2603.28932v1)]A Unified Multiscale Auxiliary PINN Framework for Generalized Phonon Transport**|Roberto Riganti et.al.||
 |**2026-03-30**|**[[2603.28528v1](http://arxiv.org/abs/2603.28528v1)]Search for TeV emission from spider millisecond pulsars with HAWC**|R. Alfaro et.al.||
 |**2026-03-30**|**[[2603.28504v1](http://arxiv.org/abs/2603.28504v1)]JW-VL: A Vision-Language Model for Solar Physics**|Mingfu Shao et.al.|VLM|
@@ -1649,7 +1661,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
