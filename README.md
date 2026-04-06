@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -89,7 +89,7 @@
 |**2026-02-23**|**[[2602.12313v2](http://arxiv.org/abs/2602.12313v2)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
 |**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
 |**2026-02-11**|**[[2602.10745v1](http://arxiv.org/abs/2602.10745v1)]Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
-|**2026-02-11**|**[[2602.10434v1](http://arxiv.org/abs/2602.10434v1)]Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery**|Sagar Lekhak et.al.|Object Detection|
+|**2026-04-03**|**[[2602.10434v2](http://arxiv.org/abs/2602.10434v2)]Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery**|Sagar Lekhak et.al.|Object Detection|
 |**2026-02-09**|**[[2602.09245v1](http://arxiv.org/abs/2602.09245v1)]Micromolar chemical imaging by high-energy low-photodamage Coherent Anti-stokes Raman Scattering (HELP-CARS)**|Guangrui Ding et.al.|Denoising|
 |**2026-02-10**|**[[2602.07358v2](http://arxiv.org/abs/2602.07358v2)]UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding**|Jiaming He et.al.||
 |**2026-02-05**|**[[2602.04795v2](http://arxiv.org/abs/2602.04795v2)]Maximum-Volume Nonnegative Matrix Factorization**|Olivier Vu Thanh et.al.|Unmixing|
@@ -498,12 +498,16 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-03**|**[[2604.03099v1](http://arxiv.org/abs/2604.03099v1)]Proximate quantum spin liquids and Majorana continua in magnetically ordered Kitaev magnets**|Peng Rao et.al.||
+|**2026-04-03**|**[[2604.03082v1](http://arxiv.org/abs/2604.03082v1)]Quantitative spectroscopy of single and multiple OB-type stars. Non-LTE spectrum analysis with machine learning**|P. Aschenbrenner et.al.||
+|**2026-04-03**|**[[2604.02742v1](http://arxiv.org/abs/2604.02742v1)]Task-Guided Prompting for Unified Remote Sensing Image Restoration**|Wenli Huang et.al.|Denoising|
+|**2026-04-02**|**[[2604.02535v1](http://arxiv.org/abs/2604.02535v1)]A Spectral Framework for Multi-Scale Nonlinear Dimensionality Reduction**|Zeyang Huang et.al.||
 |**2026-04-02**|**[[2604.02272v1](http://arxiv.org/abs/2604.02272v1)]X-ray Response of the Fully-Depleted, p-Channel SiSeRO-CCD**|Julian Cuevas-Zepeda et.al.||
 |**2026-04-02**|**[[2604.01944v1](http://arxiv.org/abs/2604.01944v1)]Physics-Informed Transformer for Multi-Band Channel Frequency Response Reconstruction**|Anatolij Zubow et.al.||
 |**2026-04-02**|**[[2604.01815v1](http://arxiv.org/abs/2604.01815v1)]The impact of the eROSITA bubbles on Galactic cosmic-ray transport**|Benedikt Schroer et.al.||
@@ -521,7 +525,7 @@
 |**2026-04-01**|**[[2603.29630v2](http://arxiv.org/abs/2603.29630v2)]BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation**|Johann-Ludwig Herzog et.al.|VLM|
 |**2026-04-01**|**[[2603.29264v2](http://arxiv.org/abs/2603.29264v2)]Lie Generator Networks for Nonlinear Partial Differential Equations**|Shafayeth Jamil et.al.||
 |**2026-04-02**|**[[2603.29245v2](http://arxiv.org/abs/2603.29245v2)]Monocular Building Height Estimation from PhiSat-2 Imagery: Dataset and Method**|Yanjiao Song et.al.||
-|**2026-03-30**|**[[2603.28932v1](http://arxiv.org/abs/2603.28932v1)]A Unified Multiscale Auxiliary PINN Framework for Generalized Phonon Transport**|Roberto Riganti et.al.||
+|**2026-04-02**|**[[2603.28932v2](http://arxiv.org/abs/2603.28932v2)]A Unified Multiscale Auxiliary PINN Framework for Generalized Phonon Transport**|Roberto Riganti et.al.||
 |**2026-03-30**|**[[2603.28528v1](http://arxiv.org/abs/2603.28528v1)]Search for TeV emission from spider millisecond pulsars with HAWC**|R. Alfaro et.al.||
 |**2026-03-30**|**[[2603.28504v1](http://arxiv.org/abs/2603.28504v1)]JW-VL: A Vision-Language Model for Solar Physics**|Mingfu Shao et.al.|VLM|
 |**2026-03-30**|**[[2603.28378v1](http://arxiv.org/abs/2603.28378v1)]Membership Inference Attacks against Large Audio Language Models**|Jia-Kai Dong et.al.||
@@ -1663,7 +1667,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
