@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-06**|**[[2604.04433v1](http://arxiv.org/abs/2604.04433v1)]Lattice studies of chimera baryons in Sp(4) gauge theory**|Jong-Wan Lee et.al.||
 |**2026-04-04**|**[[2604.03572v1](http://arxiv.org/abs/2604.03572v1)]Physics-Informed Untrained Learning for RGB-Guided Superresolution Single-Pixel Hyperspectral Imaging**|Hao Zhang et.al.|Superresolution|
 |**2026-04-02**|**[[2604.02309v1](http://arxiv.org/abs/2604.02309v1)]go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi et.al.||
 |**2026-04-02**|**[[2604.01801v1](http://arxiv.org/abs/2604.01801v1)]Compressive hyperspectral phasor imaging with single-pixel detection for spectral tasks**|Jiaqi Song et.al.|Classification|
@@ -505,12 +506,17 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-06**|**[[2604.04643v1](http://arxiv.org/abs/2604.04643v1)]Collective spin excitations in trilayer nickelate La $_4$Ni$_3$O$_{10}$**|Ying Chan et.al.||
+|**2026-04-06**|**[[2604.04589v1](http://arxiv.org/abs/2604.04589v1)]Greedy and Transformer-Based Multi-Port Selection for Slow Fluid Antenna Multiple Access**|Darian Perez-Adan et.al.||
+|**2026-04-06**|**[[2604.04445v1](http://arxiv.org/abs/2604.04445v1)]TinyNina: A Resource-Efficient Edge-AI Framework for Sustainable Air Quality Monitoring via Intra-Image Satellite Super-Resolution**|Prasanjit Dey et.al.|Superresolution|
+|**2026-04-05**|**[[2604.04306v1](http://arxiv.org/abs/2604.04306v1)]HighFM: Towards a Foundation Model for Learning Representations from High-Frequency Earth Observation Data**|Stella Girtsou et.al.||
+|**2026-04-05**|**[[2604.04194v1](http://arxiv.org/abs/2604.04194v1)]PATHFINDER: Multi-objective discovery in structural and spectral spaces**|Kamyar Barakati et.al.||
 |**2026-04-05**|**[[2604.04150v1](http://arxiv.org/abs/2604.04150v1)]A Multi-Scale ResNet-augmented Fourier Neural Operator Framework for High-Frequency Sequence-to-Sequence Prediction of Magnetic Hysteresis**|Ziqing Guo et.al.||
 |**2026-04-05**|**[[2604.04110v1](http://arxiv.org/abs/2604.04110v1)]Stellar Parameters and Orbital Period Estimates for Composite-Spectrum sdB+MS Binaries from LAMOST**|Jiangdan Li et.al.||
 |**2026-04-04**|**[[2604.03833v1](http://arxiv.org/abs/2604.03833v1)]SPARK-IL: Spectral Retrieval-Augmented RAG for Knowledge-driven Deepfake Detection via Incremental Learning**|Hessen Bougueffa Eutamene et.al.||
 |**2026-04-04**|**[[2604.03634v1](http://arxiv.org/abs/2604.03634v1)]Algebraic Diversity: Group-Theoretic Spectral Estimation from Single Observations**|Mitchell A. Thornton et.al.|Classification|
 |**2026-04-03**|**[[2604.03372v1](http://arxiv.org/abs/2604.03372v1)]GOPREAUX I: Open-source Code and Data to Model Multi-wavelength Emission of Extragalactic Transients using Gaussian Processes**|C. Pellegrino et.al.|Classification|
-|**2026-04-03**|**[[2604.03099v1](http://arxiv.org/abs/2604.03099v1)]Proximate quantum spin liquids and Majorana continua in magnetically ordered Kitaev magnets**|Peng Rao et.al.||
+|**2026-04-06**|**[[2604.03099v2](http://arxiv.org/abs/2604.03099v2)]Proximate quantum spin liquids and Majorana continua in magnetically ordered Kitaev magnets**|Peng Rao et.al.||
 |**2026-04-03**|**[[2604.03082v1](http://arxiv.org/abs/2604.03082v1)]Quantitative spectroscopy of single and multiple OB-type stars. Non-LTE spectrum analysis with machine learning**|P. Aschenbrenner et.al.||
 |**2026-04-03**|**[[2604.02742v1](http://arxiv.org/abs/2604.02742v1)]Task-Guided Prompting for Unified Remote Sensing Image Restoration**|Wenli Huang et.al.|Denoising|
 |**2026-04-02**|**[[2604.02535v1](http://arxiv.org/abs/2604.02535v1)]A Spectral Framework for Multi-Scale Nonlinear Dimensionality Reduction**|Zeyang Huang et.al.||
