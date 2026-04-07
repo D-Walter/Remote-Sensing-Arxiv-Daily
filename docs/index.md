@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-04**|**[[2604.03572v1](http://arxiv.org/abs/2604.03572v1)]Physics-Informed Untrained Learning for RGB-Guided Superresolution Single-Pixel Hyperspectral Imaging**|Hao Zhang et.al.|Superresolution|
 |**2026-04-02**|**[[2604.02309v1](http://arxiv.org/abs/2604.02309v1)]go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi et.al.||
 |**2026-04-02**|**[[2604.01801v1](http://arxiv.org/abs/2604.01801v1)]Compressive hyperspectral phasor imaging with single-pixel detection for spectral tasks**|Jiaqi Song et.al.|Classification|
 |**2026-04-02**|**[[2604.01763v1](http://arxiv.org/abs/2604.01763v1)]Cosine-Normalized Attention for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
@@ -502,12 +503,17 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-05**|**[[2604.04150v1](http://arxiv.org/abs/2604.04150v1)]A Multi-Scale ResNet-augmented Fourier Neural Operator Framework for High-Frequency Sequence-to-Sequence Prediction of Magnetic Hysteresis**|Ziqing Guo et.al.||
+|**2026-04-05**|**[[2604.04110v1](http://arxiv.org/abs/2604.04110v1)]Stellar Parameters and Orbital Period Estimates for Composite-Spectrum sdB+MS Binaries from LAMOST**|Jiangdan Li et.al.||
+|**2026-04-04**|**[[2604.03833v1](http://arxiv.org/abs/2604.03833v1)]SPARK-IL: Spectral Retrieval-Augmented RAG for Knowledge-driven Deepfake Detection via Incremental Learning**|Hessen Bougueffa Eutamene et.al.||
+|**2026-04-04**|**[[2604.03634v1](http://arxiv.org/abs/2604.03634v1)]Algebraic Diversity: Group-Theoretic Spectral Estimation from Single Observations**|Mitchell A. Thornton et.al.|Classification|
+|**2026-04-03**|**[[2604.03372v1](http://arxiv.org/abs/2604.03372v1)]GOPREAUX I: Open-source Code and Data to Model Multi-wavelength Emission of Extragalactic Transients using Gaussian Processes**|C. Pellegrino et.al.|Classification|
 |**2026-04-03**|**[[2604.03099v1](http://arxiv.org/abs/2604.03099v1)]Proximate quantum spin liquids and Majorana continua in magnetically ordered Kitaev magnets**|Peng Rao et.al.||
 |**2026-04-03**|**[[2604.03082v1](http://arxiv.org/abs/2604.03082v1)]Quantitative spectroscopy of single and multiple OB-type stars. Non-LTE spectrum analysis with machine learning**|P. Aschenbrenner et.al.||
 |**2026-04-03**|**[[2604.02742v1](http://arxiv.org/abs/2604.02742v1)]Task-Guided Prompting for Unified Remote Sensing Image Restoration**|Wenli Huang et.al.|Denoising|
@@ -1671,7 +1677,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
