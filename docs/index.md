@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
+|**2026-04-07**|**[[2604.05562v1](http://arxiv.org/abs/2604.05562v1)]Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection**|Luqi Gong et.al.|Object Detection|
 |**2026-04-06**|**[[2604.04433v1](http://arxiv.org/abs/2604.04433v1)]Lattice studies of chimera baryons in Sp(4) gauge theory**|Jong-Wan Lee et.al.||
 |**2026-04-04**|**[[2604.03572v1](http://arxiv.org/abs/2604.03572v1)]Physics-Informed Untrained Learning for RGB-Guided Superresolution Single-Pixel Hyperspectral Imaging**|Hao Zhang et.al.|Superresolution|
 |**2026-04-02**|**[[2604.02309v1](http://arxiv.org/abs/2604.02309v1)]go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi et.al.||
@@ -110,7 +112,7 @@ layout: default
 |**2026-01-31**|**[[2602.00490v1](http://arxiv.org/abs/2602.00490v1)]HSSDCT: Factorized Spatial-Spectral Correlation for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.||
 |**2026-01-30**|**[[2602.00262v1](http://arxiv.org/abs/2602.00262v1)]Subspace Clustering on Incomplete Data with Self-Supervised Contrastive Learning**|Huanran Li et.al.||
 |**2026-01-30**|**[[2601.22755v1](http://arxiv.org/abs/2601.22755v1)]Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images**|Xinxin Xu et.al.|Unmixing, Superresolution|
-|**2026-01-30**|**[[2601.22581v1](http://arxiv.org/abs/2601.22581v1)]Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|Classification|
+|**2026-04-07**|**[[2601.22581v2](http://arxiv.org/abs/2601.22581v2)]Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|Classification|
 |**2026-01-29**|**[[2601.21664v1](http://arxiv.org/abs/2601.21664v1)]SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.||
 |**2026-01-29**|**[[2601.21338v1](http://arxiv.org/abs/2601.21338v1)]SR $^{2}$ -Net: A General Plug-and-Play Model for Spectral Refinement in Hyperspectral Image Super-Resolution**|Ji-Xuan He et.al.|Superresolution|
 |**2026-01-26**|**[[2601.18560v1](http://arxiv.org/abs/2601.18560v1)]AI-enabled Satellite Edge Computing: A Single-Pixel Feature based Shallow Classification Model for Hyperspectral Imaging**|Li Fang et.al.|Classification|
@@ -504,12 +506,17 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260408>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
+|**2026-04-07**|**[[2604.05629v1](http://arxiv.org/abs/2604.05629v1)]A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting**|Yongchuan Cui et.al.||
+|**2026-04-07**|**[[2604.05502v1](http://arxiv.org/abs/2604.05502v1)]AttnDiff: Attention-based Differential Fingerprinting for Large Language Models**|Haobo Zhang et.al.||
+|**2026-04-07**|**[[2604.05464v1](http://arxiv.org/abs/2604.05464v1)]Waveguide to Meaning: Semantic-Aware NOMA for Pinching-Antenna Systems**|Ishtiaque Ahmed et.al.||
+|**2026-04-04**|**[[2604.04980v1](http://arxiv.org/abs/2604.04980v1)]COMB: Common Open Modular robotic platform for Bees**|Pranav Kedia et.al.||
 |**2026-04-06**|**[[2604.04643v1](http://arxiv.org/abs/2604.04643v1)]Collective spin excitations in trilayer nickelate La $_4$Ni$_3$O$_{10}$**|Ying Chan et.al.||
 |**2026-04-06**|**[[2604.04589v1](http://arxiv.org/abs/2604.04589v1)]Greedy and Transformer-Based Multi-Port Selection for Slow Fluid Antenna Multiple Access**|Darian Perez-Adan et.al.||
 |**2026-04-06**|**[[2604.04445v1](http://arxiv.org/abs/2604.04445v1)]TinyNina: A Resource-Efficient Edge-AI Framework for Sustainable Air Quality Monitoring via Intra-Image Satellite Super-Resolution**|Prasanjit Dey et.al.|Superresolution|
@@ -1683,7 +1690,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
