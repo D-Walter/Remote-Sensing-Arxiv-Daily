@@ -508,6 +508,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-07**|**[[2604.06077v1](http://arxiv.org/abs/2604.06077v1)]Simulating Thermal Properties of Bose-Hubbard Models on a Quantum Computer**|Simon Becker et.al.||
+|**2026-04-07**|**[[2604.05959v1](http://arxiv.org/abs/2604.05959v1)]Multi-Modal Landslide Detection from Sentinel-1 SAR and Sentinel-2 Optical Imagery Using Multi-Encoder Vision Transformers and Ensemble Learning**|Ioannis Nasios et.al.|Classification|
 |**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
 |**2026-04-07**|**[[2604.05629v1](http://arxiv.org/abs/2604.05629v1)]A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting**|Yongchuan Cui et.al.||
 |**2026-04-07**|**[[2604.05502v1](http://arxiv.org/abs/2604.05502v1)]AttnDiff: Attention-based Differential Fingerprinting for Large Language Models**|Haobo Zhang et.al.||
