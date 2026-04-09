@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-08**|**[[2604.06561v1](http://arxiv.org/abs/2604.06561v1)]Accelerating 4D Hyperspectral Imaging through Physics-Informed Neural Representation and Adaptive Sampling**|Chi-Jui Ho et.al.||
 |**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
 |**2026-04-07**|**[[2604.05562v1](http://arxiv.org/abs/2604.05562v1)]Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection**|Luqi Gong et.al.|Object Detection|
 |**2026-04-06**|**[[2604.04433v1](http://arxiv.org/abs/2604.04433v1)]Lattice studies of chimera baryons in Sp(4) gauge theory**|Jong-Wan Lee et.al.||
@@ -502,12 +503,20 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-08**|**[[2604.07317v1](http://arxiv.org/abs/2604.07317v1)]Multi-dimensional, time-dependent approximate NLTE unified model atmospheres with winds for hot, massive stars**|Dwaipayan Debnath et.al.||
+|**2026-04-08**|**[[2604.07290v1](http://arxiv.org/abs/2604.07290v1)]Multispectral representation of Distributed Acoustic Sensing data: a framework for physically interpretable feature extraction and visualization**|Sergio Morell-Monzó et.al.||
+|**2026-04-08**|**[[2604.07219v1](http://arxiv.org/abs/2604.07219v1)]Robust Hybrid Beamforming with Liquid Crystal Antennas and Liquid Neural Networks**|Xinquan Wang et.al.||
+|**2026-04-08**|**[[2604.06881v1](http://arxiv.org/abs/2604.06881v1)]MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems**|Tianyue Yang et.al.|Denoising|
+|**2026-04-08**|**[[2604.06586v1](http://arxiv.org/abs/2604.06586v1)]The host galaxies and merger environments of short and long gamma-ray bursts producing kilonovae**|Hannah Skobe et.al.||
+|**2026-04-07**|**[[2604.06528v1](http://arxiv.org/abs/2604.06528v1)]High-Dimensional Quantum Photonics: Roadmap**|Mehul Malik et.al.||
+|**2026-04-06**|**[[2604.06256v1](http://arxiv.org/abs/2604.06256v1)]Spectral Edge Dynamics Reveal Functional Modes of Learning**|Yongzhong Xu et.al.||
+|**2026-03-26**|**[[2604.06220v1](http://arxiv.org/abs/2604.06220v1)]Development of ML model for triboelectric nanogenerator based sign language detection system**|Meshv Patel et.al.||
 |**2026-04-07**|**[[2604.06077v1](http://arxiv.org/abs/2604.06077v1)]Simulating Thermal Properties of Bose-Hubbard Models on a Quantum Computer**|Simon Becker et.al.||
 |**2026-04-07**|**[[2604.05959v1](http://arxiv.org/abs/2604.05959v1)]Multi-Modal Landslide Detection from Sentinel-1 SAR and Sentinel-2 Optical Imagery Using Multi-Encoder Vision Transformers and Ensemble Learning**|Ioannis Nasios et.al.|Classification|
 |**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
@@ -1688,7 +1697,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
