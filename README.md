@@ -512,6 +512,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-09**|**[[2604.08463v1](http://arxiv.org/abs/2604.08463v1)]A GPU-Accelerated JAX Framework for Robust Parametric Component Separation and Clustering Optimization for CMB Polarization Satellites**|Wassim Kabalan et.al.||
 |**2026-04-09**|**[[2604.08171v1](http://arxiv.org/abs/2604.08171v1)]OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.||
 |**2026-04-09**|**[[2604.08074v1](http://arxiv.org/abs/2604.08074v1)]DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather**|Christof Leitgeb et.al.|Object Detection|
 |**2026-04-09**|**[[2604.07734v1](http://arxiv.org/abs/2604.07734v1)]Resolving the 2024 Outburst of Magnetar 1E 1841-045 from its host Supernova Remnant with EP-FXT**|Yu-Cong Fu et.al.||
