@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,9 +24,17 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-13**|**[[2604.11390v1](http://arxiv.org/abs/2604.11390v1)]Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al.||
+|**2026-04-13**|**[[2604.11279v1](http://arxiv.org/abs/2604.11279v1)]A Deep Equilibrium Network for Hyperspectral Unmixing**|Chentong Wang et.al.|Unmixing|
+|**2026-04-12**|**[[2604.10584v1](http://arxiv.org/abs/2604.10584v1)]CoFusion: Multispectral and Hyperspectral Image Fusion via Spectral Coordinate Attention**|Baisong Li et.al.||
+|**2026-04-11**|**[[2604.10340v1](http://arxiv.org/abs/2604.10340v1)]Precise measurement of the Kerr coefficient using phase-sensitive pump-probe hyperspectral imaging**|J. K. Wahlstrand et.al.||
+|**2026-04-11**|**[[2604.10094v1](http://arxiv.org/abs/2604.10094v1)]Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT**|Vishal V. Batchu et.al.||
+|**2026-04-10**|**[[2604.09948v1](http://arxiv.org/abs/2604.09948v1)]Unmixing-Guided Spatial-Spectral Mamba with Clustering Tokens for Hyperspectral Image Classification**|Yimin Zhu et.al.|Unmixing, Classification|
+|**2026-04-10**|**[[2604.09873v1](http://arxiv.org/abs/2604.09873v1)]Closing the ultrahigh temperature metrology gap: non-contact thermal conductivity ( $\mathrm{k}$) and spectral emittance ($\mathrm{\varepsilon_λ}$ ) of molybdenum up to 3200 K**|Hunter B. Schonfeld et.al.||
+|**2026-04-10**|**[[2604.08884v1](http://arxiv.org/abs/2604.08884v1)]HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing**|Xinyu Zhang et.al.||
 |**2026-04-09**|**[[2604.08272v1](http://arxiv.org/abs/2604.08272v1)]Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising**|Panagiotis Gkotsis et.al.|Denoising|
 |**2026-04-09**|**[[2604.08090v1](http://arxiv.org/abs/2604.08090v1)]In-flight calibration of ESA Hera's HyperScout-H imager**|G. P. Prodan et.al.||
-|**2026-04-08**|**[[2604.07656v1](http://arxiv.org/abs/2604.07656v1)]MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.||
+|**2026-04-11**|**[[2604.07656v2](http://arxiv.org/abs/2604.07656v2)]MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.||
 |**2026-04-08**|**[[2604.06561v1](http://arxiv.org/abs/2604.06561v1)]Accelerating 4D Hyperspectral Imaging through Physics-Informed Neural Representation and Adaptive Sampling**|Chi-Jui Ho et.al.||
 |**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
 |**2026-04-07**|**[[2604.05562v1](http://arxiv.org/abs/2604.05562v1)]Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection**|Luqi Gong et.al.|Object Detection|
@@ -64,7 +72,7 @@ layout: default
 |**2026-03-19**|**[[2603.19142v1](http://arxiv.org/abs/2603.19142v1)]Hyper-efficient superconducting filterbanks with impedance-defined spectral resolution for millimeter-wave spectroscopy**|Oliver Jeong et.al.||
 |**2026-03-17**|**[[2603.16662v1](http://arxiv.org/abs/2603.16662v1)]Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|Classification|
 |**2026-03-17**|**[[2603.16426v1](http://arxiv.org/abs/2603.16426v1)]3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|Classification|
-|**2026-03-14**|**[[2603.13941v1](http://arxiv.org/abs/2603.13941v1)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
+|**2026-04-13**|**[[2603.13941v2](http://arxiv.org/abs/2603.13941v2)]Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.||
 |**2026-03-27**|**[[2603.13352v3](http://arxiv.org/abs/2603.13352v3)]Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts**|Xi Chen et.al.||
 |**2026-03-12**|**[[2603.11530v1](http://arxiv.org/abs/2603.11530v1)]Blind Hyperspectral and Multispectral Images Fusion: A Unified Tensor Fusion Framework from Coupled Inverse Problem Perspective**|Ying Gao et.al.|Unmixing|
 |**2026-03-13**|**[[2603.11272v2](http://arxiv.org/abs/2603.11272v2)]Neutrino Spectral Pinching in 3D Core-Collapse Supernovae: Late-Time Convergence, Failed-Explosion Signatures, and Viewing-Angle Dispersion**|Nicolás Viaux M et.al.||
@@ -510,12 +518,44 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-13**|**[[2604.11650v1](http://arxiv.org/abs/2604.11650v1)]Prominence signatures in the Fraunhofer G-band; Testing ionization memory with multi-line prominence diagnostics**|A. G. M. Pietrow et.al.||
+|**2026-04-13**|**[[2604.11637v1](http://arxiv.org/abs/2604.11637v1)]STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding**|Wenhao Li et.al.||
+|**2026-04-13**|**[[2604.11622v1](http://arxiv.org/abs/2604.11622v1)]Long-wave infrared Fourier transform spectroscopy with enhanced and scalable sensitivity**|Sergey Vasilyev et.al.||
+|**2026-04-13**|**[[2604.11464v1](http://arxiv.org/abs/2604.11464v1)]Passive two-plateau relaxation from Tricomi confluent hypergeometric kernels**|Marc Tudela-Pi et.al.||
+|**2026-04-13**|**[[2604.11293v1](http://arxiv.org/abs/2604.11293v1)]GeV gamma-ray emission in the field of the shell-type supernova remnant Vela Jr revisited**|Ting-Ting Ge et.al.||
+|**2026-04-13**|**[[2604.11289v1](http://arxiv.org/abs/2604.11289v1)]Topological Engine Monitor: Persistent Homology-Based Fault Detection in Finite-Time Quantum Engines**|Miraç Kerem Maden et.al.|Classification|
+|**2026-04-13**|**[[2604.11234v1](http://arxiv.org/abs/2604.11234v1)]Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection**|Jiaqi Wu et.al.|Object Detection|
+|**2026-04-13**|**[[2604.11190v1](http://arxiv.org/abs/2604.11190v1)]Cross-Sensor RGB Spectrograms: A Visual Method for Anomaly Detection in Classical and Quantum Magnetometer Triads**|Manas Pandey et.al.||
+|**2026-04-13**|**[[2604.11175v1](http://arxiv.org/abs/2604.11175v1)]White Dwarfs with Infrared Excess from DESI EDR**|Ke-Yi Wang et.al.||
+|**2026-04-13**|**[[2604.11068v1](http://arxiv.org/abs/2604.11068v1)]Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments**|Waqas Ahmed et.al.||
+|**2026-04-13**|**[[2604.11063v1](http://arxiv.org/abs/2604.11063v1)]An Adaptive Log-Laguerre Spectral Method for the Radial Dirac Equation: Resolving Asymptotic Decay and Core Singularities in Atomic Calculations**|Sheng Chen et.al.||
+|**2026-04-12**|**[[2604.10830v1](http://arxiv.org/abs/2604.10830v1)]Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC**|Haofan Dong et.al.||
+|**2026-04-12**|**[[2604.10782v1](http://arxiv.org/abs/2604.10782v1)]Inferring Unreported Measurement Uncertainties via Information Geometry in Astrophysics**|Marko Imbrišak et.al.||
+|**2026-04-12**|**[[2604.10773v1](http://arxiv.org/abs/2604.10773v1)]Explosive Synchronization and Magnetic Chimeras via the Simplicial Bridge in Helimagnetic Lattices**|Alok Yadav et.al.||
+|**2026-04-12**|**[[2604.10715v1](http://arxiv.org/abs/2604.10715v1)]Defending against Patch-Based and Texture-Based Adversarial Attacks with Spectral Decomposition**|Wei Zhang et.al.||
+|**2026-04-12**|**[[2604.10591v1](http://arxiv.org/abs/2604.10591v1)]GeoMeld: Toward Semantically Grounded Foundation Models for Remote Sensing**|Maram Hasan et.al.||
+|**2026-04-12**|**[[2604.10584v1](http://arxiv.org/abs/2604.10584v1)]CoFusion: Multispectral and Hyperspectral Image Fusion via Spectral Coordinate Attention**|Baisong Li et.al.||
+|**2026-04-11**|**[[2604.10373v1](http://arxiv.org/abs/2604.10373v1)]Shuffling the Data, Stretching the Step-size: Sharper Bias in constant step-size SGD**|Konstantinos Emmanouilidis et.al.||
+|**2026-04-11**|**[[2604.10323v1](http://arxiv.org/abs/2604.10323v1)]Beyond Whittle: exact finite-time multispectral statistics from a single Brownian trajectory in a harmonic trap**|Isaac Pérez Castillo et.al.||
+|**2026-04-11**|**[[2604.10293v1](http://arxiv.org/abs/2604.10293v1)]Impact of Validation Strategy on Machine Learning Performance in EEG-Based Alcoholism Classification**|Tahir Cetin Akinci et.al.|Classification|
+|**2026-04-11**|**[[2604.10198v1](http://arxiv.org/abs/2604.10198v1)]Engineering Multi-wavelength Emission in All-Fiber Laser Mode-Locked Through Nonlinear Polarization Rotation**|Subrata Manna et.al.||
+|**2026-04-11**|**[[2604.10009v1](http://arxiv.org/abs/2604.10009v1)]Towards Multi-Source Domain Generalization for Sleep Staging with Noisy Labels**|Kening Wang et.al.||
+|**2026-04-11**|**[[2604.09972v1](http://arxiv.org/abs/2604.09972v1)]A new characterization of the set of Laplacian spectral radii of trees**|Fengming Dong et.al.||
+|**2026-04-10**|**[[2604.09948v1](http://arxiv.org/abs/2604.09948v1)]Unmixing-Guided Spatial-Spectral Mamba with Clustering Tokens for Hyperspectral Image Classification**|Yimin Zhu et.al.|Classification|
+|**2026-04-10**|**[[2604.09897v1](http://arxiv.org/abs/2604.09897v1)]A Study of HH 270 with the James Webb Space Telescope**|A. N. Ortiz Capeles et.al.||
+|**2026-04-10**|**[[2604.09843v1](http://arxiv.org/abs/2604.09843v1)]Induced Multi-phase Inflation with Reheating: Leptogenesis and Dark Matter Production in Metric versus Palatini**|Nilay Bostan et.al.||
+|**2026-04-10**|**[[2604.09763v1](http://arxiv.org/abs/2604.09763v1)]A first empirical derivation of the average dust attenuation law at 2<z<7**|Giulia Rodighiero et.al.||
+|**2026-04-10**|**[[2604.09488v1](http://arxiv.org/abs/2604.09488v1)]IFS spectrograph designs for the Wide-field Spectroscopic Telescope: Architecture and performance gains from curved sensors**|Corentin Cudennec et.al.||
+|**2026-04-10**|**[[2604.09483v1](http://arxiv.org/abs/2604.09483v1)]Quantum Randomized Subspace Iteration**|Stefano Scali et.al.||
+|**2026-04-10**|**[[2604.08903v1](http://arxiv.org/abs/2604.08903v1)]Fast Model-guided Instance-wise Adaptation Framework for Real-world Pansharpening with Fidelity Constraints**|Zhiqi Yang et.al.|Pansharpening|
+|**2026-04-09**|**[[2604.08812v1](http://arxiv.org/abs/2604.08812v1)]Sensor Placement for Tsunami Early Warning via Large-Scale Bayesian Optimal Experimental Design**|Sreeram Venkat et.al.||
+|**2026-04-09**|**[[2604.08767v1](http://arxiv.org/abs/2604.08767v1)]Unlocking the O-Band: high-power, broadband soliton microcomb**|Dmitrii Stoliarov et.al.||
 |**2026-04-09**|**[[2604.08463v1](http://arxiv.org/abs/2604.08463v1)]A GPU-Accelerated JAX Framework for Robust Parametric Component Separation and Clustering Optimization for CMB Polarization Satellites**|Wassim Kabalan et.al.||
 |**2026-04-09**|**[[2604.08171v1](http://arxiv.org/abs/2604.08171v1)]OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.||
 |**2026-04-09**|**[[2604.08074v1](http://arxiv.org/abs/2604.08074v1)]DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather**|Christof Leitgeb et.al.|Object Detection|
@@ -557,7 +597,7 @@ layout: default
 |**2026-04-02**|**[[2604.01762v1](http://arxiv.org/abs/2604.01762v1)]FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models**|Juyong Jiang et.al.||
 |**2026-04-02**|**[[2604.01721v1](http://arxiv.org/abs/2604.01721v1)]Phase-Shifted Pilot Design for NOMA-Empowered Uplink ISAC Systems**|Ahmet Sacid Sümer et.al.||
 |**2026-04-02**|**[[2604.01598v1](http://arxiv.org/abs/2604.01598v1)]Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.||
-|**2026-04-01**|**[[2604.01475v1](http://arxiv.org/abs/2604.01475v1)]Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease**|Antonios G. Dougalis et.al.||
+|**2026-04-10**|**[[2604.01475v2](http://arxiv.org/abs/2604.01475v2)]Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease**|Antonios G. Dougalis et.al.||
 |**2026-04-01**|**[[2604.01405v1](http://arxiv.org/abs/2604.01405v1)]The unusually red delay spectrum of the low-mass black hole AGN NGC\,4051 as revealed by intensive continuum reverberation mapping with the Las Cumbres Observatory**|Marcin Marculewicz et.al.||
 |**2026-04-01**|**[[2604.01215v1](http://arxiv.org/abs/2604.01215v1)]The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline**|Piyush Garg et.al.||
 |**2026-04-01**|**[[2604.01096v1](http://arxiv.org/abs/2604.01096v1)]Approximate Energy-Integration Method for Identifying Collisional Neutrino Flavor Instabilities**|Jiabao Liu et.al.||
@@ -1709,7 +1749,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
