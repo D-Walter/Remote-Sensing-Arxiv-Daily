@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,9 +24,10 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
-|**2026-04-13**|**[[2604.11390v1](http://arxiv.org/abs/2604.11390v1)]Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al.||
+|**2026-04-14**|**[[2604.12600v1](http://arxiv.org/abs/2604.12600v1)]Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising**|Xuelin Xie et.al.|Denoising|
+|**2026-04-14**|**[[2604.11390v2](http://arxiv.org/abs/2604.11390v2)]Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al.||
 |**2026-04-13**|**[[2604.11279v1](http://arxiv.org/abs/2604.11279v1)]A Deep Equilibrium Network for Hyperspectral Unmixing**|Chentong Wang et.al.|Unmixing|
-|**2026-04-12**|**[[2604.10584v1](http://arxiv.org/abs/2604.10584v1)]CoFusion: Multispectral and Hyperspectral Image Fusion via Spectral Coordinate Attention**|Baisong Li et.al.||
+|**2026-04-14**|**[[2604.10584v2](http://arxiv.org/abs/2604.10584v2)]CoFusion: Multispectral and Hyperspectral Image Fusion via Spectral Coordinate Attention**|Baisong Li et.al.||
 |**2026-04-11**|**[[2604.10340v1](http://arxiv.org/abs/2604.10340v1)]Precise measurement of the Kerr coefficient using phase-sensitive pump-probe hyperspectral imaging**|J. K. Wahlstrand et.al.||
 |**2026-04-11**|**[[2604.10094v1](http://arxiv.org/abs/2604.10094v1)]Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT**|Vishal V. Batchu et.al.||
 |**2026-04-10**|**[[2604.09948v1](http://arxiv.org/abs/2604.09948v1)]Unmixing-Guided Spatial-Spectral Mamba with Clustering Tokens for Hyperspectral Image Classification**|Yimin Zhu et.al.|Unmixing, Classification|
@@ -34,7 +35,7 @@ layout: default
 |**2026-04-10**|**[[2604.08884v1](http://arxiv.org/abs/2604.08884v1)]HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing**|Xinyu Zhang et.al.||
 |**2026-04-09**|**[[2604.08272v1](http://arxiv.org/abs/2604.08272v1)]Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising**|Panagiotis Gkotsis et.al.|Denoising|
 |**2026-04-09**|**[[2604.08090v1](http://arxiv.org/abs/2604.08090v1)]In-flight calibration of ESA Hera's HyperScout-H imager**|G. P. Prodan et.al.||
-|**2026-04-11**|**[[2604.07656v2](http://arxiv.org/abs/2604.07656v2)]MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.||
+|**2026-04-14**|**[[2604.07656v3](http://arxiv.org/abs/2604.07656v3)]MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.||
 |**2026-04-08**|**[[2604.06561v1](http://arxiv.org/abs/2604.06561v1)]Accelerating 4D Hyperspectral Imaging through Physics-Informed Neural Representation and Adaptive Sampling**|Chi-Jui Ho et.al.||
 |**2026-04-07**|**[[2604.05742v1](http://arxiv.org/abs/2604.05742v1)]ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.||
 |**2026-04-07**|**[[2604.05562v1](http://arxiv.org/abs/2604.05562v1)]Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection**|Luqi Gong et.al.|Object Detection|
@@ -518,12 +519,19 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-14**|**[[2604.12791v1](http://arxiv.org/abs/2604.12791v1)]The spectrum of the persistent radio source associated with FRB 20190417A**|L. Bruno et.al.||
+|**2026-04-14**|**[[2604.12704v1](http://arxiv.org/abs/2604.12704v1)]The undetectable fraction of core-collapse supernovae in luminous infrared galaxies -- II. GSAOI/GeMS dataset**|I. Mäntynen et.al.||
+|**2026-04-14**|**[[2604.12494v1](http://arxiv.org/abs/2604.12494v1)]Multiwavelength Study of Blue Straggler Stars in Tombaugh 2: Evidence for Binary Mass Transfer and Constraints on Cluster Dynamical State**|D. Bisht et.al.||
+|**2026-04-14**|**[[2604.12463v1](http://arxiv.org/abs/2604.12463v1)]Euler-inspired Decoupling Neural Operator for Efficient Pansharpening**|Anqi Zhu et.al.|Pansharpening|
+|**2026-04-13**|**[[2604.12140v1](http://arxiv.org/abs/2604.12140v1)]XANE(3): An E(3)-Equivariant Graph Neural Network for Accurate Prediction of XANES Spectra from Atomic Structures**|Vitor F. Grizzi et.al.||
+|**2026-04-13**|**[[2604.11875v1](http://arxiv.org/abs/2604.11875v1)]Spectral index evolution of the limb-brightened jet in 3C 84**|L. C. Debbrecht et.al.||
+|**2026-04-10**|**[[2604.11817v1](http://arxiv.org/abs/2604.11817v1)]QMC-Net: Data-Aware Quantum Representations for Remote Sensing Image Classification**|Md Aminur Hossain et.al.|Classification|
 |**2026-04-13**|**[[2604.11650v1](http://arxiv.org/abs/2604.11650v1)]Prominence signatures in the Fraunhofer G-band; Testing ionization memory with multi-line prominence diagnostics**|A. G. M. Pietrow et.al.||
 |**2026-04-13**|**[[2604.11637v1](http://arxiv.org/abs/2604.11637v1)]STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding**|Wenhao Li et.al.||
 |**2026-04-13**|**[[2604.11622v1](http://arxiv.org/abs/2604.11622v1)]Long-wave infrared Fourier transform spectroscopy with enhanced and scalable sensitivity**|Sergey Vasilyev et.al.||
@@ -540,7 +548,7 @@ layout: default
 |**2026-04-12**|**[[2604.10773v1](http://arxiv.org/abs/2604.10773v1)]Explosive Synchronization and Magnetic Chimeras via the Simplicial Bridge in Helimagnetic Lattices**|Alok Yadav et.al.||
 |**2026-04-12**|**[[2604.10715v1](http://arxiv.org/abs/2604.10715v1)]Defending against Patch-Based and Texture-Based Adversarial Attacks with Spectral Decomposition**|Wei Zhang et.al.||
 |**2026-04-12**|**[[2604.10591v1](http://arxiv.org/abs/2604.10591v1)]GeoMeld: Toward Semantically Grounded Foundation Models for Remote Sensing**|Maram Hasan et.al.||
-|**2026-04-12**|**[[2604.10584v1](http://arxiv.org/abs/2604.10584v1)]CoFusion: Multispectral and Hyperspectral Image Fusion via Spectral Coordinate Attention**|Baisong Li et.al.||
+|**2026-04-14**|**[[2604.10584v2](http://arxiv.org/abs/2604.10584v2)]CoFusion: Multispectral and Hyperspectral Image Fusion via Spectral Coordinate Attention**|Baisong Li et.al.||
 |**2026-04-11**|**[[2604.10373v1](http://arxiv.org/abs/2604.10373v1)]Shuffling the Data, Stretching the Step-size: Sharper Bias in constant step-size SGD**|Konstantinos Emmanouilidis et.al.||
 |**2026-04-11**|**[[2604.10323v1](http://arxiv.org/abs/2604.10323v1)]Beyond Whittle: exact finite-time multispectral statistics from a single Brownian trajectory in a harmonic trap**|Isaac Pérez Castillo et.al.||
 |**2026-04-11**|**[[2604.10293v1](http://arxiv.org/abs/2604.10293v1)]Impact of Validation Strategy on Machine Learning Performance in EEG-Based Alcoholism Classification**|Tahir Cetin Akinci et.al.|Classification|
@@ -1749,7 +1757,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
