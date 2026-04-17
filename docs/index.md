@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.15
+## Updated on 2026.04.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,10 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-16**|**[[2604.15156v1](http://arxiv.org/abs/2604.15156v1)]Lattice dynamics and complete polarization analysis of Raman-active modes in LaInO $_3$**|Jonas Rose et.al.||
+|**2026-04-15**|**[[2604.13456v1](http://arxiv.org/abs/2604.13456v1)]MyoVision: A Mobile Research Tool and NEATBoost-Attention Ensemble Framework for Real Time Chicken Breast Myopathy Detection**|Chaitanya Pallerla et.al.|Classification|
+|**2026-04-14**|**[[2604.13307v1](http://arxiv.org/abs/2604.13307v1)]Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering**|Vutichart Buranasiri et.al.||
+|**2026-04-14**|**[[2604.13166v1](http://arxiv.org/abs/2604.13166v1)]Solar photospheric spectrum microvariability III. Radial velocities and line profiles in magnetic active-region granulation**|Dainis Dravins et.al.||
 |**2026-04-14**|**[[2604.12600v1](http://arxiv.org/abs/2604.12600v1)]Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising**|Xuelin Xie et.al.|Denoising|
 |**2026-04-14**|**[[2604.11390v2](http://arxiv.org/abs/2604.11390v2)]Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al.||
 |**2026-04-13**|**[[2604.11279v1](http://arxiv.org/abs/2604.11279v1)]A Deep Equilibrium Network for Hyperspectral Unmixing**|Chentong Wang et.al.|Unmixing|
@@ -519,12 +523,29 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260417>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-16**|**[[2604.15255v1](http://arxiv.org/abs/2604.15255v1)]Democratization of Real-time Multi-Spectral Photoacoustic Imaging: Open-Sourced System Architecture for OPOTEK Phocus & Verasonics Vantage Combination**|Ryo Murakami et.al.||
+|**2026-04-16**|**[[2604.14755v1](http://arxiv.org/abs/2604.14755v1)]ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation**|Yanguang Sun et.al.||
+|**2026-04-16**|**[[2604.14736v1](http://arxiv.org/abs/2604.14736v1)]Optimization for Pinching Antennas System With Multiple Carriers and Rate Splitting Multiple Access**|Peiyu Wang et.al.||
+|**2026-04-16**|**[[2604.14540v1](http://arxiv.org/abs/2604.14540v1)]WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.||
+|**2026-04-16**|**[[2604.14532v1](http://arxiv.org/abs/2604.14532v1)]CSRA: Controlled Spectral Residual Augmentation for Robust Sepsis Prediction**|Honglin Guo et.al.|Classification|
+|**2026-04-16**|**[[2604.14526v1](http://arxiv.org/abs/2604.14526v1)]FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking**|Jinlin You et.al.|Object Tracking|
+|**2026-04-16**|**[[2604.14524v1](http://arxiv.org/abs/2604.14524v1)]Bridging Standardized Codebook and Site-Specific Beamforming: A Unified Limited-Feedback Framework**|Cheng-Jie Zhao et.al.||
+|**2026-04-15**|**[[2604.14343v1](http://arxiv.org/abs/2604.14343v1)]GRB 210704A: A Luminous Fast Blue Transient in a GRB Afterglow at $z = 2.34$**|Daniëlle L. A. Pieterse et.al.||
+|**2026-04-15**|**[[2604.14118v1](http://arxiv.org/abs/2604.14118v1)]Complex Interpolation of Matrices with an application to Multi-Manifold Learning**|Adi Arbel et.al.||
+|**2026-04-15**|**[[2604.13952v1](http://arxiv.org/abs/2604.13952v1)]Low-Complexity, Space Splitting-based User Selection in MU-MIMO for Massive Connectivity and AI-Native Traffic**|João Paulo S. H. Lima et.al.||
+|**2026-04-15**|**[[2604.13920v1](http://arxiv.org/abs/2604.13920v1)]Experimental Quantification of Nonlinear Mode Coupling in Nanomechanical Resonators using Multi-tone Excitation**|Chris F. D. Wattjes et.al.||
+|**2026-04-14**|**[[2604.13340v1](http://arxiv.org/abs/2604.13340v1)]MSGS: Multispectral 3D Gaussian Splatting**|Iris Zheng et.al.||
+|**2026-04-14**|**[[2604.13336v1](http://arxiv.org/abs/2604.13336v1)]CII fine-structure line observations of the Sagittarius C Region in the Galaxy's Central Molecular Zone**|DEnise Riquelme-Vasquez et.al.||
+|**2026-04-16**|**[[2604.13315v2](http://arxiv.org/abs/2604.13315v2)]The Spectrascapes Dataset: Street-view imagery beyond the visible captured using a mobile platform**|Akshit Gupta et.al.||
+|**2026-04-14**|**[[2604.13240v1](http://arxiv.org/abs/2604.13240v1)]A High-Resolution Landscape Dataset for Concept-Based XAI With Application to Species Distribution Models**|Augustin de la Brosse et.al.||
+|**2026-04-14**|**[[2604.13178v1](http://arxiv.org/abs/2604.13178v1)]4MOST ChANGES: Catalog of high-redshift quasar candidates (4.5 < $z$ < 7) selected with SED fitting**|T. Mkrtchyan et.al.||
+|**2026-04-14**|**[[2604.13158v1](http://arxiv.org/abs/2604.13158v1)]Fast measurement of neutral atoms with a multi-atom gate**|Yotam Vaknin et.al.||
 |**2026-04-14**|**[[2604.12791v1](http://arxiv.org/abs/2604.12791v1)]The spectrum of the persistent radio source associated with FRB 20190417A**|L. Bruno et.al.||
 |**2026-04-14**|**[[2604.12704v1](http://arxiv.org/abs/2604.12704v1)]The undetectable fraction of core-collapse supernovae in luminous infrared galaxies -- II. GSAOI/GeMS dataset**|I. Mäntynen et.al.||
 |**2026-04-14**|**[[2604.12494v1](http://arxiv.org/abs/2604.12494v1)]Multiwavelength Study of Blue Straggler Stars in Tombaugh 2: Evidence for Binary Mass Transfer and Constraints on Cluster Dynamical State**|D. Bisht et.al.||
@@ -1757,7 +1778,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
