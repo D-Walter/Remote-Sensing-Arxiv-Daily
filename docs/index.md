@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,10 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-18**|**[[2604.16969v1](http://arxiv.org/abs/2604.16969v1)]Hyperspectral Unmixing Hierarchies**|Joseph L. Garrett et.al.|Unmixing|
+|**2026-04-18**|**[[2604.16939v1](http://arxiv.org/abs/2604.16939v1)]Hierarchical spectral inhomogeneity in photoluminescence of a twisted MoSe2/WSe2 heterobilayer moiré superlattice revealed by hyperspectral mapping**|Nurul Fariha Ahmad et.al.||
+|**2026-04-17**|**[[2604.16115v1](http://arxiv.org/abs/2604.16115v1)]From Articles to Canopies: Knowledge-Driven Pseudo-Labelling for Tree Species Classification using LLM Experts**|Michał Romaszewski et.al.|Classification|
+|**2026-04-17**|**[[2604.15828v1](http://arxiv.org/abs/2604.15828v1)]SSFT: A Lightweight Spectral-Spatial Fusion Transformer for Generic Hyperspectral Classification**|Alexander Musiat et.al.|Classification|
 |**2026-04-16**|**[[2604.15156v1](http://arxiv.org/abs/2604.15156v1)]Lattice dynamics and complete polarization analysis of Raman-active modes in LaInO $_3$**|Jonas Rose et.al.||
 |**2026-04-15**|**[[2604.13456v1](http://arxiv.org/abs/2604.13456v1)]MyoVision: A Mobile Research Tool and NEATBoost-Attention Ensemble Framework for Real Time Chicken Breast Myopathy Detection**|Chaitanya Pallerla et.al.|Classification|
 |**2026-04-14**|**[[2604.13307v1](http://arxiv.org/abs/2604.13307v1)]Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering**|Vutichart Buranasiri et.al.||
@@ -110,7 +114,7 @@ layout: default
 |**2026-02-18**|**[[2602.16950v1](http://arxiv.org/abs/2602.16950v1)]HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.||
 |**2026-03-23**|**[[2602.14408v2](http://arxiv.org/abs/2602.14408v2)]Feature Recalibration Based Olfactory-Visual Multimodal Model for Enhanced Rice Deterioration Detection**|Rongqiang Zhao et.al.|Classification|
 |**2026-02-13**|**[[2602.13509v1](http://arxiv.org/abs/2602.13509v1)]A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.||
-|**2026-02-26**|**[[2602.13063v2](http://arxiv.org/abs/2602.13063v2)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
+|**2026-04-17**|**[[2602.13063v3](http://arxiv.org/abs/2602.13063v3)]Reinterpreting EMML as Mirror Descent for Constrained Maximum Likelihood Estimation**|Antonin Clerc et.al.|Unmixing|
 |**2026-02-23**|**[[2602.12313v2](http://arxiv.org/abs/2602.12313v2)]Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|Classification|
 |**2026-02-11**|**[[2602.10858v1](http://arxiv.org/abs/2602.10858v1)]Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.||
 |**2026-02-11**|**[[2602.10745v1](http://arxiv.org/abs/2602.10745v1)]Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|Classification|
@@ -523,12 +527,28 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260421>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-18**|**[[2604.16952v1](http://arxiv.org/abs/2604.16952v1)]Better with Less: Tackling Heterogeneous Multi-Modal Image Joint Pretraining via Conditioned and Degraded Masked Autoencoder**|Bowen Peng et.al.||
+|**2026-04-18**|**[[2604.16939v1](http://arxiv.org/abs/2604.16939v1)]Hierarchical spectral inhomogeneity in photoluminescence of a twisted MoSe2/WSe2 heterobilayer moiré superlattice revealed by hyperspectral mapping**|Nurul Fariha Ahmad et.al.||
+|**2026-04-18**|**[[2604.16841v1](http://arxiv.org/abs/2604.16841v1)]When Earth Foundation Models Meet Diffusion: An Application to Land Surface Temperature Super-Resolution**|Yiheng Chen et.al.|Superresolution, Denoising|
+|**2026-04-17**|**[[2604.16582v1](http://arxiv.org/abs/2604.16582v1)]Camo-M3FD: A New Benchmark Dataset for Cross-Spectral Camouflaged Pedestrian Detection**|Henry O. Velesaca et.al.|Object Detection|
+|**2026-04-08**|**[[2604.16463v1](http://arxiv.org/abs/2604.16463v1)]MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis**|Xiaobo Liu et.al.|Classification|
+|**2026-04-06**|**[[2604.16435v1](http://arxiv.org/abs/2604.16435v1)]Beyond the Flat-Spike: Adaptive Sparse CCA for Decaying and Unbalanced Signals**|Mengchu Xu et.al.||
+|**2026-04-17**|**[[2604.16205v1](http://arxiv.org/abs/2604.16205v1)]ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis**|Vitor F. Grizzi et.al.||
+|**2026-04-17**|**[[2604.16124v1](http://arxiv.org/abs/2604.16124v1)]A numerical approach to the co-design of PID controllers and low-pass filters for time-delay systems**|Diego Torres-García et.al.||
+|**2026-04-17**|**[[2604.16115v1](http://arxiv.org/abs/2604.16115v1)]From Articles to Canopies: Knowledge-Driven Pseudo-Labelling for Tree Species Classification using LLM Experts**|Michał Romaszewski et.al.|Classification|
+|**2026-04-17**|**[[2604.16052v1](http://arxiv.org/abs/2604.16052v1)]A Wasserstein Geometric Framework for Hebbian Plasticity**|Ulrich Tan et.al.||
+|**2026-04-17**|**[[2604.15975v1](http://arxiv.org/abs/2604.15975v1)]The double Schwarzschild solution in bispherical coordinates**|Christian Klein et.al.||
+|**2026-04-17**|**[[2604.15856v1](http://arxiv.org/abs/2604.15856v1)]Robust Multispectral Semantic Segmentation under Missing or Full Modalities via Structured Latent Projection**|Irem Ulku et.al.||
+|**2026-04-17**|**[[2604.15828v1](http://arxiv.org/abs/2604.15828v1)]SSFT: A Lightweight Spectral-Spatial Fusion Transformer for Generic Hyperspectral Classification**|Alexander Musiat et.al.|Classification|
+|**2026-04-17**|**[[2604.15685v1](http://arxiv.org/abs/2604.15685v1)]Linear and nonlinear vibrational excitation driven by molecular polaritons**|Wenxiang Ying et.al.||
+|**2026-04-17**|**[[2604.15651v1](http://arxiv.org/abs/2604.15651v1)]SPLIT: Self-supervised Partitioning for Learned Inversion in Nonlinear Tomography**|Markus Haltmeier et.al.|Denoising|
+|**2026-04-16**|**[[2604.15493v1](http://arxiv.org/abs/2604.15493v1)]End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed Large-Scale Electronic-Photonic Integrated Circuits**|Hongjian Zhou et.al.||
 |**2026-04-16**|**[[2604.15255v1](http://arxiv.org/abs/2604.15255v1)]Democratization of Real-time Multi-Spectral Photoacoustic Imaging: Open-Sourced System Architecture for OPOTEK Phocus & Verasonics Vantage Combination**|Ryo Murakami et.al.||
 |**2026-04-16**|**[[2604.14755v1](http://arxiv.org/abs/2604.14755v1)]ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation**|Yanguang Sun et.al.||
 |**2026-04-16**|**[[2604.14736v1](http://arxiv.org/abs/2604.14736v1)]Optimization for Pinching Antennas System With Multiple Carriers and Rate Splitting Multiple Access**|Peiyu Wang et.al.||
@@ -1778,7 +1798,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
