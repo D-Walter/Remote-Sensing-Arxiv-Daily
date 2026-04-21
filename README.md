@@ -20,6 +20,10 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-20**|**[[2604.17859v1](http://arxiv.org/abs/2604.17859v1)]Producing High-Resolution Martian Surface Temperature Maps Using VIR-TIR Relationships**|Michael A. Frazer et.al.||
+|**2026-04-20**|**[[2604.17727v1](http://arxiv.org/abs/2604.17727v1)]Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution**|Jie Zhang et.al.|Superresolution|
+|**2026-04-19**|**[[2604.17652v1](http://arxiv.org/abs/2604.17652v1)]Self-Supervised Super-Resolution for Sentinel-5P Hyperspectral Images**|Hyam Omar Ali et.al.|Superresolution|
+|**2026-04-19**|**[[2604.17446v1](http://arxiv.org/abs/2604.17446v1)]HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.||
 |**2026-04-18**|**[[2604.16969v1](http://arxiv.org/abs/2604.16969v1)]Hyperspectral Unmixing Hierarchies**|Joseph L. Garrett et.al.|Unmixing|
 |**2026-04-18**|**[[2604.16939v1](http://arxiv.org/abs/2604.16939v1)]Hierarchical spectral inhomogeneity in photoluminescence of a twisted MoSe2/WSe2 heterobilayer moiré superlattice revealed by hyperspectral mapping**|Nurul Fariha Ahmad et.al.||
 |**2026-04-17**|**[[2604.16115v1](http://arxiv.org/abs/2604.16115v1)]From Articles to Canopies: Knowledge-Driven Pseudo-Labelling for Tree Species Classification using LLM Experts**|Michał Romaszewski et.al.|Classification|
@@ -529,6 +533,15 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-20**|**[[2604.18583v1](http://arxiv.org/abs/2604.18583v1)]MUA: Mobile Ultra-detailed Animatable Avatars**|Heming Zhu et.al.||
+|**2026-04-20**|**[[2604.18374v1](http://arxiv.org/abs/2604.18374v1)]Spectrum Configuration Framework for Throughput Maximization in Open Systems with Roll-Off-Based QoT Optimization**|Peyman Pahlevanzadeh et.al.||
+|**2026-04-20**|**[[2604.18261v1](http://arxiv.org/abs/2604.18261v1)]DeepRitzSplit Neural Operator for Phase-Field Models via Energy Splitting**|Chih-Kang Huang et.al.||
+|**2026-04-20**|**[[2604.18115v1](http://arxiv.org/abs/2604.18115v1)]JWST Exoplanetary Worlds and Elemental Survey (JEWELS) II: Condensation Temperature Trends and Galactic Chemical Evolution in JWST Planet-Hosting Stars**|Qinghui Sun et.al.||
+|**2026-04-20**|**[[2604.18018v1](http://arxiv.org/abs/2604.18018v1)]The trigger and localization system of SVOM-GRM**|Jiang He et.al.||
+|**2026-04-20**|**[[2604.17853v1](http://arxiv.org/abs/2604.17853v1)]Symbol-Level Mask-Compliant Hybrid Precoding for Multi-User MIMO-OFDM Systems**|Navid Reyhanian et.al.||
+|**2026-04-20**|**[[2604.17751v1](http://arxiv.org/abs/2604.17751v1)]HiP-LoRA: Budgeted Spectral Plasticity for Robust Low-Rank Adaptation**|Lixian Chen et.al.||
+|**2026-04-20**|**[[2604.17690v1](http://arxiv.org/abs/2604.17690v1)]Path-Based Quantum Meta-Learning for Adaptive Optimization of Reconfigurable Intelligent Surfaces**|Noha Hassan et.al.||
+|**2026-04-19**|**[[2604.17521v1](http://arxiv.org/abs/2604.17521v1)]Multi-domain spectral approach for Zakharov-Kuznetsov equations in 3D with cylindrical symmetry**|Christian Klein et.al.||
 |**2026-04-18**|**[[2604.16952v1](http://arxiv.org/abs/2604.16952v1)]Better with Less: Tackling Heterogeneous Multi-Modal Image Joint Pretraining via Conditioned and Degraded Masked Autoencoder**|Bowen Peng et.al.||
 |**2026-04-18**|**[[2604.16939v1](http://arxiv.org/abs/2604.16939v1)]Hierarchical spectral inhomogeneity in photoluminescence of a twisted MoSe2/WSe2 heterobilayer moiré superlattice revealed by hyperspectral mapping**|Nurul Fariha Ahmad et.al.||
 |**2026-04-18**|**[[2604.16841v1](http://arxiv.org/abs/2604.16841v1)]When Earth Foundation Models Meet Diffusion: An Application to Land Surface Temperature Super-Resolution**|Yiheng Chen et.al.|Superresolution, Denoising|
