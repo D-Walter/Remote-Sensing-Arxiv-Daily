@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-21**|**[[2604.19384v1](http://arxiv.org/abs/2604.19384v1)]Drift Correction of Scan Images by Snapshot Referencing**|Zac Thollar et.al.||
+|**2026-04-21**|**[[2604.19007v1](http://arxiv.org/abs/2604.19007v1)]ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|Superresolution|
+|**2026-04-20**|**[[2604.18856v1](http://arxiv.org/abs/2604.18856v1)]ConvVitMamba: Efficient Multiscale Convolution, Transformer, and Mamba-Based Sequence modelling for Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|Classification|
 |**2026-04-20**|**[[2604.17859v1](http://arxiv.org/abs/2604.17859v1)]Producing High-Resolution Martian Surface Temperature Maps Using VIR-TIR Relationships**|Michael A. Frazer et.al.||
 |**2026-04-20**|**[[2604.17727v1](http://arxiv.org/abs/2604.17727v1)]Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution**|Jie Zhang et.al.|Superresolution|
 |**2026-04-19**|**[[2604.17652v1](http://arxiv.org/abs/2604.17652v1)]Self-Supervised Super-Resolution for Sentinel-5P Hyperspectral Images**|Hyam Omar Ali et.al.|Superresolution|
@@ -531,12 +534,25 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-21**|**[[2604.19675v1](http://arxiv.org/abs/2604.19675v1)]MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.||
+|**2026-04-21**|**[[2604.19460v1](http://arxiv.org/abs/2604.19460v1)]Optimal Multispectral Imaging using RGB Cameras**|Tomislav Matulić et.al.||
+|**2026-04-21**|**[[2604.19338v1](http://arxiv.org/abs/2604.19338v1)]Hybrid Beamforming for Subarray-Level Movable Antenna Enhanced MU-MIMO Communications**|Shanshan Zhang et.al.||
+|**2026-04-21**|**[[2604.19326v1](http://arxiv.org/abs/2604.19326v1)]Experimental Demonstration of SDRL Controller for TS Wave Suppression with DBD Actuator**|Babak Mohammadikalakoo et.al.||
+|**2026-04-21**|**[[2604.19319v1](http://arxiv.org/abs/2604.19319v1)]An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics**|Joshua Courtney et.al.||
+|**2026-04-21**|**[[2604.19311v1](http://arxiv.org/abs/2604.19311v1)]Calibrated electric-field imaging with Rydberg-state fluorescence and Autler-Townes splitting**|Gabriel Ko et.al.||
+|**2026-04-21**|**[[2604.19119v1](http://arxiv.org/abs/2604.19119v1)]A General Framework for Radial Velocity Calibration in Low-Resolution Spectroscopic Surveys: Correcting Wavelength-Dependent and Global Systematics with Application to LAMOST DR9**|Jinming Zhang et.al.||
+|**2026-04-21**|**[[2604.19010v1](http://arxiv.org/abs/2604.19010v1)]SSB-Based Sensing-Assisted Robust Beamforming for High-Mobility UAV Communications in LAWN**|Aimin Tang et.al.|Classification|
+|**2026-04-21**|**[[2604.19007v1](http://arxiv.org/abs/2604.19007v1)]ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|Superresolution|
+|**2026-04-21**|**[[2604.18985v1](http://arxiv.org/abs/2604.18985v1)]The Gamma-Ray Monitor onboard the SVOM satellite**|Jian-Chao Sun et.al.||
+|**2026-04-21**|**[[2604.18950v1](http://arxiv.org/abs/2604.18950v1)]Very Long Baseline Interferometry Search for Nuclear Radio Continuum Emission in the Barred Spiral Galaxy NGC 7479**|Seppo Laine et.al.||
+|**2026-04-20**|**[[2604.18812v1](http://arxiv.org/abs/2604.18812v1)]SAGUI: SED-based Segmentation of Multi-band Galaxy Images -- Application to JADES in GOODS-South**|Rafael S. de Souza et.al.||
+|**2026-04-20**|**[[2604.18684v1](http://arxiv.org/abs/2604.18684v1)]Hatsugai-Kohmoto-like Models for Altermagnets and Odd-Parity Magnets**|Konstantin Rickelt et.al.||
 |**2026-04-20**|**[[2604.18583v1](http://arxiv.org/abs/2604.18583v1)]MUA: Mobile Ultra-detailed Animatable Avatars**|Heming Zhu et.al.||
 |**2026-04-20**|**[[2604.18374v1](http://arxiv.org/abs/2604.18374v1)]Spectrum Configuration Framework for Throughput Maximization in Open Systems with Roll-Off-Based QoT Optimization**|Peyman Pahlevanzadeh et.al.||
 |**2026-04-20**|**[[2604.18261v1](http://arxiv.org/abs/2604.18261v1)]DeepRitzSplit Neural Operator for Phase-Field Models via Energy Splitting**|Chih-Kang Huang et.al.||
@@ -1811,7 +1827,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
