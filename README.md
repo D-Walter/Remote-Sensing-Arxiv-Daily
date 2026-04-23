@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-22**|**[[2604.20128v1](http://arxiv.org/abs/2604.20128v1)]Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging**|Peiming Luo et.al.||
 |**2026-04-21**|**[[2604.19384v1](http://arxiv.org/abs/2604.19384v1)]Drift Correction of Scan Images by Snapshot Referencing**|Zac Thollar et.al.||
 |**2026-04-21**|**[[2604.19007v1](http://arxiv.org/abs/2604.19007v1)]ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|Superresolution|
 |**2026-04-20**|**[[2604.18856v1](http://arxiv.org/abs/2604.18856v1)]ConvVitMamba: Efficient Multiscale Convolution, Transformer, and Mamba-Based Sequence modelling for Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|Classification|
@@ -71,7 +72,7 @@
 |**2026-03-26**|**[[2603.25510v1](http://arxiv.org/abs/2603.25510v1)]Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.||
 |**2026-03-26**|**[[2603.25384v1](http://arxiv.org/abs/2603.25384v1)]Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|Unmixing, Classification|
 |**2026-03-26**|**[[2603.25255v1](http://arxiv.org/abs/2603.25255v1)]Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|Classification|
-|**2026-03-26**|**[[2603.25132v1](http://arxiv.org/abs/2603.25132v1)]Robust Principal Component Completion**|Yinjian Wang et.al.||
+|**2026-04-22**|**[[2603.25132v2](http://arxiv.org/abs/2603.25132v2)]Robust Principal Component Completion**|Yinjian Wang et.al.||
 |**2026-03-25**|**[[2603.24323v1](http://arxiv.org/abs/2603.24323v1)]Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|Classification|
 |**2026-03-25**|**[[2603.24108v1](http://arxiv.org/abs/2603.24108v1)]Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing**|Hector Blondel et.al.|Unmixing|
 |**2026-03-25**|**[[2603.24045v1](http://arxiv.org/abs/2603.24045v1)]LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|Classification|
@@ -530,12 +531,20 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-22**|**[[2604.20825v1](http://arxiv.org/abs/2604.20825v1)]FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels**|Sina Gholami et.al.||
+|**2026-04-22**|**[[2604.20682v1](http://arxiv.org/abs/2604.20682v1)]Variance Is Not Importance: Structural Analysis of Transformer Compressibility Across Model Scales**|Samuel Salfati et.al.||
+|**2026-04-22**|**[[2604.20480v1](http://arxiv.org/abs/2604.20480v1)]The January 2010 flare of Mrk421: Insights from a stochastic acceleration model**|MAGIC collaboration et.al.||
+|**2026-04-22**|**[[2604.20161v1](http://arxiv.org/abs/2604.20161v1)]SMART: A Spectral Transfer Approach to Multi-Task Learning**|Boxin Zhao et.al.||
+|**2026-04-21**|**[[2604.20063v1](http://arxiv.org/abs/2604.20063v1)]Purely Quadratic Non-Gaussianity from Tachyonic Instability: Primordial Black Holes and Scalar-Induced Gravitational Waves**|He-Xu Zhang et.al.||
+|**2026-04-21**|**[[2604.20061v1](http://arxiv.org/abs/2604.20061v1)]Predictivity and Utility of Neural Surrogates of Multiscale PDEs**|Karthik Duraisamy et.al.||
+|**2026-04-21**|**[[2604.20010v1](http://arxiv.org/abs/2604.20010v1)]The First Infrared Portrait of A Solar-Like Host Star with Debris Disk: Pioneering High-Resolution H- and K-Band Spectroscopy of HD115617 with Comparative Optical Spectrum Analysis**|Sena Aleyna Şentürk et.al.||
+|**2026-04-21**|**[[2604.19928v1](http://arxiv.org/abs/2604.19928v1)]Resolving the Dust Budget Crisis at $z \sim 8$ with Optically Thick, High-Density Molecular Clumps: MACS0416_Y1**|Ryusei R. Kano et.al.||
 |**2026-04-21**|**[[2604.19675v1](http://arxiv.org/abs/2604.19675v1)]MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.||
 |**2026-04-21**|**[[2604.19460v1](http://arxiv.org/abs/2604.19460v1)]Optimal Multispectral Imaging using RGB Cameras**|Tomislav Matulić et.al.||
 |**2026-04-21**|**[[2604.19338v1](http://arxiv.org/abs/2604.19338v1)]Hybrid Beamforming for Subarray-Level Movable Antenna Enhanced MU-MIMO Communications**|Shanshan Zhang et.al.||
@@ -1823,7 +1832,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
