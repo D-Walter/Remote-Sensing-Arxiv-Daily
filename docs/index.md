@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-23**|**[[2604.21742v1](http://arxiv.org/abs/2604.21742v1)]High-speed hyperspectral 3D ghost imaging LiDAR**|Jing Hu et.al.||
+|**2026-04-22**|**[[2604.21127v1](http://arxiv.org/abs/2604.21127v1)]HyperFM: An Efficient Hyperspectral Foundation Model with Spectral Grouping**|Zahid Hassan Tushar et.al.||
 |**2026-04-22**|**[[2604.20128v1](http://arxiv.org/abs/2604.20128v1)]Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging**|Peiming Luo et.al.||
 |**2026-04-21**|**[[2604.19384v1](http://arxiv.org/abs/2604.19384v1)]Drift Correction of Scan Images by Snapshot Referencing**|Zac Thollar et.al.||
 |**2026-04-21**|**[[2604.19007v1](http://arxiv.org/abs/2604.19007v1)]ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|Superresolution|
@@ -535,12 +537,18 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-23**|**[[2604.21624v1](http://arxiv.org/abs/2604.21624v1)]Multi-wavelength study of EP250416a / GRB 250416C: An Optically Dark Long GRB with a Late Jet Break**|Guoying Zhao et.al.||
+|**2026-04-23**|**[[2604.21405v1](http://arxiv.org/abs/2604.21405v1)]Supermassive Black Hole Winds in X-rays: SUBWAYS IV. Tracing Radio Emission and Unveiling the Role of Winds**|E. Amenta et.al.||
+|**2026-04-23**|**[[2604.21305v1](http://arxiv.org/abs/2604.21305v1)]WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation**|Peilin Liu et.al.||
+|**2026-04-23**|**[[2604.21246v1](http://arxiv.org/abs/2604.21246v1)]Programming Coherent and Quantum Light with a Free-Electron Wavepacket**|Songyu Zhu et.al.||
+|**2026-04-22**|**[[2604.21032v1](http://arxiv.org/abs/2604.21032v1)]Unlocking Multi-Spectral Data for Multi-Modal Models with Guided Inputs and Chain-of-Thought Reasoning**|Dahun Kim et.al.|Classification|
+|**2026-04-21**|**[[2604.20907v1](http://arxiv.org/abs/2604.20907v1)]Achieving the Kesten-Stigum bound in the non-uniform hypergraph stochastic block model**|Manuel Fernandez et.al.||
 |**2026-04-22**|**[[2604.20825v1](http://arxiv.org/abs/2604.20825v1)]FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels**|Sina Gholami et.al.||
 |**2026-04-22**|**[[2604.20682v1](http://arxiv.org/abs/2604.20682v1)]Variance Is Not Importance: Structural Analysis of Transformer Compressibility Across Model Scales**|Samuel Salfati et.al.||
 |**2026-04-22**|**[[2604.20480v1](http://arxiv.org/abs/2604.20480v1)]The January 2010 flare of Mrk421: Insights from a stochastic acceleration model**|MAGIC collaboration et.al.||
@@ -593,7 +601,7 @@ layout: default
 |**2026-04-16**|**[[2604.14540v1](http://arxiv.org/abs/2604.14540v1)]WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.||
 |**2026-04-16**|**[[2604.14532v1](http://arxiv.org/abs/2604.14532v1)]CSRA: Controlled Spectral Residual Augmentation for Robust Sepsis Prediction**|Honglin Guo et.al.|Classification|
 |**2026-04-16**|**[[2604.14526v1](http://arxiv.org/abs/2604.14526v1)]FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking**|Jinlin You et.al.|Object Tracking|
-|**2026-04-16**|**[[2604.14524v1](http://arxiv.org/abs/2604.14524v1)]Bridging Standardized Codebook and Site-Specific Beamforming: A Unified Limited-Feedback Framework**|Cheng-Jie Zhao et.al.||
+|**2026-04-23**|**[[2604.14524v2](http://arxiv.org/abs/2604.14524v2)]Bridging Standardized Codebook and Site-Specific Beamforming: A Unified Limited-Feedback Framework**|Cheng-Jie Zhao et.al.||
 |**2026-04-15**|**[[2604.14343v1](http://arxiv.org/abs/2604.14343v1)]GRB 210704A: A Luminous Fast Blue Transient in a GRB Afterglow at $z = 2.34$**|Daniëlle L. A. Pieterse et.al.||
 |**2026-04-15**|**[[2604.14118v1](http://arxiv.org/abs/2604.14118v1)]Complex Interpolation of Matrices with an application to Multi-Manifold Learning**|Adi Arbel et.al.||
 |**2026-04-15**|**[[2604.13952v1](http://arxiv.org/abs/2604.13952v1)]Low-Complexity, Space Splitting-based User Selection in MU-MIMO for Massive Connectivity and AI-Native Traffic**|João Paulo S. H. Lima et.al.||
@@ -1836,7 +1844,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
