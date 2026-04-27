@@ -24,6 +24,7 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-24**|**[[2604.22660v1](http://arxiv.org/abs/2604.22660v1)]Fully multiplexed photonic tensor computing**|Aolong Sun et.al.|Classification|
 |**2026-04-23**|**[[2604.21742v1](http://arxiv.org/abs/2604.21742v1)]High-speed hyperspectral 3D ghost imaging LiDAR**|Jing Hu et.al.||
 |**2026-04-22**|**[[2604.21127v1](http://arxiv.org/abs/2604.21127v1)]HyperFM: An Efficient Hyperspectral Foundation Model with Spectral Grouping**|Zahid Hassan Tushar et.al.||
 |**2026-04-22**|**[[2604.20128v1](http://arxiv.org/abs/2604.20128v1)]Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging**|Peiming Luo et.al.||
@@ -543,6 +544,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-24**|**[[2604.22301v1](http://arxiv.org/abs/2604.22301v1)]Thin Film AlN Microbolometer for Very Long-Wave Infrared Detection**|Vivek Tallavajhula et.al.||
 |**2026-04-23**|**[[2604.21624v1](http://arxiv.org/abs/2604.21624v1)]Multi-wavelength study of EP250416a / GRB 250416C: An Optically Dark Long GRB with a Late Jet Break**|Guoying Zhao et.al.||
 |**2026-04-23**|**[[2604.21405v1](http://arxiv.org/abs/2604.21405v1)]Supermassive Black Hole Winds in X-rays: SUBWAYS IV. Tracing Radio Emission and Unveiling the Role of Winds**|E. Amenta et.al.||
 |**2026-04-23**|**[[2604.21305v1](http://arxiv.org/abs/2604.21305v1)]WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation**|Peilin Liu et.al.||
@@ -595,7 +597,7 @@ layout: default
 |**2026-04-17**|**[[2604.15685v1](http://arxiv.org/abs/2604.15685v1)]Linear and nonlinear vibrational excitation driven by molecular polaritons**|Wenxiang Ying et.al.||
 |**2026-04-17**|**[[2604.15651v1](http://arxiv.org/abs/2604.15651v1)]SPLIT: Self-supervised Partitioning for Learned Inversion in Nonlinear Tomography**|Markus Haltmeier et.al.|Denoising|
 |**2026-04-16**|**[[2604.15493v1](http://arxiv.org/abs/2604.15493v1)]End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed Large-Scale Electronic-Photonic Integrated Circuits**|Hongjian Zhou et.al.||
-|**2026-04-16**|**[[2604.15255v1](http://arxiv.org/abs/2604.15255v1)]Democratization of Real-time Multi-Spectral Photoacoustic Imaging: Open-Sourced System Architecture for OPOTEK Phocus & Verasonics Vantage Combination**|Ryo Murakami et.al.||
+|**2026-04-23**|**[[2604.15255v2](http://arxiv.org/abs/2604.15255v2)]Democratization of Real-time Multi-Spectral Photoacoustic Imaging: Open-Sourced System Architecture for OPOTEK Phocus & Verasonics Vantage Combination**|Ryo Murakami et.al.||
 |**2026-04-16**|**[[2604.14755v1](http://arxiv.org/abs/2604.14755v1)]ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation**|Yanguang Sun et.al.||
 |**2026-04-16**|**[[2604.14736v1](http://arxiv.org/abs/2604.14736v1)]Optimization for Pinching Antennas System With Multiple Carriers and Rate Splitting Multiple Access**|Peiyu Wang et.al.||
 |**2026-04-16**|**[[2604.14540v1](http://arxiv.org/abs/2604.14540v1)]WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.||
