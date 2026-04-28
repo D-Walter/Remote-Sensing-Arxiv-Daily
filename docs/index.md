@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-26**|**[[2604.23622v1](http://arxiv.org/abs/2604.23622v1)]A Synergistic CNN-Transformer Network with Pooling Attention Fusion for Hyperspectral Image Classification**|Peng Chen et.al.|Classification|
+|**2026-04-25**|**[[2604.23212v1](http://arxiv.org/abs/2604.23212v1)]Learning Curves and Benign Overfitting of Spectral Algorithms in Large Dimensions**|Weihao Lu et.al.||
+|**2026-04-05**|**[[2604.22788v1](http://arxiv.org/abs/2604.22788v1)]Non-Destructive Prediction of Fruit Ripeness and Firmness Using Hyperspectral Imaging and Lightweight Machine Learning Models**|Phongsakon Mark Konrad et.al.|Classification|
 |**2026-04-24**|**[[2604.22660v1](http://arxiv.org/abs/2604.22660v1)]Fully multiplexed photonic tensor computing**|Aolong Sun et.al.|Classification|
 |**2026-04-23**|**[[2604.21742v1](http://arxiv.org/abs/2604.21742v1)]High-speed hyperspectral 3D ghost imaging LiDAR**|Jing Hu et.al.||
 |**2026-04-22**|**[[2604.21127v1](http://arxiv.org/abs/2604.21127v1)]HyperFM: An Efficient Hyperspectral Foundation Model with Spectral Grouping**|Zahid Hassan Tushar et.al.||
@@ -538,12 +541,17 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-26**|**[[2604.23622v1](http://arxiv.org/abs/2604.23622v1)]A Synergistic CNN-Transformer Network with Pooling Attention Fusion for Hyperspectral Image Classification**|Peng Chen et.al.|Classification|
+|**2026-04-25**|**[[2604.23372v1](http://arxiv.org/abs/2604.23372v1)]Physics-Informed Temporal U-Net for High-Fidelity Fluid Interpolation**|Eshwar R. A. et.al.||
+|**2026-04-25**|**[[2604.23127v1](http://arxiv.org/abs/2604.23127v1)]A Dynamic Learning Observatory Reveals the Rapid Salinization of Satkhira, Bangladesh**|Showmitra Kumar Sarkar et.al.||
+|**2026-04-24**|**[[2604.22930v1](http://arxiv.org/abs/2604.22930v1)]Dynamical masses of young stellar objects with the VLBA: DYNAMO-VLBA: Radio binary stars in Orion**|Sergio A. Dzib et.al.||
+|**2026-04-24**|**[[2604.22894v1](http://arxiv.org/abs/2604.22894v1)]Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients**|Jia-Mian Wu et.al.||
 |**2026-04-24**|**[[2604.22301v1](http://arxiv.org/abs/2604.22301v1)]Thin Film AlN Microbolometer for Very Long-Wave Infrared Detection**|Vivek Tallavajhula et.al.||
 |**2026-04-23**|**[[2604.21624v1](http://arxiv.org/abs/2604.21624v1)]Multi-wavelength study of EP250416a / GRB 250416C: An Optically Dark Long GRB with a Late Jet Break**|Guoying Zhao et.al.||
 |**2026-04-23**|**[[2604.21405v1](http://arxiv.org/abs/2604.21405v1)]Supermassive Black Hole Winds in X-rays: SUBWAYS IV. Tracing Radio Emission and Unveiling the Role of Winds**|E. Amenta et.al.||
@@ -1846,7 +1854,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
