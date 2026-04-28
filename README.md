@@ -543,6 +543,12 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-27**|**[[2604.24538v1](http://arxiv.org/abs/2604.24538v1)]Quantization-Aware EE Optimization and SE-EE Tradeoff for MiLAC-Aided MU-MISO Beamforming**|Yuchen Zhang et.al.||
+|**2026-04-27**|**[[2604.24426v1](http://arxiv.org/abs/2604.24426v1)]DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation**|Md Shohel Rana et.al.|Classification|
+|**2026-04-27**|**[[2604.24370v1](http://arxiv.org/abs/2604.24370v1)]Multispectral airborne laser scanning dataset for tree species classification: MS-ALS-SPECIES**|Matti Hyyppä et.al.|Classification|
+|**2026-04-27**|**[[2604.24224v1](http://arxiv.org/abs/2604.24224v1)]IMPA-Net: Meteorology-Aware Multi-Scale Attention and Dynamic Loss for Extreme Convective Radar Nowcasting**|Haofei Cui et.al.||
+|**2026-04-27**|**[[2604.23964v1](http://arxiv.org/abs/2604.23964v1)]Task-guided Spatiotemporal Network with Diffusion Augmentation for EEG-based Dementia Diagnosis and MMSE Prediction**|Xiaoyu Zheng et.al.|Classification|
+|**2026-04-27**|**[[2604.23937v1](http://arxiv.org/abs/2604.23937v1)]Multi-scale Dynamic Wake Modeling of Floating Offshore Wind Turbines via Fourier Neural Operators and Physics-Informed Neural Networks**|Guodan Dong et.al.||
 |**2026-04-26**|**[[2604.23622v1](http://arxiv.org/abs/2604.23622v1)]A Synergistic CNN-Transformer Network with Pooling Attention Fusion for Hyperspectral Image Classification**|Peng Chen et.al.|Classification|
 |**2026-04-25**|**[[2604.23372v1](http://arxiv.org/abs/2604.23372v1)]Physics-Informed Temporal U-Net for High-Fidelity Fluid Interpolation**|Eshwar R. A. et.al.||
 |**2026-04-25**|**[[2604.23127v1](http://arxiv.org/abs/2604.23127v1)]A Dynamic Learning Observatory Reveals the Rapid Salinization of Satkhira, Bangladesh**|Showmitra Kumar Sarkar et.al.||
@@ -559,7 +565,7 @@
 |**2026-04-22**|**[[2604.20682v1](http://arxiv.org/abs/2604.20682v1)]Variance Is Not Importance: Structural Analysis of Transformer Compressibility Across Model Scales**|Samuel Salfati et.al.||
 |**2026-04-22**|**[[2604.20480v1](http://arxiv.org/abs/2604.20480v1)]The January 2010 flare of Mrk421: Insights from a stochastic acceleration model**|MAGIC collaboration et.al.||
 |**2026-04-22**|**[[2604.20161v1](http://arxiv.org/abs/2604.20161v1)]SMART: A Spectral Transfer Approach to Multi-Task Learning**|Boxin Zhao et.al.||
-|**2026-04-21**|**[[2604.20063v1](http://arxiv.org/abs/2604.20063v1)]Purely Quadratic Non-Gaussianity from Tachyonic Instability: Primordial Black Holes and Scalar-Induced Gravitational Waves**|He-Xu Zhang et.al.||
+|**2026-04-27**|**[[2604.20063v2](http://arxiv.org/abs/2604.20063v2)]Purely Quadratic Non-Gaussianity from Tachyonic Instability: Primordial Black Holes and Scalar-Induced Gravitational Waves**|He-Xu Zhang et.al.||
 |**2026-04-21**|**[[2604.20061v1](http://arxiv.org/abs/2604.20061v1)]Predictivity and Utility of Neural Surrogates of Multiscale PDEs**|Karthik Duraisamy et.al.||
 |**2026-04-21**|**[[2604.20010v1](http://arxiv.org/abs/2604.20010v1)]The First Infrared Portrait of A Solar-Like Host Star with Debris Disk: Pioneering High-Resolution H- and K-Band Spectroscopy of HD115617 with Comparative Optical Spectrum Analysis**|Sena Aleyna Şentürk et.al.||
 |**2026-04-21**|**[[2604.19928v1](http://arxiv.org/abs/2604.19928v1)]Resolving the Dust Budget Crisis at $z \sim 8$ with Optically Thick, High-Density Molecular Clumps: MACS0416_Y1**|Ryusei R. Kano et.al.||
@@ -572,7 +578,7 @@
 |**2026-04-21**|**[[2604.19119v1](http://arxiv.org/abs/2604.19119v1)]A General Framework for Radial Velocity Calibration in Low-Resolution Spectroscopic Surveys: Correcting Wavelength-Dependent and Global Systematics with Application to LAMOST DR9**|Jinming Zhang et.al.||
 |**2026-04-21**|**[[2604.19010v1](http://arxiv.org/abs/2604.19010v1)]SSB-Based Sensing-Assisted Robust Beamforming for High-Mobility UAV Communications in LAWN**|Aimin Tang et.al.|Classification|
 |**2026-04-21**|**[[2604.19007v1](http://arxiv.org/abs/2604.19007v1)]ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|Superresolution|
-|**2026-04-21**|**[[2604.18985v1](http://arxiv.org/abs/2604.18985v1)]The Gamma-Ray Monitor onboard the SVOM satellite**|Jian-Chao Sun et.al.||
+|**2026-04-27**|**[[2604.18985v2](http://arxiv.org/abs/2604.18985v2)]The Gamma-Ray Monitor onboard the SVOM satellite**|Jian-Chao Sun et.al.||
 |**2026-04-21**|**[[2604.18950v1](http://arxiv.org/abs/2604.18950v1)]Very Long Baseline Interferometry Search for Nuclear Radio Continuum Emission in the Barred Spiral Galaxy NGC 7479**|Seppo Laine et.al.||
 |**2026-04-20**|**[[2604.18812v1](http://arxiv.org/abs/2604.18812v1)]SAGUI: SED-based Segmentation of Multi-band Galaxy Images -- Application to JADES in GOODS-South**|Rafael S. de Souza et.al.||
 |**2026-04-20**|**[[2604.18684v1](http://arxiv.org/abs/2604.18684v1)]Hatsugai-Kohmoto-like Models for Altermagnets and Odd-Parity Magnets**|Konstantin Rickelt et.al.||
