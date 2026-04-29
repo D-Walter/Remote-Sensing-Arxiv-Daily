@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -537,12 +537,15 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-28**|**[[2604.25489v1](http://arxiv.org/abs/2604.25489v1)]Adaptable phase retrieval for coherent transition radiation spectroscopy based on differentiable physics information**|Ritz Ann Aguilar et.al.||
+|**2026-04-28**|**[[2604.25347v1](http://arxiv.org/abs/2604.25347v1)]Second Harmonic Generation Through Backward Raman Scattering in Magnetized Plasmas Driven by Circularly Polarized Intense Lasers**|S. S. Ghaffari-Oskooei et.al.||
+|**2026-04-27**|**[[2604.24918v1](http://arxiv.org/abs/2604.24918v1)]Covariance-Aware Demapping on Fourier-Curve Constellations**|Bin Han et.al.||
 |**2026-04-27**|**[[2604.24538v1](http://arxiv.org/abs/2604.24538v1)]Quantization-Aware EE Optimization and SE-EE Tradeoff for MiLAC-Aided MU-MISO Beamforming**|Yuchen Zhang et.al.||
 |**2026-04-27**|**[[2604.24426v1](http://arxiv.org/abs/2604.24426v1)]DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation**|Md Shohel Rana et.al.|Classification|
 |**2026-04-27**|**[[2604.24370v1](http://arxiv.org/abs/2604.24370v1)]Multispectral airborne laser scanning dataset for tree species classification: MS-ALS-SPECIES**|Matti Hyyppä et.al.|Classification|
@@ -586,7 +589,7 @@
 |**2026-04-20**|**[[2604.18374v1](http://arxiv.org/abs/2604.18374v1)]Spectrum Configuration Framework for Throughput Maximization in Open Systems with Roll-Off-Based QoT Optimization**|Peyman Pahlevanzadeh et.al.||
 |**2026-04-20**|**[[2604.18261v1](http://arxiv.org/abs/2604.18261v1)]DeepRitzSplit Neural Operator for Phase-Field Models via Energy Splitting**|Chih-Kang Huang et.al.||
 |**2026-04-20**|**[[2604.18115v1](http://arxiv.org/abs/2604.18115v1)]JWST Exoplanetary Worlds and Elemental Survey (JEWELS) II: Condensation Temperature Trends and Galactic Chemical Evolution in JWST Planet-Hosting Stars**|Qinghui Sun et.al.||
-|**2026-04-20**|**[[2604.18018v1](http://arxiv.org/abs/2604.18018v1)]The trigger and localization system of SVOM-GRM**|Jiang He et.al.||
+|**2026-04-28**|**[[2604.18018v2](http://arxiv.org/abs/2604.18018v2)]The trigger and localization system of SVOM-GRM**|Jiang He et.al.||
 |**2026-04-20**|**[[2604.17853v1](http://arxiv.org/abs/2604.17853v1)]Symbol-Level Mask-Compliant Hybrid Precoding for Multi-User MIMO-OFDM Systems**|Navid Reyhanian et.al.||
 |**2026-04-20**|**[[2604.17751v1](http://arxiv.org/abs/2604.17751v1)]HiP-LoRA: Budgeted Spectral Plasticity for Robust Low-Rank Adaptation**|Lixian Chen et.al.||
 |**2026-04-20**|**[[2604.17690v1](http://arxiv.org/abs/2604.17690v1)]Path-Based Quantum Meta-Learning for Adaptive Optimization of Reconfigurable Intelligent Surfaces**|Noha Hassan et.al.||
@@ -1856,7 +1859,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
