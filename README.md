@@ -543,6 +543,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-28**|**[[2604.25823v1](http://arxiv.org/abs/2604.25823v1)]Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators**|H. Tang et.al.||
 |**2026-04-28**|**[[2604.25489v1](http://arxiv.org/abs/2604.25489v1)]Adaptable phase retrieval for coherent transition radiation spectroscopy based on differentiable physics information**|Ritz Ann Aguilar et.al.||
 |**2026-04-28**|**[[2604.25347v1](http://arxiv.org/abs/2604.25347v1)]Second Harmonic Generation Through Backward Raman Scattering in Magnetized Plasmas Driven by Circularly Polarized Intense Lasers**|S. S. Ghaffari-Oskooei et.al.||
 |**2026-04-27**|**[[2604.24918v1](http://arxiv.org/abs/2604.24918v1)]Covariance-Aware Demapping on Fourier-Curve Constellations**|Bin Han et.al.||
