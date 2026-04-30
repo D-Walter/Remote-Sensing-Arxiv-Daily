@@ -546,6 +546,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-29**|**[[2604.26914v1](http://arxiv.org/abs/2604.26914v1)]Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware**|Truman Yu Ng et.al.||
+|**2026-04-29**|**[[2604.26911v1](http://arxiv.org/abs/2604.26911v1)]The tale of the 3 planets: 3D cloud feedback enhances the spectral diversity of warm Jupiters**|Nishil Mehta et.al.||
 |**2026-04-29**|**[[2604.26675v1](http://arxiv.org/abs/2604.26675v1)]Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification**|Ralntion Komini et.al.|Classification|
 |**2026-04-29**|**[[2604.26518v1](http://arxiv.org/abs/2604.26518v1)]GMT: A Geometric Multigrid Transformer Solver for Microstructure Homogenization**|Yu Xing et.al.||
 |**2026-04-29**|**[[2604.26491v1](http://arxiv.org/abs/2604.26491v1)]TwinSpecNet: Extending APOGEE's chemical reach to low-S/N spectra via empirical paired learning**|Weijia Sun et.al.||
