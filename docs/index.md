@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-29**|**[[2604.26478v1](http://arxiv.org/abs/2604.26478v1)]Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.||
+|**2026-04-29**|**[[2604.26279v1](http://arxiv.org/abs/2604.26279v1)]High-Dimensional Noise to Low-Dimensional Manifolds: A Manifold-Space Diffusion Framework for Degraded Hyperspectral Image Classification**|Boxiang Yang et.al.|Classification|
+|**2026-04-28**|**[[2604.26138v1](http://arxiv.org/abs/2604.26138v1)]MixerCA: An Efficient and Accurate Model for High-Performance Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|Classification|
 |**2026-04-26**|**[[2604.23622v1](http://arxiv.org/abs/2604.23622v1)]A Synergistic CNN-Transformer Network with Pooling Attention Fusion for Hyperspectral Image Classification**|Peng Chen et.al.|Classification|
 |**2026-04-25**|**[[2604.23212v1](http://arxiv.org/abs/2604.23212v1)]Learning Curves and Benign Overfitting of Spectral Algorithms in Large Dimensions**|Weihao Lu et.al.||
 |**2026-04-05**|**[[2604.22788v1](http://arxiv.org/abs/2604.22788v1)]Non-Destructive Prediction of Fruit Ripeness and Firmness Using Hyperspectral Imaging and Lightweight Machine Learning Models**|Phongsakon Mark Konrad et.al.|Classification|
@@ -541,12 +544,17 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-29**|**[[2604.26675v1](http://arxiv.org/abs/2604.26675v1)]Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification**|Ralntion Komini et.al.|Classification|
+|**2026-04-29**|**[[2604.26518v1](http://arxiv.org/abs/2604.26518v1)]GMT: A Geometric Multigrid Transformer Solver for Microstructure Homogenization**|Yu Xing et.al.||
+|**2026-04-29**|**[[2604.26491v1](http://arxiv.org/abs/2604.26491v1)]TwinSpecNet: Extending APOGEE's chemical reach to low-S/N spectra via empirical paired learning**|Weijia Sun et.al.||
+|**2026-04-29**|**[[2604.26373v1](http://arxiv.org/abs/2604.26373v1)]System-Level Design of Scalable Fluxonium Quantum Processors with Double-Transmon Couplers**|Guo Xuan Chan et.al.||
+|**2026-04-28**|**[[2604.26027v1](http://arxiv.org/abs/2604.26027v1)]Exploring the gaseous halos of z>3 radio galaxies with UVES and JWST/NIRSpec**|Jelena Ritter et.al.||
 |**2026-04-28**|**[[2604.25823v1](http://arxiv.org/abs/2604.25823v1)]Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators**|H. Tang et.al.||
 |**2026-04-28**|**[[2604.25489v1](http://arxiv.org/abs/2604.25489v1)]Adaptable phase retrieval for coherent transition radiation spectroscopy based on differentiable physics information**|Ritz Ann Aguilar et.al.||
 |**2026-04-28**|**[[2604.25347v1](http://arxiv.org/abs/2604.25347v1)]Second Harmonic Generation Through Backward Raman Scattering in Magnetized Plasmas Driven by Circularly Polarized Intense Lasers**|S. S. Ghaffari-Oskooei et.al.||
@@ -1864,7 +1872,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
