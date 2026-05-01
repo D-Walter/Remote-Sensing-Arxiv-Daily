@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,10 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-04-30**|**[[2604.27653v1](http://arxiv.org/abs/2604.27653v1)]FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|Object Detection|
+|**2026-04-30**|**[[2604.27364v1](http://arxiv.org/abs/2604.27364v1)]Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|Classification|
+|**2026-04-30**|**[[2604.27326v1](http://arxiv.org/abs/2604.27326v1)]Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution**|Tengya Zhang et.al.|Superresolution|
+|**2026-04-30**|**[[2604.27323v1](http://arxiv.org/abs/2604.27323v1)]Representative Spectral Correlation Network for Multi-source Remote Sensing Image Classification**|Chuanzheng Gong et.al.|Classification|
 |**2026-04-29**|**[[2604.26478v1](http://arxiv.org/abs/2604.26478v1)]Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.||
 |**2026-04-29**|**[[2604.26279v1](http://arxiv.org/abs/2604.26279v1)]High-Dimensional Noise to Low-Dimensional Manifolds: A Manifold-Space Diffusion Framework for Degraded Hyperspectral Image Classification**|Boxiang Yang et.al.|Classification|
 |**2026-04-28**|**[[2604.26138v1](http://arxiv.org/abs/2604.26138v1)]MixerCA: An Efficient and Accurate Model for High-Performance Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|Classification|
@@ -540,12 +544,21 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260501>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-04-30**|**[[2604.27756v1](http://arxiv.org/abs/2604.27756v1)]Multi-wavelength polarisation imaging with inverse designed metasurfaces**|Sarah E. Dean et.al.||
+|**2026-04-30**|**[[2604.27653v1](http://arxiv.org/abs/2604.27653v1)]FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|Object Detection|
+|**2026-04-30**|**[[2604.27552v1](http://arxiv.org/abs/2604.27552v1)]Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction**|Jian Lin et.al.||
+|**2026-04-30**|**[[2604.27499v1](http://arxiv.org/abs/2604.27499v1)]Towards All-Day Perception for Off-Road Driving: A Large-Scale Multispectral Dataset and Comprehensive Benchmark**|Shuo Wang et.al.||
+|**2026-04-30**|**[[2604.27364v1](http://arxiv.org/abs/2604.27364v1)]Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|Classification|
+|**2026-04-30**|**[[2604.27323v1](http://arxiv.org/abs/2604.27323v1)]Representative Spectral Correlation Network for Multi-source Remote Sensing Image Classification**|Chuanzheng Gong et.al.|Classification|
+|**2026-04-29**|**[[2604.27161v1](http://arxiv.org/abs/2604.27161v1)]The major cluster merger in Abell 2034 as seen by XRISM: Strong turbulence and spectral anomalies?**|Annie Heinrich et.al.||
+|**2026-04-29**|**[[2604.27123v1](http://arxiv.org/abs/2604.27123v1)]uGMRT and MeerKAT observation of RXCJ0232-4420: a quiet cluster with a giant radio halo**|Pralay Biswas et.al.||
+|**2026-04-29**|**[[2604.27015v1](http://arxiv.org/abs/2604.27015v1)]Congestion-free routing on quantum chips**|Mithilesh Kumar et.al.||
 |**2026-04-29**|**[[2604.26914v1](http://arxiv.org/abs/2604.26914v1)]Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware**|Truman Yu Ng et.al.||
 |**2026-04-29**|**[[2604.26911v1](http://arxiv.org/abs/2604.26911v1)]The tale of the 3 planets: 3D cloud feedback enhances the spectral diversity of warm Jupiters**|Nishil Mehta et.al.||
 |**2026-04-29**|**[[2604.26675v1](http://arxiv.org/abs/2604.26675v1)]Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification**|Ralntion Komini et.al.|Classification|
@@ -1870,7 +1883,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
