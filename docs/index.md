@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-02**|**[[2605.01514v1](http://arxiv.org/abs/2605.01514v1)]MANOJAVAM: A Scalable, Unified FPGA Accelerator for Matrix Multiplication and Singular Value Decomposition in Principal Component Analysis**|Srivaths Ramasubramanian et.al.||
+|**2026-05-02**|**[[2605.01465v1](http://arxiv.org/abs/2605.01465v1)]Deterministic Realization of Complex Local Strain Fields and Bandgap Profiles in Two-Dimensional Materials**|Lottie L. Murray et.al.||
 |**2026-05-01**|**[[2605.00678v1](http://arxiv.org/abs/2605.00678v1)]Foundation AI Models for Aerosol Optical Depth Estimation from PACE Satellite Data**|Zahid Hassan Tushar et.al.||
 |**2026-04-30**|**[[2604.27653v1](http://arxiv.org/abs/2604.27653v1)]FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|Object Detection|
 |**2026-04-30**|**[[2604.27364v1](http://arxiv.org/abs/2604.27364v1)]Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|Classification|
@@ -549,12 +551,24 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-05-02**|**[[2605.01601v1](http://arxiv.org/abs/2605.01601v1)]Zooming in on the GeV $γ$ -ray flare of the blazar PKS 1725+123 with a multimessenger lens**|Suvas Chandra Chaudhary et.al.||
+|**2026-05-02**|**[[2605.01599v1](http://arxiv.org/abs/2605.01599v1)]Cast3: Translating numerical weather prediction principles into data-driven forecasting**|Congyi Nai et.al.||
+|**2026-05-02**|**[[2605.01490v1](http://arxiv.org/abs/2605.01490v1)]CGFformer: Cluster-Guidance Frequency Transformer for Pansharpening**|Zijian Zhou et.al.|Denoising, Pansharpening|
+|**2026-05-02**|**[[2605.01469v1](http://arxiv.org/abs/2605.01469v1)]Real-space imaging reveals symmetry-selected nonlinear energy routing in a mechanical resonator**|Ya Zhang et.al.||
+|**2026-05-02**|**[[2605.01307v1](http://arxiv.org/abs/2605.01307v1)]Spectral- and Energy-efficient Multi-BS Multi-RIS Pinching-antenna Systems: A GNN-based Approach**|Changpeng He et.al.||
+|**2026-05-02**|**[[2605.01306v1](http://arxiv.org/abs/2605.01306v1)]Machine Learning Enhanced Laser Spectroscopy for Multi-Species Gas Detection in Complex and Harsh Environments**|Mohamed Sy et.al.|Classification, Denoising|
+|**2026-05-02**|**[[2605.01290v1](http://arxiv.org/abs/2605.01290v1)]How Light Reshapes the Mind. An Active Inference Framework for the Cognitive and Emotional Effects of Indoor Lighting**|Luca M. Possati et.al.||
+|**2026-05-02**|**[[2605.01267v1](http://arxiv.org/abs/2605.01267v1)]Antenna Coding Design for Pixel Antenna Empowered Rate-Splitting Multiple Access**|Haobo Huang et.al.||
+|**2026-05-02**|**[[2605.01244v1](http://arxiv.org/abs/2605.01244v1)]NEGF Modeling of Impact Ionization in Semiconductor Avalanche Photodiodes for Quantum Networking**|Colin Burdine et.al.||
+|**2026-05-01**|**[[2605.01022v1](http://arxiv.org/abs/2605.01022v1)]Millimeter-wave Detections of Symbiotic Stars in SPT and ACT Data**|C. Tandoi et.al.||
+|**2026-05-01**|**[[2605.00993v1](http://arxiv.org/abs/2605.00993v1)]The complex history of NGC 1427A revealed by its star clusters and star formation history**|Katja Fahrion et.al.||
+|**2026-04-24**|**[[2605.00871v1](http://arxiv.org/abs/2605.00871v1)]NAKUL-Med: Spectral-Graph State Space Models with Dynamics Kernels for Medical Signals**|Badri N. Patro et.al.||
 |**2026-05-01**|**[[2605.00785v1](http://arxiv.org/abs/2605.00785v1)]Upstream neutrino production and delayed jet emission in the blazar GB6 J1542+6129**|Emma Kun et.al.||
 |**2026-05-01**|**[[2605.00657v1](http://arxiv.org/abs/2605.00657v1)]Spectral Duality and Reset-Neutral Distributions in Random Walks with Multi-Site Geometric Resetting**|Juan Antonio Vega Coso et.al.||
 |**2026-05-01**|**[[2605.00452v1](http://arxiv.org/abs/2605.00452v1)]From Graph Laplacians to String Partition Functions: A Rigorous Pathway from Discrete Spectra to Emergent Geometry**|Tishkov Vladislav et.al.||
@@ -1893,7 +1907,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
