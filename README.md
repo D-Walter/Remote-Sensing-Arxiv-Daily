@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-06**|**[[2605.04388v1](http://arxiv.org/abs/2605.04388v1)]Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network**|Chia-Hsiang Lin et.al.||
 |**2026-05-05**|**[[2605.03837v1](http://arxiv.org/abs/2605.03837v1)]Conditions for well-posed color recovery in scattering media**|Grigory Solomatov et.al.||
 |**2026-05-05**|**[[2605.03371v1](http://arxiv.org/abs/2605.03371v1)]SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for Cross-Scene Hyperspectral Image Classification**|Yiwen Liu et.al.|Classification|
 |**2026-05-02**|**[[2605.01514v1](http://arxiv.org/abs/2605.01514v1)]MANOJAVAM: A Scalable, Unified FPGA Accelerator for Matrix Multiplication and Singular Value Decomposition in Principal Component Analysis**|Srivaths Ramasubramanian et.al.||
@@ -549,17 +550,24 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-05-06**|**[[2605.05020v1](http://arxiv.org/abs/2605.05020v1)]Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning**|Shawn Ray et.al.||
+|**2026-05-06**|**[[2605.04731v1](http://arxiv.org/abs/2605.04731v1)]Morphology-Guided Cross-Task Coupling for Joint Building Height and Footprint Estimation**|Jinzhen Han et.al.||
+|**2026-05-06**|**[[2605.04659v1](http://arxiv.org/abs/2605.04659v1)]Riesz property in the case of multiple eigenvalues**|Boris Mityagin et.al.||
+|**2026-05-06**|**[[2605.04619v1](http://arxiv.org/abs/2605.04619v1)]Spectro-Polarimetric Observations of TeV Sources (SPOTS): First results**|J. Barnard et.al.||
+|**2026-05-06**|**[[2605.04591v1](http://arxiv.org/abs/2605.04591v1)]Spectroscopic Disentangling Revealed the Tertiary Component in the Multiple System EM Boo**|Ö. H. Yıldız et.al.||
+|**2026-05-06**|**[[2605.04588v1](http://arxiv.org/abs/2605.04588v1)]Single-photon scattering by a giant molecule asymmetrically coupled to parallel waveguides**|Ze-Quan Zhang et.al.||
+|**2026-05-06**|**[[2605.04388v1](http://arxiv.org/abs/2605.04388v1)]Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network**|Chia-Hsiang Lin et.al.||
 |**2026-05-05**|**[[2605.03976v1](http://arxiv.org/abs/2605.03976v1)]Modeling and Modulation Optimization for OWC Limited by Electronic and Photonic Bandwidth**|Xiaochen Liu et.al.||
 |**2026-05-05**|**[[2605.03914v1](http://arxiv.org/abs/2605.03914v1)]Ecologically-Constrained Task Arithmetic for Multi-Taxa Bioacoustic Classifiers Without Shared Data**|Ragib Amin Nihal et.al.||
 |**2026-05-05**|**[[2605.03634v1](http://arxiv.org/abs/2605.03634v1)]Free Decompression with Algebraic Spectral Curves**|Siavash Ameli et.al.||
 |**2026-05-05**|**[[2605.03527v1](http://arxiv.org/abs/2605.03527v1)]Unveiling hidden millihertz quasi-periodic oscillations in 1A 0535+262**|Zihan Yang et.al.||
-|**2026-05-04**|**[[2605.03197v1](http://arxiv.org/abs/2605.03197v1)]Completely-positive non-signalling non-Markovian dynamics**|Serhii Kryhin et.al.||
+|**2026-05-06**|**[[2605.03197v2](http://arxiv.org/abs/2605.03197v2)]Completely-positive non-signalling non-Markovian dynamics**|Serhii Kryhin et.al.||
 |**2026-05-04**|**[[2605.03189v1](http://arxiv.org/abs/2605.03189v1)]Sentinel2Cap: A Human-Annotated Benchmark Dataset for Multimodal Remote Sensing Image Captioning**|Lucrezia Tosato et.al.|VLM|
 |**2026-05-04**|**[[2605.03157v1](http://arxiv.org/abs/2605.03157v1)]Signatures of rare-earth elements in mineralogical form using laser-ablation dual-comb spectroscopy**|Christina Hofer et.al.||
 |**2026-05-04**|**[[2605.03089v1](http://arxiv.org/abs/2605.03089v1)]Anisotropic non-Maxwellian velocity distributions in the solar transition region**|Paola Testa et.al.||
@@ -581,7 +589,7 @@
 |**2026-05-04**|**[[2605.02137v1](http://arxiv.org/abs/2605.02137v1)]FLoRA: Fusion-Latent for Optical Reconstruction and Flood Area Segmentation via Cross-Modal Multi-Task Distillation Network**|Jagrati Talreja et.al.||
 |**2026-05-03**|**[[2605.01897v1](http://arxiv.org/abs/2605.01897v1)]How Label Imbalance Shapes Geometry: A General Spectral Analysis of Multi-Label Neural Collapse**|Xiaoxuan Ma et.al.|Classification|
 |**2026-05-02**|**[[2605.01601v1](http://arxiv.org/abs/2605.01601v1)]Zooming in on the GeV $γ$ -ray flare of the blazar PKS 1725+123 with a multimessenger lens**|Suvas Chandra Chaudhary et.al.||
-|**2026-05-02**|**[[2605.01599v1](http://arxiv.org/abs/2605.01599v1)]Cast3: Translating numerical weather prediction principles into data-driven forecasting**|Congyi Nai et.al.||
+|**2026-05-06**|**[[2605.01599v2](http://arxiv.org/abs/2605.01599v2)]Cast3: Translating numerical weather prediction principles into data-driven forecasting**|Congyi Nai et.al.||
 |**2026-05-02**|**[[2605.01490v1](http://arxiv.org/abs/2605.01490v1)]CGFformer: Cluster-Guidance Frequency Transformer for Pansharpening**|Zijian Zhou et.al.|Denoising, Pansharpening|
 |**2026-05-02**|**[[2605.01469v1](http://arxiv.org/abs/2605.01469v1)]Real-space imaging reveals symmetry-selected nonlinear energy routing in a mechanical resonator**|Ya Zhang et.al.||
 |**2026-05-02**|**[[2605.01307v1](http://arxiv.org/abs/2605.01307v1)]Spectral- and Energy-efficient Multi-BS Multi-RIS Pinching-antenna Systems: A GNN-based Approach**|Changpeng He et.al.||
@@ -1930,7 +1938,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
