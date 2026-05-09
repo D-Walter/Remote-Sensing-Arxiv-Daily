@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.07
+## Updated on 2026.05.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,9 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-07**|**[[2605.06628v1](http://arxiv.org/abs/2605.06628v1)]LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.||
+|**2026-05-07**|**[[2605.05688v1](http://arxiv.org/abs/2605.05688v1)]R2H-Diff: Guided Spectral Diffusion Model for RGB-to-Hyperspectral Reconstruction**|Songyu Ding et.al.|Denoising|
+|**2026-05-07**|**[[2605.05623v1](http://arxiv.org/abs/2605.05623v1)]Region-adaptable retrieval of coastal biogeochemical parameters from near-surface hyperspectral remote sensing reflectance using physics-aware meta-learning**|Yiqing Guo et.al.||
 |**2026-05-06**|**[[2605.04388v1](http://arxiv.org/abs/2605.04388v1)]Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network**|Chia-Hsiang Lin et.al.||
 |**2026-05-05**|**[[2605.03837v1](http://arxiv.org/abs/2605.03837v1)]Conditions for well-posed color recovery in scattering media**|Grigory Solomatov et.al.||
 |**2026-05-05**|**[[2605.03371v1](http://arxiv.org/abs/2605.03371v1)]SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for Cross-Scene Hyperspectral Image Classification**|Yiwen Liu et.al.|Classification|
@@ -554,12 +557,19 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260509>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-05-07**|**[[2605.06470v1](http://arxiv.org/abs/2605.06470v1)]Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies**|Magnus Victor Boock et.al.||
+|**2026-05-07**|**[[2605.06352v1](http://arxiv.org/abs/2605.06352v1)]Topological Signatures of Grokking**|Yifan Tang et.al.||
+|**2026-05-07**|**[[2605.06049v1](http://arxiv.org/abs/2605.06049v1)]Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization**|Weijian Su et.al.|VLM|
+|**2026-05-07**|**[[2605.05884v1](http://arxiv.org/abs/2605.05884v1)]From Multi-Port Models to Cascade Structures: Optimization of Active Unilateral Stacked Intelligent Metasurfaces**|Andrea Abrardo et.al.||
+|**2026-05-07**|**[[2605.05608v1](http://arxiv.org/abs/2605.05608v1)]Dynamical Signatures of Floquet Topology in Wave Packet Dynamics**|Xin Shen et.al.||
+|**2026-05-06**|**[[2605.05466v1](http://arxiv.org/abs/2605.05466v1)]Resolving magnetic-sublevel structure in Rydberg Autler-Townes spectra with arbitrary RF polarization**|Noah Schlossberger et.al.||
+|**2026-05-06**|**[[2605.05303v1](http://arxiv.org/abs/2605.05303v1)]Multi-wavelength outburst activity from EP J174942.2-384834: a very faint X-ray transient discovered by Einstein Probe**|F. Coti Zelati et.al.|Classification|
 |**2026-05-06**|**[[2605.05020v1](http://arxiv.org/abs/2605.05020v1)]Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning**|Shawn Ray et.al.||
 |**2026-05-06**|**[[2605.04731v1](http://arxiv.org/abs/2605.04731v1)]Morphology-Guided Cross-Task Coupling for Joint Building Height and Footprint Estimation**|Jinzhen Han et.al.||
 |**2026-05-06**|**[[2605.04659v1](http://arxiv.org/abs/2605.04659v1)]Riesz property in the case of multiple eigenvalues**|Boris Mityagin et.al.||
@@ -1942,7 +1952,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
