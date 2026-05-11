@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-07**|**[[2605.06791v1](http://arxiv.org/abs/2605.06791v1)]Hidden Monsters with SPHEREx I: A goldmine for heavily reddened quasars at cosmic noon**|Matthew Stepney et.al.||
 |**2026-05-07**|**[[2605.06628v1](http://arxiv.org/abs/2605.06628v1)]LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.||
 |**2026-05-07**|**[[2605.05688v1](http://arxiv.org/abs/2605.05688v1)]R2H-Diff: Guided Spectral Diffusion Model for RGB-to-Hyperspectral Reconstruction**|Songyu Ding et.al.|Denoising|
 |**2026-05-07**|**[[2605.05623v1](http://arxiv.org/abs/2605.05623v1)]Region-adaptable retrieval of coastal biogeochemical parameters from near-surface hyperspectral remote sensing reflectance using physics-aware meta-learning**|Yiqing Guo et.al.||
@@ -553,12 +554,18 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-05-08**|**[[2605.07640v1](http://arxiv.org/abs/2605.07640v1)]LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**|Jun Wang et.al.|VLM|
+|**2026-05-08**|**[[2605.07297v1](http://arxiv.org/abs/2605.07297v1)]Spectrum-Adaptive Generalization Bounds for Trained Deep Transformers**|Mana Sakai et.al.||
+|**2026-05-08**|**[[2605.07151v1](http://arxiv.org/abs/2605.07151v1)]DPG-CD: Depth-Prior-Guided Cross-Modal Joint 2D-3D Change Detection**|Luqi Zhang et.al.||
+|**2026-05-07**|**[[2605.06997v1](http://arxiv.org/abs/2605.06997v1)]Echo: KV-Cache-Free Associative Recall with Spectral Koopman Operators**|Anupama Sridhar et.al.||
+|**2026-05-07**|**[[2605.06836v1](http://arxiv.org/abs/2605.06836v1)]The Hubble Advanced Spectral Product (HASP) Program**|John Debes et.al.||
+|**2026-05-04**|**[[2605.06696v1](http://arxiv.org/abs/2605.06696v1)]Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations**|Cameron Berg et.al.||
 |**2026-05-07**|**[[2605.06470v1](http://arxiv.org/abs/2605.06470v1)]Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies**|Magnus Victor Boock et.al.||
 |**2026-05-07**|**[[2605.06352v1](http://arxiv.org/abs/2605.06352v1)]Topological Signatures of Grokking**|Yifan Tang et.al.||
 |**2026-05-07**|**[[2605.06049v1](http://arxiv.org/abs/2605.06049v1)]Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization**|Weijian Su et.al.|VLM|
@@ -1948,7 +1955,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
