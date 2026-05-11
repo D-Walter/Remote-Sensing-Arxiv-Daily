@@ -564,6 +564,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-05-08**|**[[2605.07914v1](http://arxiv.org/abs/2605.07914v1)]Flatness and Gradient Alignment Are Both Necessary: Spectral-Aware Gradient-Aligned Exploration for Multi-Distribution Learning**|Aristotelis Ballas et.al.||
 |**2026-05-08**|**[[2605.07640v1](http://arxiv.org/abs/2605.07640v1)]LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**|Jun Wang et.al.|VLM|
 |**2026-05-08**|**[[2605.07297v1](http://arxiv.org/abs/2605.07297v1)]Spectrum-Adaptive Generalization Bounds for Trained Deep Transformers**|Mana Sakai et.al.||
 |**2026-05-08**|**[[2605.07151v1](http://arxiv.org/abs/2605.07151v1)]DPG-CD: Depth-Prior-Guided Cross-Modal Joint 2D-3D Change Detection**|Luqi Zhang et.al.||
