@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,8 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-09**|**[[2605.09049v1](http://arxiv.org/abs/2605.09049v1)]HyGAS: an Open, Sensor-Agnostic Platform for Multi-Satellite Methane Plume Retrieval, Uncertainty Propagation, and Emission-Rate Estimation**|Alvise Ferrari et.al.||
+|**2026-05-08**|**[[2605.08552v1](http://arxiv.org/abs/2605.08552v1)]Learnability and Competition in High-Dimensional Multi-Component ICA**|Eser Ilke Genc et.al.||
 |**2026-05-07**|**[[2605.06791v1](http://arxiv.org/abs/2605.06791v1)]Hidden Monsters with SPHEREx I: A goldmine for heavily reddened quasars at cosmic noon**|Matthew Stepney et.al.||
 |**2026-05-07**|**[[2605.06628v1](http://arxiv.org/abs/2605.06628v1)]LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.||
 |**2026-05-07**|**[[2605.05688v1](http://arxiv.org/abs/2605.05688v1)]R2H-Diff: Guided Spectral Diffusion Model for RGB-to-Hyperspectral Reconstruction**|Songyu Ding et.al.|Denoising|
@@ -558,12 +560,22 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-05-09**|**[[2605.09096v1](http://arxiv.org/abs/2605.09096v1)]Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates**|Enrique Hernández Noguera et.al.||
+|**2026-05-09**|**[[2605.09049v1](http://arxiv.org/abs/2605.09049v1)]HyGAS: an Open, Sensor-Agnostic Platform for Multi-Satellite Methane Plume Retrieval, Uncertainty Propagation, and Emission-Rate Estimation**|Alvise Ferrari et.al.||
+|**2026-05-09**|**[[2605.08845v1](http://arxiv.org/abs/2605.08845v1)]A Modular Zero-Dead-Time Data Acquisition and Real-Time GPU Processing Platform for High Throughput Physics Experiments**|Toma-Stefan Cezar et.al.||
+|**2026-05-09**|**[[2605.08833v1](http://arxiv.org/abs/2605.08833v1)]FRACTAL: SSM with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences**|Mengqi Li et.al.||
+|**2026-05-09**|**[[2605.08775v1](http://arxiv.org/abs/2605.08775v1)]Chasing the neutrino blazar candidates II: SED modeling with hadronic model**|Hubing Xiao et.al.||
+|**2026-05-09**|**[[2605.08764v1](http://arxiv.org/abs/2605.08764v1)]Anchoring the Eigengap: Cross-Modal Spectral Stabilization for Sample-Efficient Representation Learning**|Nikhil J. Dhinagar et.al.|Classification, VLM|
+|**2026-05-08**|**[[2605.08288v1](http://arxiv.org/abs/2605.08288v1)]UMEDA: Unified Multi-modal Efficient Data Fusion for Privacy-Preserving Graph Federated Learning via Spectral-Gated Attention and Diffusion-Based Operator Alignment**|Shih-Yu Lai et.al.||
+|**2026-05-08**|**[[2605.08286v1](http://arxiv.org/abs/2605.08286v1)]Diagnosing Spectral Ceilings in Equivariant Neural Force Fields**|Hyunmog Kim et.al.||
+|**2026-05-06**|**[[2605.08226v1](http://arxiv.org/abs/2605.08226v1)]SPECTRA-Net: Scalable Pipeline for Explainable Cross-domain Tensor Representations for AI-generated Images Detection**|Sarra Arab et.al.||
+|**2026-05-06**|**[[2605.08210v1](http://arxiv.org/abs/2605.08210v1)]Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation**|Sanaz Karimijafarbigloo et.al.||
 |**2026-05-08**|**[[2605.07914v1](http://arxiv.org/abs/2605.07914v1)]Flatness and Gradient Alignment Are Both Necessary: Spectral-Aware Gradient-Aligned Exploration for Multi-Distribution Learning**|Aristotelis Ballas et.al.||
 |**2026-05-08**|**[[2605.07640v1](http://arxiv.org/abs/2605.07640v1)]LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**|Jun Wang et.al.|VLM|
 |**2026-05-08**|**[[2605.07297v1](http://arxiv.org/abs/2605.07297v1)]Spectrum-Adaptive Generalization Bounds for Trained Deep Transformers**|Mana Sakai et.al.||
@@ -1960,7 +1972,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
