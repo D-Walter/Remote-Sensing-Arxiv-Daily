@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +20,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-10**|**[[2605.09455v1](http://arxiv.org/abs/2605.09455v1)]Adaptive 3D Convolution for Remote Sensing Image Fusion**|Siran Peng et.al.||
 |**2026-05-09**|**[[2605.09049v1](http://arxiv.org/abs/2605.09049v1)]HyGAS: an Open, Sensor-Agnostic Platform for Multi-Satellite Methane Plume Retrieval, Uncertainty Propagation, and Emission-Rate Estimation**|Alvise Ferrari et.al.||
 |**2026-05-08**|**[[2605.08552v1](http://arxiv.org/abs/2605.08552v1)]Learnability and Competition in High-Dimensional Multi-Component ICA**|Eser Ilke Genc et.al.||
 |**2026-05-07**|**[[2605.06791v1](http://arxiv.org/abs/2605.06791v1)]Hidden Monsters with SPHEREx I: A goldmine for heavily reddened quasars at cosmic noon**|Matthew Stepney et.al.||
@@ -556,12 +557,29 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-05-12**|**[[2605.11980v1](http://arxiv.org/abs/2605.11980v1)]Marginal multi-object multi-frame blind deconvolution**|A. Asensio Ramos et.al.||
+|**2026-05-12**|**[[2605.11633v1](http://arxiv.org/abs/2605.11633v1)]Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations**|Junjue Wang et.al.||
+|**2026-05-12**|**[[2605.11453v1](http://arxiv.org/abs/2605.11453v1)]Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies**|Ethan David James Park et.al.||
+|**2026-05-11**|**[[2605.11329v1](http://arxiv.org/abs/2605.11329v1)]Optical Design of OPTICAM-ARG: A Three-Channel High-Time-Resolution Camera for the Jorge Sahade Telescope**|M. R. Najera et.al.||
+|**2026-05-11**|**[[2605.11196v1](http://arxiv.org/abs/2605.11196v1)]Variational Linear Attention: Stable Associative Memory for Long-Context Transformers**|Vishal Pandey et.al.||
+|**2026-05-11**|**[[2605.11177v1](http://arxiv.org/abs/2605.11177v1)]Explicit Laplace Spectra of Homogeneous Principal Bundles**|Ilka Agricola et.al.||
+|**2026-05-11**|**[[2605.11075v1](http://arxiv.org/abs/2605.11075v1)]A Uniform Determination of the Bulk Metallicities and Alpha Enrichments of Confirmed Exoplanet Systems with TRES**|Romy Rodríguez Martínez et.al.||
+|**2026-05-08**|**[[2605.10975v1](http://arxiv.org/abs/2605.10975v1)]Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation**|Md Sazzad Hossen et.al.|Classification|
+|**2026-05-04**|**[[2605.10958v1](http://arxiv.org/abs/2605.10958v1)]Multi-Fidelity Emulation of Atmospheric Correction Coefficients with Physics-Guided Kolmogorov-Arnold Networks**|Md Abdullah Al Mazid et.al.||
+|**2026-05-11**|**[[2605.10558v1](http://arxiv.org/abs/2605.10558v1)]Effect of Graph Gluing on Consensus in Networked Multi-Agent Systems**|Rohollah Moghadam et.al.||
+|**2026-05-11**|**[[2605.10557v1](http://arxiv.org/abs/2605.10557v1)]Observational Properties of Nonthermal Emission from Relativistic Jets Escaping Active Galactic Nucleus Disks**|Ken Chen et.al.||
+|**2026-05-11**|**[[2605.10212v1](http://arxiv.org/abs/2605.10212v1)]Isolating Broadband Radio Technosignatures (BRaTs): A Framework for Detecting Planetary-Scale Leakage**|Michael A. Garrett et.al.||
+|**2026-05-10**|**[[2605.09758v1](http://arxiv.org/abs/2605.09758v1)]A Dual-Dip Heterogeneous LPFG Sensing System via Annealing under Bending with Temperature and Humidity Compensation**|Cuiying Huang et.al.||
+|**2026-05-10**|**[[2605.09746v1](http://arxiv.org/abs/2605.09746v1)]Sequential Feature Selection for Efficient Landslide Segmentation from Multi-Spectral Data**|Arsalaan Ahmad et.al.||
+|**2026-05-10**|**[[2605.09637v1](http://arxiv.org/abs/2605.09637v1)]A NICER and AstroSat view of the neutron star low-mass X-ray binary 1A 1246-588**|Vaidehi Poojyam et.al.||
+|**2026-05-10**|**[[2605.09600v1](http://arxiv.org/abs/2605.09600v1)]Uncertainty-Guided Dual-Domain Learning for Reliable Skin Lesion Segmentation**|Duwei Dai et.al.||
+|**2026-05-10**|**[[2605.09455v1](http://arxiv.org/abs/2605.09455v1)]Adaptive 3D Convolution for Remote Sensing Image Fusion**|Siran Peng et.al.||
 |**2026-05-09**|**[[2605.09096v1](http://arxiv.org/abs/2605.09096v1)]Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates**|Enrique Hernández Noguera et.al.||
 |**2026-05-09**|**[[2605.09049v1](http://arxiv.org/abs/2605.09049v1)]HyGAS: an Open, Sensor-Agnostic Platform for Multi-Satellite Methane Plume Retrieval, Uncertainty Propagation, and Emission-Rate Estimation**|Alvise Ferrari et.al.||
 |**2026-05-09**|**[[2605.08845v1](http://arxiv.org/abs/2605.08845v1)]A Modular Zero-Dead-Time Data Acquisition and Real-Time GPU Processing Platform for High Throughput Physics Experiments**|Toma-Stefan Cezar et.al.||
@@ -1968,7 +1986,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
