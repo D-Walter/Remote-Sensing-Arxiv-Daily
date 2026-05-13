@@ -563,6 +563,10 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-05-12**|**[[2605.12442v1](http://arxiv.org/abs/2605.12442v1)]Programmable Superradiance in an Interacting Qubit Array**|Botao Du et.al.||
+|**2026-05-12**|**[[2605.12222v1](http://arxiv.org/abs/2605.12222v1)]A tool of Hierarchical cOre ideNtification and Kinematic property AssIgnment (HONKAI) for Dense Cores**|Jiawei Liu et.al.||
+|**2026-05-12**|**[[2605.12135v1](http://arxiv.org/abs/2605.12135v1)]STRUM: A Spectral Transcription and Rhythm Understanding Model for End-to-End Generation of Playable Rhythm-Game Charts**|Joshua Opria et.al.||
+|**2026-05-12**|**[[2605.12026v1](http://arxiv.org/abs/2605.12026v1)]Spectral Vision Transformer for Efficient Tokenization with Limited Data**|Alexandra G. Roberts et.al.||
 |**2026-05-12**|**[[2605.11980v1](http://arxiv.org/abs/2605.11980v1)]Marginal multi-object multi-frame blind deconvolution**|A. Asensio Ramos et.al.||
 |**2026-05-12**|**[[2605.11633v1](http://arxiv.org/abs/2605.11633v1)]Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations**|Junjue Wang et.al.||
 |**2026-05-12**|**[[2605.11453v1](http://arxiv.org/abs/2605.11453v1)]Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies**|Ethan David James Park et.al.||
