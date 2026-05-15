@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.13
+## Updated on 2026.05.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,6 +24,14 @@ layout: default
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
 |**2016-11-18**|**[[astro-ph/0505165v1](http://arxiv.org/abs/astro-ph/0505165v1)]Mapping the Physical Properties of Cosmic Hot Gas with Hyper-spectral Imaging**|Mark O'Dwyer et.al.||
+|**2026-05-14**|**[[2605.14239v1](http://arxiv.org/abs/2605.14239v1)]Implicit spatial-frequency fusion of hyperspectral and lidar data via kolmogorov-arnold networks**|Zekun Long et.al.|Classification|
+|**2026-05-13**|**[[2605.13842v1](http://arxiv.org/abs/2605.13842v1)]From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies**|Hareesh Thuruthipilly et.al.||
+|**2026-05-13**|**[[2605.13664v1](http://arxiv.org/abs/2605.13664v1)]HADAR-Based Thermal Infrared Hyperspectral Image Restoration**|Cheng Dai et.al.|Superresolution, Denoising|
+|**2026-05-13**|**[[2605.13583v1](http://arxiv.org/abs/2605.13583v1)]Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Super-Resolution for Snapshot Compressive Imaging**|Wudi Chen et.al.|Superresolution|
+|**2026-05-13**|**[[2605.13581v1](http://arxiv.org/abs/2605.13581v1)]HIR-ALIGN: Enhancing Hyperspectral Image Restoration via Diffusion-Based Data Generation**|Li Pang et.al.|Superresolution, Denoising|
+|**2026-05-13**|**[[2605.13577v1](http://arxiv.org/abs/2605.13577v1)]Anisotropic Dopant and Strain Architectures in WS $_2$ Nanocrystals Driven by Growth Kinetics**|Frederico B. Sousa et.al.||
+|**2026-05-13**|**[[2605.13306v1](http://arxiv.org/abs/2605.13306v1)]Color Constancy in Hyperspectral Imaging via Reduced Spectral Spaces**|G. Dofri Vidarsson et.al.||
+|**2026-05-12**|**[[2605.12663v1](http://arxiv.org/abs/2605.12663v1)]Insights into the Nature of Quantum Emitters in Electron-Irradiated hexagonal Boron Nitride**|Mouli Hazra et.al.||
 |**2026-05-10**|**[[2605.09455v1](http://arxiv.org/abs/2605.09455v1)]Adaptive 3D Convolution for Remote Sensing Image Fusion**|Siran Peng et.al.||
 |**2026-05-09**|**[[2605.09049v1](http://arxiv.org/abs/2605.09049v1)]HyGAS: an Open, Sensor-Agnostic Platform for Multi-Satellite Methane Plume Retrieval, Uncertainty Propagation, and Emission-Rate Estimation**|Alvise Ferrari et.al.||
 |**2026-05-08**|**[[2605.08552v1](http://arxiv.org/abs/2605.08552v1)]Learnability and Competition in High-Dimensional Multi-Component ICA**|Eser Ilke Genc et.al.||
@@ -561,19 +569,42 @@ layout: default
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 
 ## Multispectral
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2026-05-14**|**[[2605.14606v1](http://arxiv.org/abs/2605.14606v1)]MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting**|Chunlei Shi et.al.||
+|**2026-05-14**|**[[2605.14567v1](http://arxiv.org/abs/2605.14567v1)]Scaling Laws from Sequential Feature Recovery: A Solvable Hierarchical Model**|Arie Wortsman-Zurich et.al.||
+|**2026-05-14**|**[[2605.14518v1](http://arxiv.org/abs/2605.14518v1)]ArcGate: Adaptive Arctangent Gated Activation**|Avik Bhattacharya et.al.||
+|**2026-05-14**|**[[2605.14515v1](http://arxiv.org/abs/2605.14515v1)]Spin chirality across quantum state copies detects hidden entanglement**|Patrycja Tulewicz et.al.||
+|**2026-05-14**|**[[2605.14341v1](http://arxiv.org/abs/2605.14341v1)]AnyBand-Diff: A Unified Remote Sensing Image Generation and Band Repair Framework with Spectral Priors**|Zuopeng Zhao et.al.|Denoising|
+|**2026-05-14**|**[[2605.14313v1](http://arxiv.org/abs/2605.14313v1)]An Updated Characterization of Luminous Lyα emitters at the End of Reionization**|Yuanhang Ning et.al.||
+|**2026-05-13**|**[[2605.14171v1](http://arxiv.org/abs/2605.14171v1)]CSI-JEPA: Towards Foundation Representations for Ubiquitous Sensing with Minimal Supervision**|Xuanhao Luo et.al.||
+|**2026-05-13**|**[[2605.14120v1](http://arxiv.org/abs/2605.14120v1)]Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence**|Mashrekur Rahman et.al.||
+|**2026-05-13**|**[[2605.14018v1](http://arxiv.org/abs/2605.14018v1)]Spectral Disentangling Reveals Deep CNO-cycle Exposure in ET Cru**|Gökhan Yücel et.al.||
+|**2026-05-13**|**[[2605.13912v1](http://arxiv.org/abs/2605.13912v1)]ViT-K: A Few-Shot Learning Model for Coupled Fluid-Porous Media Flows with Interface Conditions**|Mengjia Chen et.al.||
+|**2026-05-13**|**[[2605.13621v1](http://arxiv.org/abs/2605.13621v1)]WD-FQDet: Multispectral Detection Transformer via Wavelet Decomposition and Frequency-aware Query Learning**|Chunjin Yang et.al.|Object Detection|
+|**2026-05-13**|**[[2605.13612v1](http://arxiv.org/abs/2605.13612v1)]Deep Learning as Neural Low-Degree Filtering: A Spectral Theory of Hierarchical Feature Learning**|Yatin Dandi et.al.||
+|**2026-05-13**|**[[2605.13483v1](http://arxiv.org/abs/2605.13483v1)]Vectorial field reconstruction without detecting the field**|Jonas Vasikonis et.al.||
+|**2026-05-13**|**[[2605.13459v1](http://arxiv.org/abs/2605.13459v1)]Observational signatures of misaligned double-ring and double-torus configurations around a Schwarzschild black hole**|Dmitriy Ovchinnikov et.al.||
+|**2026-05-13**|**[[2605.13374v1](http://arxiv.org/abs/2605.13374v1)]Full non-LTE multi-level radiative transfer II. The case of a 5-level Ca ii atom with broadened excited levels**|T. Lagache et.al.||
+|**2026-05-13**|**[[2605.13233v1](http://arxiv.org/abs/2605.13233v1)]Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.||
+|**2026-05-13**|**[[2605.13232v1](http://arxiv.org/abs/2605.13232v1)]Revisiting the 2021 Outburst of the BHC MAXI J1803-298 Using NICER, NuSTAR, and Insight-HXMT Data**|Kaushik Chatterjee et.al.||
+|**2026-05-13**|**[[2605.13112v1](http://arxiv.org/abs/2605.13112v1)]Discovery and Characterization of White Dwarf-FGK Main-Sequence Binaries within the Optical Main-Sequence Locus**|Mingkuan Yang et.al.||
+|**2026-05-13**|**[[2605.12965v1](http://arxiv.org/abs/2605.12965v1)]U-HNO: A U-shaped Hybrid Neural Operator with Sparse-Point Adaptive Routing for Non-stationary PDE Dynamics**|Yingzhe Ma et.al.||
+|**2026-05-12**|**[[2605.12795v1](http://arxiv.org/abs/2605.12795v1)]Quantitative Spectroscopic Diagnostics for FU Orionis-Type Young Stellar Objects**|Evan R. Portnoi et.al.||
+|**2026-05-12**|**[[2605.12605v1](http://arxiv.org/abs/2605.12605v1)]Stability of localized solutions to lattice dynamical systems**|Bocheng Ruan et.al.||
+|**2026-05-12**|**[[2605.12595v1](http://arxiv.org/abs/2605.12595v1)]Global and Local Infall in the ASHES Sample (GLASHES). II. Asymmetric Line Profiles around Dense Cores in 70 $μ$ m Dark Massive Clumps**|Kaho Morii et.al.|Classification|
+|**2026-05-11**|**[[2605.12553v1](http://arxiv.org/abs/2605.12553v1)]ChannelKAN: Multi-Scale Dual-Domain Channel Prediction via Hybrid CNN-KAN Architecture**|Nanqing Jiang et.al.||
 |**2026-05-12**|**[[2605.12442v1](http://arxiv.org/abs/2605.12442v1)]Programmable Superradiance in an Interacting Qubit Array**|Botao Du et.al.||
 |**2026-05-12**|**[[2605.12222v1](http://arxiv.org/abs/2605.12222v1)]A tool of Hierarchical cOre ideNtification and Kinematic property AssIgnment (HONKAI) for Dense Cores**|Jiawei Liu et.al.||
 |**2026-05-12**|**[[2605.12135v1](http://arxiv.org/abs/2605.12135v1)]STRUM: A Spectral Transcription and Rhythm Understanding Model for End-to-End Generation of Playable Rhythm-Game Charts**|Joshua Opria et.al.||
 |**2026-05-12**|**[[2605.12026v1](http://arxiv.org/abs/2605.12026v1)]Spectral Vision Transformer for Efficient Tokenization with Limited Data**|Alexandra G. Roberts et.al.||
 |**2026-05-12**|**[[2605.11980v1](http://arxiv.org/abs/2605.11980v1)]Marginal multi-object multi-frame blind deconvolution**|A. Asensio Ramos et.al.||
 |**2026-05-12**|**[[2605.11633v1](http://arxiv.org/abs/2605.11633v1)]Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations**|Junjue Wang et.al.||
-|**2026-05-12**|**[[2605.11453v1](http://arxiv.org/abs/2605.11453v1)]Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies**|Ethan David James Park et.al.||
+|**2026-05-13**|**[[2605.11453v2](http://arxiv.org/abs/2605.11453v2)]Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies**|Ethan Parks et.al.||
 |**2026-05-11**|**[[2605.11329v1](http://arxiv.org/abs/2605.11329v1)]Optical Design of OPTICAM-ARG: A Three-Channel High-Time-Resolution Camera for the Jorge Sahade Telescope**|M. R. Najera et.al.||
 |**2026-05-11**|**[[2605.11196v1](http://arxiv.org/abs/2605.11196v1)]Variational Linear Attention: Stable Associative Memory for Long-Context Transformers**|Vishal Pandey et.al.||
 |**2026-05-11**|**[[2605.11177v1](http://arxiv.org/abs/2605.11177v1)]Explicit Laplace Spectra of Homogeneous Principal Bundles**|Ilka Agricola et.al.||
@@ -594,6 +625,7 @@ layout: default
 |**2026-05-09**|**[[2605.08833v1](http://arxiv.org/abs/2605.08833v1)]FRACTAL: SSM with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences**|Mengqi Li et.al.||
 |**2026-05-09**|**[[2605.08775v1](http://arxiv.org/abs/2605.08775v1)]Chasing the neutrino blazar candidates II: SED modeling with hadronic model**|Hubing Xiao et.al.||
 |**2026-05-09**|**[[2605.08764v1](http://arxiv.org/abs/2605.08764v1)]Anchoring the Eigengap: Cross-Modal Spectral Stabilization for Sample-Efficient Representation Learning**|Nikhil J. Dhinagar et.al.|Classification, VLM|
+|**2026-05-13**|**[[2605.08293v2](http://arxiv.org/abs/2605.08293v2)]Distill, Diffuse, and Semanticize (DDS): Annotation-Free 3D Scene Understanding Based on Multi-Granularity Distillation and Graph-Diffusion-Based Segmentation**|Yijing Wang et.al.||
 |**2026-05-08**|**[[2605.08288v1](http://arxiv.org/abs/2605.08288v1)]UMEDA: Unified Multi-modal Efficient Data Fusion for Privacy-Preserving Graph Federated Learning via Spectral-Gated Attention and Diffusion-Based Operator Alignment**|Shih-Yu Lai et.al.||
 |**2026-05-08**|**[[2605.08286v1](http://arxiv.org/abs/2605.08286v1)]Diagnosing Spectral Ceilings in Equivariant Neural Force Fields**|Hyunmog Kim et.al.||
 |**2026-05-06**|**[[2605.08226v1](http://arxiv.org/abs/2605.08226v1)]SPECTRA-Net: Scalable Pipeline for Explainable Cross-domain Tensor Representations for AI-generated Images Detection**|Sarra Arab et.al.||
@@ -1994,7 +2026,7 @@ layout: default
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
