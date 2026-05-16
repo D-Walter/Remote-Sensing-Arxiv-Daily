@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/actions/workflows/update_paper_links.yml)
-## Updated on 2026.05.15
+## Updated on 2026.05.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -565,12 +565,16 @@
 |**2010-12-17**|**[[1001.0499v2](http://arxiv.org/abs/1001.0499v2)]Implementation strategies for hyperspectral unmixing using Bayesian source separation**|Frederic Schmidt et.al.|Unmixing|
 |**2007-05-18**|**[[0705.2459v1](http://arxiv.org/abs/0705.2459v1)]Hierarchical Markovian models for hyperspectral image segmentation**|Ali Mohammad-Djafari et.al.|Classification|
 
-<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260516>back to top</a>)</p>
 
 ## Multispectral
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2026-05-14**|**[[2605.15179v1](http://arxiv.org/abs/2605.15179v1)]Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing**|Ellwil Sharma et.al.||
+|**2026-05-14**|**[[2605.15057v1](http://arxiv.org/abs/2605.15057v1)]Numerical simulations of waves and turbulence in coronal loops: observables and spectra**|Fabio Feraco et.al.||
+|**2026-05-14**|**[[2605.15032v1](http://arxiv.org/abs/2605.15032v1)]Multi-Block Attention for Efficient Channel Estimation in IRS-Assisted mmWave MIMO**|Mehrdad Momen-Tayefeh et.al.|Denoising|
+|**2026-05-14**|**[[2605.14893v1](http://arxiv.org/abs/2605.14893v1)]Your CLIP has 164 dimensions of noise: Exploring the embeddings covariance eigenspectrum of contrastively pretrained vision-language transformers**|Jakub Grzywaczewski et.al.|VLM|
 |**2026-05-14**|**[[2605.14606v1](http://arxiv.org/abs/2605.14606v1)]MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting**|Chunlei Shi et.al.||
 |**2026-05-14**|**[[2605.14567v1](http://arxiv.org/abs/2605.14567v1)]Scaling Laws from Sequential Feature Recovery: A Solvable Hierarchical Model**|Arie Wortsman-Zurich et.al.||
 |**2026-05-14**|**[[2605.14518v1](http://arxiv.org/abs/2605.14518v1)]ArcGate: Adaptive Arctangent Gated Activation**|Avik Bhattacharya et.al.||
@@ -2022,7 +2026,7 @@
 |**2013-04-16**|**[[1304.4041v1](http://arxiv.org/abs/1304.4041v1)]Multispectral Spatial Characterization: Application to Mitosis Detection in Breast Cancer Histopathology**|H. Irshad et.al.|Classification|
 |**2015-12-15**|**[[1112.5997v3](http://arxiv.org/abs/1112.5997v3)]Multispectral Palmprint Recognition Using a Hybrid Feature**|Sina Akbari Mistani et.al.||
 
-<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/Remote-Sensing-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/Remote-Sensing-Arxiv-Daily/graphs/contributors
